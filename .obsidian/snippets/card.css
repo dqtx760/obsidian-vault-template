@@ -1,0 +1,338 @@
+/* =========================
+   内容创作版读书卡片 - 瀑布流宽版最终版
+   ========================= */
+
+/* 页面背景 + 整体宽度 */
+.markdown-preview-view {
+background: #f3eee6;
+max-width: 1650px;
+margin: 0 auto;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+/* ===== 卡片瀑布流容器 ===== */
+.x-card-grid {
+column-count: 3;
+column-gap: 20px;
+padding: 10px4px24px4px;
+}
+
+/* ===== 单卡片 ===== */
+.x-card {
+position: relative;
+overflow: hidden;
+display: inline-block;
+width: 100%;
+margin: 0020px;
+vertical-align: top;
+
+background: #fffaf2;
+border: 1.5px solid rgba(165, 138, 110, 0.22);
+border-radius: 20px;
+padding: 16px16px14px16px;
+
+box-shadow: 08px20pxrgba(92, 68, 42, 0.08);
+transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
+
+break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+page-break-inside: avoid;
+}
+
+/* 顶部轻微高光 */
+.x-card::before {
+content: "";
+position: absolute;
+inset: 00 auto 0;
+height: 60px;
+background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.48) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+pointer-events: none;
+}
+
+/* 顶部识别条 */
+.x-card::after {
+content: "";
+position: absolute;
+top: 12px;
+left: 16px;
+width: 40px;
+height: 5px;
+border-radius: 999px;
+background: linear-gradient(90deg, #8eb2f30%, #bfd4ff100%);
+opacity: 0.95;
+}
+
+.x-card:hover {
+transform: translateY(-2px);
+box-shadow: 012px24pxrgba(92, 68, 42, 0.1);
+}
+
+/* 可点击卡片 */
+.x-card-clickable {
+cursor: pointer;
+}
+
+/* ===== 头部 ===== */
+.x-card-head {
+position: relative;
+z-index: 1;
+padding-top: 6px;
+}
+
+.x-tag {
+display: inline-block;
+margin-bottom: 8px;
+padding: 4px9px;
+border-radius: 999px;
+background: rgba(126, 162, 235, 0.18);
+color: #5f84d6;
+font-size: 10.5px;
+line-height: 1.2;
+font-weight: 800;
+letter-spacing: 0.02em;
+}
+
+/* ===== 正文 ===== */
+.x-card-body {
+position: relative;
+z-index: 1;
+margin-top: 4px;
+}
+
+.x-quote {
+white-space: pre-line;
+word-break: break-word;
+font-size: 15px;
+line-height: 1.7;
+font-weight: 650;
+letter-spacing: 0.01em;
+color: #2f2925;
+}
+
+/* ===== 底部 ===== */
+.x-card-foot {
+position: relative;
+z-index: 1;
+margin-top: 12px;
+display: flex;
+flex-direction: column;
+gap: 7px;
+}
+
+/* 来源：在章节页码上面 */
+.x-source {
+text-align: right;
+font-size: 12px;
+line-height: 1.35;
+font-weight: 700;
+color: #8e7f72;
+letter-spacing: 0.01em;
+}
+
+/* 章节页码：灰色 + 斜体 + 非粗体 */
+.x-meta {
+font-size: 11.5px!important;
+line-height: 1.4!important;
+font-weight: 500!important;
+color: #8b8f98!important;
+font-style: italic !important;
+}
+
+/* 个人感悟：单独颜色 + 更明显分割线 */
+.x-insight {
+font-size: 12.5px!important;
+line-height: 1.55!important;
+font-weight: 700!important;
+color: #d65a4a!important;
+padding-top: 10px!important;
+margin-top: 4px!important;
+border-top: 2px dashed rgba(214, 90, 74, 0.7) !important;
+}
+
+/* =========================
+   mood：卡片本身直接有区分色
+   ========================= */
+
+/* 冷静：浅蓝卡 */
+.x-mood-冷静 {
+background: linear-gradient(180deg, #f7fbff0%, #eef5ff100%);
+border-color: rgba(122, 167, 255, 0.32);
+}
+.x-mood-冷静::after {
+background: linear-gradient(90deg, #7aa7ff, #c3d7ff);
+}
+.x-mood-冷静 .x-tag {
+background: rgba(122, 167, 255, 0.16);
+color: #5b87df;
+}
+
+/* 警醒：浅红卡 */
+.x-mood-警醒 {
+background: linear-gradient(180deg, #fff8f70%, #fff0ef100%);
+border-color: rgba(255, 122, 122, 0.3);
+}
+.x-mood-警醒::after {
+background: linear-gradient(90deg, #ff7a7a, #ffc1c1);
+}
+.x-mood-警醒 .x-tag {
+background: rgba(255, 122, 122, 0.16);
+color: #e56868;
+}
+
+/* 成长：浅绿卡 */
+.x-mood-成长 {
+background: linear-gradient(180deg, #f8fff90%, #eefaf0100%);
+border-color: rgba(124, 217, 146, 0.3);
+}
+.x-mood-成长::after {
+background: linear-gradient(90deg, #7cd992, #c8f2d4);
+}
+.x-mood-成长 .x-tag {
+background: rgba(124, 217, 146, 0.16);
+color: #53a96a;
+}
+
+/* 认知：浅橙卡 */
+.x-mood-认知 {
+background: linear-gradient(180deg, #fffaf40%, #fff2e5100%);
+border-color: rgba(255, 184, 107, 0.34);
+}
+.x-mood-认知::after {
+background: linear-gradient(90deg, #ffb86b, #ffe0b3);
+}
+.x-mood-认知 .x-tag {
+background: rgba(255, 184, 107, 0.18);
+color: #d98a2e;
+}
+
+/* 治愈：浅青绿卡 */
+.x-mood-治愈 {
+background: linear-gradient(180deg, #f7fcfa0%, #edf7f3100%);
+border-color: rgba(148, 195, 177, 0.34);
+}
+.x-mood-治愈::after {
+background: linear-gradient(90deg, #94c3b1, #d3eadf);
+}
+.x-mood-治愈 .x-tag {
+background: rgba(148, 195, 177, 0.18);
+color: #5f9c85;
+}
+
+/* =========================
+   深色模式
+   ========================= */
+.theme-dark.markdown-preview-view {
+background: #1f1d1a;
+}
+
+.theme-dark.x-card {
+background: #2d2925;
+border-color: rgba(255, 236, 216, 0.1);
+box-shadow: 014px34pxrgba(0, 0, 0, 0.28);
+}
+
+.theme-dark.x-quote {
+color: #f4eee8;
+}
+
+.theme-dark.x-source {
+color: #c8bfb7;
+}
+
+.theme-dark.x-meta {
+color: #9aa8b4!important;
+}
+
+.theme-dark.x-insight {
+color: #ff9b92!important;
+border-top: 2px dashed rgba(255, 155, 146, 0.45) !important;
+}
+
+.theme-dark.x-tag {
+background: rgba(255, 143, 134, 0.12);
+color: #ffb1aa;
+}
+
+/* =========================
+   响应式
+   ========================= */
+
+/* 中大屏：3列 */
+@media (max-width: 1500px) {
+.markdown-preview-view {
+    max-width: 1450px;
+  }
+
+.x-card-grid {
+    column-count: 3;
+    column-gap: 20px;
+  }
+}
+
+/* 中屏：2列 */
+@media (max-width: 1100px) {
+.markdown-preview-view {
+    max-width: 1100px;
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+.x-card-grid {
+    column-count: 2;
+    column-gap: 18px;
+  }
+}
+
+/* 小屏：1列 */
+@media (max-width: 700px) {
+.markdown-preview-view {
+    max-width: 100%;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+.x-card-grid {
+    column-count: 1;
+    column-gap: 0;
+    padding: 8px2px18px2px;
+  }
+
+.x-card {
+    margin-bottom: 16px;
+    padding: 14px12px12px12px;
+    border-radius: 16px;
+  }
+
+.x-card::after {
+    top: 10px;
+    left: 12px;
+    width: 34px;
+    height: 4px;
+  }
+
+.x-card-head {
+    padding-top: 6px;
+  }
+
+.x-quote {
+    font-size: 14px;
+    line-height: 1.65;
+  }
+
+.x-source {
+    font-size: 11.5px;
+  }
+
+.x-meta,
+.x-insight {
+    font-size: 11.5px!important;
+  }
+}
