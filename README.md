@@ -6,34 +6,34 @@
 
 ```
 obsidian-vault/
-  01-INPUT/          ← 原材料入口，低摩擦记录
-    articles/          文章
-    transcripts/       转录稿
-    ideas（选题）/      选题灵感
-    sources（素材）/    素材收集
-    剪藏/              网页剪藏
-    周报和复盘/        复盘记录
-    文章草稿/          写作草稿
-    模板/              笔记模板
-    研究报告/          研究资料
-    项目资料/          项目相关
-  02-PROCESSING/     ← AI 处理区，研究摘要、选题分析、中间稿
-    research/
-    outlines/
-    drafts（AI初稿）/
-    reviews/
-  03-OUTPUT/         ← 正式作品区，可发布内容
-    newsletters/
-    scripts/
-    wiki/              知识 Wiki
-  04-FEEDBACK/       ← 反馈层，追踪内容效果，驱动系统进化
-    metrics/
-    comments/
-    retrospectives/
-    ARCHIVE归档/
-  05-REFERENCE/      ← 长期参考资料
-    提示词/            AI 提示词库
-  commands/          ← 自定义命令
+├── 01-INPUT/                  ← 原材料入口，低摩擦记录
+│   ├── articles/                文章
+│   ├── transcripts/             转录稿
+│   ├── ideas（选题）/            选题灵感
+│   ├── sources（素材）/          素材收集
+│   ├── 剪藏/                    网页剪藏
+│   ├── 周报和复盘/              复盘记录
+│   ├── 文章草稿/                写作草稿
+│   ├── 模板/                    笔记模板
+│   ├── 研究报告/                研究资料
+│   └── 项目资料/                项目相关
+├── 02-PROCESSING/             ← AI 处理区，研究摘要、选题分析、中间稿
+│   ├── research/
+│   ├── outlines/
+│   ├── drafts（AI初稿）/
+│   └── reviews/
+├── 03-OUTPUT/                 ← 正式作品区，可发布内容
+│   ├── newsletters/
+│   ├── scripts/
+│   └── wiki/                    知识 Wiki
+├── 04-FEEDBACK/               ← 反馈层，追踪内容效果，驱动系统进化
+│   ├── metrics/
+│   ├── comments/
+│   ├── retrospectives/
+│   └── ARCHIVE归档/
+├── 05-REFERENCE/              ← 长期参考资料
+│   └── 提示词/                  AI 提示词库
+└── commands/                  ← 自定义命令
 ```
 
 ## 快速开始
