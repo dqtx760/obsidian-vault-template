@@ -1,40 +1,40 @@
 # Obsidian 知识库模板
 
-一个开箱即用的 Obsidian 知识库模板，基于 [LLM Wiki 方法论](https://github.com/ karpathy/llm-wiki) 构建。
+一个开箱即用的 Obsidian 知识库模板，基于 [LLM Wiki 方法论](https://github.com/karpathy/llm-wiki) 构建。
 
 ## 目录结构
 
 ```
-writing-system/
-  01-INPUT/
-    articles/
-    transcripts/
-    ideas/
-  02-PROCESSING/
+obsidian-vault/
+  01-INPUT/          ← 原材料入口，低摩擦记录
+    articles/          文章
+    transcripts/       转录稿
+    ideas（选题）/      选题灵感
+    sources（素材）/    素材收集
+    剪藏/              网页剪藏
+    周报和复盘/        复盘记录
+    文章草稿/          写作草稿
+    模板/              笔记模板
+    研究报告/          研究资料
+    项目资料/          项目相关
+  02-PROCESSING/     ← AI 处理区，研究摘要、选题分析、中间稿
     research/
     outlines/
-    drafts/
+    drafts（AI初稿）/
     reviews/
-  03-OUTPUT/
+  03-OUTPUT/         ← 正式作品区，可发布内容
     newsletters/
     scripts/
-    wiki/
-  04-FEEDBACK/
+    wiki/              知识 Wiki
+  04-FEEDBACK/       ← 反馈层，追踪内容效果，驱动系统进化
     metrics/
     comments/
     retrospectives/
+    ARCHIVE归档/
+  05-REFERENCE/      ← 长期参考资料
+    提示词/            AI 提示词库
+  commands/          ← 自定义命令
 ```
-
-
-`01-INPUT` 是原材料入口，不要求完美，只要求低摩擦。
-
-`02-PROCESSING` 是 AI 处理区，用来放研究摘要、选题分析、文章结构和中间稿。
-
-`03-OUTPUT` 是正式作品区，存放可发布内容。
-
-`04-FEEDBACK` 是很多人忽略的一层。没有反馈，系统就不会进化。每次发布之后，哪些标题有效，哪些段落被引用，哪些观点引发讨论，都应该进入这里
-
-`05-REFERENCE` 存放长期参考资料，比如人物、工具、概念、框架。
 
 ## 快速开始
 
@@ -54,8 +54,8 @@ cd 你的仓库名字
 ### 3. 开始使用
 
 - **写日记**：每天自动生成今日笔记
-- **记录想法**：放到 `01_输入/随记/`
-- **整理知识**：放到 `02_知识库/`
+- **记录想法**：放到 `01-INPUT/ideas（选题）/`
+- **整理知识**：放到 `03-OUTPUT/wiki/`
 
 ## 核心配置
 
@@ -74,21 +74,23 @@ cd 你的仓库名字
 | 今日日记 | Ctrl+Shift+D |
 | 插入模板 | Ctrl+T |
 
-## 三层架构
+## 五层架构
 
 ```
-01_输入/     ← 原始资料，唯一事实来源
-02_知识库/  ← 整理后的知识网络（Wiki）
-03_输出/    ← 已发布的内容（可选）
+01-INPUT/       ← 原始资料，唯一事实来源
+02-PROCESSING/  ← AI 处理区，研究摘要和中间稿
+03-OUTPUT/      ← 正式作品和知识 Wiki
+04-FEEDBACK/    ← 反馈追踪，驱动系统进化
+05-REFERENCE/   ← 长期参考资料
 ```
 
-> **注意**：LLM 只读不改 01_输入，知识的整理和链接在 02_知识库 完成。
+> **注意**：LLM 只读不改 01-INPUT，知识的整理和链接在 03-OUTPUT/wiki 完成。
 
 ## 常见问题
 
 ### Q1：如何让 AI 帮我整理知识？
 
-把资料放到 `01_输入/` 目录，然后让 AI 读取并整理到 `02_知识库/`。
+把资料放到 `01-INPUT/` 目录，然后让 AI 读取并整理到 `03-OUTPUT/wiki/`。
 
 ### Q2：如何备份？
 
