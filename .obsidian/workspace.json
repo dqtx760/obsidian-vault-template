@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_知识库/index.md",
+                "file": "05-REFERENCE/提示词/生成文章推荐语/prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "prompt"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.50840759277344
+    "width": 377.50840759277344
   },
   "right": {
     "id": "90e18d7f87e8e90e",
@@ -196,24 +196,51 @@
   },
   "active": "f61576494b606a05",
   "lastOpenFiles": [
+    "05-REFERENCE/提示词/AI一键将长文转小红书多图/长图转小红书多图-温暖文艺.md",
+    "05-REFERENCE/提示词/美化UI/prompt.md",
+    "05-REFERENCE/提示词/公众号封面图生成/prompt.md",
+    "05-REFERENCE/提示词/Youtube总结/prompt.md",
+    "05-REFERENCE/提示词/公众号封面图生成/README.md",
+    "05-REFERENCE/提示词/播客封面图/README.md",
+    "05-REFERENCE/提示词/播客封面图/prompt.md",
+    "05-REFERENCE/提示词/播客封面图/image.png",
     "README.md",
-    "02_知识库/Obsidian指南/快捷键.md",
-    "01_输入/模板/日记模板.md",
-    "02_知识库/Claude code/命令&快捷键.md",
-    "02_知识库/Claude code/API key获取.md",
-    "02_知识库/Claude code/Claudian出现报错.md",
-    "02_知识库/Claude code/相关配置文件.md",
-    "02_知识库/Claude code/Claudian出现报错",
-    "02_知识库/index.md",
-    "02_知识库/index",
-    "02_知识库/方法论",
-    "02_知识库/技术工具",
-    "02_知识库/Claude code",
-    "02_知识库/AI编程",
-    "02_知识库/Obsidian指南",
-    "02_知识库/经济学",
-    "01_Raw/模板.md",
-    "01_输入/模板",
-    "01_输入/随记"
+    "05-REFERENCE/提示词/高端PPT制作/README.md",
+    "05-REFERENCE/提示词/高端PPT制作/prompt.md",
+    "05-REFERENCE/提示词/阅读理解巩固/README.md",
+    "05-REFERENCE/提示词/阅读理解巩固/prompt.md",
+    "05-REFERENCE/提示词/赛博李继刚/高级翻译工坊.md",
+    "05-REFERENCE/提示词/赛博李继刚/智识炼金术士v3.0.md",
+    "05-REFERENCE/提示词/赛博李继刚/一句话转视频生成器.md",
+    "05-REFERENCE/提示词/赛博李继刚/一句话转情感描绘生成器.md",
+    "05-REFERENCE/提示词/赛博李继刚/一句话转图像生成器.md",
+    "05-REFERENCE/提示词/赛博李继刚/v4.0李继刚.md",
+    "05-REFERENCE/提示词/赛博李继刚/v3.1精炼版.md",
+    "05-REFERENCE/提示词/赛博李继刚/README.md",
+    "05-REFERENCE/提示词/论文深度剖析/README.md",
+    "05-REFERENCE/提示词/论文深度剖析/prompt.md",
+    "05-REFERENCE/提示词/生成文章推荐语/README.md",
+    "05-REFERENCE/提示词/生成文章推荐语/prompt.md",
+    "05-REFERENCE/提示词/杂志风知识卡片/README.md",
+    "05-REFERENCE/提示词/杂志风知识卡片/prompt.md",
+    "05-REFERENCE/提示词/杂志风知识卡片/image.png",
+    "05-REFERENCE/提示词/插画转真实手办/image.jpg",
+    "05-REFERENCE/提示词/平面地图转 3D 实景/video.mp4",
+    "05-REFERENCE/提示词/平面地图转 3D 实景/image.png",
+    "05-REFERENCE/提示词/商业级视频广告/迪奥香水.json",
+    "05-REFERENCE/提示词/商业级视频广告/苹果手表2.json",
+    "05-REFERENCE/提示词/商业级视频广告/苹果手表.json",
+    "05-REFERENCE/提示词/商业级视频广告/苹果全家桶.json",
+    "05-REFERENCE/提示词/商业级视频广告/科罗娜啤酒.json",
+    "05-REFERENCE/提示词/商业级视频广告/百事可乐.json",
+    "05-REFERENCE/提示词/商业级视频广告/星巴克.json",
+    "05-REFERENCE/提示词/商业级视频广告/家居广告.json",
+    "05-REFERENCE/提示词/高端PPT制作",
+    "05-REFERENCE/提示词/image.png",
+    "05-REFERENCE/awesome-prompt/杂志风知识卡片/image.png",
+    "05-REFERENCE/awesome-prompt/播客封面图/image.png",
+    "05-REFERENCE/awesome-prompt/插画转真实手办/image.jpg",
+    "05-REFERENCE/awesome-prompt/平面地图转 3D 实景/image.png",
+    "05-REFERENCE/awesome-prompt/image.png"
   ]
 }

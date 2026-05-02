@@ -5,18 +5,36 @@
 ## 目录结构
 
 ```
-├── .obsidian/        # Obsidian 配置（主题、插件、数据视图等）
-├── .claude/          # Claude 配置
-├── .claudian/        # Claudian 配置
-├── 01_输入/
-│   ├── 剪藏/        # 存放网页剪藏内容
-│   ├── 模板/        # 笔记模板
-│   ├── 日记/        # 每日日记
-│   └── 随记/        # 临时想法、灵感
-└── 02_知识库/
-    ├── Claude code/ # Claude Code 使用笔记
-    └── Obsidian指南/ # Obsidian 使用教程
+writing-system/
+  01-INPUT/
+    articles/
+    transcripts/
+    ideas/
+  02-PROCESSING/
+    research/
+    outlines/
+    drafts/
+    reviews/
+  03-OUTPUT/
+    newsletters/
+    scripts/
+    wiki/
+  04-FEEDBACK/
+    metrics/
+    comments/
+    retrospectives/
 ```
+
+
+`01-INPUT` 是原材料入口，不要求完美，只要求低摩擦。
+
+`02-PROCESSING` 是 AI 处理区，用来放研究摘要、选题分析、文章结构和中间稿。
+
+`03-OUTPUT` 是正式作品区，存放可发布内容。
+
+`04-FEEDBACK` 是很多人忽略的一层。没有反馈，系统就不会进化。每次发布之后，哪些标题有效，哪些段落被引用，哪些观点引发讨论，都应该进入这里
+
+`05-REFERENCE` 存放长期参考资料，比如人物、工具、概念、框架。
 
 ## 快速开始
 
