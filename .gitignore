@@ -1,0 +1,22 @@
+# 大文件和软件包
+附件*/
+*.exe
+*.zip
+*.rar
+*.7z
+*.msi
+*.dmg
+*.pkg
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# Obsidian 相关
+.obsidian/cache
+.obsidian/workspace-bak.json
+
+# Claude Code
+.claude/workspace.json
+.claude/memory/
