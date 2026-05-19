@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-参考/大强同学/关于他.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于他"
+              "title": "README"
             }
           }
         ]
@@ -194,10 +194,10 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "f61576494b606a05",
+  "active": "b2f5fae20d4b7004",
   "lastOpenFiles": [
-    "05-参考/大强同学/他的工具连.md",
     "05-参考/大强同学/关于他.md",
+    "05-参考/大强同学/他的工具连.md",
     "05-参考/大强同学/他喜欢的一切.md",
     "05-参考/大强同学/他的社交媒体.md",
     "05-参考/大强同学/他的网站.md",
@@ -227,17 +227,17 @@
     "05-参考/提示词/播客封面图/image.png",
     "附件-赠品PDF/Agent 连接器能力矩阵.pdf",
     "05-参考/Obsidian指南/主题推荐.md",
-    "05-参考/Claude code/00-安装软件.md",
+    "05-参考/Claude code安装/00-安装软件.md",
     "05-参考/Obsidian指南/Obsidian插件合集.md",
-    "05-参考/Claude code/01-API key配置.md",
-    "05-参考/Claude code/03-安装skill.md",
-    "05-参考/Claude code/02-创建skill软链接.md",
-    "05-参考/Claude code/04-CLI工具推荐.md",
+    "05-参考/Claude code安装/01-API key配置.md",
+    "05-参考/Claude code安装/03-安装skill.md",
+    "05-参考/Claude code安装/02-创建skill软链接.md",
+    "05-参考/Claude code安装/04-CLI工具推荐.md",
     "附件-12个软件包/20260520/idm安装包.exe",
     "附件-12个软件包/20260520/idman642build64.exe",
     "附件-12个软件包/20260520/IDM_6.4x_Crack_v20.6.exe",
-    "05-参考/Claude code/Claude Code vs 豆包等的本质区别.md",
-    "05-参考/Claude code/命令&快捷键.md",
+    "05-参考/Claude code安装/Claude Code vs 豆包等的本质区别.md",
+    "05-参考/Claude code安装/命令&快捷键.md",
     "05-参考/Claude code/Claudian出现报错话术.md",
     "05-参考/提示词/杂志风知识卡片/image.png",
     "05-参考/提示词/平面地图转 3D 实景/image.png",
