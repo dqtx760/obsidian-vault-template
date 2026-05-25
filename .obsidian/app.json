@@ -1,5 +1,13 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "deleteUnlinkedAttachments": "never",
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "foldIndent": true,
+  "propertiesInDocument": "visible",
+  "showIndentGuide": true,
+  "livePreview": true
 }
