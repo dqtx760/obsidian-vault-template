@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "05-参考/Obsidian/Obsidian插件合集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Obsidian插件合集"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "f61576494b606a05",
   "lastOpenFiles": [
+    "README.md",
     "01-输入/模板/日记模板.md",
     "05-参考/Obsidian/Obsidian + Git 备份全流程配置指南.md",
     "05-参考/Obsidian/插件：Custom Attachment Location.md",

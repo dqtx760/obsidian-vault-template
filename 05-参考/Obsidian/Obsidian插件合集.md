@@ -43,7 +43,8 @@ AI助手集成，与Claude、Codex对话
 
 ### 10. Git
 
-版本控制同步github
+本地文件版本控制同步github
+https://www.cnblogs.com/dqtx33/p/20096314
 
 ### 11. Image auto upload
 
@@ -52,6 +53,7 @@ AI助手集成，与Claude、Codex对话
 ### 12. LinkStowr
 
 双向链接管理与预览
+https://mp.weixin.qq.com/s/45pUXcmcifTzTcdrlrTWHQ
 
 ### 13. Notebook Navigator
 
@@ -64,6 +66,7 @@ AI助手集成，与Claude、Codex对话
 ### 15. Share to NotionNext
 
 同步笔记到Notion
+https://mp.weixin.qq.com/s/24oTrC1tttUs18Qv7cRwRQ
 
 ### 16. Style Settings
 
@@ -76,10 +79,15 @@ AI助手集成，与Claude、Codex对话
 ### 18. Terminal
 
 在Obsidian中集成终端
+https://www.cnblogs.com/dqtx33/p/20142731
 
 ### 19. Wechat Converter
 
 微信公众号文章格式转换，作者DavidLam
+https://github.com/DavidLam-oss/obsidian-wechat-converter
+
+Obsidian推送微信插件配置CF Worker代理方案
+https://mp.weixin.qq.com/s/4SEsM-AWoEhPXiD49oNB9g
 
 ### 20.仿 Notion Blocks插件
 obsidian-dragger
@@ -87,17 +95,28 @@ https://github.com/Ariestar/obsidian-dragger
 notion-block
 https://github.com/BCS1037/notion-block/releases/tag/1.0.0
 
+### 21.Custom Attachment Location 
 
-### 21.Custom Attachment Location 图片自定义
+把本地图片的格式标准成一个Markdown的语法，进行统一管理
 https://www.cnblogs.com/dqtx33/p/20087607
 
-----
+### 22.Clear Unused Images
+
+一键清除没有被文章引用本地图片
+https://www.cnblogs.com/dqtx33/p/20142595
+
+### 23.get-to-obsidian
+
+get笔记自动同步obsidian 
+https://www.cnblogs.com/dqtx33/p/20121719
+https://github.com/springrain1/get-to-obsidian
+
 
 如果你也有什么私藏神器，欢迎在评论区留言推荐，互相种草！觉得有帮助的话，点个赞再走呗～
 
 **以上就是我的插件清单，每个都是经过长期使用后保留下来的「精品」。**
 
-
+**PS.飞书同步地址**：[点此](https://xodnytdcaw.feishu.cn/wiki/MK77w8EnCig8dBkrULUcgtVjn3b)
 
 
 
