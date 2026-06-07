@@ -8,59 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f61576494b606a05",
+            "id": "eba5b86273f8bdeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "05-参考/Codex/远程控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "远程控制"
             }
           },
           {
-            "id": "fba804258d1b753c",
+            "id": "5f3845e8fdca9c2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-参考/Claude code/技能&Cli合集.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "技能&Cli合集"
-            }
-          },
-          {
-            "id": "fd31d67552d2f240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "0504b10211c528a7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "home-console-view",
               "state": {},
+              "icon": "layout-dashboard",
+              "title": "Home Console"
+            }
+          },
+          {
+            "id": "2329dcb82d61ed6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,13 +78,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-参考/Obsidian/插件：Custom Attachment Location.md",
+                "file": "05-参考/CMD命令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "插件：Custom Attachment Location 的大纲"
+              "title": "CMD命令 的大纲"
             }
           },
           {
@@ -132,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 421.50840759277344
   },
   "right": {
     "id": "90e18d7f87e8e90e",
@@ -213,12 +199,12 @@
               "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,56 +217,57 @@
       "bases:新建数据库": false,
       "obsidian42-brat:BRAT": false,
       "claudian:Open Claudian": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "float-search:Search obsidian in modal view": false,
+      "home-console:Home Console": false
     }
   },
-  "active": "fba804258d1b753c",
+  "active": "b2f5fae20d4b7004",
   "lastOpenFiles": [
+    "05-参考/Obsidian/assets/图片附件插件/file-20260604100825347.png",
+    "05-参考/Obsidian/assets/图片附件插件/file-20260604100825338.png",
+    "05-参考/Obsidian/assets/图片附件插件/file-20260604100825316.png",
+    "05-参考/Obsidian/assets/图片附件插件/file-20260604100825310.png",
+    "05-参考/other/Cmd命令.md",
+    "05-参考/other",
+    "05-参考/other/10个必装的chrome插件.md",
+    "05-参考/other/10个必装的效率神器.md",
+    "05-参考/other/Bat.md",
+    "CLAUDE.md",
     "README.md",
-    "05-参考/Claude code/技能&Cli合集.md",
-    "05-参考/Obsidian/Obsidian插件合集.md",
-    "01-输入/模板/日记模板.md",
-    "05-参考/Obsidian/Obsidian + Git 备份全流程配置指南.md",
-    "05-参考/Obsidian/插件：Custom Attachment Location.md",
-    "05-参考/Obsidian/assets/插件：Custom Attachment Location/file-20260524150514526.png",
-    "05-参考/Obsidian/assets/插件：Custom Attachment Location/a81b12a634fa4f0e89b334170d13b03b.jpeg~tplv-a9rns2rl98-image_raw_b.png",
-    "05-参考/Obsidian/assets/插件：Custom Attachment Location/file-20260524150129828.png",
-    "05-参考/Obsidian/assets/插件：Custom Attachment Location/file-20260520180922245.png",
-    "05-参考/Claude code/00-安装软件.md",
-    "05-参考/Claude code/05-Claudian插件报错解决话术.md",
-    "Claudian出现报错话术.md",
-    "05-参考/Obsidian/快捷键.md",
-    "05-参考/Obsidian/主题推荐.md",
-    "05-参考/Obsidian/Obsidian Web Clipper.md",
-    "05-参考/Claude code/02-创建skill软链接.md",
-    "05-参考/Claude code/01-API key配置.md",
-    "05-参考/Claude code/GUI、CLI、Agent工具盘点.md",
-    "05-参考/Claude code/Claude Code vs 豆包等的本质区别.md",
-    "05-参考/Claude code/Claude Code 指令速查笔记.md",
-    "01-输入/09-archive/Karpathy的LLM Wiki.md",
-    "05-参考/Obsidian/assets/插件：Custom Attachment Location/file-20260520173902677.png",
-    "05-参考/Obsidian/assets/插件：Custom Attachment Location/file-20260520175742288.png",
-    "05-参考/Obsidian/assets/插件：Custom Attachment Location",
-    "05-参考/Obsidian/assets",
-    "01-输入/周报和复盘/测试.md",
-    "01-输入/周报和复盘/assets/测试/file-20260520172441681.png",
-    "01-输入/周报和复盘/assets/测试",
-    "01-输入/周报和复盘/assets",
-    "马斯克.md",
-    "assets/马斯克",
-    "assets/马斯克/file-20260520172347054.png",
-    "assets/马斯克/file-20260520172347056.png",
-    "assets/测试",
-    "assets",
-    "assets/attachments/file-20260520171044720.png",
-    "assets/attachments",
-    "你的好好.md",
-    "05-参考/大强同学/AI眼中的他.md",
-    "附件-赠品PDF/Agent 连接器能力矩阵.pdf",
-    "05-参考/github/未命名.md",
     "05-参考/github/github仓库不要放大文件.md",
     "05-参考/github/GitHub上传命令.md",
-    "05-参考/提示词/IP徽章周边/README.md",
-    "05-参考/github"
+    "05-参考/github",
+    "05-参考/Obsidian/图片附件插件.md",
+    "05-参考/Claude/skill调用命令.md",
+    "05-参考/Claude/10个必装的MCP.md",
+    "05-参考/Claude/10个必装的skill.md",
+    "05-参考/Codex/Codex 有效额度“翻倍”的小技巧.md",
+    "05-参考/Codex/远程控制.md",
+    "05-参考/Codex/CCSwitch重大更新，支持codex接入任意大模型了！.md",
+    "05-参考/Codex/网速优化.md",
+    "05-参考/Codex/让 Codex 越用越强，让 Codex 自动进化！.md",
+    "05-参考/Codex/Codex 具备设计师级别的审美.md",
+    "05-参考/10个必装的skill.md",
+    "05-参考/10个必装的MCP.md",
+    "05-参考/Claude/GUI、CLI、Agent工具盘点.md",
+    "05-参考/Claude/命令&快捷键.md",
+    "05-参考/Codex/Codex Computer Use的神奇用法.md",
+    "05-参考/Obsidian/Obsidian插件.md",
+    "05-参考/提示词/公众号封面图生成/prompt.md",
+    "05-参考/Obsidian/assets/图片附件插件",
+    "05-参考/Codex/assets/Codex 具备设计师级别的审美/file-20260604015234810.png",
+    "05-参考/Codex/assets/Codex 具备设计师级别的审美",
+    "05-参考/Codex/Codex 的 Goal 指令如何用？.md.crswap",
+    "05-参考/Codex/assets/Codex归档会话后会话去哪里了/file-20260603203150096.png",
+    "05-参考/Codex/assets/Codex归档会话后会话去哪里了",
+    "05-参考/Codex/assets/Codex++使用/file-20260603191813669.png",
+    "05-参考/Codex/assets/Codex++使用/file-20260603191636813.png",
+    "05-参考/Codex/assets/Codex++使用/file-20260603191605148.png",
+    "05-参考/Codex/assets/Codex++使用/file-20260603191344940.png",
+    "05-参考/Codex/assets/Codex++使用",
+    "05-参考/Codex/assets",
+    "05-参考/Codex/Codex++使用.md.tmp.89156.6c22c3771a01",
+    "05-参考/Codex"
   ]
 }

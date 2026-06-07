@@ -1,0 +1,9 @@
+{
+  "id": "home-console",
+  "name": "Home Console",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "内容创作控制台 — 以内容流水线为核心的仪表盘，一键触发 AI 技能",
+  "author": "dqtx",
+  "isDesktopOnly": true
+}

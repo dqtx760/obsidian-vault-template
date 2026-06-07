@@ -1,0 +1,25 @@
+{
+  "id": "conv-1780536092937-hou1o1n3f",
+  "providerId": "codex",
+  "title": "你好！看起来你正在配置一个基于 Obsidian 的知识库系统。有什么我可以帮你的吗？\n\n**...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780536092937,
+  "updatedAt": 1780539109693,
+  "lastResponseAt": 1780536113577,
+  "sessionId": "019e9038-b04c-7e70-bc09-3f9807ccaa93",
+  "providerState": {
+    "threadId": "019e9038-b04c-7e70-bc09-3f9807ccaa93",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\06\\04\\rollout-2026-06-04T09-21-34-019e9038-b04c-7e70-bc09-3f9807ccaa93.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 11,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 56256,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 11,
+    "percentage": 0,
+    "model": "mimo-v2.5"
+  }
+}

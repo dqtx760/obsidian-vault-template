@@ -1,0 +1,26 @@
+{
+  "id": "conv-1780537771873-15ovugxb9",
+  "providerId": "codex",
+  "title": "请将说明这一列的内容稍微扩写一下，不要加粗。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780537771873,
+  "updatedAt": 1780539108753,
+  "lastResponseAt": 1780537982281,
+  "sessionId": "019e9052-52d9-70c0-a330-e23b0ddca9ca",
+  "providerState": {
+    "threadId": "019e9052-52d9-70c0-a330-e23b0ddca9ca",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\06\\04\\rollout-2026-06-04T09-49-34-019e9052-52d9-70c0-a330-e23b0ddca9ca.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "currentNote": "05-参考/skill调用命令.md",
+  "usage": {
+    "inputTokens": 478,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 56000,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 478,
+    "percentage": 0,
+    "model": "mimo-v2.5"
+  }
+}

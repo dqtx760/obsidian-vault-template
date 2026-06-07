@@ -1,3 +1,9 @@
+﻿---
+title: GitHub上传命令
+time: 2026-06-07
+tags:
+  - github
+---
 
 本教程详细介绍如何将本地项目上传到 GitHub 仓库。
 

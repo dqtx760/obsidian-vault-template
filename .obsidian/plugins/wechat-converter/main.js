@@ -49,7 +49,7 @@ var require_generated_embedded_deps = __commonJS({
       embeddedDependencyScripts: {
         "markdownIt": `/*! markdown-it 13.0.1 https://github.com/markdown-it/markdown-it @license MIT */
 !function(e,r){"object"==typeof exports&&"undefined"!=typeof module?module.exports=r():"function"==typeof define&&define.amd?define(r):(e="undefined"!=typeof globalThis?globalThis:e||self).markdownit=r()}(this,(function(){"use strict";function e(e){if(e.__esModule)return e;var r=Object.defineProperty({},"__esModule",{value:!0});return Object.keys(e).forEach((function(t){var n=Object.getOwnPropertyDescriptor(e,t);Object.defineProperty(r,t,n.get?n:{enumerable:!0,get:function(){return e[t]}})})),r}var r={Aacute:"\\xc1",aacute:"\\xe1",Abreve:"\\u0102",abreve:"\\u0103",ac:"\\u223e",acd:"\\u223f",acE:"\\u223e\\u0333",Acirc:"\\xc2",acirc:"\\xe2",acute:"\\xb4",Acy:"\\u0410",acy:"\\u0430",AElig:"\\xc6",aelig:"\\xe6",af:"\\u2061",Afr:"\\ud835\\udd04",afr:"\\ud835\\udd1e",Agrave:"\\xc0",agrave:"\\xe0",alefsym:"\\u2135",aleph:"\\u2135",Alpha:"\\u0391",alpha:"\\u03b1",Amacr:"\\u0100",amacr:"\\u0101",amalg:"\\u2a3f",amp:"&",AMP:"&",andand:"\\u2a55",And:"\\u2a53",and:"\\u2227",andd:"\\u2a5c",andslope:"\\u2a58",andv:"\\u2a5a",ang:"\\u2220",ange:"\\u29a4",angle:"\\u2220",angmsdaa:"\\u29a8",angmsdab:"\\u29a9",angmsdac:"\\u29aa",angmsdad:"\\u29ab",angmsdae:"\\u29ac",angmsdaf:"\\u29ad",angmsdag:"\\u29ae",angmsdah:"\\u29af",angmsd:"\\u2221",angrt:"\\u221f",angrtvb:"\\u22be",angrtvbd:"\\u299d",angsph:"\\u2222",angst:"\\xc5",angzarr:"\\u237c",Aogon:"\\u0104",aogon:"\\u0105",Aopf:"\\ud835\\udd38",aopf:"\\ud835\\udd52",apacir:"\\u2a6f",ap:"\\u2248",apE:"\\u2a70",ape:"\\u224a",apid:"\\u224b",apos:"'",ApplyFunction:"\\u2061",approx:"\\u2248",approxeq:"\\u224a",Aring:"\\xc5",aring:"\\xe5",Ascr:"\\ud835\\udc9c",ascr:"\\ud835\\udcb6",Assign:"\\u2254",ast:"*",asymp:"\\u2248",asympeq:"\\u224d",Atilde:"\\xc3",atilde:"\\xe3",Auml:"\\xc4",auml:"\\xe4",awconint:"\\u2233",awint:"\\u2a11",backcong:"\\u224c",backepsilon:"\\u03f6",backprime:"\\u2035",backsim:"\\u223d",backsimeq:"\\u22cd",Backslash:"\\u2216",Barv:"\\u2ae7",barvee:"\\u22bd",barwed:"\\u2305",Barwed:"\\u2306",barwedge:"\\u2305",bbrk:"\\u23b5",bbrktbrk:"\\u23b6",bcong:"\\u224c",Bcy:"\\u0411",bcy:"\\u0431",bdquo:"\\u201e",becaus:"\\u2235",because:"\\u2235",Because:"\\u2235",bemptyv:"\\u29b0",bepsi:"\\u03f6",bernou:"\\u212c",Bernoullis:"\\u212c",Beta:"\\u0392",beta:"\\u03b2",beth:"\\u2136",between:"\\u226c",Bfr:"\\ud835\\udd05",bfr:"\\ud835\\udd1f",bigcap:"\\u22c2",bigcirc:"\\u25ef",bigcup:"\\u22c3",bigodot:"\\u2a00",bigoplus:"\\u2a01",bigotimes:"\\u2a02",bigsqcup:"\\u2a06",bigstar:"\\u2605",bigtriangledown:"\\u25bd",bigtriangleup:"\\u25b3",biguplus:"\\u2a04",bigvee:"\\u22c1",bigwedge:"\\u22c0",bkarow:"\\u290d",blacklozenge:"\\u29eb",blacksquare:"\\u25aa",blacktriangle:"\\u25b4",blacktriangledown:"\\u25be",blacktriangleleft:"\\u25c2",blacktriangleright:"\\u25b8",blank:"\\u2423",blk12:"\\u2592",blk14:"\\u2591",blk34:"\\u2593",block:"\\u2588",bne:"=\\u20e5",bnequiv:"\\u2261\\u20e5",bNot:"\\u2aed",bnot:"\\u2310",Bopf:"\\ud835\\udd39",bopf:"\\ud835\\udd53",bot:"\\u22a5",bottom:"\\u22a5",bowtie:"\\u22c8",boxbox:"\\u29c9",boxdl:"\\u2510",boxdL:"\\u2555",boxDl:"\\u2556",boxDL:"\\u2557",boxdr:"\\u250c",boxdR:"\\u2552",boxDr:"\\u2553",boxDR:"\\u2554",boxh:"\\u2500",boxH:"\\u2550",boxhd:"\\u252c",boxHd:"\\u2564",boxhD:"\\u2565",boxHD:"\\u2566",boxhu:"\\u2534",boxHu:"\\u2567",boxhU:"\\u2568",boxHU:"\\u2569",boxminus:"\\u229f",boxplus:"\\u229e",boxtimes:"\\u22a0",boxul:"\\u2518",boxuL:"\\u255b",boxUl:"\\u255c",boxUL:"\\u255d",boxur:"\\u2514",boxuR:"\\u2558",boxUr:"\\u2559",boxUR:"\\u255a",boxv:"\\u2502",boxV:"\\u2551",boxvh:"\\u253c",boxvH:"\\u256a",boxVh:"\\u256b",boxVH:"\\u256c",boxvl:"\\u2524",boxvL:"\\u2561",boxVl:"\\u2562",boxVL:"\\u2563",boxvr:"\\u251c",boxvR:"\\u255e",boxVr:"\\u255f",boxVR:"\\u2560",bprime:"\\u2035",breve:"\\u02d8",Breve:"\\u02d8",brvbar:"\\xa6",bscr:"\\ud835\\udcb7",Bscr:"\\u212c",bsemi:"\\u204f",bsim:"\\u223d",bsime:"\\u22cd",bsolb:"\\u29c5",bsol:"\\\\",bsolhsub:"\\u27c8",bull:"\\u2022",bullet:"\\u2022",bump:"\\u224e",bumpE:"\\u2aae",bumpe:"\\u224f",Bumpeq:"\\u224e",bumpeq:"\\u224f",Cacute:"\\u0106",cacute:"\\u0107",capand:"\\u2a44",capbrcup:"\\u2a49",capcap:"\\u2a4b",cap:"\\u2229",Cap:"\\u22d2",capcup:"\\u2a47",capdot:"\\u2a40",CapitalDifferentialD:"\\u2145",caps:"\\u2229\\ufe00",caret:"\\u2041",caron:"\\u02c7",Cayleys:"\\u212d",ccaps:"\\u2a4d",Ccaron:"\\u010c",ccaron:"\\u010d",Ccedil:"\\xc7",ccedil:"\\xe7",Ccirc:"\\u0108",ccirc:"\\u0109",Cconint:"\\u2230",ccups:"\\u2a4c",ccupssm:"\\u2a50",Cdot:"\\u010a",cdot:"\\u010b",cedil:"\\xb8",Cedilla:"\\xb8",cemptyv:"\\u29b2",cent:"\\xa2",centerdot:"\\xb7",CenterDot:"\\xb7",cfr:"\\ud835\\udd20",Cfr:"\\u212d",CHcy:"\\u0427",chcy:"\\u0447",check:"\\u2713",checkmark:"\\u2713",Chi:"\\u03a7",chi:"\\u03c7",circ:"\\u02c6",circeq:"\\u2257",circlearrowleft:"\\u21ba",circlearrowright:"\\u21bb",circledast:"\\u229b",circledcirc:"\\u229a",circleddash:"\\u229d",CircleDot:"\\u2299",circledR:"\\xae",circledS:"\\u24c8",CircleMinus:"\\u2296",CirclePlus:"\\u2295",CircleTimes:"\\u2297",cir:"\\u25cb",cirE:"\\u29c3",cire:"\\u2257",cirfnint:"\\u2a10",cirmid:"\\u2aef",cirscir:"\\u29c2",ClockwiseContourIntegral:"\\u2232",CloseCurlyDoubleQuote:"\\u201d",CloseCurlyQuote:"\\u2019",clubs:"\\u2663",clubsuit:"\\u2663",colon:":",Colon:"\\u2237",Colone:"\\u2a74",colone:"\\u2254",coloneq:"\\u2254",comma:",",commat:"@",comp:"\\u2201",compfn:"\\u2218",complement:"\\u2201",complexes:"\\u2102",cong:"\\u2245",congdot:"\\u2a6d",Congruent:"\\u2261",conint:"\\u222e",Conint:"\\u222f",ContourIntegral:"\\u222e",copf:"\\ud835\\udd54",Copf:"\\u2102",coprod:"\\u2210",Coproduct:"\\u2210",copy:"\\xa9",COPY:"\\xa9",copysr:"\\u2117",CounterClockwiseContourIntegral:"\\u2233",crarr:"\\u21b5",cross:"\\u2717",Cross:"\\u2a2f",Cscr:"\\ud835\\udc9e",cscr:"\\ud835\\udcb8",csub:"\\u2acf",csube:"\\u2ad1",csup:"\\u2ad0",csupe:"\\u2ad2",ctdot:"\\u22ef",cudarrl:"\\u2938",cudarrr:"\\u2935",cuepr:"\\u22de",cuesc:"\\u22df",cularr:"\\u21b6",cularrp:"\\u293d",cupbrcap:"\\u2a48",cupcap:"\\u2a46",CupCap:"\\u224d",cup:"\\u222a",Cup:"\\u22d3",cupcup:"\\u2a4a",cupdot:"\\u228d",cupor:"\\u2a45",cups:"\\u222a\\ufe00",curarr:"\\u21b7",curarrm:"\\u293c",curlyeqprec:"\\u22de",curlyeqsucc:"\\u22df",curlyvee:"\\u22ce",curlywedge:"\\u22cf",curren:"\\xa4",curvearrowleft:"\\u21b6",curvearrowright:"\\u21b7",cuvee:"\\u22ce",cuwed:"\\u22cf",cwconint:"\\u2232",cwint:"\\u2231",cylcty:"\\u232d",dagger:"\\u2020",Dagger:"\\u2021",daleth:"\\u2138",darr:"\\u2193",Darr:"\\u21a1",dArr:"\\u21d3",dash:"\\u2010",Dashv:"\\u2ae4",dashv:"\\u22a3",dbkarow:"\\u290f",dblac:"\\u02dd",Dcaron:"\\u010e",dcaron:"\\u010f",Dcy:"\\u0414",dcy:"\\u0434",ddagger:"\\u2021",ddarr:"\\u21ca",DD:"\\u2145",dd:"\\u2146",DDotrahd:"\\u2911",ddotseq:"\\u2a77",deg:"\\xb0",Del:"\\u2207",Delta:"\\u0394",delta:"\\u03b4",demptyv:"\\u29b1",dfisht:"\\u297f",Dfr:"\\ud835\\udd07",dfr:"\\ud835\\udd21",dHar:"\\u2965",dharl:"\\u21c3",dharr:"\\u21c2",DiacriticalAcute:"\\xb4",DiacriticalDot:"\\u02d9",DiacriticalDoubleAcute:"\\u02dd",DiacriticalGrave:"\`",DiacriticalTilde:"\\u02dc",diam:"\\u22c4",diamond:"\\u22c4",Diamond:"\\u22c4",diamondsuit:"\\u2666",diams:"\\u2666",die:"\\xa8",DifferentialD:"\\u2146",digamma:"\\u03dd",disin:"\\u22f2",div:"\\xf7",divide:"\\xf7",divideontimes:"\\u22c7",divonx:"\\u22c7",DJcy:"\\u0402",djcy:"\\u0452",dlcorn:"\\u231e",dlcrop:"\\u230d",dollar:"$",Dopf:"\\ud835\\udd3b",dopf:"\\ud835\\udd55",Dot:"\\xa8",dot:"\\u02d9",DotDot:"\\u20dc",doteq:"\\u2250",doteqdot:"\\u2251",DotEqual:"\\u2250",dotminus:"\\u2238",dotplus:"\\u2214",dotsquare:"\\u22a1",doublebarwedge:"\\u2306",DoubleContourIntegral:"\\u222f",DoubleDot:"\\xa8",DoubleDownArrow:"\\u21d3",DoubleLeftArrow:"\\u21d0",DoubleLeftRightArrow:"\\u21d4",DoubleLeftTee:"\\u2ae4",DoubleLongLeftArrow:"\\u27f8",DoubleLongLeftRightArrow:"\\u27fa",DoubleLongRightArrow:"\\u27f9",DoubleRightArrow:"\\u21d2",DoubleRightTee:"\\u22a8",DoubleUpArrow:"\\u21d1",DoubleUpDownArrow:"\\u21d5",DoubleVerticalBar:"\\u2225",DownArrowBar:"\\u2913",downarrow:"\\u2193",DownArrow:"\\u2193",Downarrow:"\\u21d3",DownArrowUpArrow:"\\u21f5",DownBreve:"\\u0311",downdownarrows:"\\u21ca",downharpoonleft:"\\u21c3",downharpoonright:"\\u21c2",DownLeftRightVector:"\\u2950",DownLeftTeeVector:"\\u295e",DownLeftVectorBar:"\\u2956",DownLeftVector:"\\u21bd",DownRightTeeVector:"\\u295f",DownRightVectorBar:"\\u2957",DownRightVector:"\\u21c1",DownTeeArrow:"\\u21a7",DownTee:"\\u22a4",drbkarow:"\\u2910",drcorn:"\\u231f",drcrop:"\\u230c",Dscr:"\\ud835\\udc9f",dscr:"\\ud835\\udcb9",DScy:"\\u0405",dscy:"\\u0455",dsol:"\\u29f6",Dstrok:"\\u0110",dstrok:"\\u0111",dtdot:"\\u22f1",dtri:"\\u25bf",dtrif:"\\u25be",duarr:"\\u21f5",duhar:"\\u296f",dwangle:"\\u29a6",DZcy:"\\u040f",dzcy:"\\u045f",dzigrarr:"\\u27ff",Eacute:"\\xc9",eacute:"\\xe9",easter:"\\u2a6e",Ecaron:"\\u011a",ecaron:"\\u011b",Ecirc:"\\xca",ecirc:"\\xea",ecir:"\\u2256",ecolon:"\\u2255",Ecy:"\\u042d",ecy:"\\u044d",eDDot:"\\u2a77",Edot:"\\u0116",edot:"\\u0117",eDot:"\\u2251",ee:"\\u2147",efDot:"\\u2252",Efr:"\\ud835\\udd08",efr:"\\ud835\\udd22",eg:"\\u2a9a",Egrave:"\\xc8",egrave:"\\xe8",egs:"\\u2a96",egsdot:"\\u2a98",el:"\\u2a99",Element:"\\u2208",elinters:"\\u23e7",ell:"\\u2113",els:"\\u2a95",elsdot:"\\u2a97",Emacr:"\\u0112",emacr:"\\u0113",empty:"\\u2205",emptyset:"\\u2205",EmptySmallSquare:"\\u25fb",emptyv:"\\u2205",EmptyVerySmallSquare:"\\u25ab",emsp13:"\\u2004",emsp14:"\\u2005",emsp:"\\u2003",ENG:"\\u014a",eng:"\\u014b",ensp:"\\u2002",Eogon:"\\u0118",eogon:"\\u0119",Eopf:"\\ud835\\udd3c",eopf:"\\ud835\\udd56",epar:"\\u22d5",eparsl:"\\u29e3",eplus:"\\u2a71",epsi:"\\u03b5",Epsilon:"\\u0395",epsilon:"\\u03b5",epsiv:"\\u03f5",eqcirc:"\\u2256",eqcolon:"\\u2255",eqsim:"\\u2242",eqslantgtr:"\\u2a96",eqslantless:"\\u2a95",Equal:"\\u2a75",equals:"=",EqualTilde:"\\u2242",equest:"\\u225f",Equilibrium:"\\u21cc",equiv:"\\u2261",equivDD:"\\u2a78",eqvparsl:"\\u29e5",erarr:"\\u2971",erDot:"\\u2253",escr:"\\u212f",Escr:"\\u2130",esdot:"\\u2250",Esim:"\\u2a73",esim:"\\u2242",Eta:"\\u0397",eta:"\\u03b7",ETH:"\\xd0",eth:"\\xf0",Euml:"\\xcb",euml:"\\xeb",euro:"\\u20ac",excl:"!",exist:"\\u2203",Exists:"\\u2203",expectation:"\\u2130",exponentiale:"\\u2147",ExponentialE:"\\u2147",fallingdotseq:"\\u2252",Fcy:"\\u0424",fcy:"\\u0444",female:"\\u2640",ffilig:"\\ufb03",fflig:"\\ufb00",ffllig:"\\ufb04",Ffr:"\\ud835\\udd09",ffr:"\\ud835\\udd23",filig:"\\ufb01",FilledSmallSquare:"\\u25fc",FilledVerySmallSquare:"\\u25aa",fjlig:"fj",flat:"\\u266d",fllig:"\\ufb02",fltns:"\\u25b1",fnof:"\\u0192",Fopf:"\\ud835\\udd3d",fopf:"\\ud835\\udd57",forall:"\\u2200",ForAll:"\\u2200",fork:"\\u22d4",forkv:"\\u2ad9",Fouriertrf:"\\u2131",fpartint:"\\u2a0d",frac12:"\\xbd",frac13:"\\u2153",frac14:"\\xbc",frac15:"\\u2155",frac16:"\\u2159",frac18:"\\u215b",frac23:"\\u2154",frac25:"\\u2156",frac34:"\\xbe",frac35:"\\u2157",frac38:"\\u215c",frac45:"\\u2158",frac56:"\\u215a",frac58:"\\u215d",frac78:"\\u215e",frasl:"\\u2044",frown:"\\u2322",fscr:"\\ud835\\udcbb",Fscr:"\\u2131",gacute:"\\u01f5",Gamma:"\\u0393",gamma:"\\u03b3",Gammad:"\\u03dc",gammad:"\\u03dd",gap:"\\u2a86",Gbreve:"\\u011e",gbreve:"\\u011f",Gcedil:"\\u0122",Gcirc:"\\u011c",gcirc:"\\u011d",Gcy:"\\u0413",gcy:"\\u0433",Gdot:"\\u0120",gdot:"\\u0121",ge:"\\u2265",gE:"\\u2267",gEl:"\\u2a8c",gel:"\\u22db",geq:"\\u2265",geqq:"\\u2267",geqslant:"\\u2a7e",gescc:"\\u2aa9",ges:"\\u2a7e",gesdot:"\\u2a80",gesdoto:"\\u2a82",gesdotol:"\\u2a84",gesl:"\\u22db\\ufe00",gesles:"\\u2a94",Gfr:"\\ud835\\udd0a",gfr:"\\ud835\\udd24",gg:"\\u226b",Gg:"\\u22d9",ggg:"\\u22d9",gimel:"\\u2137",GJcy:"\\u0403",gjcy:"\\u0453",gla:"\\u2aa5",gl:"\\u2277",glE:"\\u2a92",glj:"\\u2aa4",gnap:"\\u2a8a",gnapprox:"\\u2a8a",gne:"\\u2a88",gnE:"\\u2269",gneq:"\\u2a88",gneqq:"\\u2269",gnsim:"\\u22e7",Gopf:"\\ud835\\udd3e",gopf:"\\ud835\\udd58",grave:"\`",GreaterEqual:"\\u2265",GreaterEqualLess:"\\u22db",GreaterFullEqual:"\\u2267",GreaterGreater:"\\u2aa2",GreaterLess:"\\u2277",GreaterSlantEqual:"\\u2a7e",GreaterTilde:"\\u2273",Gscr:"\\ud835\\udca2",gscr:"\\u210a",gsim:"\\u2273",gsime:"\\u2a8e",gsiml:"\\u2a90",gtcc:"\\u2aa7",gtcir:"\\u2a7a",gt:">",GT:">",Gt:"\\u226b",gtdot:"\\u22d7",gtlPar:"\\u2995",gtquest:"\\u2a7c",gtrapprox:"\\u2a86",gtrarr:"\\u2978",gtrdot:"\\u22d7",gtreqless:"\\u22db",gtreqqless:"\\u2a8c",gtrless:"\\u2277",gtrsim:"\\u2273",gvertneqq:"\\u2269\\ufe00",gvnE:"\\u2269\\ufe00",Hacek:"\\u02c7",hairsp:"\\u200a",half:"\\xbd",hamilt:"\\u210b",HARDcy:"\\u042a",hardcy:"\\u044a",harrcir:"\\u2948",harr:"\\u2194",hArr:"\\u21d4",harrw:"\\u21ad",Hat:"^",hbar:"\\u210f",Hcirc:"\\u0124",hcirc:"\\u0125",hearts:"\\u2665",heartsuit:"\\u2665",hellip:"\\u2026",hercon:"\\u22b9",hfr:"\\ud835\\udd25",Hfr:"\\u210c",HilbertSpace:"\\u210b",hksearow:"\\u2925",hkswarow:"\\u2926",hoarr:"\\u21ff",homtht:"\\u223b",hookleftarrow:"\\u21a9",hookrightarrow:"\\u21aa",hopf:"\\ud835\\udd59",Hopf:"\\u210d",horbar:"\\u2015",HorizontalLine:"\\u2500",hscr:"\\ud835\\udcbd",Hscr:"\\u210b",hslash:"\\u210f",Hstrok:"\\u0126",hstrok:"\\u0127",HumpDownHump:"\\u224e",HumpEqual:"\\u224f",hybull:"\\u2043",hyphen:"\\u2010",Iacute:"\\xcd",iacute:"\\xed",ic:"\\u2063",Icirc:"\\xce",icirc:"\\xee",Icy:"\\u0418",icy:"\\u0438",Idot:"\\u0130",IEcy:"\\u0415",iecy:"\\u0435",iexcl:"\\xa1",iff:"\\u21d4",ifr:"\\ud835\\udd26",Ifr:"\\u2111",Igrave:"\\xcc",igrave:"\\xec",ii:"\\u2148",iiiint:"\\u2a0c",iiint:"\\u222d",iinfin:"\\u29dc",iiota:"\\u2129",IJlig:"\\u0132",ijlig:"\\u0133",Imacr:"\\u012a",imacr:"\\u012b",image:"\\u2111",ImaginaryI:"\\u2148",imagline:"\\u2110",imagpart:"\\u2111",imath:"\\u0131",Im:"\\u2111",imof:"\\u22b7",imped:"\\u01b5",Implies:"\\u21d2",incare:"\\u2105",in:"\\u2208",infin:"\\u221e",infintie:"\\u29dd",inodot:"\\u0131",intcal:"\\u22ba",int:"\\u222b",Int:"\\u222c",integers:"\\u2124",Integral:"\\u222b",intercal:"\\u22ba",Intersection:"\\u22c2",intlarhk:"\\u2a17",intprod:"\\u2a3c",InvisibleComma:"\\u2063",InvisibleTimes:"\\u2062",IOcy:"\\u0401",iocy:"\\u0451",Iogon:"\\u012e",iogon:"\\u012f",Iopf:"\\ud835\\udd40",iopf:"\\ud835\\udd5a",Iota:"\\u0399",iota:"\\u03b9",iprod:"\\u2a3c",iquest:"\\xbf",iscr:"\\ud835\\udcbe",Iscr:"\\u2110",isin:"\\u2208",isindot:"\\u22f5",isinE:"\\u22f9",isins:"\\u22f4",isinsv:"\\u22f3",isinv:"\\u2208",it:"\\u2062",Itilde:"\\u0128",itilde:"\\u0129",Iukcy:"\\u0406",iukcy:"\\u0456",Iuml:"\\xcf",iuml:"\\xef",Jcirc:"\\u0134",jcirc:"\\u0135",Jcy:"\\u0419",jcy:"\\u0439",Jfr:"\\ud835\\udd0d",jfr:"\\ud835\\udd27",jmath:"\\u0237",Jopf:"\\ud835\\udd41",jopf:"\\ud835\\udd5b",Jscr:"\\ud835\\udca5",jscr:"\\ud835\\udcbf",Jsercy:"\\u0408",jsercy:"\\u0458",Jukcy:"\\u0404",jukcy:"\\u0454",Kappa:"\\u039a",kappa:"\\u03ba",kappav:"\\u03f0",Kcedil:"\\u0136",kcedil:"\\u0137",Kcy:"\\u041a",kcy:"\\u043a",Kfr:"\\ud835\\udd0e",kfr:"\\ud835\\udd28",kgreen:"\\u0138",KHcy:"\\u0425",khcy:"\\u0445",KJcy:"\\u040c",kjcy:"\\u045c",Kopf:"\\ud835\\udd42",kopf:"\\ud835\\udd5c",Kscr:"\\ud835\\udca6",kscr:"\\ud835\\udcc0",lAarr:"\\u21da",Lacute:"\\u0139",lacute:"\\u013a",laemptyv:"\\u29b4",lagran:"\\u2112",Lambda:"\\u039b",lambda:"\\u03bb",lang:"\\u27e8",Lang:"\\u27ea",langd:"\\u2991",langle:"\\u27e8",lap:"\\u2a85",Laplacetrf:"\\u2112",laquo:"\\xab",larrb:"\\u21e4",larrbfs:"\\u291f",larr:"\\u2190",Larr:"\\u219e",lArr:"\\u21d0",larrfs:"\\u291d",larrhk:"\\u21a9",larrlp:"\\u21ab",larrpl:"\\u2939",larrsim:"\\u2973",larrtl:"\\u21a2",latail:"\\u2919",lAtail:"\\u291b",lat:"\\u2aab",late:"\\u2aad",lates:"\\u2aad\\ufe00",lbarr:"\\u290c",lBarr:"\\u290e",lbbrk:"\\u2772",lbrace:"{",lbrack:"[",lbrke:"\\u298b",lbrksld:"\\u298f",lbrkslu:"\\u298d",Lcaron:"\\u013d",lcaron:"\\u013e",Lcedil:"\\u013b",lcedil:"\\u013c",lceil:"\\u2308",lcub:"{",Lcy:"\\u041b",lcy:"\\u043b",ldca:"\\u2936",ldquo:"\\u201c",ldquor:"\\u201e",ldrdhar:"\\u2967",ldrushar:"\\u294b",ldsh:"\\u21b2",le:"\\u2264",lE:"\\u2266",LeftAngleBracket:"\\u27e8",LeftArrowBar:"\\u21e4",leftarrow:"\\u2190",LeftArrow:"\\u2190",Leftarrow:"\\u21d0",LeftArrowRightArrow:"\\u21c6",leftarrowtail:"\\u21a2",LeftCeiling:"\\u2308",LeftDoubleBracket:"\\u27e6",LeftDownTeeVector:"\\u2961",LeftDownVectorBar:"\\u2959",LeftDownVector:"\\u21c3",LeftFloor:"\\u230a",leftharpoondown:"\\u21bd",leftharpoonup:"\\u21bc",leftleftarrows:"\\u21c7",leftrightarrow:"\\u2194",LeftRightArrow:"\\u2194",Leftrightarrow:"\\u21d4",leftrightarrows:"\\u21c6",leftrightharpoons:"\\u21cb",leftrightsquigarrow:"\\u21ad",LeftRightVector:"\\u294e",LeftTeeArrow:"\\u21a4",LeftTee:"\\u22a3",LeftTeeVector:"\\u295a",leftthreetimes:"\\u22cb",LeftTriangleBar:"\\u29cf",LeftTriangle:"\\u22b2",LeftTriangleEqual:"\\u22b4",LeftUpDownVector:"\\u2951",LeftUpTeeVector:"\\u2960",LeftUpVectorBar:"\\u2958",LeftUpVector:"\\u21bf",LeftVectorBar:"\\u2952",LeftVector:"\\u21bc",lEg:"\\u2a8b",leg:"\\u22da",leq:"\\u2264",leqq:"\\u2266",leqslant:"\\u2a7d",lescc:"\\u2aa8",les:"\\u2a7d",lesdot:"\\u2a7f",lesdoto:"\\u2a81",lesdotor:"\\u2a83",lesg:"\\u22da\\ufe00",lesges:"\\u2a93",lessapprox:"\\u2a85",lessdot:"\\u22d6",lesseqgtr:"\\u22da",lesseqqgtr:"\\u2a8b",LessEqualGreater:"\\u22da",LessFullEqual:"\\u2266",LessGreater:"\\u2276",lessgtr:"\\u2276",LessLess:"\\u2aa1",lesssim:"\\u2272",LessSlantEqual:"\\u2a7d",LessTilde:"\\u2272",lfisht:"\\u297c",lfloor:"\\u230a",Lfr:"\\ud835\\udd0f",lfr:"\\ud835\\udd29",lg:"\\u2276",lgE:"\\u2a91",lHar:"\\u2962",lhard:"\\u21bd",lharu:"\\u21bc",lharul:"\\u296a",lhblk:"\\u2584",LJcy:"\\u0409",ljcy:"\\u0459",llarr:"\\u21c7",ll:"\\u226a",Ll:"\\u22d8",llcorner:"\\u231e",Lleftarrow:"\\u21da",llhard:"\\u296b",lltri:"\\u25fa",Lmidot:"\\u013f",lmidot:"\\u0140",lmoustache:"\\u23b0",lmoust:"\\u23b0",lnap:"\\u2a89",lnapprox:"\\u2a89",lne:"\\u2a87",lnE:"\\u2268",lneq:"\\u2a87",lneqq:"\\u2268",lnsim:"\\u22e6",loang:"\\u27ec",loarr:"\\u21fd",lobrk:"\\u27e6",longleftarrow:"\\u27f5",LongLeftArrow:"\\u27f5",Longleftarrow:"\\u27f8",longleftrightarrow:"\\u27f7",LongLeftRightArrow:"\\u27f7",Longleftrightarrow:"\\u27fa",longmapsto:"\\u27fc",longrightarrow:"\\u27f6",LongRightArrow:"\\u27f6",Longrightarrow:"\\u27f9",looparrowleft:"\\u21ab",looparrowright:"\\u21ac",lopar:"\\u2985",Lopf:"\\ud835\\udd43",lopf:"\\ud835\\udd5d",loplus:"\\u2a2d",lotimes:"\\u2a34",lowast:"\\u2217",lowbar:"_",LowerLeftArrow:"\\u2199",LowerRightArrow:"\\u2198",loz:"\\u25ca",lozenge:"\\u25ca",lozf:"\\u29eb",lpar:"(",lparlt:"\\u2993",lrarr:"\\u21c6",lrcorner:"\\u231f",lrhar:"\\u21cb",lrhard:"\\u296d",lrm:"\\u200e",lrtri:"\\u22bf",lsaquo:"\\u2039",lscr:"\\ud835\\udcc1",Lscr:"\\u2112",lsh:"\\u21b0",Lsh:"\\u21b0",lsim:"\\u2272",lsime:"\\u2a8d",lsimg:"\\u2a8f",lsqb:"[",lsquo:"\\u2018",lsquor:"\\u201a",Lstrok:"\\u0141",lstrok:"\\u0142",ltcc:"\\u2aa6",ltcir:"\\u2a79",lt:"<",LT:"<",Lt:"\\u226a",ltdot:"\\u22d6",lthree:"\\u22cb",ltimes:"\\u22c9",ltlarr:"\\u2976",ltquest:"\\u2a7b",ltri:"\\u25c3",ltrie:"\\u22b4",ltrif:"\\u25c2",ltrPar:"\\u2996",lurdshar:"\\u294a",luruhar:"\\u2966",lvertneqq:"\\u2268\\ufe00",lvnE:"\\u2268\\ufe00",macr:"\\xaf",male:"\\u2642",malt:"\\u2720",maltese:"\\u2720",Map:"\\u2905",map:"\\u21a6",mapsto:"\\u21a6",mapstodown:"\\u21a7",mapstoleft:"\\u21a4",mapstoup:"\\u21a5",marker:"\\u25ae",mcomma:"\\u2a29",Mcy:"\\u041c",mcy:"\\u043c",mdash:"\\u2014",mDDot:"\\u223a",measuredangle:"\\u2221",MediumSpace:"\\u205f",Mellintrf:"\\u2133",Mfr:"\\ud835\\udd10",mfr:"\\ud835\\udd2a",mho:"\\u2127",micro:"\\xb5",midast:"*",midcir:"\\u2af0",mid:"\\u2223",middot:"\\xb7",minusb:"\\u229f",minus:"\\u2212",minusd:"\\u2238",minusdu:"\\u2a2a",MinusPlus:"\\u2213",mlcp:"\\u2adb",mldr:"\\u2026",mnplus:"\\u2213",models:"\\u22a7",Mopf:"\\ud835\\udd44",mopf:"\\ud835\\udd5e",mp:"\\u2213",mscr:"\\ud835\\udcc2",Mscr:"\\u2133",mstpos:"\\u223e",Mu:"\\u039c",mu:"\\u03bc",multimap:"\\u22b8",mumap:"\\u22b8",nabla:"\\u2207",Nacute:"\\u0143",nacute:"\\u0144",nang:"\\u2220\\u20d2",nap:"\\u2249",napE:"\\u2a70\\u0338",napid:"\\u224b\\u0338",napos:"\\u0149",napprox:"\\u2249",natural:"\\u266e",naturals:"\\u2115",natur:"\\u266e",nbsp:"\\xa0",nbump:"\\u224e\\u0338",nbumpe:"\\u224f\\u0338",ncap:"\\u2a43",Ncaron:"\\u0147",ncaron:"\\u0148",Ncedil:"\\u0145",ncedil:"\\u0146",ncong:"\\u2247",ncongdot:"\\u2a6d\\u0338",ncup:"\\u2a42",Ncy:"\\u041d",ncy:"\\u043d",ndash:"\\u2013",nearhk:"\\u2924",nearr:"\\u2197",neArr:"\\u21d7",nearrow:"\\u2197",ne:"\\u2260",nedot:"\\u2250\\u0338",NegativeMediumSpace:"\\u200b",NegativeThickSpace:"\\u200b",NegativeThinSpace:"\\u200b",NegativeVeryThinSpace:"\\u200b",nequiv:"\\u2262",nesear:"\\u2928",nesim:"\\u2242\\u0338",NestedGreaterGreater:"\\u226b",NestedLessLess:"\\u226a",NewLine:"\\n",nexist:"\\u2204",nexists:"\\u2204",Nfr:"\\ud835\\udd11",nfr:"\\ud835\\udd2b",ngE:"\\u2267\\u0338",nge:"\\u2271",ngeq:"\\u2271",ngeqq:"\\u2267\\u0338",ngeqslant:"\\u2a7e\\u0338",nges:"\\u2a7e\\u0338",nGg:"\\u22d9\\u0338",ngsim:"\\u2275",nGt:"\\u226b\\u20d2",ngt:"\\u226f",ngtr:"\\u226f",nGtv:"\\u226b\\u0338",nharr:"\\u21ae",nhArr:"\\u21ce",nhpar:"\\u2af2",ni:"\\u220b",nis:"\\u22fc",nisd:"\\u22fa",niv:"\\u220b",NJcy:"\\u040a",njcy:"\\u045a",nlarr:"\\u219a",nlArr:"\\u21cd",nldr:"\\u2025",nlE:"\\u2266\\u0338",nle:"\\u2270",nleftarrow:"\\u219a",nLeftarrow:"\\u21cd",nleftrightarrow:"\\u21ae",nLeftrightarrow:"\\u21ce",nleq:"\\u2270",nleqq:"\\u2266\\u0338",nleqslant:"\\u2a7d\\u0338",nles:"\\u2a7d\\u0338",nless:"\\u226e",nLl:"\\u22d8\\u0338",nlsim:"\\u2274",nLt:"\\u226a\\u20d2",nlt:"\\u226e",nltri:"\\u22ea",nltrie:"\\u22ec",nLtv:"\\u226a\\u0338",nmid:"\\u2224",NoBreak:"\\u2060",NonBreakingSpace:"\\xa0",nopf:"\\ud835\\udd5f",Nopf:"\\u2115",Not:"\\u2aec",not:"\\xac",NotCongruent:"\\u2262",NotCupCap:"\\u226d",NotDoubleVerticalBar:"\\u2226",NotElement:"\\u2209",NotEqual:"\\u2260",NotEqualTilde:"\\u2242\\u0338",NotExists:"\\u2204",NotGreater:"\\u226f",NotGreaterEqual:"\\u2271",NotGreaterFullEqual:"\\u2267\\u0338",NotGreaterGreater:"\\u226b\\u0338",NotGreaterLess:"\\u2279",NotGreaterSlantEqual:"\\u2a7e\\u0338",NotGreaterTilde:"\\u2275",NotHumpDownHump:"\\u224e\\u0338",NotHumpEqual:"\\u224f\\u0338",notin:"\\u2209",notindot:"\\u22f5\\u0338",notinE:"\\u22f9\\u0338",notinva:"\\u2209",notinvb:"\\u22f7",notinvc:"\\u22f6",NotLeftTriangleBar:"\\u29cf\\u0338",NotLeftTriangle:"\\u22ea",NotLeftTriangleEqual:"\\u22ec",NotLess:"\\u226e",NotLessEqual:"\\u2270",NotLessGreater:"\\u2278",NotLessLess:"\\u226a\\u0338",NotLessSlantEqual:"\\u2a7d\\u0338",NotLessTilde:"\\u2274",NotNestedGreaterGreater:"\\u2aa2\\u0338",NotNestedLessLess:"\\u2aa1\\u0338",notni:"\\u220c",notniva:"\\u220c",notnivb:"\\u22fe",notnivc:"\\u22fd",NotPrecedes:"\\u2280",NotPrecedesEqual:"\\u2aaf\\u0338",NotPrecedesSlantEqual:"\\u22e0",NotReverseElement:"\\u220c",NotRightTriangleBar:"\\u29d0\\u0338",NotRightTriangle:"\\u22eb",NotRightTriangleEqual:"\\u22ed",NotSquareSubset:"\\u228f\\u0338",NotSquareSubsetEqual:"\\u22e2",NotSquareSuperset:"\\u2290\\u0338",NotSquareSupersetEqual:"\\u22e3",NotSubset:"\\u2282\\u20d2",NotSubsetEqual:"\\u2288",NotSucceeds:"\\u2281",NotSucceedsEqual:"\\u2ab0\\u0338",NotSucceedsSlantEqual:"\\u22e1",NotSucceedsTilde:"\\u227f\\u0338",NotSuperset:"\\u2283\\u20d2",NotSupersetEqual:"\\u2289",NotTilde:"\\u2241",NotTildeEqual:"\\u2244",NotTildeFullEqual:"\\u2247",NotTildeTilde:"\\u2249",NotVerticalBar:"\\u2224",nparallel:"\\u2226",npar:"\\u2226",nparsl:"\\u2afd\\u20e5",npart:"\\u2202\\u0338",npolint:"\\u2a14",npr:"\\u2280",nprcue:"\\u22e0",nprec:"\\u2280",npreceq:"\\u2aaf\\u0338",npre:"\\u2aaf\\u0338",nrarrc:"\\u2933\\u0338",nrarr:"\\u219b",nrArr:"\\u21cf",nrarrw:"\\u219d\\u0338",nrightarrow:"\\u219b",nRightarrow:"\\u21cf",nrtri:"\\u22eb",nrtrie:"\\u22ed",nsc:"\\u2281",nsccue:"\\u22e1",nsce:"\\u2ab0\\u0338",Nscr:"\\ud835\\udca9",nscr:"\\ud835\\udcc3",nshortmid:"\\u2224",nshortparallel:"\\u2226",nsim:"\\u2241",nsime:"\\u2244",nsimeq:"\\u2244",nsmid:"\\u2224",nspar:"\\u2226",nsqsube:"\\u22e2",nsqsupe:"\\u22e3",nsub:"\\u2284",nsubE:"\\u2ac5\\u0338",nsube:"\\u2288",nsubset:"\\u2282\\u20d2",nsubseteq:"\\u2288",nsubseteqq:"\\u2ac5\\u0338",nsucc:"\\u2281",nsucceq:"\\u2ab0\\u0338",nsup:"\\u2285",nsupE:"\\u2ac6\\u0338",nsupe:"\\u2289",nsupset:"\\u2283\\u20d2",nsupseteq:"\\u2289",nsupseteqq:"\\u2ac6\\u0338",ntgl:"\\u2279",Ntilde:"\\xd1",ntilde:"\\xf1",ntlg:"\\u2278",ntriangleleft:"\\u22ea",ntrianglelefteq:"\\u22ec",ntriangleright:"\\u22eb",ntrianglerighteq:"\\u22ed",Nu:"\\u039d",nu:"\\u03bd",num:"#",numero:"\\u2116",numsp:"\\u2007",nvap:"\\u224d\\u20d2",nvdash:"\\u22ac",nvDash:"\\u22ad",nVdash:"\\u22ae",nVDash:"\\u22af",nvge:"\\u2265\\u20d2",nvgt:">\\u20d2",nvHarr:"\\u2904",nvinfin:"\\u29de",nvlArr:"\\u2902",nvle:"\\u2264\\u20d2",nvlt:"<\\u20d2",nvltrie:"\\u22b4\\u20d2",nvrArr:"\\u2903",nvrtrie:"\\u22b5\\u20d2",nvsim:"\\u223c\\u20d2",nwarhk:"\\u2923",nwarr:"\\u2196",nwArr:"\\u21d6",nwarrow:"\\u2196",nwnear:"\\u2927",Oacute:"\\xd3",oacute:"\\xf3",oast:"\\u229b",Ocirc:"\\xd4",ocirc:"\\xf4",ocir:"\\u229a",Ocy:"\\u041e",ocy:"\\u043e",odash:"\\u229d",Odblac:"\\u0150",odblac:"\\u0151",odiv:"\\u2a38",odot:"\\u2299",odsold:"\\u29bc",OElig:"\\u0152",oelig:"\\u0153",ofcir:"\\u29bf",Ofr:"\\ud835\\udd12",ofr:"\\ud835\\udd2c",ogon:"\\u02db",Ograve:"\\xd2",ograve:"\\xf2",ogt:"\\u29c1",ohbar:"\\u29b5",ohm:"\\u03a9",oint:"\\u222e",olarr:"\\u21ba",olcir:"\\u29be",olcross:"\\u29bb",oline:"\\u203e",olt:"\\u29c0",Omacr:"\\u014c",omacr:"\\u014d",Omega:"\\u03a9",omega:"\\u03c9",Omicron:"\\u039f",omicron:"\\u03bf",omid:"\\u29b6",ominus:"\\u2296",Oopf:"\\ud835\\udd46",oopf:"\\ud835\\udd60",opar:"\\u29b7",OpenCurlyDoubleQuote:"\\u201c",OpenCurlyQuote:"\\u2018",operp:"\\u29b9",oplus:"\\u2295",orarr:"\\u21bb",Or:"\\u2a54",or:"\\u2228",ord:"\\u2a5d",order:"\\u2134",orderof:"\\u2134",ordf:"\\xaa",ordm:"\\xba",origof:"\\u22b6",oror:"\\u2a56",orslope:"\\u2a57",orv:"\\u2a5b",oS:"\\u24c8",Oscr:"\\ud835\\udcaa",oscr:"\\u2134",Oslash:"\\xd8",oslash:"\\xf8",osol:"\\u2298",Otilde:"\\xd5",otilde:"\\xf5",otimesas:"\\u2a36",Otimes:"\\u2a37",otimes:"\\u2297",Ouml:"\\xd6",ouml:"\\xf6",ovbar:"\\u233d",OverBar:"\\u203e",OverBrace:"\\u23de",OverBracket:"\\u23b4",OverParenthesis:"\\u23dc",para:"\\xb6",parallel:"\\u2225",par:"\\u2225",parsim:"\\u2af3",parsl:"\\u2afd",part:"\\u2202",PartialD:"\\u2202",Pcy:"\\u041f",pcy:"\\u043f",percnt:"%",period:".",permil:"\\u2030",perp:"\\u22a5",pertenk:"\\u2031",Pfr:"\\ud835\\udd13",pfr:"\\ud835\\udd2d",Phi:"\\u03a6",phi:"\\u03c6",phiv:"\\u03d5",phmmat:"\\u2133",phone:"\\u260e",Pi:"\\u03a0",pi:"\\u03c0",pitchfork:"\\u22d4",piv:"\\u03d6",planck:"\\u210f",planckh:"\\u210e",plankv:"\\u210f",plusacir:"\\u2a23",plusb:"\\u229e",pluscir:"\\u2a22",plus:"+",plusdo:"\\u2214",plusdu:"\\u2a25",pluse:"\\u2a72",PlusMinus:"\\xb1",plusmn:"\\xb1",plussim:"\\u2a26",plustwo:"\\u2a27",pm:"\\xb1",Poincareplane:"\\u210c",pointint:"\\u2a15",popf:"\\ud835\\udd61",Popf:"\\u2119",pound:"\\xa3",prap:"\\u2ab7",Pr:"\\u2abb",pr:"\\u227a",prcue:"\\u227c",precapprox:"\\u2ab7",prec:"\\u227a",preccurlyeq:"\\u227c",Precedes:"\\u227a",PrecedesEqual:"\\u2aaf",PrecedesSlantEqual:"\\u227c",PrecedesTilde:"\\u227e",preceq:"\\u2aaf",precnapprox:"\\u2ab9",precneqq:"\\u2ab5",precnsim:"\\u22e8",pre:"\\u2aaf",prE:"\\u2ab3",precsim:"\\u227e",prime:"\\u2032",Prime:"\\u2033",primes:"\\u2119",prnap:"\\u2ab9",prnE:"\\u2ab5",prnsim:"\\u22e8",prod:"\\u220f",Product:"\\u220f",profalar:"\\u232e",profline:"\\u2312",profsurf:"\\u2313",prop:"\\u221d",Proportional:"\\u221d",Proportion:"\\u2237",propto:"\\u221d",prsim:"\\u227e",prurel:"\\u22b0",Pscr:"\\ud835\\udcab",pscr:"\\ud835\\udcc5",Psi:"\\u03a8",psi:"\\u03c8",puncsp:"\\u2008",Qfr:"\\ud835\\udd14",qfr:"\\ud835\\udd2e",qint:"\\u2a0c",qopf:"\\ud835\\udd62",Qopf:"\\u211a",qprime:"\\u2057",Qscr:"\\ud835\\udcac",qscr:"\\ud835\\udcc6",quaternions:"\\u210d",quatint:"\\u2a16",quest:"?",questeq:"\\u225f",quot:'"',QUOT:'"',rAarr:"\\u21db",race:"\\u223d\\u0331",Racute:"\\u0154",racute:"\\u0155",radic:"\\u221a",raemptyv:"\\u29b3",rang:"\\u27e9",Rang:"\\u27eb",rangd:"\\u2992",range:"\\u29a5",rangle:"\\u27e9",raquo:"\\xbb",rarrap:"\\u2975",rarrb:"\\u21e5",rarrbfs:"\\u2920",rarrc:"\\u2933",rarr:"\\u2192",Rarr:"\\u21a0",rArr:"\\u21d2",rarrfs:"\\u291e",rarrhk:"\\u21aa",rarrlp:"\\u21ac",rarrpl:"\\u2945",rarrsim:"\\u2974",Rarrtl:"\\u2916",rarrtl:"\\u21a3",rarrw:"\\u219d",ratail:"\\u291a",rAtail:"\\u291c",ratio:"\\u2236",rationals:"\\u211a",rbarr:"\\u290d",rBarr:"\\u290f",RBarr:"\\u2910",rbbrk:"\\u2773",rbrace:"}",rbrack:"]",rbrke:"\\u298c",rbrksld:"\\u298e",rbrkslu:"\\u2990",Rcaron:"\\u0158",rcaron:"\\u0159",Rcedil:"\\u0156",rcedil:"\\u0157",rceil:"\\u2309",rcub:"}",Rcy:"\\u0420",rcy:"\\u0440",rdca:"\\u2937",rdldhar:"\\u2969",rdquo:"\\u201d",rdquor:"\\u201d",rdsh:"\\u21b3",real:"\\u211c",realine:"\\u211b",realpart:"\\u211c",reals:"\\u211d",Re:"\\u211c",rect:"\\u25ad",reg:"\\xae",REG:"\\xae",ReverseElement:"\\u220b",ReverseEquilibrium:"\\u21cb",ReverseUpEquilibrium:"\\u296f",rfisht:"\\u297d",rfloor:"\\u230b",rfr:"\\ud835\\udd2f",Rfr:"\\u211c",rHar:"\\u2964",rhard:"\\u21c1",rharu:"\\u21c0",rharul:"\\u296c",Rho:"\\u03a1",rho:"\\u03c1",rhov:"\\u03f1",RightAngleBracket:"\\u27e9",RightArrowBar:"\\u21e5",rightarrow:"\\u2192",RightArrow:"\\u2192",Rightarrow:"\\u21d2",RightArrowLeftArrow:"\\u21c4",rightarrowtail:"\\u21a3",RightCeiling:"\\u2309",RightDoubleBracket:"\\u27e7",RightDownTeeVector:"\\u295d",RightDownVectorBar:"\\u2955",RightDownVector:"\\u21c2",RightFloor:"\\u230b",rightharpoondown:"\\u21c1",rightharpoonup:"\\u21c0",rightleftarrows:"\\u21c4",rightleftharpoons:"\\u21cc",rightrightarrows:"\\u21c9",rightsquigarrow:"\\u219d",RightTeeArrow:"\\u21a6",RightTee:"\\u22a2",RightTeeVector:"\\u295b",rightthreetimes:"\\u22cc",RightTriangleBar:"\\u29d0",RightTriangle:"\\u22b3",RightTriangleEqual:"\\u22b5",RightUpDownVector:"\\u294f",RightUpTeeVector:"\\u295c",RightUpVectorBar:"\\u2954",RightUpVector:"\\u21be",RightVectorBar:"\\u2953",RightVector:"\\u21c0",ring:"\\u02da",risingdotseq:"\\u2253",rlarr:"\\u21c4",rlhar:"\\u21cc",rlm:"\\u200f",rmoustache:"\\u23b1",rmoust:"\\u23b1",rnmid:"\\u2aee",roang:"\\u27ed",roarr:"\\u21fe",robrk:"\\u27e7",ropar:"\\u2986",ropf:"\\ud835\\udd63",Ropf:"\\u211d",roplus:"\\u2a2e",rotimes:"\\u2a35",RoundImplies:"\\u2970",rpar:")",rpargt:"\\u2994",rppolint:"\\u2a12",rrarr:"\\u21c9",Rrightarrow:"\\u21db",rsaquo:"\\u203a",rscr:"\\ud835\\udcc7",Rscr:"\\u211b",rsh:"\\u21b1",Rsh:"\\u21b1",rsqb:"]",rsquo:"\\u2019",rsquor:"\\u2019",rthree:"\\u22cc",rtimes:"\\u22ca",rtri:"\\u25b9",rtrie:"\\u22b5",rtrif:"\\u25b8",rtriltri:"\\u29ce",RuleDelayed:"\\u29f4",ruluhar:"\\u2968",rx:"\\u211e",Sacute:"\\u015a",sacute:"\\u015b",sbquo:"\\u201a",scap:"\\u2ab8",Scaron:"\\u0160",scaron:"\\u0161",Sc:"\\u2abc",sc:"\\u227b",sccue:"\\u227d",sce:"\\u2ab0",scE:"\\u2ab4",Scedil:"\\u015e",scedil:"\\u015f",Scirc:"\\u015c",scirc:"\\u015d",scnap:"\\u2aba",scnE:"\\u2ab6",scnsim:"\\u22e9",scpolint:"\\u2a13",scsim:"\\u227f",Scy:"\\u0421",scy:"\\u0441",sdotb:"\\u22a1",sdot:"\\u22c5",sdote:"\\u2a66",searhk:"\\u2925",searr:"\\u2198",seArr:"\\u21d8",searrow:"\\u2198",sect:"\\xa7",semi:";",seswar:"\\u2929",setminus:"\\u2216",setmn:"\\u2216",sext:"\\u2736",Sfr:"\\ud835\\udd16",sfr:"\\ud835\\udd30",sfrown:"\\u2322",sharp:"\\u266f",SHCHcy:"\\u0429",shchcy:"\\u0449",SHcy:"\\u0428",shcy:"\\u0448",ShortDownArrow:"\\u2193",ShortLeftArrow:"\\u2190",shortmid:"\\u2223",shortparallel:"\\u2225",ShortRightArrow:"\\u2192",ShortUpArrow:"\\u2191",shy:"\\xad",Sigma:"\\u03a3",sigma:"\\u03c3",sigmaf:"\\u03c2",sigmav:"\\u03c2",sim:"\\u223c",simdot:"\\u2a6a",sime:"\\u2243",simeq:"\\u2243",simg:"\\u2a9e",simgE:"\\u2aa0",siml:"\\u2a9d",simlE:"\\u2a9f",simne:"\\u2246",simplus:"\\u2a24",simrarr:"\\u2972",slarr:"\\u2190",SmallCircle:"\\u2218",smallsetminus:"\\u2216",smashp:"\\u2a33",smeparsl:"\\u29e4",smid:"\\u2223",smile:"\\u2323",smt:"\\u2aaa",smte:"\\u2aac",smtes:"\\u2aac\\ufe00",SOFTcy:"\\u042c",softcy:"\\u044c",solbar:"\\u233f",solb:"\\u29c4",sol:"/",Sopf:"\\ud835\\udd4a",sopf:"\\ud835\\udd64",spades:"\\u2660",spadesuit:"\\u2660",spar:"\\u2225",sqcap:"\\u2293",sqcaps:"\\u2293\\ufe00",sqcup:"\\u2294",sqcups:"\\u2294\\ufe00",Sqrt:"\\u221a",sqsub:"\\u228f",sqsube:"\\u2291",sqsubset:"\\u228f",sqsubseteq:"\\u2291",sqsup:"\\u2290",sqsupe:"\\u2292",sqsupset:"\\u2290",sqsupseteq:"\\u2292",square:"\\u25a1",Square:"\\u25a1",SquareIntersection:"\\u2293",SquareSubset:"\\u228f",SquareSubsetEqual:"\\u2291",SquareSuperset:"\\u2290",SquareSupersetEqual:"\\u2292",SquareUnion:"\\u2294",squarf:"\\u25aa",squ:"\\u25a1",squf:"\\u25aa",srarr:"\\u2192",Sscr:"\\ud835\\udcae",sscr:"\\ud835\\udcc8",ssetmn:"\\u2216",ssmile:"\\u2323",sstarf:"\\u22c6",Star:"\\u22c6",star:"\\u2606",starf:"\\u2605",straightepsilon:"\\u03f5",straightphi:"\\u03d5",strns:"\\xaf",sub:"\\u2282",Sub:"\\u22d0",subdot:"\\u2abd",subE:"\\u2ac5",sube:"\\u2286",subedot:"\\u2ac3",submult:"\\u2ac1",subnE:"\\u2acb",subne:"\\u228a",subplus:"\\u2abf",subrarr:"\\u2979",subset:"\\u2282",Subset:"\\u22d0",subseteq:"\\u2286",subseteqq:"\\u2ac5",SubsetEqual:"\\u2286",subsetneq:"\\u228a",subsetneqq:"\\u2acb",subsim:"\\u2ac7",subsub:"\\u2ad5",subsup:"\\u2ad3",succapprox:"\\u2ab8",succ:"\\u227b",succcurlyeq:"\\u227d",Succeeds:"\\u227b",SucceedsEqual:"\\u2ab0",SucceedsSlantEqual:"\\u227d",SucceedsTilde:"\\u227f",succeq:"\\u2ab0",succnapprox:"\\u2aba",succneqq:"\\u2ab6",succnsim:"\\u22e9",succsim:"\\u227f",SuchThat:"\\u220b",sum:"\\u2211",Sum:"\\u2211",sung:"\\u266a",sup1:"\\xb9",sup2:"\\xb2",sup3:"\\xb3",sup:"\\u2283",Sup:"\\u22d1",supdot:"\\u2abe",supdsub:"\\u2ad8",supE:"\\u2ac6",supe:"\\u2287",supedot:"\\u2ac4",Superset:"\\u2283",SupersetEqual:"\\u2287",suphsol:"\\u27c9",suphsub:"\\u2ad7",suplarr:"\\u297b",supmult:"\\u2ac2",supnE:"\\u2acc",supne:"\\u228b",supplus:"\\u2ac0",supset:"\\u2283",Supset:"\\u22d1",supseteq:"\\u2287",supseteqq:"\\u2ac6",supsetneq:"\\u228b",supsetneqq:"\\u2acc",supsim:"\\u2ac8",supsub:"\\u2ad4",supsup:"\\u2ad6",swarhk:"\\u2926",swarr:"\\u2199",swArr:"\\u21d9",swarrow:"\\u2199",swnwar:"\\u292a",szlig:"\\xdf",Tab:"\\t",target:"\\u2316",Tau:"\\u03a4",tau:"\\u03c4",tbrk:"\\u23b4",Tcaron:"\\u0164",tcaron:"\\u0165",Tcedil:"\\u0162",tcedil:"\\u0163",Tcy:"\\u0422",tcy:"\\u0442",tdot:"\\u20db",telrec:"\\u2315",Tfr:"\\ud835\\udd17",tfr:"\\ud835\\udd31",there4:"\\u2234",therefore:"\\u2234",Therefore:"\\u2234",Theta:"\\u0398",theta:"\\u03b8",thetasym:"\\u03d1",thetav:"\\u03d1",thickapprox:"\\u2248",thicksim:"\\u223c",ThickSpace:"\\u205f\\u200a",ThinSpace:"\\u2009",thinsp:"\\u2009",thkap:"\\u2248",thksim:"\\u223c",THORN:"\\xde",thorn:"\\xfe",tilde:"\\u02dc",Tilde:"\\u223c",TildeEqual:"\\u2243",TildeFullEqual:"\\u2245",TildeTilde:"\\u2248",timesbar:"\\u2a31",timesb:"\\u22a0",times:"\\xd7",timesd:"\\u2a30",tint:"\\u222d",toea:"\\u2928",topbot:"\\u2336",topcir:"\\u2af1",top:"\\u22a4",Topf:"\\ud835\\udd4b",topf:"\\ud835\\udd65",topfork:"\\u2ada",tosa:"\\u2929",tprime:"\\u2034",trade:"\\u2122",TRADE:"\\u2122",triangle:"\\u25b5",triangledown:"\\u25bf",triangleleft:"\\u25c3",trianglelefteq:"\\u22b4",triangleq:"\\u225c",triangleright:"\\u25b9",trianglerighteq:"\\u22b5",tridot:"\\u25ec",trie:"\\u225c",triminus:"\\u2a3a",TripleDot:"\\u20db",triplus:"\\u2a39",trisb:"\\u29cd",tritime:"\\u2a3b",trpezium:"\\u23e2",Tscr:"\\ud835\\udcaf",tscr:"\\ud835\\udcc9",TScy:"\\u0426",tscy:"\\u0446",TSHcy:"\\u040b",tshcy:"\\u045b",Tstrok:"\\u0166",tstrok:"\\u0167",twixt:"\\u226c",twoheadleftarrow:"\\u219e",twoheadrightarrow:"\\u21a0",Uacute:"\\xda",uacute:"\\xfa",uarr:"\\u2191",Uarr:"\\u219f",uArr:"\\u21d1",Uarrocir:"\\u2949",Ubrcy:"\\u040e",ubrcy:"\\u045e",Ubreve:"\\u016c",ubreve:"\\u016d",Ucirc:"\\xdb",ucirc:"\\xfb",Ucy:"\\u0423",ucy:"\\u0443",udarr:"\\u21c5",Udblac:"\\u0170",udblac:"\\u0171",udhar:"\\u296e",ufisht:"\\u297e",Ufr:"\\ud835\\udd18",ufr:"\\ud835\\udd32",Ugrave:"\\xd9",ugrave:"\\xf9",uHar:"\\u2963",uharl:"\\u21bf",uharr:"\\u21be",uhblk:"\\u2580",ulcorn:"\\u231c",ulcorner:"\\u231c",ulcrop:"\\u230f",ultri:"\\u25f8",Umacr:"\\u016a",umacr:"\\u016b",uml:"\\xa8",UnderBar:"_",UnderBrace:"\\u23df",UnderBracket:"\\u23b5",UnderParenthesis:"\\u23dd",Union:"\\u22c3",UnionPlus:"\\u228e",Uogon:"\\u0172",uogon:"\\u0173",Uopf:"\\ud835\\udd4c",uopf:"\\ud835\\udd66",UpArrowBar:"\\u2912",uparrow:"\\u2191",UpArrow:"\\u2191",Uparrow:"\\u21d1",UpArrowDownArrow:"\\u21c5",updownarrow:"\\u2195",UpDownArrow:"\\u2195",Updownarrow:"\\u21d5",UpEquilibrium:"\\u296e",upharpoonleft:"\\u21bf",upharpoonright:"\\u21be",uplus:"\\u228e",UpperLeftArrow:"\\u2196",UpperRightArrow:"\\u2197",upsi:"\\u03c5",Upsi:"\\u03d2",upsih:"\\u03d2",Upsilon:"\\u03a5",upsilon:"\\u03c5",UpTeeArrow:"\\u21a5",UpTee:"\\u22a5",upuparrows:"\\u21c8",urcorn:"\\u231d",urcorner:"\\u231d",urcrop:"\\u230e",Uring:"\\u016e",uring:"\\u016f",urtri:"\\u25f9",Uscr:"\\ud835\\udcb0",uscr:"\\ud835\\udcca",utdot:"\\u22f0",Utilde:"\\u0168",utilde:"\\u0169",utri:"\\u25b5",utrif:"\\u25b4",uuarr:"\\u21c8",Uuml:"\\xdc",uuml:"\\xfc",uwangle:"\\u29a7",vangrt:"\\u299c",varepsilon:"\\u03f5",varkappa:"\\u03f0",varnothing:"\\u2205",varphi:"\\u03d5",varpi:"\\u03d6",varpropto:"\\u221d",varr:"\\u2195",vArr:"\\u21d5",varrho:"\\u03f1",varsigma:"\\u03c2",varsubsetneq:"\\u228a\\ufe00",varsubsetneqq:"\\u2acb\\ufe00",varsupsetneq:"\\u228b\\ufe00",varsupsetneqq:"\\u2acc\\ufe00",vartheta:"\\u03d1",vartriangleleft:"\\u22b2",vartriangleright:"\\u22b3",vBar:"\\u2ae8",Vbar:"\\u2aeb",vBarv:"\\u2ae9",Vcy:"\\u0412",vcy:"\\u0432",vdash:"\\u22a2",vDash:"\\u22a8",Vdash:"\\u22a9",VDash:"\\u22ab",Vdashl:"\\u2ae6",veebar:"\\u22bb",vee:"\\u2228",Vee:"\\u22c1",veeeq:"\\u225a",vellip:"\\u22ee",verbar:"|",Verbar:"\\u2016",vert:"|",Vert:"\\u2016",VerticalBar:"\\u2223",VerticalLine:"|",VerticalSeparator:"\\u2758",VerticalTilde:"\\u2240",VeryThinSpace:"\\u200a",Vfr:"\\ud835\\udd19",vfr:"\\ud835\\udd33",vltri:"\\u22b2",vnsub:"\\u2282\\u20d2",vnsup:"\\u2283\\u20d2",Vopf:"\\ud835\\udd4d",vopf:"\\ud835\\udd67",vprop:"\\u221d",vrtri:"\\u22b3",Vscr:"\\ud835\\udcb1",vscr:"\\ud835\\udccb",vsubnE:"\\u2acb\\ufe00",vsubne:"\\u228a\\ufe00",vsupnE:"\\u2acc\\ufe00",vsupne:"\\u228b\\ufe00",Vvdash:"\\u22aa",vzigzag:"\\u299a",Wcirc:"\\u0174",wcirc:"\\u0175",wedbar:"\\u2a5f",wedge:"\\u2227",Wedge:"\\u22c0",wedgeq:"\\u2259",weierp:"\\u2118",Wfr:"\\ud835\\udd1a",wfr:"\\ud835\\udd34",Wopf:"\\ud835\\udd4e",wopf:"\\ud835\\udd68",wp:"\\u2118",wr:"\\u2240",wreath:"\\u2240",Wscr:"\\ud835\\udcb2",wscr:"\\ud835\\udccc",xcap:"\\u22c2",xcirc:"\\u25ef",xcup:"\\u22c3",xdtri:"\\u25bd",Xfr:"\\ud835\\udd1b",xfr:"\\ud835\\udd35",xharr:"\\u27f7",xhArr:"\\u27fa",Xi:"\\u039e",xi:"\\u03be",xlarr:"\\u27f5",xlArr:"\\u27f8",xmap:"\\u27fc",xnis:"\\u22fb",xodot:"\\u2a00",Xopf:"\\ud835\\udd4f",xopf:"\\ud835\\udd69",xoplus:"\\u2a01",xotime:"\\u2a02",xrarr:"\\u27f6",xrArr:"\\u27f9",Xscr:"\\ud835\\udcb3",xscr:"\\ud835\\udccd",xsqcup:"\\u2a06",xuplus:"\\u2a04",xutri:"\\u25b3",xvee:"\\u22c1",xwedge:"\\u22c0",Yacute:"\\xdd",yacute:"\\xfd",YAcy:"\\u042f",yacy:"\\u044f",Ycirc:"\\u0176",ycirc:"\\u0177",Ycy:"\\u042b",ycy:"\\u044b",yen:"\\xa5",Yfr:"\\ud835\\udd1c",yfr:"\\ud835\\udd36",YIcy:"\\u0407",yicy:"\\u0457",Yopf:"\\ud835\\udd50",yopf:"\\ud835\\udd6a",Yscr:"\\ud835\\udcb4",yscr:"\\ud835\\udcce",YUcy:"\\u042e",yucy:"\\u044e",yuml:"\\xff",Yuml:"\\u0178",Zacute:"\\u0179",zacute:"\\u017a",Zcaron:"\\u017d",zcaron:"\\u017e",Zcy:"\\u0417",zcy:"\\u0437",Zdot:"\\u017b",zdot:"\\u017c",zeetrf:"\\u2128",ZeroWidthSpace:"\\u200b",Zeta:"\\u0396",zeta:"\\u03b6",zfr:"\\ud835\\udd37",Zfr:"\\u2128",ZHcy:"\\u0416",zhcy:"\\u0436",zigrarr:"\\u21dd",zopf:"\\ud835\\udd6b",Zopf:"\\u2124",Zscr:"\\ud835\\udcb5",zscr:"\\ud835\\udccf",zwj:"\\u200d",zwnj:"\\u200c"},t=/[!-#%-\\*,-\\/:;\\?@\\[-\\]_\\{\\}\\xA1\\xA7\\xAB\\xB6\\xB7\\xBB\\xBF\\u037E\\u0387\\u055A-\\u055F\\u0589\\u058A\\u05BE\\u05C0\\u05C3\\u05C6\\u05F3\\u05F4\\u0609\\u060A\\u060C\\u060D\\u061B\\u061E\\u061F\\u066A-\\u066D\\u06D4\\u0700-\\u070D\\u07F7-\\u07F9\\u0830-\\u083E\\u085E\\u0964\\u0965\\u0970\\u09FD\\u0A76\\u0AF0\\u0C84\\u0DF4\\u0E4F\\u0E5A\\u0E5B\\u0F04-\\u0F12\\u0F14\\u0F3A-\\u0F3D\\u0F85\\u0FD0-\\u0FD4\\u0FD9\\u0FDA\\u104A-\\u104F\\u10FB\\u1360-\\u1368\\u1400\\u166D\\u166E\\u169B\\u169C\\u16EB-\\u16ED\\u1735\\u1736\\u17D4-\\u17D6\\u17D8-\\u17DA\\u1800-\\u180A\\u1944\\u1945\\u1A1E\\u1A1F\\u1AA0-\\u1AA6\\u1AA8-\\u1AAD\\u1B5A-\\u1B60\\u1BFC-\\u1BFF\\u1C3B-\\u1C3F\\u1C7E\\u1C7F\\u1CC0-\\u1CC7\\u1CD3\\u2010-\\u2027\\u2030-\\u2043\\u2045-\\u2051\\u2053-\\u205E\\u207D\\u207E\\u208D\\u208E\\u2308-\\u230B\\u2329\\u232A\\u2768-\\u2775\\u27C5\\u27C6\\u27E6-\\u27EF\\u2983-\\u2998\\u29D8-\\u29DB\\u29FC\\u29FD\\u2CF9-\\u2CFC\\u2CFE\\u2CFF\\u2D70\\u2E00-\\u2E2E\\u2E30-\\u2E4E\\u3001-\\u3003\\u3008-\\u3011\\u3014-\\u301F\\u3030\\u303D\\u30A0\\u30FB\\uA4FE\\uA4FF\\uA60D-\\uA60F\\uA673\\uA67E\\uA6F2-\\uA6F7\\uA874-\\uA877\\uA8CE\\uA8CF\\uA8F8-\\uA8FA\\uA8FC\\uA92E\\uA92F\\uA95F\\uA9C1-\\uA9CD\\uA9DE\\uA9DF\\uAA5C-\\uAA5F\\uAADE\\uAADF\\uAAF0\\uAAF1\\uABEB\\uFD3E\\uFD3F\\uFE10-\\uFE19\\uFE30-\\uFE52\\uFE54-\\uFE61\\uFE63\\uFE68\\uFE6A\\uFE6B\\uFF01-\\uFF03\\uFF05-\\uFF0A\\uFF0C-\\uFF0F\\uFF1A\\uFF1B\\uFF1F\\uFF20\\uFF3B-\\uFF3D\\uFF3F\\uFF5B\\uFF5D\\uFF5F-\\uFF65]|\\uD800[\\uDD00-\\uDD02\\uDF9F\\uDFD0]|\\uD801\\uDD6F|\\uD802[\\uDC57\\uDD1F\\uDD3F\\uDE50-\\uDE58\\uDE7F\\uDEF0-\\uDEF6\\uDF39-\\uDF3F\\uDF99-\\uDF9C]|\\uD803[\\uDF55-\\uDF59]|\\uD804[\\uDC47-\\uDC4D\\uDCBB\\uDCBC\\uDCBE-\\uDCC1\\uDD40-\\uDD43\\uDD74\\uDD75\\uDDC5-\\uDDC8\\uDDCD\\uDDDB\\uDDDD-\\uDDDF\\uDE38-\\uDE3D\\uDEA9]|\\uD805[\\uDC4B-\\uDC4F\\uDC5B\\uDC5D\\uDCC6\\uDDC1-\\uDDD7\\uDE41-\\uDE43\\uDE60-\\uDE6C\\uDF3C-\\uDF3E]|\\uD806[\\uDC3B\\uDE3F-\\uDE46\\uDE9A-\\uDE9C\\uDE9E-\\uDEA2]|\\uD807[\\uDC41-\\uDC45\\uDC70\\uDC71\\uDEF7\\uDEF8]|\\uD809[\\uDC70-\\uDC74]|\\uD81A[\\uDE6E\\uDE6F\\uDEF5\\uDF37-\\uDF3B\\uDF44]|\\uD81B[\\uDE97-\\uDE9A]|\\uD82F\\uDC9F|\\uD836[\\uDE87-\\uDE8B]|\\uD83A[\\uDD5E\\uDD5F]/,n={};function s(e,r,t){var o,i,a,c,l,u="";for("string"!=typeof r&&(t=r,r=s.defaultChars),void 0===t&&(t=!0),l=function(e){var r,t,s=n[e];if(s)return s;for(s=n[e]=[],r=0;r<128;r++)t=String.fromCharCode(r),/^[0-9a-z]$/i.test(t)?s.push(t):s.push("%"+("0"+r.toString(16).toUpperCase()).slice(-2));for(r=0;r<e.length;r++)s[e.charCodeAt(r)]=e[r];return s}(r),o=0,i=e.length;o<i;o++)if(a=e.charCodeAt(o),t&&37===a&&o+2<i&&/^[0-9a-f]{2}$/i.test(e.slice(o+1,o+3)))u+=e.slice(o,o+3),o+=2;else if(a<128)u+=l[a];else if(a>=55296&&a<=57343){if(a>=55296&&a<=56319&&o+1<i&&(c=e.charCodeAt(o+1))>=56320&&c<=57343){u+=encodeURIComponent(e[o]+e[o+1]),o++;continue}u+="%EF%BF%BD"}else u+=encodeURIComponent(e[o]);return u}s.defaultChars=";/?:@&=+$,-_.!~*'()#",s.componentChars="-_.!~*'()";var o=s,i={};function a(e,r){var t;return"string"!=typeof r&&(r=a.defaultChars),t=function(e){var r,t,n=i[e];if(n)return n;for(n=i[e]=[],r=0;r<128;r++)t=String.fromCharCode(r),n.push(t);for(r=0;r<e.length;r++)n[t=e.charCodeAt(r)]="%"+("0"+t.toString(16).toUpperCase()).slice(-2);return n}(r),e.replace(/(%[a-f0-9]{2})+/gi,(function(e){var r,n,s,o,i,a,c,l="";for(r=0,n=e.length;r<n;r+=3)(s=parseInt(e.slice(r+1,r+3),16))<128?l+=t[s]:192==(224&s)&&r+3<n&&128==(192&(o=parseInt(e.slice(r+4,r+6),16)))?(l+=(c=s<<6&1984|63&o)<128?"\\ufffd\\ufffd":String.fromCharCode(c),r+=3):224==(240&s)&&r+6<n&&(o=parseInt(e.slice(r+4,r+6),16),i=parseInt(e.slice(r+7,r+9),16),128==(192&o)&&128==(192&i))?(l+=(c=s<<12&61440|o<<6&4032|63&i)<2048||c>=55296&&c<=57343?"\\ufffd\\ufffd\\ufffd":String.fromCharCode(c),r+=6):240==(248&s)&&r+9<n&&(o=parseInt(e.slice(r+4,r+6),16),i=parseInt(e.slice(r+7,r+9),16),a=parseInt(e.slice(r+10,r+12),16),128==(192&o)&&128==(192&i)&&128==(192&a))?((c=s<<18&1835008|o<<12&258048|i<<6&4032|63&a)<65536||c>1114111?l+="\\ufffd\\ufffd\\ufffd\\ufffd":(c-=65536,l+=String.fromCharCode(55296+(c>>10),56320+(1023&c))),r+=9):l+="\\ufffd";return l}))}a.defaultChars=";/?:@&=+$,#",a.componentChars="";var c=a;function l(){this.protocol=null,this.slashes=null,this.auth=null,this.port=null,this.hostname=null,this.hash=null,this.search=null,this.pathname=null}var u=/^([a-z0-9.+-]+:)/i,p=/:[0-9]*$/,h=/^(\\/\\/?(?!\\/)[^\\?\\s]*)(\\?[^\\s]*)?$/,f=["{","}","|","\\\\","^","\`"].concat(["<",">",'"',"\`"," ","\\r","\\n","\\t"]),d=["'"].concat(f),m=["%","/","?",";","#"].concat(d),g=["/","?","#"],_=/^[+a-z0-9A-Z_-]{0,63}$/,k=/^([+a-z0-9A-Z_-]{0,63})(.*)$/,b={javascript:!0,"javascript:":!0},v={http:!0,https:!0,ftp:!0,gopher:!0,file:!0,"http:":!0,"https:":!0,"ftp:":!0,"gopher:":!0,"file:":!0};l.prototype.parse=function(e,r){var t,n,s,o,i,a=e;if(a=a.trim(),!r&&1===e.split("#").length){var c=h.exec(a);if(c)return this.pathname=c[1],c[2]&&(this.search=c[2]),this}var l=u.exec(a);if(l&&(s=(l=l[0]).toLowerCase(),this.protocol=l,a=a.substr(l.length)),(r||l||a.match(/^\\/\\/[^@\\/]+@[^@\\/]+/))&&(!(i="//"===a.substr(0,2))||l&&b[l]||(a=a.substr(2),this.slashes=!0)),!b[l]&&(i||l&&!v[l])){var p,f,d=-1;for(t=0;t<g.length;t++)-1!==(o=a.indexOf(g[t]))&&(-1===d||o<d)&&(d=o);for(-1!==(f=-1===d?a.lastIndexOf("@"):a.lastIndexOf("@",d))&&(p=a.slice(0,f),a=a.slice(f+1),this.auth=p),d=-1,t=0;t<m.length;t++)-1!==(o=a.indexOf(m[t]))&&(-1===d||o<d)&&(d=o);-1===d&&(d=a.length),":"===a[d-1]&&d--;var C=a.slice(0,d);a=a.slice(d),this.parseHost(C),this.hostname=this.hostname||"";var y="["===this.hostname[0]&&"]"===this.hostname[this.hostname.length-1];if(!y){var A=this.hostname.split(/\\./);for(t=0,n=A.length;t<n;t++){var x=A[t];if(x&&!x.match(_)){for(var D="",w=0,E=x.length;w<E;w++)x.charCodeAt(w)>127?D+="x":D+=x[w];if(!D.match(_)){var q=A.slice(0,t),S=A.slice(t+1),F=x.match(k);F&&(q.push(F[1]),S.unshift(F[2])),S.length&&(a=S.join(".")+a),this.hostname=q.join(".");break}}}}this.hostname.length>255&&(this.hostname=""),y&&(this.hostname=this.hostname.substr(1,this.hostname.length-2))}var L=a.indexOf("#");-1!==L&&(this.hash=a.substr(L),a=a.slice(0,L));var z=a.indexOf("?");return-1!==z&&(this.search=a.substr(z),a=a.slice(0,z)),a&&(this.pathname=a),v[s]&&this.hostname&&!this.pathname&&(this.pathname=""),this},l.prototype.parseHost=function(e){var r=p.exec(e);r&&(":"!==(r=r[0])&&(this.port=r.substr(1)),e=e.substr(0,e.length-r.length)),e&&(this.hostname=e)};var C={encode:o,decode:c,format:function(e){var r="";return r+=e.protocol||"",r+=e.slashes?"//":"",r+=e.auth?e.auth+"@":"",e.hostname&&-1!==e.hostname.indexOf(":")?r+="["+e.hostname+"]":r+=e.hostname||"",r+=e.port?":"+e.port:"",r+=e.pathname||"",r+=e.search||"",r+=e.hash||""},parse:function(e,r){if(e&&e instanceof l)return e;var t=new l;return t.parse(e,r),t}},y=/[\\0-\\uD7FF\\uE000-\\uFFFF]|[\\uD800-\\uDBFF][\\uDC00-\\uDFFF]|[\\uD800-\\uDBFF](?![\\uDC00-\\uDFFF])|(?:[^\\uD800-\\uDBFF]|^)[\\uDC00-\\uDFFF]/,A=/[\\0-\\x1F\\x7F-\\x9F]/,x=/[ \\xA0\\u1680\\u2000-\\u200A\\u2028\\u2029\\u202F\\u205F\\u3000]/,D={Any:y,Cc:A,Cf:/[\\xAD\\u0600-\\u0605\\u061C\\u06DD\\u070F\\u08E2\\u180E\\u200B-\\u200F\\u202A-\\u202E\\u2060-\\u2064\\u2066-\\u206F\\uFEFF\\uFFF9-\\uFFFB]|\\uD804[\\uDCBD\\uDCCD]|\\uD82F[\\uDCA0-\\uDCA3]|\\uD834[\\uDD73-\\uDD7A]|\\uDB40[\\uDC01\\uDC20-\\uDC7F]/,P:t,Z:x},w=function(e,r,t){return t={path:r,exports:{},require:function(e,r){return function(){throw new Error("Dynamic requires are not currently supported by @rollup/plugin-commonjs")}(null==r&&t.path)}},e(t,t.exports),t.exports}((function(e,n){var s=Object.prototype.hasOwnProperty;function o(e,r){return s.call(e,r)}function i(e){return!(e>=55296&&e<=57343)&&(!(e>=64976&&e<=65007)&&(65535!=(65535&e)&&65534!=(65535&e)&&(!(e>=0&&e<=8)&&(11!==e&&(!(e>=14&&e<=31)&&(!(e>=127&&e<=159)&&!(e>1114111)))))))}function a(e){if(e>65535){var r=55296+((e-=65536)>>10),t=56320+(1023&e);return String.fromCharCode(r,t)}return String.fromCharCode(e)}var c=/\\\\([!"#$%&'()*+,\\-.\\/:;<=>?@[\\\\\\]^_\`{|}~])/g,l=new RegExp(c.source+"|"+/&([a-z#][a-z0-9]{1,31});/gi.source,"gi"),u=/^#((?:x[a-f0-9]{1,8}|[0-9]{1,8}))/i;var p=/[&<>"]/,h=/[&<>"]/g,f={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"};function d(e){return f[e]}var m=/[.?*+^$[\\]\\\\(){}|-]/g;n.lib={},n.lib.mdurl=C,n.lib.ucmicro=D,n.assign=function(e){var r=Array.prototype.slice.call(arguments,1);return r.forEach((function(r){if(r){if("object"!=typeof r)throw new TypeError(r+"must be object");Object.keys(r).forEach((function(t){e[t]=r[t]}))}})),e},n.isString=function(e){return"[object String]"===function(e){return Object.prototype.toString.call(e)}(e)},n.has=o,n.unescapeMd=function(e){return e.indexOf("\\\\")<0?e:e.replace(c,"$1")},n.unescapeAll=function(e){return e.indexOf("\\\\")<0&&e.indexOf("&")<0?e:e.replace(l,(function(e,t,n){return t||function(e,t){var n=0;return o(r,t)?r[t]:35===t.charCodeAt(0)&&u.test(t)&&i(n="x"===t[1].toLowerCase()?parseInt(t.slice(2),16):parseInt(t.slice(1),10))?a(n):e}(e,n)}))},n.isValidEntityCode=i,n.fromCodePoint=a,n.escapeHtml=function(e){return p.test(e)?e.replace(h,d):e},n.arrayReplaceAt=function(e,r,t){return[].concat(e.slice(0,r),t,e.slice(r+1))},n.isSpace=function(e){switch(e){case 9:case 32:return!0}return!1},n.isWhiteSpace=function(e){if(e>=8192&&e<=8202)return!0;switch(e){case 9:case 10:case 11:case 12:case 13:case 32:case 160:case 5760:case 8239:case 8287:case 12288:return!0}return!1},n.isMdAsciiPunct=function(e){switch(e){case 33:case 34:case 35:case 36:case 37:case 38:case 39:case 40:case 41:case 42:case 43:case 44:case 45:case 46:case 47:case 58:case 59:case 60:case 61:case 62:case 63:case 64:case 91:case 92:case 93:case 94:case 95:case 96:case 123:case 124:case 125:case 126:return!0;default:return!1}},n.isPunctChar=function(e){return t.test(e)},n.escapeRE=function(e){return e.replace(m,"\\\\$&")},n.normalizeReference=function(e){return e=e.trim().replace(/\\s+/g," "),"\\u1e7e"==="\\u1e9e".toLowerCase()&&(e=e.replace(/\\u1e9e/g,"\\xdf")),e.toLowerCase().toUpperCase()}})),E=w.unescapeAll,q=w.unescapeAll,S=function(e,r,t){var n,s,o=r,i={ok:!1,pos:0,lines:0,str:""};if(60===e.charCodeAt(r)){for(r++;r<t;){if(10===(n=e.charCodeAt(r)))return i;if(60===n)return i;if(62===n)return i.pos=r+1,i.str=E(e.slice(o+1,r)),i.ok=!0,i;92===n&&r+1<t?r+=2:r++}return i}for(s=0;r<t&&32!==(n=e.charCodeAt(r))&&!(n<32||127===n);)if(92===n&&r+1<t){if(32===e.charCodeAt(r+1))break;r+=2}else{if(40===n&&++s>32)return i;if(41===n){if(0===s)break;s--}r++}return o===r||0!==s||(i.str=E(e.slice(o,r)),i.lines=0,i.pos=r,i.ok=!0),i},F=function(e,r,t){var n,s,o=0,i=r,a={ok:!1,pos:0,lines:0,str:""};if(r>=t)return a;if(34!==(s=e.charCodeAt(r))&&39!==s&&40!==s)return a;for(r++,40===s&&(s=41);r<t;){if((n=e.charCodeAt(r))===s)return a.pos=r+1,a.lines=o,a.str=q(e.slice(i+1,r)),a.ok=!0,a;if(40===n&&41===s)return a;10===n?o++:92===n&&r+1<t&&(r++,10===e.charCodeAt(r)&&o++),r++}return a},L={parseLinkLabel:function(e,r,t){var n,s,o,i,a=-1,c=e.posMax,l=e.pos;for(e.pos=r+1,n=1;e.pos<c;){if(93===(o=e.src.charCodeAt(e.pos))&&0===--n){s=!0;break}if(i=e.pos,e.md.inline.skipToken(e),91===o)if(i===e.pos-1)n++;else if(t)return e.pos=l,-1}return s&&(a=e.pos),e.pos=l,a},parseLinkDestination:S,parseLinkTitle:F},z=w.assign,T=w.unescapeAll,I=w.escapeHtml,M={};function R(){this.rules=z({},M)}M.code_inline=function(e,r,t,n,s){var o=e[r];return"<code"+s.renderAttrs(o)+">"+I(e[r].content)+"</code>"},M.code_block=function(e,r,t,n,s){var o=e[r];return"<pre"+s.renderAttrs(o)+"><code>"+I(e[r].content)+"</code></pre>\\n"},M.fence=function(e,r,t,n,s){var o,i,a,c,l,u=e[r],p=u.info?T(u.info).trim():"",h="",f="";return p&&(h=(a=p.split(/(\\s+)/g))[0],f=a.slice(2).join("")),0===(o=t.highlight&&t.highlight(u.content,h,f)||I(u.content)).indexOf("<pre")?o+"\\n":p?(i=u.attrIndex("class"),c=u.attrs?u.attrs.slice():[],i<0?c.push(["class",t.langPrefix+h]):(c[i]=c[i].slice(),c[i][1]+=" "+t.langPrefix+h),l={attrs:c},"<pre><code"+s.renderAttrs(l)+">"+o+"</code></pre>\\n"):"<pre><code"+s.renderAttrs(u)+">"+o+"</code></pre>\\n"},M.image=function(e,r,t,n,s){var o=e[r];return o.attrs[o.attrIndex("alt")][1]=s.renderInlineAsText(o.children,t,n),s.renderToken(e,r,t)},M.hardbreak=function(e,r,t){return t.xhtmlOut?"<br />\\n":"<br>\\n"},M.softbreak=function(e,r,t){return t.breaks?t.xhtmlOut?"<br />\\n":"<br>\\n":"\\n"},M.text=function(e,r){return I(e[r].content)},M.html_block=function(e,r){return e[r].content},M.html_inline=function(e,r){return e[r].content},R.prototype.renderAttrs=function(e){var r,t,n;if(!e.attrs)return"";for(n="",r=0,t=e.attrs.length;r<t;r++)n+=" "+I(e.attrs[r][0])+'="'+I(e.attrs[r][1])+'"';return n},R.prototype.renderToken=function(e,r,t){var n,s="",o=!1,i=e[r];return i.hidden?"":(i.block&&-1!==i.nesting&&r&&e[r-1].hidden&&(s+="\\n"),s+=(-1===i.nesting?"</":"<")+i.tag,s+=this.renderAttrs(i),0===i.nesting&&t.xhtmlOut&&(s+=" /"),i.block&&(o=!0,1===i.nesting&&r+1<e.length&&("inline"===(n=e[r+1]).type||n.hidden||-1===n.nesting&&n.tag===i.tag)&&(o=!1)),s+=o?">\\n":">")},R.prototype.renderInline=function(e,r,t){for(var n,s="",o=this.rules,i=0,a=e.length;i<a;i++)void 0!==o[n=e[i].type]?s+=o[n](e,i,r,t,this):s+=this.renderToken(e,i,r);return s},R.prototype.renderInlineAsText=function(e,r,t){for(var n="",s=0,o=e.length;s<o;s++)"text"===e[s].type?n+=e[s].content:"image"===e[s].type?n+=this.renderInlineAsText(e[s].children,r,t):"softbreak"===e[s].type&&(n+="\\n");return n},R.prototype.render=function(e,r,t){var n,s,o,i="",a=this.rules;for(n=0,s=e.length;n<s;n++)"inline"===(o=e[n].type)?i+=this.renderInline(e[n].children,r,t):void 0!==a[o]?i+=a[e[n].type](e,n,r,t,this):i+=this.renderToken(e,n,r,t);return i};var B=R;function N(){this.__rules__=[],this.__cache__=null}N.prototype.__find__=function(e){for(var r=0;r<this.__rules__.length;r++)if(this.__rules__[r].name===e)return r;return-1},N.prototype.__compile__=function(){var e=this,r=[""];e.__rules__.forEach((function(e){e.enabled&&e.alt.forEach((function(e){r.indexOf(e)<0&&r.push(e)}))})),e.__cache__={},r.forEach((function(r){e.__cache__[r]=[],e.__rules__.forEach((function(t){t.enabled&&(r&&t.alt.indexOf(r)<0||e.__cache__[r].push(t.fn))}))}))},N.prototype.at=function(e,r,t){var n=this.__find__(e),s=t||{};if(-1===n)throw new Error("Parser rule not found: "+e);this.__rules__[n].fn=r,this.__rules__[n].alt=s.alt||[],this.__cache__=null},N.prototype.before=function(e,r,t,n){var s=this.__find__(e),o=n||{};if(-1===s)throw new Error("Parser rule not found: "+e);this.__rules__.splice(s,0,{name:r,enabled:!0,fn:t,alt:o.alt||[]}),this.__cache__=null},N.prototype.after=function(e,r,t,n){var s=this.__find__(e),o=n||{};if(-1===s)throw new Error("Parser rule not found: "+e);this.__rules__.splice(s+1,0,{name:r,enabled:!0,fn:t,alt:o.alt||[]}),this.__cache__=null},N.prototype.push=function(e,r,t){var n=t||{};this.__rules__.push({name:e,enabled:!0,fn:r,alt:n.alt||[]}),this.__cache__=null},N.prototype.enable=function(e,r){Array.isArray(e)||(e=[e]);var t=[];return e.forEach((function(e){var n=this.__find__(e);if(n<0){if(r)return;throw new Error("Rules manager: invalid rule name "+e)}this.__rules__[n].enabled=!0,t.push(e)}),this),this.__cache__=null,t},N.prototype.enableOnly=function(e,r){Array.isArray(e)||(e=[e]),this.__rules__.forEach((function(e){e.enabled=!1})),this.enable(e,r)},N.prototype.disable=function(e,r){Array.isArray(e)||(e=[e]);var t=[];return e.forEach((function(e){var n=this.__find__(e);if(n<0){if(r)return;throw new Error("Rules manager: invalid rule name "+e)}this.__rules__[n].enabled=!1,t.push(e)}),this),this.__cache__=null,t},N.prototype.getRules=function(e){return null===this.__cache__&&this.__compile__(),this.__cache__[e]||[]};var O=N,P=/\\r\\n?|\\n/g,j=/\\0/g,U=w.arrayReplaceAt;function V(e){return/^<\\/a\\s*>/i.test(e)}var Z=/\\+-|\\.\\.|\\?\\?\\?\\?|!!!!|,,|--/,$=/\\((c|tm|r)\\)/i,G=/\\((c|tm|r)\\)/gi,H={c:"\\xa9",r:"\\xae",tm:"\\u2122"};function J(e,r){return H[r.toLowerCase()]}function W(e){var r,t,n=0;for(r=e.length-1;r>=0;r--)"text"!==(t=e[r]).type||n||(t.content=t.content.replace(G,J)),"link_open"===t.type&&"auto"===t.info&&n--,"link_close"===t.type&&"auto"===t.info&&n++}function Y(e){var r,t,n=0;for(r=e.length-1;r>=0;r--)"text"!==(t=e[r]).type||n||Z.test(t.content)&&(t.content=t.content.replace(/\\+-/g,"\\xb1").replace(/\\.{2,}/g,"\\u2026").replace(/([?!])\\u2026/g,"$1..").replace(/([?!]){4,}/g,"$1$1$1").replace(/,{2,}/g,",").replace(/(^|[^-])---(?=[^-]|$)/gm,"$1\\u2014").replace(/(^|\\s)--(?=\\s|$)/gm,"$1\\u2013").replace(/(^|[^-\\s])--(?=[^-\\s]|$)/gm,"$1\\u2013")),"link_open"===t.type&&"auto"===t.info&&n--,"link_close"===t.type&&"auto"===t.info&&n++}var K=w.isWhiteSpace,Q=w.isPunctChar,X=w.isMdAsciiPunct,ee=/['"]/,re=/['"]/g;function te(e,r,t){return e.slice(0,r)+t+e.slice(r+1)}function ne(e,r){var t,n,s,o,i,a,c,l,u,p,h,f,d,m,g,_,k,b,v,C,y;for(v=[],t=0;t<e.length;t++){for(n=e[t],c=e[t].level,k=v.length-1;k>=0&&!(v[k].level<=c);k--);if(v.length=k+1,"text"===n.type){i=0,a=(s=n.content).length;e:for(;i<a&&(re.lastIndex=i,o=re.exec(s));){if(g=_=!0,i=o.index+1,b="'"===o[0],u=32,o.index-1>=0)u=s.charCodeAt(o.index-1);else for(k=t-1;k>=0&&("softbreak"!==e[k].type&&"hardbreak"!==e[k].type);k--)if(e[k].content){u=e[k].content.charCodeAt(e[k].content.length-1);break}if(p=32,i<a)p=s.charCodeAt(i);else for(k=t+1;k<e.length&&("softbreak"!==e[k].type&&"hardbreak"!==e[k].type);k++)if(e[k].content){p=e[k].content.charCodeAt(0);break}if(h=X(u)||Q(String.fromCharCode(u)),f=X(p)||Q(String.fromCharCode(p)),d=K(u),(m=K(p))?g=!1:f&&(d||h||(g=!1)),d?_=!1:h&&(m||f||(_=!1)),34===p&&'"'===o[0]&&u>=48&&u<=57&&(_=g=!1),g&&_&&(g=h,_=f),g||_){if(_)for(k=v.length-1;k>=0&&(l=v[k],!(v[k].level<c));k--)if(l.single===b&&v[k].level===c){l=v[k],b?(C=r.md.options.quotes[2],y=r.md.options.quotes[3]):(C=r.md.options.quotes[0],y=r.md.options.quotes[1]),n.content=te(n.content,o.index,y),e[l.token].content=te(e[l.token].content,l.pos,C),i+=y.length-1,l.token===t&&(i+=C.length-1),a=(s=n.content).length,v.length=k;continue e}g?v.push({token:t,pos:o.index,single:b,level:c}):_&&b&&(n.content=te(n.content,o.index,"\\u2019"))}else b&&(n.content=te(n.content,o.index,"\\u2019"))}}}}function se(e,r,t){this.type=e,this.tag=r,this.attrs=null,this.map=null,this.nesting=t,this.level=0,this.children=null,this.content="",this.markup="",this.info="",this.meta=null,this.block=!1,this.hidden=!1}se.prototype.attrIndex=function(e){var r,t,n;if(!this.attrs)return-1;for(t=0,n=(r=this.attrs).length;t<n;t++)if(r[t][0]===e)return t;return-1},se.prototype.attrPush=function(e){this.attrs?this.attrs.push(e):this.attrs=[e]},se.prototype.attrSet=function(e,r){var t=this.attrIndex(e),n=[e,r];t<0?this.attrPush(n):this.attrs[t]=n},se.prototype.attrGet=function(e){var r=this.attrIndex(e),t=null;return r>=0&&(t=this.attrs[r][1]),t},se.prototype.attrJoin=function(e,r){var t=this.attrIndex(e);t<0?this.attrPush([e,r]):this.attrs[t][1]=this.attrs[t][1]+" "+r};var oe=se;function ie(e,r,t){this.src=e,this.env=t,this.tokens=[],this.inlineMode=!1,this.md=r}ie.prototype.Token=oe;var ae=ie,ce=[["normalize",function(e){var r;r=(r=e.src.replace(P,"\\n")).replace(j,"\\ufffd"),e.src=r}],["block",function(e){var r;e.inlineMode?((r=new e.Token("inline","",0)).content=e.src,r.map=[0,1],r.children=[],e.tokens.push(r)):e.md.block.parse(e.src,e.md,e.env,e.tokens)}],["inline",function(e){var r,t,n,s=e.tokens;for(t=0,n=s.length;t<n;t++)"inline"===(r=s[t]).type&&e.md.inline.parse(r.content,e.md,e.env,r.children)}],["linkify",function(e){var r,t,n,s,o,i,a,c,l,u,p,h,f,d,m,g,_,k,b=e.tokens;if(e.md.options.linkify)for(t=0,n=b.length;t<n;t++)if("inline"===b[t].type&&e.md.linkify.pretest(b[t].content))for(f=0,r=(s=b[t].children).length-1;r>=0;r--)if("link_close"!==(i=s[r]).type){if("html_inline"===i.type&&(k=i.content,/^<a[>\\s]/i.test(k)&&f>0&&f--,V(i.content)&&f++),!(f>0)&&"text"===i.type&&e.md.linkify.test(i.content)){for(l=i.content,_=e.md.linkify.match(l),a=[],h=i.level,p=0,_.length>0&&0===_[0].index&&r>0&&"text_special"===s[r-1].type&&(_=_.slice(1)),c=0;c<_.length;c++)d=_[c].url,m=e.md.normalizeLink(d),e.md.validateLink(m)&&(g=_[c].text,g=_[c].schema?"mailto:"!==_[c].schema||/^mailto:/i.test(g)?e.md.normalizeLinkText(g):e.md.normalizeLinkText("mailto:"+g).replace(/^mailto:/,""):e.md.normalizeLinkText("http://"+g).replace(/^http:\\/\\//,""),(u=_[c].index)>p&&((o=new e.Token("text","",0)).content=l.slice(p,u),o.level=h,a.push(o)),(o=new e.Token("link_open","a",1)).attrs=[["href",m]],o.level=h++,o.markup="linkify",o.info="auto",a.push(o),(o=new e.Token("text","",0)).content=g,o.level=h,a.push(o),(o=new e.Token("link_close","a",-1)).level=--h,o.markup="linkify",o.info="auto",a.push(o),p=_[c].lastIndex);p<l.length&&((o=new e.Token("text","",0)).content=l.slice(p),o.level=h,a.push(o)),b[t].children=s=U(s,r,a)}}else for(r--;s[r].level!==i.level&&"link_open"!==s[r].type;)r--}],["replacements",function(e){var r;if(e.md.options.typographer)for(r=e.tokens.length-1;r>=0;r--)"inline"===e.tokens[r].type&&($.test(e.tokens[r].content)&&W(e.tokens[r].children),Z.test(e.tokens[r].content)&&Y(e.tokens[r].children))}],["smartquotes",function(e){var r;if(e.md.options.typographer)for(r=e.tokens.length-1;r>=0;r--)"inline"===e.tokens[r].type&&ee.test(e.tokens[r].content)&&ne(e.tokens[r].children,e)}],["text_join",function(e){var r,t,n,s,o,i,a=e.tokens;for(r=0,t=a.length;r<t;r++)if("inline"===a[r].type){for(o=(n=a[r].children).length,s=0;s<o;s++)"text_special"===n[s].type&&(n[s].type="text");for(s=i=0;s<o;s++)"text"===n[s].type&&s+1<o&&"text"===n[s+1].type?n[s+1].content=n[s].content+n[s+1].content:(s!==i&&(n[i]=n[s]),i++);s!==i&&(n.length=i)}}]];function le(){this.ruler=new O;for(var e=0;e<ce.length;e++)this.ruler.push(ce[e][0],ce[e][1])}le.prototype.process=function(e){var r,t,n;for(r=0,t=(n=this.ruler.getRules("")).length;r<t;r++)n[r](e)},le.prototype.State=ae;var ue=le,pe=w.isSpace;function he(e,r){var t=e.bMarks[r]+e.tShift[r],n=e.eMarks[r];return e.src.slice(t,n)}function fe(e){var r,t=[],n=0,s=e.length,o=!1,i=0,a="";for(r=e.charCodeAt(n);n<s;)124===r&&(o?(a+=e.substring(i,n-1),i=n):(t.push(a+e.substring(i,n)),a="",i=n+1)),o=92===r,n++,r=e.charCodeAt(n);return t.push(a+e.substring(i)),t}var de=w.isSpace,me=w.isSpace,ge=w.isSpace;function _e(e,r){var t,n,s,o;return n=e.bMarks[r]+e.tShift[r],s=e.eMarks[r],42!==(t=e.src.charCodeAt(n++))&&45!==t&&43!==t||n<s&&(o=e.src.charCodeAt(n),!ge(o))?-1:n}function ke(e,r){var t,n=e.bMarks[r]+e.tShift[r],s=n,o=e.eMarks[r];if(s+1>=o)return-1;if((t=e.src.charCodeAt(s++))<48||t>57)return-1;for(;;){if(s>=o)return-1;if(!((t=e.src.charCodeAt(s++))>=48&&t<=57)){if(41===t||46===t)break;return-1}if(s-n>=10)return-1}return s<o&&(t=e.src.charCodeAt(s),!ge(t))?-1:s}var be=w.normalizeReference,ve=w.isSpace,Ce="<[A-Za-z][A-Za-z0-9\\\\-]*(?:\\\\s+[a-zA-Z_:][a-zA-Z0-9:._-]*(?:\\\\s*=\\\\s*(?:[^\\"'=<>\`\\\\x00-\\\\x20]+|'[^']*'|\\"[^\\"]*\\"))?)*\\\\s*\\\\/?>",ye="<\\\\/[A-Za-z][A-Za-z0-9\\\\-]*\\\\s*>",Ae={HTML_TAG_RE:new RegExp("^(?:"+Ce+"|"+ye+"|\\x3c!----\\x3e|\\x3c!--(?:-?[^>-])(?:-?[^-])*--\\x3e|<[?][\\\\s\\\\S]*?[?]>|<![A-Z]+\\\\s+[^>]*>|<!\\\\[CDATA\\\\[[\\\\s\\\\S]*?\\\\]\\\\]>)"),HTML_OPEN_CLOSE_TAG_RE:new RegExp("^(?:"+Ce+"|"+ye+")")},xe=Ae.HTML_OPEN_CLOSE_TAG_RE,De=[[/^<(script|pre|style|textarea)(?=(\\s|>|$))/i,/<\\/(script|pre|style|textarea)>/i,!0],[/^<!--/,/-->/,!0],[/^<\\?/,/\\?>/,!0],[/^<![A-Z]/,/>/,!0],[/^<!\\[CDATA\\[/,/\\]\\]>/,!0],[new RegExp("^</?("+["address","article","aside","base","basefont","blockquote","body","caption","center","col","colgroup","dd","details","dialog","dir","div","dl","dt","fieldset","figcaption","figure","footer","form","frame","frameset","h1","h2","h3","h4","h5","h6","head","header","hr","html","iframe","legend","li","link","main","menu","menuitem","nav","noframes","ol","optgroup","option","p","param","section","source","summary","table","tbody","td","tfoot","th","thead","title","tr","track","ul"].join("|")+")(?=(\\\\s|/?>|$))","i"),/^$/,!0],[new RegExp(xe.source+"\\\\s*$"),/^$/,!1]],we=w.isSpace,Ee=w.isSpace;function qe(e,r,t,n){var s,o,i,a,c,l,u,p;for(this.src=e,this.md=r,this.env=t,this.tokens=n,this.bMarks=[],this.eMarks=[],this.tShift=[],this.sCount=[],this.bsCount=[],this.blkIndent=0,this.line=0,this.lineMax=0,this.tight=!1,this.ddIndent=-1,this.listIndent=-1,this.parentType="root",this.level=0,this.result="",p=!1,i=a=l=u=0,c=(o=this.src).length;a<c;a++){if(s=o.charCodeAt(a),!p){if(Ee(s)){l++,9===s?u+=4-u%4:u++;continue}p=!0}10!==s&&a!==c-1||(10!==s&&a++,this.bMarks.push(i),this.eMarks.push(a),this.tShift.push(l),this.sCount.push(u),this.bsCount.push(0),p=!1,l=0,u=0,i=a+1)}this.bMarks.push(o.length),this.eMarks.push(o.length),this.tShift.push(0),this.sCount.push(0),this.bsCount.push(0),this.lineMax=this.bMarks.length-1}qe.prototype.push=function(e,r,t){var n=new oe(e,r,t);return n.block=!0,t<0&&this.level--,n.level=this.level,t>0&&this.level++,this.tokens.push(n),n},qe.prototype.isEmpty=function(e){return this.bMarks[e]+this.tShift[e]>=this.eMarks[e]},qe.prototype.skipEmptyLines=function(e){for(var r=this.lineMax;e<r&&!(this.bMarks[e]+this.tShift[e]<this.eMarks[e]);e++);return e},qe.prototype.skipSpaces=function(e){for(var r,t=this.src.length;e<t&&(r=this.src.charCodeAt(e),Ee(r));e++);return e},qe.prototype.skipSpacesBack=function(e,r){if(e<=r)return e;for(;e>r;)if(!Ee(this.src.charCodeAt(--e)))return e+1;return e},qe.prototype.skipChars=function(e,r){for(var t=this.src.length;e<t&&this.src.charCodeAt(e)===r;e++);return e},qe.prototype.skipCharsBack=function(e,r,t){if(e<=t)return e;for(;e>t;)if(r!==this.src.charCodeAt(--e))return e+1;return e},qe.prototype.getLines=function(e,r,t,n){var s,o,i,a,c,l,u,p=e;if(e>=r)return"";for(l=new Array(r-e),s=0;p<r;p++,s++){for(o=0,u=a=this.bMarks[p],c=p+1<r||n?this.eMarks[p]+1:this.eMarks[p];a<c&&o<t;){if(i=this.src.charCodeAt(a),Ee(i))9===i?o+=4-(o+this.bsCount[p])%4:o++;else{if(!(a-u<this.tShift[p]))break;o++}a++}l[s]=o>t?new Array(o-t+1).join(" ")+this.src.slice(a,c):this.src.slice(a,c)}return l.join("")},qe.prototype.Token=oe;var Se=qe,Fe=[["table",function(e,r,t,n){var s,o,i,a,c,l,u,p,h,f,d,m,g,_,k,b,v,C;if(r+2>t)return!1;if(l=r+1,e.sCount[l]<e.blkIndent)return!1;if(e.sCount[l]-e.blkIndent>=4)return!1;if((i=e.bMarks[l]+e.tShift[l])>=e.eMarks[l])return!1;if(124!==(v=e.src.charCodeAt(i++))&&45!==v&&58!==v)return!1;if(i>=e.eMarks[l])return!1;if(124!==(C=e.src.charCodeAt(i++))&&45!==C&&58!==C&&!pe(C))return!1;if(45===v&&pe(C))return!1;for(;i<e.eMarks[l];){if(124!==(s=e.src.charCodeAt(i))&&45!==s&&58!==s&&!pe(s))return!1;i++}for(u=(o=he(e,r+1)).split("|"),f=[],a=0;a<u.length;a++){if(!(d=u[a].trim())){if(0===a||a===u.length-1)continue;return!1}if(!/^:?-+:?$/.test(d))return!1;58===d.charCodeAt(d.length-1)?f.push(58===d.charCodeAt(0)?"center":"right"):58===d.charCodeAt(0)?f.push("left"):f.push("")}if(-1===(o=he(e,r).trim()).indexOf("|"))return!1;if(e.sCount[r]-e.blkIndent>=4)return!1;if((u=fe(o)).length&&""===u[0]&&u.shift(),u.length&&""===u[u.length-1]&&u.pop(),0===(p=u.length)||p!==f.length)return!1;if(n)return!0;for(_=e.parentType,e.parentType="table",b=e.md.block.ruler.getRules("blockquote"),(h=e.push("table_open","table",1)).map=m=[r,0],(h=e.push("thead_open","thead",1)).map=[r,r+1],(h=e.push("tr_open","tr",1)).map=[r,r+1],a=0;a<u.length;a++)h=e.push("th_open","th",1),f[a]&&(h.attrs=[["style","text-align:"+f[a]]]),(h=e.push("inline","",0)).content=u[a].trim(),h.children=[],h=e.push("th_close","th",-1);for(h=e.push("tr_close","tr",-1),h=e.push("thead_close","thead",-1),l=r+2;l<t&&!(e.sCount[l]<e.blkIndent);l++){for(k=!1,a=0,c=b.length;a<c;a++)if(b[a](e,l,t,!0)){k=!0;break}if(k)break;if(!(o=he(e,l).trim()))break;if(e.sCount[l]-e.blkIndent>=4)break;for((u=fe(o)).length&&""===u[0]&&u.shift(),u.length&&""===u[u.length-1]&&u.pop(),l===r+2&&((h=e.push("tbody_open","tbody",1)).map=g=[r+2,0]),(h=e.push("tr_open","tr",1)).map=[l,l+1],a=0;a<p;a++)h=e.push("td_open","td",1),f[a]&&(h.attrs=[["style","text-align:"+f[a]]]),(h=e.push("inline","",0)).content=u[a]?u[a].trim():"",h.children=[],h=e.push("td_close","td",-1);h=e.push("tr_close","tr",-1)}return g&&(h=e.push("tbody_close","tbody",-1),g[1]=l),h=e.push("table_close","table",-1),m[1]=l,e.parentType=_,e.line=l,!0},["paragraph","reference"]],["code",function(e,r,t){var n,s,o;if(e.sCount[r]-e.blkIndent<4)return!1;for(s=n=r+1;n<t;)if(e.isEmpty(n))n++;else{if(!(e.sCount[n]-e.blkIndent>=4))break;s=++n}return e.line=s,(o=e.push("code_block","code",0)).content=e.getLines(r,s,4+e.blkIndent,!1)+"\\n",o.map=[r,e.line],!0}],["fence",function(e,r,t,n){var s,o,i,a,c,l,u,p=!1,h=e.bMarks[r]+e.tShift[r],f=e.eMarks[r];if(e.sCount[r]-e.blkIndent>=4)return!1;if(h+3>f)return!1;if(126!==(s=e.src.charCodeAt(h))&&96!==s)return!1;if(c=h,(o=(h=e.skipChars(h,s))-c)<3)return!1;if(u=e.src.slice(c,h),i=e.src.slice(h,f),96===s&&i.indexOf(String.fromCharCode(s))>=0)return!1;if(n)return!0;for(a=r;!(++a>=t)&&!((h=c=e.bMarks[a]+e.tShift[a])<(f=e.eMarks[a])&&e.sCount[a]<e.blkIndent);)if(e.src.charCodeAt(h)===s&&!(e.sCount[a]-e.blkIndent>=4||(h=e.skipChars(h,s))-c<o||(h=e.skipSpaces(h))<f)){p=!0;break}return o=e.sCount[r],e.line=a+(p?1:0),(l=e.push("fence","code",0)).info=i,l.content=e.getLines(r+1,a,o,!0),l.markup=u,l.map=[r,e.line],!0},["paragraph","reference","blockquote","list"]],["blockquote",function(e,r,t,n){var s,o,i,a,c,l,u,p,h,f,d,m,g,_,k,b,v,C,y,A,x=e.lineMax,D=e.bMarks[r]+e.tShift[r],w=e.eMarks[r];if(e.sCount[r]-e.blkIndent>=4)return!1;if(62!==e.src.charCodeAt(D++))return!1;if(n)return!0;for(a=h=e.sCount[r]+1,32===e.src.charCodeAt(D)?(D++,a++,h++,s=!1,b=!0):9===e.src.charCodeAt(D)?(b=!0,(e.bsCount[r]+h)%4==3?(D++,a++,h++,s=!1):s=!0):b=!1,f=[e.bMarks[r]],e.bMarks[r]=D;D<w&&(o=e.src.charCodeAt(D),de(o));)9===o?h+=4-(h+e.bsCount[r]+(s?1:0))%4:h++,D++;for(d=[e.bsCount[r]],e.bsCount[r]=e.sCount[r]+1+(b?1:0),l=D>=w,_=[e.sCount[r]],e.sCount[r]=h-a,k=[e.tShift[r]],e.tShift[r]=D-e.bMarks[r],C=e.md.block.ruler.getRules("blockquote"),g=e.parentType,e.parentType="blockquote",p=r+1;p<t&&(A=e.sCount[p]<e.blkIndent,!((D=e.bMarks[p]+e.tShift[p])>=(w=e.eMarks[p])));p++)if(62!==e.src.charCodeAt(D++)||A){if(l)break;for(v=!1,i=0,c=C.length;i<c;i++)if(C[i](e,p,t,!0)){v=!0;break}if(v){e.lineMax=p,0!==e.blkIndent&&(f.push(e.bMarks[p]),d.push(e.bsCount[p]),k.push(e.tShift[p]),_.push(e.sCount[p]),e.sCount[p]-=e.blkIndent);break}f.push(e.bMarks[p]),d.push(e.bsCount[p]),k.push(e.tShift[p]),_.push(e.sCount[p]),e.sCount[p]=-1}else{for(a=h=e.sCount[p]+1,32===e.src.charCodeAt(D)?(D++,a++,h++,s=!1,b=!0):9===e.src.charCodeAt(D)?(b=!0,(e.bsCount[p]+h)%4==3?(D++,a++,h++,s=!1):s=!0):b=!1,f.push(e.bMarks[p]),e.bMarks[p]=D;D<w&&(o=e.src.charCodeAt(D),de(o));)9===o?h+=4-(h+e.bsCount[p]+(s?1:0))%4:h++,D++;l=D>=w,d.push(e.bsCount[p]),e.bsCount[p]=e.sCount[p]+1+(b?1:0),_.push(e.sCount[p]),e.sCount[p]=h-a,k.push(e.tShift[p]),e.tShift[p]=D-e.bMarks[p]}for(m=e.blkIndent,e.blkIndent=0,(y=e.push("blockquote_open","blockquote",1)).markup=">",y.map=u=[r,0],e.md.block.tokenize(e,r,p),(y=e.push("blockquote_close","blockquote",-1)).markup=">",e.lineMax=x,e.parentType=g,u[1]=e.line,i=0;i<k.length;i++)e.bMarks[i+r]=f[i],e.tShift[i+r]=k[i],e.sCount[i+r]=_[i],e.bsCount[i+r]=d[i];return e.blkIndent=m,!0},["paragraph","reference","blockquote","list"]],["hr",function(e,r,t,n){var s,o,i,a,c=e.bMarks[r]+e.tShift[r],l=e.eMarks[r];if(e.sCount[r]-e.blkIndent>=4)return!1;if(42!==(s=e.src.charCodeAt(c++))&&45!==s&&95!==s)return!1;for(o=1;c<l;){if((i=e.src.charCodeAt(c++))!==s&&!me(i))return!1;i===s&&o++}return!(o<3)&&(n||(e.line=r+1,(a=e.push("hr","hr",0)).map=[r,e.line],a.markup=Array(o+1).join(String.fromCharCode(s))),!0)},["paragraph","reference","blockquote","list"]],["list",function(e,r,t,n){var s,o,i,a,c,l,u,p,h,f,d,m,g,_,k,b,v,C,y,A,x,D,w,E,q,S,F,L,z=!1,T=!0;if(e.sCount[r]-e.blkIndent>=4)return!1;if(e.listIndent>=0&&e.sCount[r]-e.listIndent>=4&&e.sCount[r]<e.blkIndent)return!1;if(n&&"paragraph"===e.parentType&&e.sCount[r]>=e.blkIndent&&(z=!0),(w=ke(e,r))>=0){if(u=!0,q=e.bMarks[r]+e.tShift[r],g=Number(e.src.slice(q,w-1)),z&&1!==g)return!1}else{if(!((w=_e(e,r))>=0))return!1;u=!1}if(z&&e.skipSpaces(w)>=e.eMarks[r])return!1;if(m=e.src.charCodeAt(w-1),n)return!0;for(d=e.tokens.length,u?(L=e.push("ordered_list_open","ol",1),1!==g&&(L.attrs=[["start",g]])):L=e.push("bullet_list_open","ul",1),L.map=f=[r,0],L.markup=String.fromCharCode(m),k=r,E=!1,F=e.md.block.ruler.getRules("list"),C=e.parentType,e.parentType="list";k<t;){for(D=w,_=e.eMarks[k],l=b=e.sCount[k]+w-(e.bMarks[r]+e.tShift[r]);D<_;){if(9===(s=e.src.charCodeAt(D)))b+=4-(b+e.bsCount[k])%4;else{if(32!==s)break;b++}D++}if((c=(o=D)>=_?1:b-l)>4&&(c=1),a=l+c,(L=e.push("list_item_open","li",1)).markup=String.fromCharCode(m),L.map=p=[r,0],u&&(L.info=e.src.slice(q,w-1)),x=e.tight,A=e.tShift[r],y=e.sCount[r],v=e.listIndent,e.listIndent=e.blkIndent,e.blkIndent=a,e.tight=!0,e.tShift[r]=o-e.bMarks[r],e.sCount[r]=b,o>=_&&e.isEmpty(r+1)?e.line=Math.min(e.line+2,t):e.md.block.tokenize(e,r,t,!0),e.tight&&!E||(T=!1),E=e.line-r>1&&e.isEmpty(e.line-1),e.blkIndent=e.listIndent,e.listIndent=v,e.tShift[r]=A,e.sCount[r]=y,e.tight=x,(L=e.push("list_item_close","li",-1)).markup=String.fromCharCode(m),k=r=e.line,p[1]=k,o=e.bMarks[r],k>=t)break;if(e.sCount[k]<e.blkIndent)break;if(e.sCount[r]-e.blkIndent>=4)break;for(S=!1,i=0,h=F.length;i<h;i++)if(F[i](e,k,t,!0)){S=!0;break}if(S)break;if(u){if((w=ke(e,k))<0)break;q=e.bMarks[k]+e.tShift[k]}else if((w=_e(e,k))<0)break;if(m!==e.src.charCodeAt(w-1))break}return(L=u?e.push("ordered_list_close","ol",-1):e.push("bullet_list_close","ul",-1)).markup=String.fromCharCode(m),f[1]=k,e.line=k,e.parentType=C,T&&function(e,r){var t,n,s=e.level+2;for(t=r+2,n=e.tokens.length-2;t<n;t++)e.tokens[t].level===s&&"paragraph_open"===e.tokens[t].type&&(e.tokens[t+2].hidden=!0,e.tokens[t].hidden=!0,t+=2)}(e,d),!0},["paragraph","reference","blockquote"]],["reference",function(e,r,t,n){var s,o,i,a,c,l,u,p,h,f,d,m,g,_,k,b,v=0,C=e.bMarks[r]+e.tShift[r],y=e.eMarks[r],A=r+1;if(e.sCount[r]-e.blkIndent>=4)return!1;if(91!==e.src.charCodeAt(C))return!1;for(;++C<y;)if(93===e.src.charCodeAt(C)&&92!==e.src.charCodeAt(C-1)){if(C+1===y)return!1;if(58!==e.src.charCodeAt(C+1))return!1;break}for(a=e.lineMax,k=e.md.block.ruler.getRules("reference"),f=e.parentType,e.parentType="reference";A<a&&!e.isEmpty(A);A++)if(!(e.sCount[A]-e.blkIndent>3||e.sCount[A]<0)){for(_=!1,l=0,u=k.length;l<u;l++)if(k[l](e,A,a,!0)){_=!0;break}if(_)break}for(y=(g=e.getLines(r,A,e.blkIndent,!1).trim()).length,C=1;C<y;C++){if(91===(s=g.charCodeAt(C)))return!1;if(93===s){h=C;break}(10===s||92===s&&++C<y&&10===g.charCodeAt(C))&&v++}if(h<0||58!==g.charCodeAt(h+1))return!1;for(C=h+2;C<y;C++)if(10===(s=g.charCodeAt(C)))v++;else if(!ve(s))break;if(!(d=e.md.helpers.parseLinkDestination(g,C,y)).ok)return!1;if(c=e.md.normalizeLink(d.str),!e.md.validateLink(c))return!1;for(o=C=d.pos,i=v+=d.lines,m=C;C<y;C++)if(10===(s=g.charCodeAt(C)))v++;else if(!ve(s))break;for(d=e.md.helpers.parseLinkTitle(g,C,y),C<y&&m!==C&&d.ok?(b=d.str,C=d.pos,v+=d.lines):(b="",C=o,v=i);C<y&&(s=g.charCodeAt(C),ve(s));)C++;if(C<y&&10!==g.charCodeAt(C)&&b)for(b="",C=o,v=i;C<y&&(s=g.charCodeAt(C),ve(s));)C++;return!(C<y&&10!==g.charCodeAt(C))&&(!!(p=be(g.slice(1,h)))&&(n||(void 0===e.env.references&&(e.env.references={}),void 0===e.env.references[p]&&(e.env.references[p]={title:b,href:c}),e.parentType=f,e.line=r+v+1),!0))}],["html_block",function(e,r,t,n){var s,o,i,a,c=e.bMarks[r]+e.tShift[r],l=e.eMarks[r];if(e.sCount[r]-e.blkIndent>=4)return!1;if(!e.md.options.html)return!1;if(60!==e.src.charCodeAt(c))return!1;for(a=e.src.slice(c,l),s=0;s<De.length&&!De[s][0].test(a);s++);if(s===De.length)return!1;if(n)return De[s][2];if(o=r+1,!De[s][1].test(a))for(;o<t&&!(e.sCount[o]<e.blkIndent);o++)if(c=e.bMarks[o]+e.tShift[o],l=e.eMarks[o],a=e.src.slice(c,l),De[s][1].test(a)){0!==a.length&&o++;break}return e.line=o,(i=e.push("html_block","",0)).map=[r,o],i.content=e.getLines(r,o,e.blkIndent,!0),!0},["paragraph","reference","blockquote"]],["heading",function(e,r,t,n){var s,o,i,a,c=e.bMarks[r]+e.tShift[r],l=e.eMarks[r];if(e.sCount[r]-e.blkIndent>=4)return!1;if(35!==(s=e.src.charCodeAt(c))||c>=l)return!1;for(o=1,s=e.src.charCodeAt(++c);35===s&&c<l&&o<=6;)o++,s=e.src.charCodeAt(++c);return!(o>6||c<l&&!we(s))&&(n||(l=e.skipSpacesBack(l,c),(i=e.skipCharsBack(l,35,c))>c&&we(e.src.charCodeAt(i-1))&&(l=i),e.line=r+1,(a=e.push("heading_open","h"+String(o),1)).markup="########".slice(0,o),a.map=[r,e.line],(a=e.push("inline","",0)).content=e.src.slice(c,l).trim(),a.map=[r,e.line],a.children=[],(a=e.push("heading_close","h"+String(o),-1)).markup="########".slice(0,o)),!0)},["paragraph","reference","blockquote"]],["lheading",function(e,r,t){var n,s,o,i,a,c,l,u,p,h,f=r+1,d=e.md.block.ruler.getRules("paragraph");if(e.sCount[r]-e.blkIndent>=4)return!1;for(h=e.parentType,e.parentType="paragraph";f<t&&!e.isEmpty(f);f++)if(!(e.sCount[f]-e.blkIndent>3)){if(e.sCount[f]>=e.blkIndent&&(c=e.bMarks[f]+e.tShift[f])<(l=e.eMarks[f])&&(45===(p=e.src.charCodeAt(c))||61===p)&&(c=e.skipChars(c,p),(c=e.skipSpaces(c))>=l)){u=61===p?1:2;break}if(!(e.sCount[f]<0)){for(s=!1,o=0,i=d.length;o<i;o++)if(d[o](e,f,t,!0)){s=!0;break}if(s)break}}return!!u&&(n=e.getLines(r,f,e.blkIndent,!1).trim(),e.line=f+1,(a=e.push("heading_open","h"+String(u),1)).markup=String.fromCharCode(p),a.map=[r,e.line],(a=e.push("inline","",0)).content=n,a.map=[r,e.line-1],a.children=[],(a=e.push("heading_close","h"+String(u),-1)).markup=String.fromCharCode(p),e.parentType=h,!0)}],["paragraph",function(e,r){var t,n,s,o,i,a,c=r+1,l=e.md.block.ruler.getRules("paragraph"),u=e.lineMax;for(a=e.parentType,e.parentType="paragraph";c<u&&!e.isEmpty(c);c++)if(!(e.sCount[c]-e.blkIndent>3||e.sCount[c]<0)){for(n=!1,s=0,o=l.length;s<o;s++)if(l[s](e,c,u,!0)){n=!0;break}if(n)break}return t=e.getLines(r,c,e.blkIndent,!1).trim(),e.line=c,(i=e.push("paragraph_open","p",1)).map=[r,e.line],(i=e.push("inline","",0)).content=t,i.map=[r,e.line],i.children=[],i=e.push("paragraph_close","p",-1),e.parentType=a,!0}]];function Le(){this.ruler=new O;for(var e=0;e<Fe.length;e++)this.ruler.push(Fe[e][0],Fe[e][1],{alt:(Fe[e][2]||[]).slice()})}Le.prototype.tokenize=function(e,r,t){for(var n,s=this.ruler.getRules(""),o=s.length,i=r,a=!1,c=e.md.options.maxNesting;i<t&&(e.line=i=e.skipEmptyLines(i),!(i>=t))&&!(e.sCount[i]<e.blkIndent);){if(e.level>=c){e.line=t;break}for(n=0;n<o&&!s[n](e,i,t,!1);n++);e.tight=!a,e.isEmpty(e.line-1)&&(a=!0),(i=e.line)<t&&e.isEmpty(i)&&(a=!0,i++,e.line=i)}},Le.prototype.parse=function(e,r,t,n){var s;e&&(s=new this.State(e,r,t,n),this.tokenize(s,s.line,s.lineMax))},Le.prototype.State=Se;var ze=Le;function Te(e){switch(e){case 10:case 33:case 35:case 36:case 37:case 38:case 42:case 43:case 45:case 58:case 60:case 61:case 62:case 64:case 91:case 92:case 93:case 94:case 95:case 96:case 123:case 125:case 126:return!0;default:return!1}}for(var Ie=/(?:^|[^a-z0-9.+-])([a-z][a-z0-9.+-]*)$/i,Me=w.isSpace,Re=w.isSpace,Be=[],Ne=0;Ne<256;Ne++)Be.push(0);"\\\\!\\"#$%&'()*+,./:;<=>?@[]^_\`{|}~-".split("").forEach((function(e){Be[e.charCodeAt(0)]=1}));function Oe(e,r){var t,n,s,o,i,a=[],c=r.length;for(t=0;t<c;t++)126===(s=r[t]).marker&&-1!==s.end&&(o=r[s.end],(i=e.tokens[s.token]).type="s_open",i.tag="s",i.nesting=1,i.markup="~~",i.content="",(i=e.tokens[o.token]).type="s_close",i.tag="s",i.nesting=-1,i.markup="~~",i.content="","text"===e.tokens[o.token-1].type&&"~"===e.tokens[o.token-1].content&&a.push(o.token-1));for(;a.length;){for(n=(t=a.pop())+1;n<e.tokens.length&&"s_close"===e.tokens[n].type;)n++;t!==--n&&(i=e.tokens[n],e.tokens[n]=e.tokens[t],e.tokens[t]=i)}}var Pe={tokenize:function(e,r){var t,n,s,o,i=e.pos,a=e.src.charCodeAt(i);if(r)return!1;if(126!==a)return!1;if(s=(n=e.scanDelims(e.pos,!0)).length,o=String.fromCharCode(a),s<2)return!1;for(s%2&&(e.push("text","",0).content=o,s--),t=0;t<s;t+=2)e.push("text","",0).content=o+o,e.delimiters.push({marker:a,length:0,token:e.tokens.length-1,end:-1,open:n.can_open,close:n.can_close});return e.pos+=n.length,!0},postProcess:function(e){var r,t=e.tokens_meta,n=e.tokens_meta.length;for(Oe(e,e.delimiters),r=0;r<n;r++)t[r]&&t[r].delimiters&&Oe(e,t[r].delimiters)}};function je(e,r){var t,n,s,o,i,a;for(t=r.length-1;t>=0;t--)95!==(n=r[t]).marker&&42!==n.marker||-1!==n.end&&(s=r[n.end],a=t>0&&r[t-1].end===n.end+1&&r[t-1].marker===n.marker&&r[t-1].token===n.token-1&&r[n.end+1].token===s.token+1,i=String.fromCharCode(n.marker),(o=e.tokens[n.token]).type=a?"strong_open":"em_open",o.tag=a?"strong":"em",o.nesting=1,o.markup=a?i+i:i,o.content="",(o=e.tokens[s.token]).type=a?"strong_close":"em_close",o.tag=a?"strong":"em",o.nesting=-1,o.markup=a?i+i:i,o.content="",a&&(e.tokens[r[t-1].token].content="",e.tokens[r[n.end+1].token].content="",t--))}var Ue={tokenize:function(e,r){var t,n,s=e.pos,o=e.src.charCodeAt(s);if(r)return!1;if(95!==o&&42!==o)return!1;for(n=e.scanDelims(e.pos,42===o),t=0;t<n.length;t++)e.push("text","",0).content=String.fromCharCode(o),e.delimiters.push({marker:o,length:n.length,token:e.tokens.length-1,end:-1,open:n.can_open,close:n.can_close});return e.pos+=n.length,!0},postProcess:function(e){var r,t=e.tokens_meta,n=e.tokens_meta.length;for(je(e,e.delimiters),r=0;r<n;r++)t[r]&&t[r].delimiters&&je(e,t[r].delimiters)}},Ve=w.normalizeReference,Ze=w.isSpace,$e=w.normalizeReference,Ge=w.isSpace,He=/^([a-zA-Z0-9.!#$%&'*+\\/=?^_\`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*)$/,Je=/^([a-zA-Z][a-zA-Z0-9+.\\-]{1,31}):([^<>\\x00-\\x20]*)$/,We=Ae.HTML_TAG_RE;var Ye=w.has,Ke=w.isValidEntityCode,Qe=w.fromCodePoint,Xe=/^&#((?:x[a-f0-9]{1,6}|[0-9]{1,7}));/i,er=/^&([a-z][a-z0-9]{1,31});/i;function rr(e,r){var t,n,s,o,i,a,c,l,u={},p=r.length;if(p){var h=0,f=-2,d=[];for(t=0;t<p;t++)if(s=r[t],d.push(0),r[h].marker===s.marker&&f===s.token-1||(h=t),f=s.token,s.length=s.length||0,s.close){for(u.hasOwnProperty(s.marker)||(u[s.marker]=[-1,-1,-1,-1,-1,-1]),i=u[s.marker][(s.open?3:0)+s.length%3],a=n=h-d[h]-1;n>i;n-=d[n]+1)if((o=r[n]).marker===s.marker&&o.open&&o.end<0&&(c=!1,(o.close||s.open)&&(o.length+s.length)%3==0&&(o.length%3==0&&s.length%3==0||(c=!0)),!c)){l=n>0&&!r[n-1].open?d[n-1]+1:0,d[t]=t-n+l,d[n]=l,s.open=!1,o.end=t,o.close=!1,a=-1,f=-2;break}-1!==a&&(u[s.marker][(s.open?3:0)+(s.length||0)%3]=a)}}}var tr=w.isWhiteSpace,nr=w.isPunctChar,sr=w.isMdAsciiPunct;function or(e,r,t,n){this.src=e,this.env=t,this.md=r,this.tokens=n,this.tokens_meta=Array(n.length),this.pos=0,this.posMax=this.src.length,this.level=0,this.pending="",this.pendingLevel=0,this.cache={},this.delimiters=[],this._prev_delimiters=[],this.backticks={},this.backticksScanned=!1,this.linkLevel=0}or.prototype.pushPending=function(){var e=new oe("text","",0);return e.content=this.pending,e.level=this.pendingLevel,this.tokens.push(e),this.pending="",e},or.prototype.push=function(e,r,t){this.pending&&this.pushPending();var n=new oe(e,r,t),s=null;return t<0&&(this.level--,this.delimiters=this._prev_delimiters.pop()),n.level=this.level,t>0&&(this.level++,this._prev_delimiters.push(this.delimiters),this.delimiters=[],s={delimiters:this.delimiters}),this.pendingLevel=this.level,this.tokens.push(n),this.tokens_meta.push(s),n},or.prototype.scanDelims=function(e,r){var t,n,s,o,i,a,c,l,u,p=e,h=!0,f=!0,d=this.posMax,m=this.src.charCodeAt(e);for(t=e>0?this.src.charCodeAt(e-1):32;p<d&&this.src.charCodeAt(p)===m;)p++;return s=p-e,n=p<d?this.src.charCodeAt(p):32,c=sr(t)||nr(String.fromCharCode(t)),u=sr(n)||nr(String.fromCharCode(n)),a=tr(t),(l=tr(n))?h=!1:u&&(a||c||(h=!1)),a?f=!1:c&&(l||u||(f=!1)),r?(o=h,i=f):(o=h&&(!f||c),i=f&&(!h||u)),{can_open:o,can_close:i,length:s}},or.prototype.Token=oe;var ir=or,ar=[["text",function(e,r){for(var t=e.pos;t<e.posMax&&!Te(e.src.charCodeAt(t));)t++;return t!==e.pos&&(r||(e.pending+=e.src.slice(e.pos,t)),e.pos=t,!0)}],["linkify",function(e,r){var t,n,s,o,i,a,c;return!!e.md.options.linkify&&(!(e.linkLevel>0)&&(!((t=e.pos)+3>e.posMax)&&(58===e.src.charCodeAt(t)&&(47===e.src.charCodeAt(t+1)&&(47===e.src.charCodeAt(t+2)&&(!!(n=e.pending.match(Ie))&&(s=n[1],!!(o=e.md.linkify.matchAtStart(e.src.slice(t-s.length)))&&(i=(i=o.url).replace(/\\*+$/,""),a=e.md.normalizeLink(i),!!e.md.validateLink(a)&&(r||(e.pending=e.pending.slice(0,-s.length),(c=e.push("link_open","a",1)).attrs=[["href",a]],c.markup="linkify",c.info="auto",(c=e.push("text","",0)).content=e.md.normalizeLinkText(i),(c=e.push("link_close","a",-1)).markup="linkify",c.info="auto"),e.pos+=i.length-s.length,!0)))))))))}],["newline",function(e,r){var t,n,s,o=e.pos;if(10!==e.src.charCodeAt(o))return!1;if(t=e.pending.length-1,n=e.posMax,!r)if(t>=0&&32===e.pending.charCodeAt(t))if(t>=1&&32===e.pending.charCodeAt(t-1)){for(s=t-1;s>=1&&32===e.pending.charCodeAt(s-1);)s--;e.pending=e.pending.slice(0,s),e.push("hardbreak","br",0)}else e.pending=e.pending.slice(0,-1),e.push("softbreak","br",0);else e.push("softbreak","br",0);for(o++;o<n&&Me(e.src.charCodeAt(o));)o++;return e.pos=o,!0}],["escape",function(e,r){var t,n,s,o,i,a=e.pos,c=e.posMax;if(92!==e.src.charCodeAt(a))return!1;if(++a>=c)return!1;if(10===(t=e.src.charCodeAt(a))){for(r||e.push("hardbreak","br",0),a++;a<c&&(t=e.src.charCodeAt(a),Re(t));)a++;return e.pos=a,!0}return o=e.src[a],t>=55296&&t<=56319&&a+1<c&&(n=e.src.charCodeAt(a+1))>=56320&&n<=57343&&(o+=e.src[a+1],a++),s="\\\\"+o,r||(i=e.push("text_special","",0),t<256&&0!==Be[t]?i.content=o:i.content=s,i.markup=s,i.info="escape"),e.pos=a+1,!0}],["backticks",function(e,r){var t,n,s,o,i,a,c,l,u=e.pos;if(96!==e.src.charCodeAt(u))return!1;for(t=u,u++,n=e.posMax;u<n&&96===e.src.charCodeAt(u);)u++;if(c=(s=e.src.slice(t,u)).length,e.backticksScanned&&(e.backticks[c]||0)<=t)return r||(e.pending+=s),e.pos+=c,!0;for(i=a=u;-1!==(i=e.src.indexOf("\`",a));){for(a=i+1;a<n&&96===e.src.charCodeAt(a);)a++;if((l=a-i)===c)return r||((o=e.push("code_inline","code",0)).markup=s,o.content=e.src.slice(u,i).replace(/\\n/g," ").replace(/^ (.+) $/,"$1")),e.pos=a,!0;e.backticks[l]=i}return e.backticksScanned=!0,r||(e.pending+=s),e.pos+=c,!0}],["strikethrough",Pe.tokenize],["emphasis",Ue.tokenize],["link",function(e,r){var t,n,s,o,i,a,c,l,u="",p="",h=e.pos,f=e.posMax,d=e.pos,m=!0;if(91!==e.src.charCodeAt(e.pos))return!1;if(i=e.pos+1,(o=e.md.helpers.parseLinkLabel(e,e.pos,!0))<0)return!1;if((a=o+1)<f&&40===e.src.charCodeAt(a)){for(m=!1,a++;a<f&&(n=e.src.charCodeAt(a),Ze(n)||10===n);a++);if(a>=f)return!1;if(d=a,(c=e.md.helpers.parseLinkDestination(e.src,a,e.posMax)).ok){for(u=e.md.normalizeLink(c.str),e.md.validateLink(u)?a=c.pos:u="",d=a;a<f&&(n=e.src.charCodeAt(a),Ze(n)||10===n);a++);if(c=e.md.helpers.parseLinkTitle(e.src,a,e.posMax),a<f&&d!==a&&c.ok)for(p=c.str,a=c.pos;a<f&&(n=e.src.charCodeAt(a),Ze(n)||10===n);a++);}(a>=f||41!==e.src.charCodeAt(a))&&(m=!0),a++}if(m){if(void 0===e.env.references)return!1;if(a<f&&91===e.src.charCodeAt(a)?(d=a+1,(a=e.md.helpers.parseLinkLabel(e,a))>=0?s=e.src.slice(d,a++):a=o+1):a=o+1,s||(s=e.src.slice(i,o)),!(l=e.env.references[Ve(s)]))return e.pos=h,!1;u=l.href,p=l.title}return r||(e.pos=i,e.posMax=o,e.push("link_open","a",1).attrs=t=[["href",u]],p&&t.push(["title",p]),e.linkLevel++,e.md.inline.tokenize(e),e.linkLevel--,e.push("link_close","a",-1)),e.pos=a,e.posMax=f,!0}],["image",function(e,r){var t,n,s,o,i,a,c,l,u,p,h,f,d,m="",g=e.pos,_=e.posMax;if(33!==e.src.charCodeAt(e.pos))return!1;if(91!==e.src.charCodeAt(e.pos+1))return!1;if(a=e.pos+2,(i=e.md.helpers.parseLinkLabel(e,e.pos+1,!1))<0)return!1;if((c=i+1)<_&&40===e.src.charCodeAt(c)){for(c++;c<_&&(n=e.src.charCodeAt(c),Ge(n)||10===n);c++);if(c>=_)return!1;for(d=c,(u=e.md.helpers.parseLinkDestination(e.src,c,e.posMax)).ok&&(m=e.md.normalizeLink(u.str),e.md.validateLink(m)?c=u.pos:m=""),d=c;c<_&&(n=e.src.charCodeAt(c),Ge(n)||10===n);c++);if(u=e.md.helpers.parseLinkTitle(e.src,c,e.posMax),c<_&&d!==c&&u.ok)for(p=u.str,c=u.pos;c<_&&(n=e.src.charCodeAt(c),Ge(n)||10===n);c++);else p="";if(c>=_||41!==e.src.charCodeAt(c))return e.pos=g,!1;c++}else{if(void 0===e.env.references)return!1;if(c<_&&91===e.src.charCodeAt(c)?(d=c+1,(c=e.md.helpers.parseLinkLabel(e,c))>=0?o=e.src.slice(d,c++):c=i+1):c=i+1,o||(o=e.src.slice(a,i)),!(l=e.env.references[$e(o)]))return e.pos=g,!1;m=l.href,p=l.title}return r||(s=e.src.slice(a,i),e.md.inline.parse(s,e.md,e.env,f=[]),(h=e.push("image","img",0)).attrs=t=[["src",m],["alt",""]],h.children=f,h.content=s,p&&t.push(["title",p])),e.pos=c,e.posMax=_,!0}],["autolink",function(e,r){var t,n,s,o,i,a,c=e.pos;if(60!==e.src.charCodeAt(c))return!1;for(i=e.pos,a=e.posMax;;){if(++c>=a)return!1;if(60===(o=e.src.charCodeAt(c)))return!1;if(62===o)break}return t=e.src.slice(i+1,c),Je.test(t)?(n=e.md.normalizeLink(t),!!e.md.validateLink(n)&&(r||((s=e.push("link_open","a",1)).attrs=[["href",n]],s.markup="autolink",s.info="auto",(s=e.push("text","",0)).content=e.md.normalizeLinkText(t),(s=e.push("link_close","a",-1)).markup="autolink",s.info="auto"),e.pos+=t.length+2,!0)):!!He.test(t)&&(n=e.md.normalizeLink("mailto:"+t),!!e.md.validateLink(n)&&(r||((s=e.push("link_open","a",1)).attrs=[["href",n]],s.markup="autolink",s.info="auto",(s=e.push("text","",0)).content=e.md.normalizeLinkText(t),(s=e.push("link_close","a",-1)).markup="autolink",s.info="auto"),e.pos+=t.length+2,!0))}],["html_inline",function(e,r){var t,n,s,o,i,a=e.pos;return!!e.md.options.html&&(s=e.posMax,!(60!==e.src.charCodeAt(a)||a+2>=s)&&(!(33!==(t=e.src.charCodeAt(a+1))&&63!==t&&47!==t&&!function(e){var r=32|e;return r>=97&&r<=122}(t))&&(!!(n=e.src.slice(a).match(We))&&(r||((o=e.push("html_inline","",0)).content=e.src.slice(a,a+n[0].length),i=o.content,/^<a[>\\s]/i.test(i)&&e.linkLevel++,function(e){return/^<\\/a\\s*>/i.test(e)}(o.content)&&e.linkLevel--),e.pos+=n[0].length,!0))))}],["entity",function(e,t){var n,s,o,i=e.pos,a=e.posMax;if(38!==e.src.charCodeAt(i))return!1;if(i+1>=a)return!1;if(35===e.src.charCodeAt(i+1)){if(s=e.src.slice(i).match(Xe))return t||(n="x"===s[1][0].toLowerCase()?parseInt(s[1].slice(1),16):parseInt(s[1],10),(o=e.push("text_special","",0)).content=Ke(n)?Qe(n):Qe(65533),o.markup=s[0],o.info="entity"),e.pos+=s[0].length,!0}else if((s=e.src.slice(i).match(er))&&Ye(r,s[1]))return t||((o=e.push("text_special","",0)).content=r[s[1]],o.markup=s[0],o.info="entity"),e.pos+=s[0].length,!0;return!1}]],cr=[["balance_pairs",function(e){var r,t=e.tokens_meta,n=e.tokens_meta.length;for(rr(0,e.delimiters),r=0;r<n;r++)t[r]&&t[r].delimiters&&rr(0,t[r].delimiters)}],["strikethrough",Pe.postProcess],["emphasis",Ue.postProcess],["fragments_join",function(e){var r,t,n=0,s=e.tokens,o=e.tokens.length;for(r=t=0;r<o;r++)s[r].nesting<0&&n--,s[r].level=n,s[r].nesting>0&&n++,"text"===s[r].type&&r+1<o&&"text"===s[r+1].type?s[r+1].content=s[r].content+s[r+1].content:(r!==t&&(s[t]=s[r]),t++);r!==t&&(s.length=t)}]];function lr(){var e;for(this.ruler=new O,e=0;e<ar.length;e++)this.ruler.push(ar[e][0],ar[e][1]);for(this.ruler2=new O,e=0;e<cr.length;e++)this.ruler2.push(cr[e][0],cr[e][1])}lr.prototype.skipToken=function(e){var r,t,n=e.pos,s=this.ruler.getRules(""),o=s.length,i=e.md.options.maxNesting,a=e.cache;if(void 0===a[n]){if(e.level<i)for(t=0;t<o&&(e.level++,r=s[t](e,!0),e.level--,!r);t++);else e.pos=e.posMax;r||e.pos++,a[n]=e.pos}else e.pos=a[n]},lr.prototype.tokenize=function(e){for(var r,t,n=this.ruler.getRules(""),s=n.length,o=e.posMax,i=e.md.options.maxNesting;e.pos<o;){if(e.level<i)for(t=0;t<s&&!(r=n[t](e,!1));t++);if(r){if(e.pos>=o)break}else e.pending+=e.src[e.pos++]}e.pending&&e.pushPending()},lr.prototype.parse=function(e,r,t,n){var s,o,i,a=new this.State(e,r,t,n);for(this.tokenize(a),i=(o=this.ruler2.getRules("")).length,s=0;s<i;s++)o[s](a)},lr.prototype.State=ir;var ur=lr;function pr(e){var r=Array.prototype.slice.call(arguments,1);return r.forEach((function(r){r&&Object.keys(r).forEach((function(t){e[t]=r[t]}))})),e}function hr(e){return Object.prototype.toString.call(e)}function fr(e){return"[object Function]"===hr(e)}function dr(e){return e.replace(/[.?*+^$[\\]\\\\(){}|-]/g,"\\\\$&")}var mr={fuzzyLink:!0,fuzzyEmail:!0,fuzzyIP:!1};var gr={"http:":{validate:function(e,r,t){var n=e.slice(r);return t.re.http||(t.re.http=new RegExp("^\\\\/\\\\/"+t.re.src_auth+t.re.src_host_port_strict+t.re.src_path,"i")),t.re.http.test(n)?n.match(t.re.http)[0].length:0}},"https:":"http:","ftp:":"http:","//":{validate:function(e,r,t){var n=e.slice(r);return t.re.no_http||(t.re.no_http=new RegExp("^"+t.re.src_auth+"(?:localhost|(?:(?:"+t.re.src_domain+")\\\\.)+"+t.re.src_domain_root+")"+t.re.src_port+t.re.src_host_terminator+t.re.src_path,"i")),t.re.no_http.test(n)?r>=3&&":"===e[r-3]||r>=3&&"/"===e[r-3]?0:n.match(t.re.no_http)[0].length:0}},"mailto:":{validate:function(e,r,t){var n=e.slice(r);return t.re.mailto||(t.re.mailto=new RegExp("^"+t.re.src_email_name+"@"+t.re.src_host_strict,"i")),t.re.mailto.test(n)?n.match(t.re.mailto)[0].length:0}}},_r="biz|com|edu|gov|net|org|pro|web|xxx|aero|asia|coop|info|museum|name|shop|\\u0440\\u0444".split("|");function kr(e){var r=e.re=function(e){var r={};return e=e||{},r.src_Any=y.source,r.src_Cc=A.source,r.src_Z=x.source,r.src_P=t.source,r.src_ZPCc=[r.src_Z,r.src_P,r.src_Cc].join("|"),r.src_ZCc=[r.src_Z,r.src_Cc].join("|"),r.src_pseudo_letter="(?:(?![><\\uff5c]|"+r.src_ZPCc+")"+r.src_Any+")",r.src_ip4="(?:(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\\\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)",r.src_auth="(?:(?:(?!"+r.src_ZCc+"|[@/\\\\[\\\\]()]).)+@)?",r.src_port="(?::(?:6(?:[0-4]\\\\d{3}|5(?:[0-4]\\\\d{2}|5(?:[0-2]\\\\d|3[0-5])))|[1-5]?\\\\d{1,4}))?",r.src_host_terminator="(?=$|[><\\uff5c]|"+r.src_ZPCc+")(?!"+(e["---"]?"-(?!--)|":"-|")+"_|:\\\\d|\\\\.-|\\\\.(?!$|"+r.src_ZPCc+"))",r.src_path="(?:[/?#](?:(?!"+r.src_ZCc+"|[><\\uff5c]|[()[\\\\]{}.,\\"'?!\\\\-;]).|\\\\[(?:(?!"+r.src_ZCc+"|\\\\]).)*\\\\]|\\\\((?:(?!"+r.src_ZCc+"|[)]).)*\\\\)|\\\\{(?:(?!"+r.src_ZCc+'|[}]).)*\\\\}|\\\\"(?:(?!'+r.src_ZCc+'|["]).)+\\\\"|\\\\\\'(?:(?!'+r.src_ZCc+"|[']).)+\\\\'|\\\\'(?="+r.src_pseudo_letter+"|[-])|\\\\.{2,}[a-zA-Z0-9%/&]|\\\\.(?!"+r.src_ZCc+"|[.]|$)|"+(e["---"]?"\\\\-(?!--(?:[^-]|$))(?:-*)|":"\\\\-+|")+",(?!"+r.src_ZCc+"|$)|;(?!"+r.src_ZCc+"|$)|\\\\!+(?!"+r.src_ZCc+"|[!]|$)|\\\\?(?!"+r.src_ZCc+"|[?]|$))+|\\\\/)?",r.src_email_name='[\\\\-;:&=\\\\+\\\\$,\\\\.a-zA-Z0-9_][\\\\-;:&=\\\\+\\\\$,\\\\"\\\\.a-zA-Z0-9_]*',r.src_xn="xn--[a-z0-9\\\\-]{1,59}",r.src_domain_root="(?:"+r.src_xn+"|"+r.src_pseudo_letter+"{1,63})",r.src_domain="(?:"+r.src_xn+"|(?:"+r.src_pseudo_letter+")|(?:"+r.src_pseudo_letter+"(?:-|"+r.src_pseudo_letter+"){0,61}"+r.src_pseudo_letter+"))",r.src_host="(?:(?:(?:(?:"+r.src_domain+")\\\\.)*"+r.src_domain+"))",r.tpl_host_fuzzy="(?:"+r.src_ip4+"|(?:(?:(?:"+r.src_domain+")\\\\.)+(?:%TLDS%)))",r.tpl_host_no_ip_fuzzy="(?:(?:(?:"+r.src_domain+")\\\\.)+(?:%TLDS%))",r.src_host_strict=r.src_host+r.src_host_terminator,r.tpl_host_fuzzy_strict=r.tpl_host_fuzzy+r.src_host_terminator,r.src_host_port_strict=r.src_host+r.src_port+r.src_host_terminator,r.tpl_host_port_fuzzy_strict=r.tpl_host_fuzzy+r.src_port+r.src_host_terminator,r.tpl_host_port_no_ip_fuzzy_strict=r.tpl_host_no_ip_fuzzy+r.src_port+r.src_host_terminator,r.tpl_host_fuzzy_test="localhost|www\\\\.|\\\\.\\\\d{1,3}\\\\.|(?:\\\\.(?:%TLDS%)(?:"+r.src_ZPCc+"|>|$))",r.tpl_email_fuzzy='(^|[><\\uff5c]|"|\\\\(|'+r.src_ZCc+")("+r.src_email_name+"@"+r.tpl_host_fuzzy_strict+")",r.tpl_link_fuzzy="(^|(?![.:/\\\\-_@])(?:[$+<=>^\`|\\uff5c]|"+r.src_ZPCc+"))((?![$+<=>^\`|\\uff5c])"+r.tpl_host_port_fuzzy_strict+r.src_path+")",r.tpl_link_no_ip_fuzzy="(^|(?![.:/\\\\-_@])(?:[$+<=>^\`|\\uff5c]|"+r.src_ZPCc+"))((?![$+<=>^\`|\\uff5c])"+r.tpl_host_port_no_ip_fuzzy_strict+r.src_path+")",r}(e.__opts__),n=e.__tlds__.slice();function s(e){return e.replace("%TLDS%",r.src_tlds)}e.onCompile(),e.__tlds_replaced__||n.push("a[cdefgilmnoqrstuwxz]|b[abdefghijmnorstvwyz]|c[acdfghiklmnoruvwxyz]|d[ejkmoz]|e[cegrstu]|f[ijkmor]|g[abdefghilmnpqrstuwy]|h[kmnrtu]|i[delmnoqrst]|j[emop]|k[eghimnprwyz]|l[abcikrstuvy]|m[acdeghklmnopqrstuvwxyz]|n[acefgilopruz]|om|p[aefghklmnrstwy]|qa|r[eosuw]|s[abcdeghijklmnortuvxyz]|t[cdfghjklmnortvwz]|u[agksyz]|v[aceginu]|w[fs]|y[et]|z[amw]"),n.push(r.src_xn),r.src_tlds=n.join("|"),r.email_fuzzy=RegExp(s(r.tpl_email_fuzzy),"i"),r.link_fuzzy=RegExp(s(r.tpl_link_fuzzy),"i"),r.link_no_ip_fuzzy=RegExp(s(r.tpl_link_no_ip_fuzzy),"i"),r.host_fuzzy_test=RegExp(s(r.tpl_host_fuzzy_test),"i");var o=[];function i(e,r){throw new Error('(LinkifyIt) Invalid schema "'+e+'": '+r)}e.__compiled__={},Object.keys(e.__schemas__).forEach((function(r){var t=e.__schemas__[r];if(null!==t){var n={validate:null,link:null};if(e.__compiled__[r]=n,"[object Object]"===hr(t))return!function(e){return"[object RegExp]"===hr(e)}(t.validate)?fr(t.validate)?n.validate=t.validate:i(r,t):n.validate=function(e){return function(r,t){var n=r.slice(t);return e.test(n)?n.match(e)[0].length:0}}(t.validate),void(fr(t.normalize)?n.normalize=t.normalize:t.normalize?i(r,t):n.normalize=function(e,r){r.normalize(e)});!function(e){return"[object String]"===hr(e)}(t)?i(r,t):o.push(r)}})),o.forEach((function(r){e.__compiled__[e.__schemas__[r]]&&(e.__compiled__[r].validate=e.__compiled__[e.__schemas__[r]].validate,e.__compiled__[r].normalize=e.__compiled__[e.__schemas__[r]].normalize)})),e.__compiled__[""]={validate:null,normalize:function(e,r){r.normalize(e)}};var a=Object.keys(e.__compiled__).filter((function(r){return r.length>0&&e.__compiled__[r]})).map(dr).join("|");e.re.schema_test=RegExp("(^|(?!_)(?:[><\\uff5c]|"+r.src_ZPCc+"))("+a+")","i"),e.re.schema_search=RegExp("(^|(?!_)(?:[><\\uff5c]|"+r.src_ZPCc+"))("+a+")","ig"),e.re.schema_at_start=RegExp("^"+e.re.schema_search.source,"i"),e.re.pretest=RegExp("("+e.re.schema_test.source+")|("+e.re.host_fuzzy_test.source+")|@","i"),function(e){e.__index__=-1,e.__text_cache__=""}(e)}function br(e,r){var t=e.__index__,n=e.__last_index__,s=e.__text_cache__.slice(t,n);this.schema=e.__schema__.toLowerCase(),this.index=t+r,this.lastIndex=n+r,this.raw=s,this.text=s,this.url=s}function vr(e,r){var t=new br(e,r);return e.__compiled__[t.schema].normalize(t,e),t}function Cr(e,r){if(!(this instanceof Cr))return new Cr(e,r);var t;r||(t=e,Object.keys(t||{}).reduce((function(e,r){return e||mr.hasOwnProperty(r)}),!1)&&(r=e,e={})),this.__opts__=pr({},mr,r),this.__index__=-1,this.__last_index__=-1,this.__schema__="",this.__text_cache__="",this.__schemas__=pr({},gr,e),this.__compiled__={},this.__tlds__=_r,this.__tlds_replaced__=!1,this.re={},kr(this)}Cr.prototype.add=function(e,r){return this.__schemas__[e]=r,kr(this),this},Cr.prototype.set=function(e){return this.__opts__=pr(this.__opts__,e),this},Cr.prototype.test=function(e){if(this.__text_cache__=e,this.__index__=-1,!e.length)return!1;var r,t,n,s,o,i,a,c;if(this.re.schema_test.test(e))for((a=this.re.schema_search).lastIndex=0;null!==(r=a.exec(e));)if(s=this.testSchemaAt(e,r[2],a.lastIndex)){this.__schema__=r[2],this.__index__=r.index+r[1].length,this.__last_index__=r.index+r[0].length+s;break}return this.__opts__.fuzzyLink&&this.__compiled__["http:"]&&(c=e.search(this.re.host_fuzzy_test))>=0&&(this.__index__<0||c<this.__index__)&&null!==(t=e.match(this.__opts__.fuzzyIP?this.re.link_fuzzy:this.re.link_no_ip_fuzzy))&&(o=t.index+t[1].length,(this.__index__<0||o<this.__index__)&&(this.__schema__="",this.__index__=o,this.__last_index__=t.index+t[0].length)),this.__opts__.fuzzyEmail&&this.__compiled__["mailto:"]&&e.indexOf("@")>=0&&null!==(n=e.match(this.re.email_fuzzy))&&(o=n.index+n[1].length,i=n.index+n[0].length,(this.__index__<0||o<this.__index__||o===this.__index__&&i>this.__last_index__)&&(this.__schema__="mailto:",this.__index__=o,this.__last_index__=i)),this.__index__>=0},Cr.prototype.pretest=function(e){return this.re.pretest.test(e)},Cr.prototype.testSchemaAt=function(e,r,t){return this.__compiled__[r.toLowerCase()]?this.__compiled__[r.toLowerCase()].validate(e,t,this):0},Cr.prototype.match=function(e){var r=0,t=[];this.__index__>=0&&this.__text_cache__===e&&(t.push(vr(this,r)),r=this.__last_index__);for(var n=r?e.slice(r):e;this.test(n);)t.push(vr(this,r)),n=n.slice(this.__last_index__),r+=this.__last_index__;return t.length?t:null},Cr.prototype.matchAtStart=function(e){if(this.__text_cache__=e,this.__index__=-1,!e.length)return null;var r=this.re.schema_at_start.exec(e);if(!r)return null;var t=this.testSchemaAt(e,r[2],r[0].length);return t?(this.__schema__=r[2],this.__index__=r.index+r[1].length,this.__last_index__=r.index+r[0].length+t,vr(this,0)):null},Cr.prototype.tlds=function(e,r){return e=Array.isArray(e)?e:[e],r?(this.__tlds__=this.__tlds__.concat(e).sort().filter((function(e,r,t){return e!==t[r-1]})).reverse(),kr(this),this):(this.__tlds__=e.slice(),this.__tlds_replaced__=!0,kr(this),this)},Cr.prototype.normalize=function(e){e.schema||(e.url="http://"+e.url),"mailto:"!==e.schema||/^mailto:/i.test(e.url)||(e.url="mailto:"+e.url)},Cr.prototype.onCompile=function(){};var yr=Cr,Ar=2147483647,xr=36,Dr=/^xn--/,wr=/[^\\x20-\\x7E]/,Er=/[\\x2E\\u3002\\uFF0E\\uFF61]/g,qr={overflow:"Overflow: input needs wider integers to process","not-basic":"Illegal input >= 0x80 (not a basic code point)","invalid-input":"Invalid input"},Sr=Math.floor,Fr=String.fromCharCode;
-/*! https://mths.be/punycode v1.4.1 by @mathias */function Lr(e){throw new RangeError(qr[e])}function zr(e,r){for(var t=e.length,n=[];t--;)n[t]=r(e[t]);return n}function Tr(e,r){var t=e.split("@"),n="";return t.length>1&&(n=t[0]+"@",e=t[1]),n+zr((e=e.replace(Er,".")).split("."),r).join(".")}function Ir(e){for(var r,t,n=[],s=0,o=e.length;s<o;)(r=e.charCodeAt(s++))>=55296&&r<=56319&&s<o?56320==(64512&(t=e.charCodeAt(s++)))?n.push(((1023&r)<<10)+(1023&t)+65536):(n.push(r),s--):n.push(r);return n}function Mr(e){return zr(e,(function(e){var r="";return e>65535&&(r+=Fr((e-=65536)>>>10&1023|55296),e=56320|1023&e),r+=Fr(e)})).join("")}function Rr(e,r){return e+22+75*(e<26)-((0!=r)<<5)}function Br(e,r,t){var n=0;for(e=t?Sr(e/700):e>>1,e+=Sr(e/r);e>455;n+=xr)e=Sr(e/35);return Sr(n+36*e/(e+38))}function Nr(e){var r,t,n,s,o,i,a,c,l,u,p,h=[],f=e.length,d=0,m=128,g=72;for((t=e.lastIndexOf("-"))<0&&(t=0),n=0;n<t;++n)e.charCodeAt(n)>=128&&Lr("not-basic"),h.push(e.charCodeAt(n));for(s=t>0?t+1:0;s<f;){for(o=d,i=1,a=xr;s>=f&&Lr("invalid-input"),((c=(p=e.charCodeAt(s++))-48<10?p-22:p-65<26?p-65:p-97<26?p-97:xr)>=xr||c>Sr((Ar-d)/i))&&Lr("overflow"),d+=c*i,!(c<(l=a<=g?1:a>=g+26?26:a-g));a+=xr)i>Sr(Ar/(u=xr-l))&&Lr("overflow"),i*=u;g=Br(d-o,r=h.length+1,0==o),Sr(d/r)>Ar-m&&Lr("overflow"),m+=Sr(d/r),d%=r,h.splice(d++,0,m)}return Mr(h)}function Or(e){var r,t,n,s,o,i,a,c,l,u,p,h,f,d,m,g=[];for(h=(e=Ir(e)).length,r=128,t=0,o=72,i=0;i<h;++i)(p=e[i])<128&&g.push(Fr(p));for(n=s=g.length,s&&g.push("-");n<h;){for(a=Ar,i=0;i<h;++i)(p=e[i])>=r&&p<a&&(a=p);for(a-r>Sr((Ar-t)/(f=n+1))&&Lr("overflow"),t+=(a-r)*f,r=a,i=0;i<h;++i)if((p=e[i])<r&&++t>Ar&&Lr("overflow"),p==r){for(c=t,l=xr;!(c<(u=l<=o?1:l>=o+26?26:l-o));l+=xr)m=c-u,d=xr-u,g.push(Fr(Rr(u+m%d,0))),c=Sr(m/d);g.push(Fr(Rr(c,0))),o=Br(t,f,n==s),t=0,++n}++t,++r}return g.join("")}function Pr(e){return Tr(e,(function(e){return Dr.test(e)?Nr(e.slice(4).toLowerCase()):e}))}function jr(e){return Tr(e,(function(e){return wr.test(e)?"xn--"+Or(e):e}))}var Ur="1.4.1",Vr={decode:Ir,encode:Mr},Zr={version:Ur,ucs2:Vr,toASCII:jr,toUnicode:Pr,encode:Or,decode:Nr},$r=e(Object.freeze({__proto__:null,decode:Nr,encode:Or,toUnicode:Pr,toASCII:jr,version:Ur,ucs2:Vr,default:Zr})),Gr={default:{options:{html:!1,xhtmlOut:!1,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"\\u201c\\u201d\\u2018\\u2019",highlight:null,maxNesting:100},components:{core:{},block:{},inline:{}}},zero:{options:{html:!1,xhtmlOut:!1,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"\\u201c\\u201d\\u2018\\u2019",highlight:null,maxNesting:20},components:{core:{rules:["normalize","block","inline","text_join"]},block:{rules:["paragraph"]},inline:{rules:["text"],rules2:["balance_pairs","fragments_join"]}}},commonmark:{options:{html:!0,xhtmlOut:!0,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"\\u201c\\u201d\\u2018\\u2019",highlight:null,maxNesting:20},components:{core:{rules:["normalize","block","inline","text_join"]},block:{rules:["blockquote","code","fence","heading","hr","html_block","lheading","list","reference","paragraph"]},inline:{rules:["autolink","backticks","emphasis","entity","escape","html_inline","image","link","newline","text"],rules2:["balance_pairs","emphasis","fragments_join"]}}}},Hr=/^(vbscript|javascript|file|data):/,Jr=/^data:image\\/(gif|png|jpeg|webp);/;function Wr(e){var r=e.trim().toLowerCase();return!Hr.test(r)||!!Jr.test(r)}var Yr=["http:","https:","mailto:"];function Kr(e){var r=C.parse(e,!0);if(r.hostname&&(!r.protocol||Yr.indexOf(r.protocol)>=0))try{r.hostname=$r.toASCII(r.hostname)}catch(e){}return C.encode(C.format(r))}function Qr(e){var r=C.parse(e,!0);if(r.hostname&&(!r.protocol||Yr.indexOf(r.protocol)>=0))try{r.hostname=$r.toUnicode(r.hostname)}catch(e){}return C.decode(C.format(r),C.decode.defaultChars+"%")}function Xr(e,r){if(!(this instanceof Xr))return new Xr(e,r);r||w.isString(e)||(r=e||{},e="default"),this.inline=new ur,this.block=new ze,this.core=new ue,this.renderer=new B,this.linkify=new yr,this.validateLink=Wr,this.normalizeLink=Kr,this.normalizeLinkText=Qr,this.utils=w,this.helpers=w.assign({},L),this.options={},this.configure(e),r&&this.set(r)}return Xr.prototype.set=function(e){return w.assign(this.options,e),this},Xr.prototype.configure=function(e){var r,t=this;if(w.isString(e)&&!(e=Gr[r=e]))throw new Error('Wrong \`markdown-it\` preset "'+r+'", check name');if(!e)throw new Error("Wrong \`markdown-it\` preset, can't be empty");return e.options&&t.set(e.options),e.components&&Object.keys(e.components).forEach((function(r){e.components[r].rules&&t[r].ruler.enableOnly(e.components[r].rules),e.components[r].rules2&&t[r].ruler2.enableOnly(e.components[r].rules2)})),this},Xr.prototype.enable=function(e,r){var t=[];Array.isArray(e)||(e=[e]),["core","block","inline"].forEach((function(r){t=t.concat(this[r].ruler.enable(e,!0))}),this),t=t.concat(this.inline.ruler2.enable(e,!0));var n=e.filter((function(e){return t.indexOf(e)<0}));if(n.length&&!r)throw new Error("MarkdownIt. Failed to enable unknown rule(s): "+n);return this},Xr.prototype.disable=function(e,r){var t=[];Array.isArray(e)||(e=[e]),["core","block","inline"].forEach((function(r){t=t.concat(this[r].ruler.disable(e,!0))}),this),t=t.concat(this.inline.ruler2.disable(e,!0));var n=e.filter((function(e){return t.indexOf(e)<0}));if(n.length&&!r)throw new Error("MarkdownIt. Failed to disable unknown rule(s): "+n);return this},Xr.prototype.use=function(e){var r=[this].concat(Array.prototype.slice.call(arguments,1));return e.apply(e,r),this},Xr.prototype.parse=function(e,r){if("string"!=typeof e)throw new Error("Input data should be a String");var t=new this.core.State(e,this,r);return this.core.process(t),t.tokens},Xr.prototype.render=function(e,r){return r=r||{},this.renderer.render(this.parse(e,r),this.options,r)},Xr.prototype.parseInline=function(e,r){var t=new this.core.State(e,this,r);return t.inlineMode=!0,this.core.process(t),t.tokens},Xr.prototype.renderInline=function(e,r){return r=r||{},this.renderer.render(this.parseInline(e,r),this.options,r)},Xr}));
+/*! https://mths.be/punycode v1.4.1 by @mathias */function Lr(e){throw new RangeError(qr[e])}function zr(e,r){for(var t=e.length,n=[];t--;)n[t]=r(e[t]);return n}function Tr(e,r){var t=e.indexOf("@"),n="",s,o,i,a=[];for(t>=0&&(n=e.slice(0,t+1),e=e.slice(t+1)),s=e.replace(Er,"."),o=0;;){if((i=s.indexOf(".",o))<0){a.push(r(s.slice(o)));break}a.push(r(s.slice(o,i))),o=i+1}for(s="",o=0;o<a.length;o++)s+=(o?".":"")+a[o];return n+s}function Ir(e){for(var r,t,n=[],s=0,o=e.length;s<o;)(r=e.charCodeAt(s++))>=55296&&r<=56319&&s<o?56320==(64512&(t=e.charCodeAt(s++)))?n.push(((1023&r)<<10)+(1023&t)+65536):(n.push(r),s--):n.push(r);return n}function Mr(e){return zr(e,(function(e){var r="";return e>65535&&(r+=Fr((e-=65536)>>>10&1023|55296),e=56320|1023&e),r+=Fr(e)})).join("")}function Rr(e,r){return e+22+75*(e<26)-((0!=r)<<5)}function Br(e,r,t){var n=0;for(e=t?Sr(e/700):e>>1,e+=Sr(e/r);e>455;n+=xr)e=Sr(e/35);return Sr(n+36*e/(e+38))}function Nr(e){var r,t,n,s,o,i,a,c,l,u,p,h=[],f=e.length,d=0,m=128,g=72;for((t=e.lastIndexOf("-"))<0&&(t=0),n=0;n<t;++n)e.charCodeAt(n)>=128&&Lr("not-basic"),h.push(e.charCodeAt(n));for(s=t>0?t+1:0;s<f;){for(o=d,i=1,a=xr;s>=f&&Lr("invalid-input"),((c=(p=e.charCodeAt(s++))-48<10?p-22:p-65<26?p-65:p-97<26?p-97:xr)>=xr||c>Sr((Ar-d)/i))&&Lr("overflow"),d+=c*i,!(c<(l=a<=g?1:a>=g+26?26:a-g));a+=xr)i>Sr(Ar/(u=xr-l))&&Lr("overflow"),i*=u;g=Br(d-o,r=h.length+1,0==o),Sr(d/r)>Ar-m&&Lr("overflow"),m+=Sr(d/r),d%=r,h.splice(d++,0,m)}return Mr(h)}function Or(e){var r,t,n,s,o,i,a,c,l,u,p,h,f,d,m,g=[];for(h=(e=Ir(e)).length,r=128,t=0,o=72,i=0;i<h;++i)(p=e[i])<128&&g.push(Fr(p));for(n=s=g.length,s&&g.push("-");n<h;){for(a=Ar,i=0;i<h;++i)(p=e[i])>=r&&p<a&&(a=p);for(a-r>Sr((Ar-t)/(f=n+1))&&Lr("overflow"),t+=(a-r)*f,r=a,i=0;i<h;++i)if((p=e[i])<r&&++t>Ar&&Lr("overflow"),p==r){for(c=t,l=xr;!(c<(u=l<=o?1:l>=o+26?26:l-o));l+=xr)m=c-u,d=xr-u,g.push(Fr(Rr(u+m%d,0))),c=Sr(m/d);g.push(Fr(Rr(c,0))),o=Br(t,f,n==s),t=0,++n}++t,++r}return g.join("")}function Pr(e){return Tr(e,(function(e){return Dr.test(e)?Nr(e.slice(4).toLowerCase()):e}))}function jr(e){return Tr(e,(function(e){return wr.test(e)?"xn--"+Or(e):e}))}var Ur="1.4.1",Vr={decode:Ir,encode:Mr},Zr={version:Ur,ucs2:Vr,toASCII:jr,toUnicode:Pr,encode:Or,decode:Nr},$r=e(Object.freeze({__proto__:null,decode:Nr,encode:Or,toUnicode:Pr,toASCII:jr,version:Ur,ucs2:Vr,default:Zr})),Gr={default:{options:{html:!1,xhtmlOut:!1,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"\\u201c\\u201d\\u2018\\u2019",highlight:null,maxNesting:100},components:{core:{},block:{},inline:{}}},zero:{options:{html:!1,xhtmlOut:!1,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"\\u201c\\u201d\\u2018\\u2019",highlight:null,maxNesting:20},components:{core:{rules:["normalize","block","inline","text_join"]},block:{rules:["paragraph"]},inline:{rules:["text"],rules2:["balance_pairs","fragments_join"]}}},commonmark:{options:{html:!0,xhtmlOut:!0,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"\\u201c\\u201d\\u2018\\u2019",highlight:null,maxNesting:20},components:{core:{rules:["normalize","block","inline","text_join"]},block:{rules:["blockquote","code","fence","heading","hr","html_block","lheading","list","reference","paragraph"]},inline:{rules:["autolink","backticks","emphasis","entity","escape","html_inline","image","link","newline","text"],rules2:["balance_pairs","emphasis","fragments_join"]}}}},Hr=/^(vbscript|javascript|file|data):/,Jr=/^data:image\\/(gif|png|jpeg|webp);/;function Wr(e){var r=e.trim().toLowerCase();return!Hr.test(r)||!!Jr.test(r)}var Yr=["http:","https:","mailto:"];function Kr(e){var r=C.parse(e,!0);if(r.hostname&&(!r.protocol||Yr.indexOf(r.protocol)>=0))try{r.hostname=$r.toASCII(r.hostname)}catch(e){}return C.encode(C.format(r))}function Qr(e){var r=C.parse(e,!0);if(r.hostname&&(!r.protocol||Yr.indexOf(r.protocol)>=0))try{r.hostname=$r.toUnicode(r.hostname)}catch(e){}return C.decode(C.format(r),C.decode.defaultChars+"%")}function Xr(e,r){if(!(this instanceof Xr))return new Xr(e,r);r||w.isString(e)||(r=e||{},e="default"),this.inline=new ur,this.block=new ze,this.core=new ue,this.renderer=new B,this.linkify=new yr,this.validateLink=Wr,this.normalizeLink=Kr,this.normalizeLinkText=Qr,this.utils=w,this.helpers=w.assign({},L),this.options={},this.configure(e),r&&this.set(r)}return Xr.prototype.set=function(e){return w.assign(this.options,e),this},Xr.prototype.configure=function(e){var r,t=this;if(w.isString(e)&&!(e=Gr[r=e]))throw new Error('Wrong \`markdown-it\` preset "'+r+'", check name');if(!e)throw new Error("Wrong \`markdown-it\` preset, can't be empty");return e.options&&t.set(e.options),e.components&&Object.keys(e.components).forEach((function(r){e.components[r].rules&&t[r].ruler.enableOnly(e.components[r].rules),e.components[r].rules2&&t[r].ruler2.enableOnly(e.components[r].rules2)})),this},Xr.prototype.enable=function(e,r){var t=[];Array.isArray(e)||(e=[e]),["core","block","inline"].forEach((function(r){t=t.concat(this[r].ruler.enable(e,!0))}),this),t=t.concat(this.inline.ruler2.enable(e,!0));var n=e.filter((function(e){return t.indexOf(e)<0}));if(n.length&&!r)throw new Error("MarkdownIt. Failed to enable unknown rule(s): "+n);return this},Xr.prototype.disable=function(e,r){var t=[];Array.isArray(e)||(e=[e]),["core","block","inline"].forEach((function(r){t=t.concat(this[r].ruler.disable(e,!0))}),this),t=t.concat(this.inline.ruler2.disable(e,!0));var n=e.filter((function(e){return t.indexOf(e)<0}));if(n.length&&!r)throw new Error("MarkdownIt. Failed to disable unknown rule(s): "+n);return this},Xr.prototype.use=function(e){var r=[this].concat(Array.prototype.slice.call(arguments,1));return e.apply(e,r),this},Xr.prototype.parse=function(e,r){if("string"!=typeof e)throw new Error("Input data should be a String");var t=new this.core.State(e,this,r);return this.core.process(t),t.tokens},Xr.prototype.render=function(e,r){return r=r||{},this.renderer.render(this.parse(e,r),this.options,r)},Xr.prototype.parseInline=function(e,r){var t=new this.core.State(e,this,r);return t.inlineMode=!0,this.core.process(t),t.tokens},Xr.prototype.renderInline=function(e,r){return r=r||{},this.renderer.render(this.parseInline(e,r),this.options,r)},Xr}));
 `,
         "highlight": `/*!
   Highlight.js v11.9.0 (git: f47103d4f1)
@@ -1315,7 +1315,7 @@ return He}()
 \`)};C4.matchesPseudo=function(t,e){return e.find(function(r){return t.indexOf(r)>-1})};C4.compareFunc=function(t,e){for(var r=Math.min(t.length,e.length),n=0;n<r;n++)if(t[n]!==e[n])return t[n]>e[n]?1:-1;return t.length-e.length};C4.compare=function(t,e){return C4.compareFunc(t,e)==1?t:e};C4.getDefaultOptions=function(t){var e=Object.assign({extraCss:"",insertPreservedExtraCss:!0,applyStyleTags:!0,removeStyleTags:!0,preserveMediaQueries:!0,preserveFontFaces:!0,preserveKeyFrames:!0,preservePseudos:!0,applyWidthAttributes:!0,applyHeightAttributes:!0,applyAttributesTableElements:!0,url:""},t);return e.webResources=e.webResources||{},e}});var XM=L((He1,ET)=>{"use strict";var n21=iM(),ge1=_T(),i21=function(t,e,r){return e=Object.assign({decodeEntities:!1,_useHtmlParser2:!0},e),t=r(t),n21.load(t,e)},a21=function(){var t=[],e=function(n){var i=ET.exports.codeBlocks;return Object.keys(i).forEach(function(a){var T=new RegExp(i[a].start+"([\\\\S\\\\s]*?)"+i[a].end,"g");n=n.replace(T,function(Q,o){return t.push(Q),"JUICE_CODE_BLOCK_"+(t.length-1)+"_"})}),n},r=function(n){for(var i=0;i<t.length;i++){var a=new RegExp("JUICE_CODE_BLOCK_"+i+'_(="")?',"gi");n=n.replace(a,function(){return t[i]})}return n};return{encodeEntities:e,decodeEntities:r}};ET.exports=function(t,e,r,n){var i=a21(),a=i21(t,e,i.encodeEntities),T=[a];T.push.apply(T,n);var Q=r.apply(void 0,T)||a;return e&&e.xmlMode?i.decodeEntities(Q.xml()):i.decodeEntities(Q.html())};ET.exports.codeBlocks={EJS:{start:"<%",end:"%>"},HBS:{start:"{{",end:"}}"}}});var KM=L(Pc=>{"use strict";Pc.romanize=function(t){if(isNaN(t))return NaN;for(var e=String(+t).split(""),r=["","C","CC","CCC","CD","D","DC","DCC","DCCC","CM","","X","XX","XXX","XL","L","LX","LXX","LXXX","XC","","I","II","III","IV","V","VI","VII","VIII","IX"],n="",i=3;i--;)n=(r[+e.pop()+i*10]||"")+n;return Array(+e.join("")+1).join("M")+n};Pc.alphanumeric=function(t){for(var e="",r;t>0;)r=(t-1)%26,e=String.fromCharCode(65+r)+e,t=(t-r)/26|0;return e||void 0}});var YM=L((Ee1,zM)=>{"use strict";var Kt=_T(),AT=KM();zM.exports=function(e){e.ignoredPseudos=["hover","active","focus","visited","link"],e.widthElements=["TABLE","TD","TH","IMG"],e.heightElements=["TABLE","TD","TH","IMG"],e.tableElements=["TABLE","TH","TR","TD","CAPTION","COLGROUP","COL","THEAD","TBODY","TFOOT"],e.nonVisualElements=["HEAD","TITLE","BASE","LINK","STYLE","META","SCRIPT","NOSCRIPT"],e.styleToAttribute={"background-color":"bgcolor","background-image":"background","text-align":"align","vertical-align":"valign"},e.excludedProperties=[],e.juiceDocument=l,e.inlineDocument=r;function r(h,p,m){m=m||{};var v=Kt.parseCSS(p),g=[],H="style",_={};if(m.styleAttributeName&&(H=m.styleAttributeName),v.forEach(G),g.forEach(C),m.inlinePseudoElements&&g.forEach(w),m.applyWidthAttributes&&g.forEach(function(V){I(V,"width")}),m.applyHeightAttributes&&g.forEach(function(V){I(V,"height")}),m.applyAttributesTableElements&&g.forEach(l1),m.insertPreservedExtraCss&&m.extraCss){var E=Kt.getPreservedText(m.extraCss,{mediaQueries:m.preserveMediaQueries,fontFaces:m.preserveFontFaces,keyFrames:m.preserveKeyFrames});if(E){var S=null;m.insertPreservedExtraCss!==!0?S=h(m.insertPreservedExtraCss):(S=h("head"),S.length||(S=h("body")),S.length||(S=h.root())),S.first().append("<style>"+E+"</style>")}}function G(V){var Z=V[0],a1=V[1],J=new Kt.Selector(Z),o1=J.parsed();if(o1){for(var I1=Q(o1),A=0;A<o1.length;++A){var M=o1[A];if(M.pseudos)for(var W=0;W<M.pseudos.length;++W){var n1=M.pseudos[W];if(e.ignoredPseudos.indexOf(n1.name)>=0)return}}if(I1){var Y=o1[o1.length-1],f1=Y.pseudos;Y.pseudos=s(Y.pseudos),Z=o1.toString(),Y.pseudos=f1}var $;try{$=h(Z)}catch{return}$.each(function(){var k=this;if(k.name&&e.nonVisualElements.indexOf(k.name.toUpperCase())>=0)return;if(I1){var u1="pseudo"+I1,b1=k[u1];b1||(b1=k[u1]=h("<span />").get(0),b1.pseudoElementType=I1,b1.pseudoElementParent=k,b1.counterProps=k.counterProps,k[u1]=b1),k=b1}if(!k.styleProps){if(k.styleProps={},h(k).attr(H)){var M3="* { "+h(k).attr(H)+" } ";A9(Kt.parseCSS(M3)[0][1],new Kt.Selector("<style>",!0))}g.push(k)}k.counterProps||(k.counterProps=k.parent&&k.parent.counterProps?Object.create(k.parent.counterProps):{});function f2(i3,Z0){for(var D2=Z0.split(/\\s+/),O3=0;O3<D2.length;O3++){var Z2=D2[O3],G3=parseInt(D2[O3+1],10);isNaN(G3)?i3.counterProps[Z2]=_[Z2]=0:i3.counterProps[Z2]=_[D2[O3++]]=G3}}function A5(i3,Z0){for(var D2=Z0.split(/\\s+/),O3=0;O3<D2.length;O3++){var Z2=D2[O3];if(i3.counterProps[Z2]!==void 0){var G3=parseInt(D2[O3+1],10);isNaN(G3)?i3.counterProps[Z2]=_[Z2]+=1:i3.counterProps[Z2]=_[D2[O3++]]+=G3}}}function A9(i3,Z0){for(var D2=0,O3=i3.length;D2<O3;D2++)if(i3[D2].type=="property"){var Z2=i3[D2].name,G3=i3[D2].value;Z2==="counter-reset"&&f2(k,G3),Z2==="counter-increment"&&A5(k,G3);var Rc=G3.match(/!important$/)!==null;Rc&&!m.preserveImportant&&(G3=n(G3));var TO=[i3[D2].position.start.line,i3[D2].position.start.col],M9=new Kt.Property(Z2,G3,Z0,Rc?2:0,TO),zt=k.styleProps[Z2];e.excludedProperties.indexOf(Z2)<0&&(zt&&zt.compare(M9)===M9||!zt)&&(zt&&zt.selector!==Z0?delete k.styleProps[Z2]:zt&&(M9.nextProp=zt),k.styleProps[Z2]=M9)}}A9(a1,J)})}}function C(V){var Z=Object.keys(V.styleProps).length,a1=[];Object.keys(V.styleProps).forEach(function(o1){for(var I1=V.styleProps[o1];typeof I1<"u";)a1.push(I1),I1=I1.nextProp}),a1.sort(function(o1,I1){return o1.compareFunc(I1)});var J=a1.filter(function(o1){return o1.prop!=="content"}).map(function(o1){return o1.prop+": "+o1.value.replace(/["]/g,"'")+";"}).join(" ");J&&h(V).attr(H,J)}function w(V){if(V.pseudoElementType&&V.styleProps.content){var Z=T(V);Z.img?(V.name="img",h(V).attr("src",Z.img)):h(V).text(Z);var a1=V.pseudoElementParent;V.pseudoElementType==="before"?h(a1).prepend(V):h(a1).append(V)}}function I(V,Z){if(V.name){var a1=V.name.toUpperCase();if(e[Z+"Elements"].indexOf(a1)>-1){for(var J in V.styleProps)if(V.styleProps[J].prop===Z){var o1=V.styleProps[J].value;if(m.preserveImportant&&(o1=n(o1)),o1.match(/px/)){var I1=o1.replace("px","");h(V).attr(Z,I1);return}if(e.tableElements.indexOf(a1)>-1&&o1.match(/\\%/)){h(V).attr(Z,o1);return}}}}}function U(V){return V.indexOf("url(")!==0?V:V.replace(/^url\\((["'])?([^"']+)\\1\\)$/,"$2")}function l1(V){if(V.name){var Z=V.name.toUpperCase(),a1=Object.keys(e.styleToAttribute);if(e.tableElements.indexOf(Z)>-1){for(var J in V.styleProps)if(a1.indexOf(V.styleProps[J].prop)>-1){var o1=e.styleToAttribute[V.styleProps[J].prop],I1=V.styleProps[J].value;if(m.preserveImportant&&(I1=n(I1)),o1==="background"&&(I1=U(I1)),/(linear|radial)-gradient\\(/i.test(I1))continue;h(V).attr(o1,I1)}}}}}function n(h){return h.replace(/\\s*!important$/,"")}function i(h,p){for(;h;){if(p in h.styleProps)return h.styleProps[p].value;var h=h.pseudoElementParent||h.parent}}function a(h,p){switch(p){case"lower-roman":return AT.romanize(h).toLowerCase();case"upper-roman":return AT.romanize(h);case"lower-latin":case"lower-alpha":return AT.alphanumeric(h).toLowerCase();case"upper-latin":case"upper-alpha":return AT.alphanumeric(h);default:return h.toString()}}function T(h){var p=h.styleProps.content.value;if(p==="none"||p==="normal")return"";var m=p.match(/^\\s*url\\s*\\(\\s*(.*?)\\s*\\)\\s*$/i);if(m){var v=m[1].replace(/^['"]|['"]$/g,"");return{img:v}}for(var g=[],H=p.split(/['"]/),_=0;_<H.length;_++)if(H[_]!==""){var E=H[_].match(/var\\s*\\(\\s*(.*?)\\s*(,\\s*(.*?)\\s*)?\\s*\\)/i);if(E){var S=i(h,E[1])||E[2];g.push(S.replace(/^['"]|['"]$/g,""));continue}var G=H[_].match(/counter\\s*\\(\\s*(.*?)\\s*(,\\s*(.*?)\\s*)?\\s*\\)/i);if(G&&G[1]in h.counterProps){var C=h.counterProps[G[1]];g.push(a(C,G[3]));continue}var w=H[_].match(/attr\\s*\\(\\s*(.*?)\\s*\\)/i);if(w){var I=w[1];g.push(h.pseudoElementParent?h.pseudoElementParent.attribs[I]:h.attribs[I]);continue}g.push(H[_])}return p=g.join(""),p=p.replace(/\\\\/g,""),p}function Q(h){if(h.length!==0){var p=h[h.length-1].pseudos;if(p){for(var m=0;m<p.length;m++)if(o(p[m]))return p[m].name}}}function o(h){return h.name==="before"||h.name==="after"}function s(h){return h.filter(function(p){return!o(p)})}function l(h,p){p=Kt.getDefaultOptions(p);var m=f(h,p);return m+=\`
 \`+p.extraCss,r(h,m,p),h}function c(h,p){var m=[],v=h("style"),g,H,_;return v.each(function(){_=this;var E=!!_.childNodes;if(g=E?_.childNodes:_.children,g.length!==1){p.removeStyleTags&&h(_).remove();return}if(H=g[0].data,p.applyStyleTags&&h(_).attr("data-embed")===void 0&&m.push(H),p.removeStyleTags&&h(_).attr("data-embed")===void 0){var S=E?_.childNodes[0].nodeValue:_.children[0].data,G=Kt.getPreservedText(S,{mediaQueries:p.preserveMediaQueries,fontFaces:p.preserveFontFaces,keyFrames:p.preserveKeyFrames,pseudos:p.preservePseudos},e.ignoredPseudos);G?E?_.childNodes[0].nodeValue=G:_.children[0].data=G:h(_).remove()}h(_).removeAttr("data-embed")}),m}function f(h,p){var m=c(h,p),v=m.join(\`
 \`);return v}return e}});var tO=L((Ae1,JM)=>{"use strict";var $M=XM(),T21=YM(),MT=T21(function(t,e){return $M(t,{xmlMode:e&&e.xmlMode},Q21,[e])}),Q21=function(t,e){return MT.juiceDocument(t,e)};MT.inlineContent=function(t,e,r){return $M(t,{xmlMode:r&&r.xmlMode},MT.inlineDocument,[e,r])};JM.exports=MT});var iO=L((Bc,nO)=>{"use strict";var o21=Bc&&Bc.__importDefault||function(t){return t&&t.__esModule?t:{default:t}},s21=S9(),u21=eh(),l21=gQ(),c21=JL(),f21=Wm(),h21=Wx(),d21=rg(),p21=o21(tO());function eO(t,e,r){let n=(0,c21.liteAdaptor)(),i=(0,f21.RegisterHTMLHandler)(n);(0,d21.AssistiveMmlHandler)(i);let a=s21.mathjax.document(t,e),T=n.outerHTML(a.convert(t,r)),Q=n.outerHTML(e.OutputJax.styleSheet(a));return(0,p21.default)(T+Q)}function rO(t,e){let r=t.posMax,n=!0,i=!0,a=e>0?t.src.charCodeAt(e-1):-1,T=e+1<=r?t.src.charCodeAt(e+1):-1;return(a===32||a===9||T>=48&&T<=57)&&(i=!1),(T===32||T===9)&&(n=!1),{can_open:n,can_close:i}}function L21(t,e){if(t.src[t.pos]!=="$")return!1;let r=rO(t,t.pos);if(!r.can_open)return e||(t.pending+="$"),t.pos+=1,!0;let n=t.pos+1,i=n;for(;(i=t.src.indexOf("$",i))!==-1;){let a=i-1;for(;t.src[a]==="\\\\";)a-=1;if((i-a)%2==1)break;i+=1}if(i===-1)return e||(t.pending+="$"),t.pos=n,!0;if(i-n===0)return e||(t.pending+="$$"),t.pos=n+1,!0;if(r=rO(t,i),!r.can_close)return e||(t.pending+="$"),t.pos=n,!0;if(!e){let a=t.push("math_inline","math",0);a.markup="$",a.content=t.src.slice(n,i)}return t.pos=i+1,!0}function m21(t,e,r,n){let i,a,T=!1,Q=t.bMarks[e]+t.tShift[e],o=t.eMarks[e],s="";if(Q+2>o||t.src.slice(Q,Q+2)!=="$$")return!1;Q+=2;let l=t.src.slice(Q,o);if(n)return!0;for(l.trim().slice(-2)==="$$"&&(l=l.trim().slice(0,-2),T=!0),i=e;!T&&(i++,!(i>=r||(Q=t.bMarks[i]+t.tShift[i],o=t.eMarks[i],Q<o&&t.tShift[i]<t.blkIndent)));)t.src.slice(Q,o).trim().slice(-2)==="$$"&&(a=t.src.slice(0,o).lastIndexOf("$$"),s=t.src.slice(Q,a),T=!0);t.line=i+1;let c=t.push("math_block","math",0);return c.block=!0,c.content=(l&&l.trim()?l+\`
-\`:"")+t.getLines(e+1,i,t.tShift[e],!0)+(s&&s.trim()?s:""),c.map=[e,t.line],c.markup="$$",!0}function Ic(t,e){let r={InputJax:new u21.TeX(Object.assign({packages:h21.AllPackages},e?.tex)),OutputJax:new l21.SVG(Object.assign({fontCache:"none"},e?.svg))},n={display:!1};t.inline.ruler.after("escape","math_inline",L21),t.block.ruler.after("blockquote","math_block",m21,{alt:["paragraph","reference","blockquote","list"]}),t.renderer.rules.math_inline=function(i,a){return n.display=!1,eO(i[a].content,r,n)},t.renderer.rules.math_block=function(i,a){return n.display=!0,eO(i[a].content,r,n)}}Ic.default=Ic;nO.exports=Ic});var aO=hO(iO()),v21=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{};v21.ObsidianWechatMath=(t,e)=>{try{t.use(aO.default,{tex:{inlineMath:[["$","$"],["\\\\(","\\\\)"]],displayMath:[["$$","$$"],["\\\\[","\\\\]"]]},svg:{fontCache:"none",scale:1,displayAlign:"center",displayIndent:"0"},options:{enableMenu:!1,assistiveMml:!1}})}catch(r){console.error("MathJax3 Plugin: Registration failed",r)}};})();
+\`:"")+t.getLines(e+1,i,t.tShift[e],!0)+(s&&s.trim()?s:""),c.map=[e,t.line],c.markup="$$",!0}function Ic(t,e){let r={InputJax:new u21.TeX(Object.assign({packages:h21.AllPackages},e?.tex)),OutputJax:new l21.SVG(Object.assign({fontCache:"none"},e?.svg))},n={display:!1};t.inline.ruler.after("escape","math_inline",L21),t.block.ruler.after("blockquote","math_block",m21,{alt:["paragraph","reference","blockquote","list"]}),t.renderer.rules.math_inline=function(i,a){return n.display=!1,eO(i[a].content,r,n)},t.renderer.rules.math_block=function(i,a){return n.display=!0,eO(i[a].content,r,n)}}Ic.default=Ic;nO.exports=Ic});var aO=hO(iO()),v21=typeof window!="undefined"?window:typeof global!="undefined"?global:typeof self!="undefined"?self:{};v21.ObsidianWechatMath=(t,e)=>{try{t.use(aO.default,{tex:{inlineMath:[["$","$"],["\\\\(","\\\\)"]],displayMath:[["$$","$$"],["\\\\[","\\\\]"]]},svg:{fontCache:"none",scale:1,displayAlign:"center",displayIndent:"0"},options:{enableMenu:!1,assistiveMml:!1}})}catch(r){console.error("MathJax3 Plugin: Registration failed",r)}};})();
 /*! Bundled license information:
 
 mhchemparser/dist/mhchemParser.js:
@@ -1362,7 +1362,7 @@ juice/lib/utils.js:
    *)
 */
 `,
-        "theme": "/**\n * \u{1F34E} Apple Style \u591A\u4E3B\u9898\u7CFB\u7EDF\n * \u652F\u6301\u591A\u79CD\u4E3B\u9898\u98CE\u683C\uFF1A\u7B80\u7EA6\u3001\u7ECF\u5178\u3001\u6C34\u58A8\u3001\u6781\u5149\u7B49\n * \u8BBE\u8BA1\u7406\u5FF5\uFF1A\u514B\u5236\u3001\u4F18\u96C5\u3001\u6CE8\u91CD\u7EC6\u8282\n */\n\n// Use assignment expression to avoid \"Identifier has already been declared\" errors if re-eval'd\nwindow.AppleTheme = class AppleTheme {\n  /**\n   * \u{1F3A8} \u4E3B\u9898\u8272\u677F - 8\u79CD\u9884\u8BBE\u989C\u8272\n   */\n  static THEME_COLORS = {\n    blue: '#0366d6',\n    green: '#28a745',\n    purple: '#6f42c1',\n    orange: '#fd7e14',\n    teal: '#20c997',\n    rose: '#e83e8c',\n    ruby: '#dc3545',\n    slate: '#6c757d',\n  };\n\n  /**\n   * \u{1F3A8} \u6807\u9898\u4E13\u7528\u6DF1\u8272\u677F (Tone-on-Tone)\n   * \u76F8\u6BD4\u4E3B\u9898\u8272\u52A0\u6DF1 15-20%\uFF0C\u7528\u4E8E\u6807\u9898\u4EE5\u589E\u52A0\u89C6\u89C9\u7A33\u91CD\u611F\uFF0C\u907F\u514D\u4E0E\u6B63\u6587\u9AD8\u4EAE\u8272\u51B2\u7A81\n   */\n  static THEME_COLORS_DEEP = {\n    blue: '#004795',    // Deep Blue\n    green: '#1e7e34',   // Deep Green\n    purple: '#4a2b82',  // Deep Purple\n    orange: '#c75e0b',  // Deep Orange\n    teal: '#158765',    // Deep Teal\n    rose: '#b81f66',    // Deep Rose\n    ruby: '#a81825',    // Deep Ruby\n    slate: '#495057',   // Deep Slate\n  };\n\n  /**\n   * \u{1F4D0} \u5B57\u4F53\u5927\u5C0F\u7CFB\u7EDF - 5\u6863\n   */\n  static FONT_SIZES = {\n    1: { base: 14, h1: 26, h2: 20, h3: 16, h4: 14, h5: 14, h6: 14, code: 12, caption: 12 },\n    2: { base: 15, h1: 28, h2: 21, h3: 17, h4: 15, h5: 15, h6: 15, code: 13, caption: 12 },\n    3: { base: 16, h1: 30, h2: 22, h3: 18, h4: 16, h5: 16, h6: 16, code: 14, caption: 13 }, // \u63A8\u8350\n    4: { base: 17, h1: 32, h2: 24, h3: 19, h4: 17, h5: 17, h6: 17, code: 15, caption: 14 },\n    5: { base: 18, h1: 34, h2: 26, h3: 20, h4: 18, h5: 18, h6: 18, code: 16, caption: 14 },\n  };\n\n  /**\n   * \u{1F524} \u5B57\u4F53\u6808\n   */\n  static FONTS = {\n    'sans-serif': `-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif`,\n    'serif': `'Times New Roman', Georgia, 'SimSun', serif`,\n    'monospace': `'SF Mono', Consolas, 'Liberation Mono', Menlo, Courier, monospace`,\n  };\n\n  /**\n   * \u{1F3A8} \u4E3B\u9898\u914D\u7F6E - \u6BCF\u79CD\u4E3B\u9898\u7684\u72EC\u7279\u914D\u8272\u548C\u89C4\u5219\n   */\n  static THEME_CONFIGS = {\n\n    github: {\n      name: '\u7B80\u7EA6',\n      lineHeight: 1.82,\n      paragraphGap: 18,\n      h1Decoration: 'none',\n      h2Decoration: 'none',\n      h3Decoration: 'bottom-line-left',\n      h4Decoration: 'none',\n      headingWeight: 800,\n      headingLetterSpacing: 0,\n      textColor: '#3e3e3e',\n      headingColor: '#3e3e3e',\n\n      linkDecoration: 'underline',\n      blockquoteBorderWidth: 4,\n      tableHeaderBg: '#f6f8fa',\n      tableCellPadding: 10,\n      figurePadding: 8,\n      figureBorderColor: '#e8eaed',\n      // Removed blockquoteBorderColor to allow theme color (was #d0d7de)\n      // Removed blockquoteBg to allow theme color tint (was #ffffff)\n    },\n    wechat: {\n      name: '\u7ECF\u5178',\n      lineHeight: 1.8,\n      paragraphGap: 24,\n      h1Decoration: 'classic-title',\n      h2Decoration: 'classic-title',\n      h3Decoration: 'classic-subhead',\n      h4Decoration: 'classic-minor',\n      headingWeight: 700,\n      headingLetterSpacing: 0,\n      textColor: '#3e3e3e',\n      headingColor: '#3e3e3e',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 4,\n      blockquoteBg: '#f8fafc',\n      blockquoteStyle: 'soft',\n    },\n    serif: {\n      name: '\u4F18\u96C5',\n      lineHeight: 1.8,\n      paragraphGap: 20,\n      h1Decoration: 'editorial-h1',      // \u6742\u5FD7\u5927\u6807\u9898 (\u91D1\u7EBF)\n      h2Decoration: 'editorial-h1',      // H2 \u6B64\u65F6\u4E5F\u662F\u91D1\u7EBF (Level 2 = Level 1)\n      h3Decoration: 'editorial-h2',      // H3 \u4F7F\u7528\u539F H2 \u6837\u5F0F (\u659C\u4F53\uFF0C\u73B0\u5728\u7684 helper \u5DF2\u5F3A\u5236\u5DE6\u5BF9\u9F50)\n      h4Decoration: 'editorial-h3',      // H4 \u4F7F\u7528\u539F H3 (\u5DE6\u5BF9\u9F50\u4E0B\u5212\u7EBF)\n      headingWeight: 700,\n      headingLetterSpacing: 1,           // \u4F18\u96C5\u4E3B\u9898\u589E\u52A0\u5B57\u95F4\u8DDD\n      textColor: '#3e3e3e',\n      headingColor: '#3e3e3e',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 0,          // \u5C45\u4E2D\u6837\u5F0F\u4E0D\u9700\u8981\u5DE6\u8FB9\u6846\n      blockquoteStyle: 'center',         // \u65B0\u589E\uFF1A\u5C45\u4E2D\u5F15\u7528\n    },\n    paper: {\n      name: '\u7EB8\u5F20\u957F\u6587',\n      lineHeight: 1.9,\n      paragraphGap: 22,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'paper-title',\n      h2Decoration: 'paper-chapter',\n      h3Decoration: 'paper-section',\n      h4Decoration: 'paper-kicker',\n      h5Decoration: 'simple',\n      h6Decoration: 'quiet',\n      headingWeight: 700,\n      headingLetterSpacing: 0,\n      textColor: '#3f3a33',\n      headingColor: '#3e3e3e',\n      sectionBg: '#fffdf8',\n      mutedTextColor: '#786f63',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 0,\n      blockquoteBg: '#f7f1e7',\n      blockquoteStyle: 'paper',\n      tableHeaderBg: '#f7f1e7',\n      tableBorderColor: '#e6dccd',\n      figureBorderColor: '#eadfce',\n    },\n    grid: {\n      name: '\u7F51\u683C\u6587\u6863',\n      lineHeight: 1.82,\n      paragraphGap: 20,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'grid-title',\n      h2Decoration: 'grid-chapter',\n      h3Decoration: 'grid-section',\n      h4Decoration: 'grid-kicker',\n      h5Decoration: 'light-bg',\n      h6Decoration: 'quiet',\n      headingWeight: 800,\n      headingLetterSpacing: 0,\n      textColor: '#344054',\n      headingColor: '#263238',\n      sectionBgStyle: 'grid',\n      sectionBgSize: '18px 18px',\n      mutedTextColor: '#667085',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 4,\n      blockquoteBg: '#f6f9fc',\n      blockquoteStyle: 'soft',\n      tableHeaderBg: '#f3f7fb',\n      tableBorderColor: '#dbe5ef',\n    },\n    typo: {\n      name: 'Typo',\n      lineHeight: 1.92,\n      paragraphGap: 22,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'typo-title',\n      h2Decoration: 'typo-title',\n      h3Decoration: 'typo-section',\n      h4Decoration: 'typo-subhead',\n      h5Decoration: 'dashed-bottom',\n      h6Decoration: 'quiet',\n      headingWeight: 700,\n      headingLetterSpacing: 0,\n      textColor: '#333333',\n      headingColor: '#222222',\n      mutedTextColor: '#6b6b6b',\n      linkDecoration: 'underline',\n      blockquoteBorderWidth: 2,\n      blockquoteBg: '#fafafa',\n      blockquoteStyle: 'soft',\n      paragraphTextIndent: '2em',\n      tableHeaderBg: '#f7f7f7',\n      figureBorderColor: '#ededed',\n    },\n    media: {\n      name: '\u6E05\u723D\u5A92\u4F53',\n      lineHeight: 1.86,\n      paragraphGap: 18,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'media-title',\n      h2Decoration: 'media-chapter',\n      h3Decoration: 'media-section',\n      h4Decoration: 'left-border',\n      h5Decoration: 'light-bg',\n      h6Decoration: 'quiet',\n      headingWeight: 700,\n      headingLetterSpacing: 0,\n      textColor: '#3b4648',\n      headingColor: '#263238',\n      mutedTextColor: '#667476',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 3,\n      blockquoteBg: '#f3fbf8',\n      blockquoteStyle: 'soft',\n      tableHeaderBg: '#f3fbf8',\n      tableBorderColor: '#dbeee8',\n      figureBorderColor: '#dcefeb',\n    },\n    colorful: {\n      name: '\u5F69\u8272\u5F3A\u8C03',\n      lineHeight: 1.82,\n      paragraphGap: 20,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'colorful-title',\n      h2Decoration: 'colorful-chapter',\n      h3Decoration: 'colorful-section',\n      h4Decoration: 'colorful-kicker',\n      h5Decoration: 'light-bg',\n      h6Decoration: 'quiet',\n      headingWeight: 800,\n      headingLetterSpacing: 0,\n      textColor: '#3e3e3e',\n      headingColor: '#3e3e3e',\n      mutedTextColor: '#6b7280',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 4,\n      blockquoteBg: '#fffaf5',\n      blockquoteStyle: 'soft',\n      tableHeaderBg: '#fff8ed',\n      figureBorderColor: '#f0e4d4',\n      strongBg: true,\n    },\n  };\n\n  /**\n   * \u{1F4D0} \u95F4\u8DDD\u7CFB\u7EDF - 8px \u57FA\u51C6\n   */\n  static SPACING = {\n    xs: 4,\n    sm: 8,\n    md: 16,\n    lg: 24,\n    xl: 32,\n    xxl: 48,\n  };\n\n  /**\n   * \u{1F3AF} \u5706\u89D2\u7CFB\u7EDF\n   */\n  static RADIUS = {\n    sm: 4,\n    md: 8,\n    lg: 12,\n  };\n\n  static QUOTE_CALLOUT_NEUTRAL_BG = '#f9f9f9';\n  static QUOTE_NEUTRAL_BORDER = '#d9d9d9';\n\n  /**\n   * \u5F53\u524D\u914D\u7F6E\n   */\n  constructor(options = {}) {\n    this.themeName = options.theme || 'github';\n    this.themeColor = options.themeColor || 'blue';\n    this.customColor = options.customColor || null;\n    this.quoteCalloutStyleMode = options.quoteCalloutStyleMode || 'theme';\n    this.fontFamily = options.fontFamily || 'sans-serif';\n    this.fontSize = options.fontSize || 3;\n    this.macCodeBlock = options.macCodeBlock !== false;\n    this.codeLineNumber = options.codeLineNumber || false;\n    // \u4FA7\u8FB9\u8DDD\u8BBE\u7F6E (\u9ED8\u8BA4 16px)\n    this.sidePadding = options.sidePadding !== undefined ? options.sidePadding : 16;\n    // \u6807\u9898\u67D3\u8272\u8BBE\u7F6E\n    this.coloredHeader = options.coloredHeader || false;\n  }\n\n  /**\n   * \u83B7\u53D6\u5F53\u524D\u4E3B\u9898\u8272\u503C\n   */\n  getThemeColorValue() {\n    if (this.themeColor === 'custom' && this.customColor) {\n      return this.customColor;\n    }\n    return AppleTheme.THEME_COLORS[this.themeColor] || AppleTheme.THEME_COLORS.blue;\n  }\n\n  /**\n   * \u83B7\u53D6\u6807\u9898\u4E13\u7528\u6DF1\u8272\u503C\n   */\n  getHeadingColorValue() {\n    // 1. \u5982\u679C\u672A\u5F00\u542F\u6807\u9898\u67D3\u8272\uFF0C\u8FD4\u56DE\u9ED8\u8BA4\u6DF1\u7070\n    if (!this.coloredHeader) {\n      return '#3e3e3e';\n    }\n\n    // 2. \u81EA\u5B9A\u4E49\u989C\u8272\uFF1A\u81EA\u52A8\u8BA1\u7B97\u53D8\u6DF1 20%\n    if (this.themeColor === 'custom' && this.customColor) {\n      return this.adjustColorBrightness(this.customColor, -20);\n    }\n\n    // 3. \u9884\u8BBE\u989C\u8272\uFF1A\u8FD4\u56DE\u6DF1\u8272\u677F\u5BF9\u5E94\u503C\n    return AppleTheme.THEME_COLORS_DEEP[this.themeColor] || AppleTheme.THEME_COLORS_DEEP.blue;\n  }\n\n  /**\n   * \u8F85\u52A9\uFF1A\u8C03\u6574 Hex \u989C\u8272\u4EAE\u5EA6\n   * @param {string} hex - #RRGGBB\n   * @param {number} percent - -100 to 100\n   */\n  adjustColorBrightness(hex, percent) {\n    hex = hex.replace(/^#/, '');\n    let r = parseInt(hex.substring(0, 2), 16);\n    let g = parseInt(hex.substring(2, 4), 16);\n    let b = parseInt(hex.substring(4, 6), 16);\n\n    r = Math.round(r * (100 + percent) / 100);\n    g = Math.round(g * (100 + percent) / 100);\n    b = Math.round(b * (100 + percent) / 100);\n\n    r = (r < 255) ? r : 255;\n    g = (g < 255) ? g : 255;\n    b = (b < 255) ? b : 255;\n\n    // Pad with 0 if necessary\n    const rr = ((r.toString(16).length === 1) ? '0' + r.toString(16) : r.toString(16));\n    const gg = ((g.toString(16).length === 1) ? '0' + g.toString(16) : g.toString(16));\n    const bb = ((b.toString(16).length === 1) ? '0' + b.toString(16) : b.toString(16));\n\n    return `#${rr}${gg}${bb}`;\n  }\n\n  /**\n   * \u83B7\u53D6\u5F53\u524D\u4E3B\u9898\u914D\u7F6E\n   */\n  getThemeConfig() {\n    return AppleTheme.THEME_CONFIGS[this.themeName] || AppleTheme.THEME_CONFIGS.github;\n  }\n\n  /**\n   * \u83B7\u53D6\u5B57\u4F53\u5C3A\u5BF8\u914D\u7F6E\n   */\n  getSizes() {\n    return AppleTheme.FONT_SIZES[this.fontSize] || AppleTheme.FONT_SIZES[3];\n  }\n\n  /**\n   * \u83B7\u53D6\u5B57\u4F53\u6808\n   */\n  getFontFamily() {\n    return AppleTheme.FONTS[this.fontFamily] || AppleTheme.FONTS['sans-serif'];\n  }\n\n  getQuoteCalloutStyleMode() {\n    return this.quoteCalloutStyleMode === 'neutral' ? 'neutral' : 'theme';\n  }\n\n  /**\n   * \u83B7\u53D6\u5143\u7D20\u6837\u5F0F\n   * @param {string} tagName - HTML \u6807\u7B7E\u540D\n   * @returns {string} - CSS \u6837\u5F0F\u5B57\u7B26\u4E32\n   */\n  getStyle(tagName) {\n    const config = this.getThemeConfig();\n    const sizes = this.getSizes();\n    const font = this.getFontFamily();\n    const color = this.getThemeColorValue();\n    const quoteCalloutStyleMode = this.getQuoteCalloutStyleMode();\n    const s = AppleTheme.SPACING;\n    const r = AppleTheme.RADIUS;\n\n    // \u6807\u9898\u989C\u8272\u903B\u8F91\uFF1A\u4F7F\u7528\u4E13\u95E8\u7684\u6DF1\u8272\u7CFB\u6807\u9898\u8272\n    // \u6CE8\u610F\uFF1A\u67D0\u4E9B\u7279\u6B8A\u4E3B\u9898\u88C5\u9970(h1Decoration)\u53EF\u80FD\u5DF2\u7ECF\u5305\u542B\u4E86\u989C\u8272\u8BBE\u7F6E\uFF0C\u8FD9\u91CC\u4E3B\u8981\u9488\u5BF9\u6587\u5B57\u672C\u8EAB\n    const headingColor = this.getHeadingColorValue();\n\n    switch (tagName) {\n      case 'section':\n        // \u4F7F\u7528\u914D\u7F6E\u7684 sidePadding\n        const sectionBackground = config.sectionBgStyle === 'grid'\n          ? `linear-gradient(${color}09 1px, transparent 1px), linear-gradient(90deg, ${color}09 1px, transparent 1px), #ffffff`\n          : (config.sectionBg || '#ffffff');\n        return this.joinStyleStrings(\n          `font-family: ${font}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${config.textColor}; padding: 20px ${this.sidePadding}px; background: ${sectionBackground}; max-width: 100%; word-wrap: break-word; text-align: justify`,\n          config.sectionBgSize ? `background-size: ${config.sectionBgSize}` : ''\n        );\n\n      case 'h1': return this.getH1Style(config.h1Decoration, color, sizes.h1, font, headingColor, config);\n      case 'h2':\n        return config.shiftHeadingDecorationsDown\n          ? this.getH1Style(config.h1Decoration, color, sizes.h2, font, headingColor, config)\n          : this.getH2Style(config.h2Decoration, color, sizes.h2, font, headingColor, config);\n      case 'h3':\n        return config.shiftHeadingDecorationsDown\n          ? this.getH2Style(config.h2Decoration, color, sizes.h3, font, headingColor, config)\n          : this.getH3Style(config.h3Decoration, color, sizes.h3, font, headingColor, config);\n      case 'h4':\n        return config.shiftHeadingDecorationsDown\n          ? this.getH3Style(config.h3Decoration, color, sizes.h4, font, headingColor, config)\n          : this.getH4Style(config.h4Decoration, color, sizes.h4, font, headingColor);\n\n      case 'h5':\n        return this.getH5Style(config.h5Decoration, color, sizes.h5, font, headingColor);\n      case 'h6':\n        return this.getH6Style(config.h6Decoration, color, sizes.h6, font, headingColor, config.mutedTextColor);\n\n      case 'p':\n        return this.joinStyleStrings(\n          `font-family: ${font}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${config.textColor}; margin: 0 0 ${config.paragraphGap}px 0; text-align: justify; letter-spacing: 0`,\n          config.paragraphTextIndent ? `text-indent: ${config.paragraphTextIndent}` : ''\n        );\n\n\n\n\n\n      case 'blockquote':\n        if (config.blockquoteStyle === 'center') {\n          const centeredBackground = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_CALLOUT_NEUTRAL_BG\n            : (config.blockquoteBg || color + '1F');\n          const centeredRuleColor = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_NEUTRAL_BORDER\n            : `${color}55`;\n          return `font-family: ${AppleTheme.FONTS.serif}; font-size: ${sizes.base}px; line-height: 1.85; color: #4f4a45; background: ${centeredBackground}; width: 92%; box-sizing: border-box; margin: 24px auto; padding: 18px 20px; text-align: justify; border-top: 1px solid ${centeredRuleColor}; border-bottom: 1px solid ${centeredRuleColor}; border-radius: ${r.sm}px;`;\n        }\n        if (config.blockquoteStyle === 'paper') {\n          const paperBg = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_CALLOUT_NEUTRAL_BG\n            : (config.blockquoteBg || color + '1F');\n          const paperBorder = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_NEUTRAL_BORDER\n            : `${color}99`;\n          return `font-family: ${AppleTheme.FONTS.serif}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: #5f574c; background: ${paperBg}; margin: 22px 0 22px 8px; padding: 16px 18px; border-left: 3px solid ${paperBorder}; border-radius: ${r.sm}px; text-align: justify;`;\n        }\n        if (config.blockquoteStyle === 'soft') {\n          const softBg = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_CALLOUT_NEUTRAL_BG\n            : (config.blockquoteBg || color + '14');\n          const softBorderColor = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_NEUTRAL_BORDER\n            : `${color}99`;\n          const softBorderWidth = this.themeName === 'wechat'\n            ? 3\n            : (config.blockquoteBorderWidth || 4);\n          return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: #595959; background: ${softBg}; margin: ${s.md}px 0 ${s.md}px 8px; padding: ${s.md}px; border-left: ${softBorderWidth}px solid ${softBorderColor}; border-radius: ${r.sm}px;`;\n        }\n\n        if (quoteCalloutStyleMode === 'neutral') {\n          const neutralBorderWidth = this.themeName === 'wechat'\n            ? 3\n            : (config.blockquoteBorderWidth || 4);\n          return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: #595959; background: ${AppleTheme.QUOTE_CALLOUT_NEUTRAL_BG}; margin: ${s.md}px 0 ${s.md}px 8px; padding: ${s.md}px; border-left: ${neutralBorderWidth}px solid ${AppleTheme.QUOTE_NEUTRAL_BORDER}; border-radius: ${r.sm}px;`;\n        }\n\n        // \u7ECF\u5178\u4E3B\u9898\uFF08wechat\uFF09\uFF1A\u4F7F\u7528\u66F4\u7EC6\u7684\u8FB9\u6846\u548C\u66F4\u6D45\u7684\u989C\u8272\uFF0C\u4E0E H3 \u533A\u5206\n        // H3: 4px \u4E3B\u9898\u8272 100% \u5DE6\u8FB9\u6846\uFF0C\u9876\u683C\n        // \u5F15\u7528\u5757: 3px \u4E3B\u9898\u8272 60% \u5DE6\u8FB9\u6846\uFF0C\u7F29\u8FDB 4px\n        if (this.themeName === 'wechat') {\n          return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: #595959; background: ${config.blockquoteBg || color + '1F'}; margin: ${s.md}px 0 ${s.md}px 4px; padding: ${s.md}px; border-left: 3px solid ${color}99; border-radius: 3px;`;\n        }\n\n        // Standard Blockquote: Restoring Italic and adjusting padding/background to match the screenshot\n        // Background: Light opacity of theme color (1F) for better visibility\n        // Border: Solid theme color\n        // Font: Normal (removed italic) for better legibility on mobile\n        return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: #595959; background: ${config.blockquoteBg || color + '1F'}; margin: ${s.md}px 0; padding: ${s.md}px; border-left: ${config.blockquoteBorderWidth}px solid ${config.blockquoteBorderColor || color}; border-radius: 3px;`;\n\n      case 'pre':\n        return `background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: ${r.md}px; padding: ${s.md}px; margin: ${s.md}px 0; overflow-x: auto; font-family: ${AppleTheme.FONTS.monospace}; font-size: ${sizes.code}px; line-height: 1.6; color: #24292e;`;\n\n      case 'code':\n        return `background: ${color}1A; color: ${color}; padding: 2px 4px; border-radius: 3px; font-family: ${AppleTheme.FONTS.monospace}; font-size: ${sizes.code}px;`;\n\n      case 'ul':\n        return `font-family: ${font}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${config.textColor}; margin: 12px 0; padding-left: 20px; list-style-type: disc;`;\n      case 'ol':\n        return `font-family: ${font}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${config.textColor}; margin: 12px 0; padding-left: 20px; list-style-type: decimal;`;\n      case 'li':\n        return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${config.textColor}; margin: 4px 0;`;\n      case 'li p':\n        return `margin: 0; padding: 0; line-height: ${config.lineHeight};`;\n\n\n\n\n      case 'figure':\n        // Fix: Restoring wireframe (border/padding) & balanced spacing (20px top/bottom)\n        // No shadow for cleaner look\n        return `display: block; margin: 20px 0; text-align: center; border: 1px solid ${config.figureBorderColor || '#e1e4e8'}; border-radius: ${r.md}px; padding: ${config.figurePadding || 10}px;`;\n\n      case 'figcaption':\n        return `font-size: ${sizes.caption}px; color: #999; text-align: center; margin-top: ${s.sm}px;`;\n\n      case 'img':\n        return `display: block; margin: 0 auto; max-width: 100%; border-radius: 4px;`;\n\n      case 'a':\n        return `color: ${color}; text-decoration: ${config.linkDecoration}; border-bottom: ${config.linkDecoration === 'none' ? `1px dashed ${color}` : 'none'};`;\n\n      case 'table-wrapper':\n        return `display: block; box-sizing: border-box; width: 100%; max-width: 100%; overflow-x: scroll; overflow-y: hidden; -webkit-overflow-scrolling: touch; margin: ${s.md}px 0; padding-bottom: 10px;`;\n      case 'table':\n        return `border-collapse: collapse; width: 720px; min-width: 100%; max-width: none; table-layout: auto; border: 1px solid ${config.tableBorderColor || '#e1e4e8'};`;\n      case 'th':\n        return `background: ${config.tableHeaderBg || color + '1F'}; font-weight: bold; color: ${config.textColor}; border: 1px solid ${config.tableBorderColor || '#e1e4e8'}; padding: ${config.tableCellPadding || 12}px; text-align: left; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;`;\n      case 'td':\n        return `border: 1px solid ${config.tableBorderColor || '#e1e4e8'}; padding: ${config.tableCellPadding || 12}px; text-align: left; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;`;\n      case 'thead':\n        return `background: #f6f8fa;`;\n\n      case 'hr':\n        return `border: 0; border-top: 1px solid rgba(0,0,0,0.08); margin: 40px 0;`;\n\n      case 'strong':\n        return config.strongBg\n          ? `font-weight: bold; color: ${color}; background: ${color}18; padding: 0 3px; border-radius: 3px;`\n          : `font-weight: bold; color: ${color};`;\n      case 'em':\n        return `font-style: italic;`;\n      case 'del':\n        return `text-decoration: line-through; color: #999;`;\n\n      case 'avatar-header':\n        return `margin: 0 0 ${s.sm}px 0 !important; display: flex !important; align-items: center !important; justify-content: flex-start !important; width: 100%; flex-direction: row !important; flex-wrap: nowrap !important; text-align: left !important;`;\n      case 'avatar':\n        return `display: inline-block !important; vertical-align: middle !important; margin: 0 !important; width: 32px !important; height: 32px !important; border-radius: 50%; object-fit: cover; border: 1px solid #e8e8ed; flex-shrink: 0;`;\n      case 'avatar-caption':\n        return `display: inline-block !important; vertical-align: middle !important; font-size: ${sizes.caption}px; color: #666; margin-left: 10px; line-height: 1.4; text-align: left !important;`;\n\n      default:\n        return '';\n    }\n  }\n\n  // === Helper Methods ===\n\n  getH1Style(type, color, fontSize, font, headingColor, config = {}) {\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 30px auto 20px; color: ${headingColor}; text-align: center; line-height: 1.2;`;\n    switch (type) {\n      case 'editorial-h1': // Magazine Style: Forced Serif + Golden Line\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 30px auto 20px; color: ${headingColor}; text-align: center; line-height: 1.2;\n          background-image: linear-gradient(to right, transparent, ${color}, transparent);\n          background-size: 100px 1px;\n          background-repeat: no-repeat;\n          background-position: bottom center;\n          padding-bottom: 20px; letter-spacing: 1px;`;\n      case 'bottom-line':\n        // Pure CSS centered short line using linear-gradient (simulating image)\n        return `${base}\n          background-image: linear-gradient(to right, ${color}, ${color});\n          background-size: 80px 3px;\n          background-repeat: no-repeat;\n          background-position: bottom center;\n          padding-bottom: 15px;`;\n      case 'border-box':\n        return `${base} border: 1px solid ${color}; padding: 10px 20px; border-radius: 4px; display: inline-block; width: auto;`;\n      case 'classic-title':\n        return `${base} margin: 34px auto 22px; padding: 0; background-image: linear-gradient(to right, transparent, ${color}, transparent); background-size: 120px 2px; background-repeat: no-repeat; background-position: bottom center; padding-bottom: 14px;`;\n      case 'paper-title':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 34px auto 24px; color: ${headingColor}; text-align: center; line-height: 1.35; letter-spacing: 1px; border-top: 2px solid ${color}; border-bottom: 1px solid ${color}66; padding: 16px 0 14px;`;\n      case 'grid-title':\n        return `${base} text-align: left; border: 1px solid ${color}55; border-radius: 4px; padding: 10px 12px; background: ${color}0F;`;\n      case 'typo-title':\n        return `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: 700; margin: 34px auto 22px; color: ${headingColor}; text-align: left; line-height: 1.28; border-bottom: 1px solid #d8d8d8; padding-bottom: 14px;`;\n      case 'media-title':\n        return `${base} text-align: left; color: ${headingColor}; background-image: linear-gradient(to right, ${color}, ${color}33); background-size: 100% 2px; background-repeat: no-repeat; background-position: bottom left; padding-bottom: 14px;`;\n      case 'colorful-title':\n        return `${base} color: #ffffff; background: ${color}; padding: 12px 18px; border-radius: 6px; box-shadow: 6px 6px 0 ${color}33;`;\n      default: // none or unknown\n        return this.joinStyleStrings(base, config.headingLetterSpacing ? `letter-spacing: ${config.headingLetterSpacing}px` : '');\n    }\n  }\n\n  getH2Style(type, color, fontSize, font, headingColor, config = {}) {\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 32px auto 16px; text-align: center; color: ${headingColor}; line-height: 1.25;`;\n    switch (type) {\n      case 'editorial-h1': // Golden Line (Shifted from H1)\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 32px auto 16px; color: ${headingColor}; text-align: center; line-height: 1.2;\n          background-image: linear-gradient(to right, transparent, ${color}, transparent);\n          background-size: 100px 1px;\n          background-repeat: no-repeat;\n          background-position: bottom center;\n          padding-bottom: 20px; letter-spacing: 1px;`;\n      case 'editorial-h2': // Magazine Subtitle\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: normal; margin: 32px auto 16px; text-align: center; color: ${headingColor}; line-height: 1.4; font-style: italic; letter-spacing: 1px;`;\n      case 'bottom-line':\n        // Pure CSS centered short line (thinner/shorter for H2)\n        return `${base}\n           background-image: linear-gradient(to right, ${color}, ${color});\n           background-size: 50px 2px;\n           background-repeat: no-repeat;\n           background-position: bottom center;\n           padding-bottom: 12px;`;\n      case 'filled-pill':\n        return `${base} background-color: ${color}; color: #fff; padding: 5px 20px; border-radius: 20px; display: inline-block; width: auto;`;\n      case 'bottom-line-center':\n        return `${base} display: inline-block; border-bottom: 1px solid ${color}; padding-bottom: 5px; width: auto;`;\n      case 'classic-title':\n        return `${base} margin: 34px auto 20px; padding: 0; background-image: linear-gradient(to right, transparent, ${color}, transparent); background-size: 120px 2px; background-repeat: no-repeat; background-position: bottom center; padding-bottom: 14px;`;\n      case 'paper-title':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 34px auto 20px; color: ${headingColor}; text-align: center; line-height: 1.35; letter-spacing: 1px; border-top: 2px solid ${color}; border-bottom: 1px solid ${color}66; padding: 14px 0 12px;`;\n      case 'paper-chapter':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 34px auto 20px; color: ${headingColor}; text-align: center; line-height: 1.35; letter-spacing: 1.5px; border-bottom: 2px solid ${color}; padding-bottom: 12px;`;\n      case 'grid-title':\n        return `${base} text-align: left; border: 1px solid ${color}55; border-radius: 4px; padding: 10px 12px; background: ${color}0F;`;\n      case 'grid-chapter':\n        return `${base} text-align: left; border-left: 3px solid ${color}; border-radius: 0 4px 4px 0; padding: 8px 12px; background: ${color}08;`;\n      case 'typo-title':\n        return `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: 700; margin: 34px 0 18px; color: ${headingColor}; text-align: left; line-height: 1.3; background-image: linear-gradient(#d8d8d8, #d8d8d8); background-size: 40% 1px; background-repeat: no-repeat; background-position: bottom left; padding-bottom: 12px;`;\n      case 'media-title':\n        return `${base} text-align: left; color: ${headingColor}; background-image: linear-gradient(to right, ${color}, ${color}33); background-size: 100% 2px; background-repeat: no-repeat; background-position: bottom left; padding-bottom: 12px;`;\n      case 'media-chapter':\n        return `${base} text-align: left; color: ${headingColor}; background-image: linear-gradient(to right, ${color}, transparent); background-size: 60% 2px; background-repeat: no-repeat; background-position: bottom left; padding-bottom: 12px;`;\n      case 'colorful-title':\n        return `${base} color: #ffffff; background: ${color}; padding: 10px 16px; border-radius: 6px; box-shadow: 5px 5px 0 ${color}33;`;\n      case 'colorful-chapter':\n        return `${base} text-align: left; border-left: 4px solid ${color}; background: ${color}12; padding: 10px 14px; border-radius: 0 4px 4px 0;`;\n      case 'paper-section':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 34px 0 16px; color: ${headingColor}; text-align: left; line-height: 1.35; border-bottom: 1px solid ${color}55; padding-bottom: 8px;`;\n      case 'grid-section':\n        return `${base} text-align: left; border-bottom: 1px solid ${color}66; padding: 4px 0 8px;`;\n      case 'typo-section':\n        return `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: 700; margin: 34px 0 16px; color: ${headingColor}; text-align: left; line-height: 1.35;`;\n      case 'media-section':\n        return `${base} display: inline-block; width: auto; text-align: left; background: ${color}14; border: 1px solid ${color}33; padding: 6px 12px; border-radius: 2px;`;\n      case 'colorful-section':\n        return `${base} display: inline-block; width: auto; text-align: left; background: ${color}18; border-bottom: 3px solid ${color}; padding: 6px 10px 5px; border-radius: 4px 4px 0 0;`;\n      default:\n        return this.joinStyleStrings(base, config.headingLetterSpacing ? `letter-spacing: ${config.headingLetterSpacing}px` : '');\n    }\n  }\n\n  getH3Style(type, color, fontSize, font, headingColor, config = {}) {\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 20px 0 12px; text-align: left; color: ${headingColor}; line-height: 1.3;`;\n    switch (type) {\n      case 'editorial-h2': // Italic Serif (Left Aligned for H3)\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: normal; margin: 24px 0 12px; text-align: left; color: ${headingColor}; line-height: 1.4; font-style: italic; letter-spacing: 1px;`;\n      case 'editorial-h3': // Magazine Section: Forced Serif + Left Underline\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 24px 0 12px; text-align: left; color: ${headingColor}; line-height: 1.3;\n           border-bottom: 1px solid ${color}; padding-bottom: 4px; display: inline-block; width: auto; letter-spacing: 0.5px;`;\n      case 'left-border':\n        return `${base} border-left: 4px solid ${color}; padding-left: 10px;`;\n      case 'bottom-line-left':\n        return `${base} display: inline-block; border-bottom: 2px solid ${color}; padding-bottom: 2px; margin-right: auto;`;\n      case 'classic-subhead':\n        return `${base} border-left: 3px solid ${color}; background: ${color}0A; padding: 6px 10px; margin: 24px 0 12px;`;\n      case 'paper-section':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 28px 0 14px; color: ${headingColor}; text-align: left; line-height: 1.35; border-top: 1px solid ${color}55; padding-top: 8px;`;\n      case 'grid-section':\n        return `${base} background-image: linear-gradient(${color}, ${color}); background-size: 3px 55%; background-position: left center; background-repeat: no-repeat; padding-left: 12px;`;\n      case 'typo-section':\n        return `${base} font-weight: 700; margin: 28px 0 14px; line-height: 1.35; border-left: 2px solid #d8d8d8; padding-left: 10px;`;\n      case 'media-section':\n        return `${base} display: inline-block; width: auto; background: ${color}14; border: 1px solid ${color}33; padding: 5px 10px; border-radius: 2px;`;\n      case 'colorful-section':\n        return `${base} display: inline-block; width: auto; background: ${color}18; border-bottom: 2px solid ${color}; padding: 5px 9px 4px; border-radius: 4px 4px 0 0;`;\n      case 'paper-kicker':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 24px 0 12px; color: ${headingColor}; text-align: left; line-height: 1.35; padding-left: 10px; border-left: 3px double ${color};`;\n      case 'typo-subhead':\n        return `${base} font-weight: 700; color: ${headingColor};`;\n      default:\n        return this.joinStyleStrings(base, config.headingLetterSpacing ? `letter-spacing: ${config.headingLetterSpacing}px` : '');\n    }\n  }\n\n  getH4Style(type, color, fontSize, font, headingColor) {\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 15px 0 10px; text-align: left; color: ${headingColor}; line-height: 1.35;`;\n    switch (type) {\n      case 'editorial-h3': // Inherit H3 style for H4\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 15px 0 10px; text-align: left; color: ${headingColor}; line-height: 1.35;\n           border-bottom: 1px solid ${color}; padding-bottom: 3px; display: inline-block; width: auto; letter-spacing: 0.5px;`;\n      case 'simple': // Simple Bold (User Font)\n        // Use headingColor (Deep) instead of color (Bright)\n        return `${base}`;\n      case 'light-bg':\n        // Background uses bright color tint (low opacity), Text uses deep headingColor\n        return `${base} background-color: ${color}15; padding: 4px 8px; border-radius: 4px; display: inline-block;`;\n      case 'classic-minor':\n        return `${base} border-left: 2px solid ${color}55; padding-left: 8px;`;\n      case 'left-border':\n        return `${base} border-left: 3px solid ${color}; padding-left: 9px;`;\n      case 'bottom-line-left':\n        return `${base} display: inline-block; border-bottom: 2px solid ${color}; padding-bottom: 2px; margin-right: auto;`;\n      case 'paper-kicker':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: inline-block; font-size: ${fontSize}px; font-weight: bold; margin: 22px 0 10px; color: ${headingColor}; text-align: left; line-height: 1.35; border-bottom: 1px double ${color}99; padding-bottom: 2px;`;\n      case 'grid-kicker':\n        return `${base} display: inline-block; border-bottom: 1px dashed ${color}44; padding-bottom: 2px;`;\n      case 'typo-subhead':\n        return `${base} font-weight: 700; letter-spacing: 1.5px;`;\n      case 'colorful-kicker':\n        return `${base} color: ${color}; background: ${color}12; padding: 4px 8px; border-radius: 4px; display: inline-block;`;\n      case 'italic-serif':\n        return `${base} font-style: italic; font-family: serif; border-bottom: 1px dashed #ccc; display: inline-block; padding-bottom: 2px;`;\n      default:\n        return base;\n    }\n  }\n\n  getH5Style(type, color, fontSize, font, headingColor) {\n    if (!type) {\n      return `font-family: ${font}; font-size: ${fontSize}px; font-weight: bold; color: ${headingColor}; margin: 10px 0; text-align: left; line-height: 1.4;`;\n    }\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; color: ${headingColor}; margin: 12px 0 8px; text-align: left; line-height: 1.4;`;\n    switch (type) {\n      case 'light-bg':\n        return `${base} background-color: ${color}12; padding: 3px 7px; border-radius: 4px; display: inline-block;`;\n      case 'dashed-bottom':\n        return `${base} font-weight: 600; border-bottom: 1px dashed ${color}33; display: inline-block; padding-bottom: 1px;`;\n      case 'simple':\n      default:\n        return base;\n    }\n  }\n\n  getH6Style(type, color, fontSize, font, headingColor, mutedColor = '#6b7280') {\n    if (!type) {\n      return `font-family: ${font}; font-size: ${fontSize}px; font-weight: bold; color: ${headingColor}; margin: 10px 0; text-align: left; line-height: 1.4;`;\n    }\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; color: ${headingColor}; margin: 10px 0 6px; text-align: left; line-height: 1.4;`;\n    switch (type) {\n      case 'quiet':\n        return `${base} color: ${mutedColor}; font-weight: 600;`;\n      default:\n        return base;\n    }\n  }\n\n  joinStyleStrings(...styles) {\n    return styles\n      .map((style) => (style || '').trim())\n      .filter(Boolean)\n      .map((style) => style.endsWith(';') ? style : `${style};`)\n      .join(' ');\n  }\n\n  /**\n   * \u66F4\u65B0\u914D\u7F6E\n   */\n  update(options) {\n    if (options.theme !== undefined) this.themeName = options.theme;\n    if (options.themeColor !== undefined) this.themeColor = options.themeColor;\n    if (options.customColor !== undefined) this.customColor = options.customColor;\n    if (options.quoteCalloutStyleMode !== undefined) this.quoteCalloutStyleMode = options.quoteCalloutStyleMode;\n    if (options.fontFamily !== undefined) this.fontFamily = options.fontFamily;\n    if (options.fontSize !== undefined) this.fontSize = options.fontSize;\n    if (options.macCodeBlock !== undefined) this.macCodeBlock = options.macCodeBlock;\n    if (options.codeLineNumber !== undefined) this.codeLineNumber = options.codeLineNumber;\n    if (options.sidePadding !== undefined) this.sidePadding = options.sidePadding;\n    if (options.coloredHeader !== undefined) this.coloredHeader = options.coloredHeader;\n  }\n\n  /**\n   * \u83B7\u53D6\u4E3B\u9898\u5217\u8868\n   */\n  static getThemeList() {\n    return Object.entries(AppleTheme.THEME_CONFIGS).map(([key, config]) => ({\n      value: key,\n      label: config.name,\n    }));\n  }\n\n  /**\n   * \u83B7\u53D6\u4E3B\u9898\u8272\u5217\u8868\n   */\n  static getColorList() {\n    return Object.entries(AppleTheme.THEME_COLORS).map(([key, value]) => ({\n      value: key,\n      color: value,\n    }));\n  }\n}\n\n// \u5BFC\u51FA\u5230\u5168\u5C40\u4F5C\u7528\u57DF\nwindow.AppleTheme = AppleTheme;\n",
+        "theme": "/**\n * \u{1F34E} Apple Style \u591A\u4E3B\u9898\u7CFB\u7EDF\n * \u652F\u6301\u591A\u79CD\u4E3B\u9898\u98CE\u683C\uFF1A\u7B80\u7EA6\u3001\u7ECF\u5178\u3001\u6C34\u58A8\u3001\u6781\u5149\u7B49\n * \u8BBE\u8BA1\u7406\u5FF5\uFF1A\u514B\u5236\u3001\u4F18\u96C5\u3001\u6CE8\u91CD\u7EC6\u8282\n */\n\n// Use assignment expression to avoid \"Identifier has already been declared\" errors if re-eval'd\nwindow.AppleTheme = class AppleTheme {\n  /**\n   * \u{1F3A8} \u4E3B\u9898\u8272\u677F - 8\u79CD\u9884\u8BBE\u989C\u8272\n   */\n  static THEME_COLORS = {\n    blue: '#0366d6',\n    green: '#28a745',\n    purple: '#6f42c1',\n    orange: '#fd7e14',\n    teal: '#20c997',\n    rose: '#e83e8c',\n    ruby: '#dc3545',\n    slate: '#6c757d',\n  };\n\n  /**\n   * \u{1F3A8} \u6807\u9898\u4E13\u7528\u6DF1\u8272\u677F (Tone-on-Tone)\n   * \u76F8\u6BD4\u4E3B\u9898\u8272\u52A0\u6DF1 15-20%\uFF0C\u7528\u4E8E\u6807\u9898\u4EE5\u589E\u52A0\u89C6\u89C9\u7A33\u91CD\u611F\uFF0C\u907F\u514D\u4E0E\u6B63\u6587\u9AD8\u4EAE\u8272\u51B2\u7A81\n   */\n  static THEME_COLORS_DEEP = {\n    blue: '#004795',    // Deep Blue\n    green: '#1e7e34',   // Deep Green\n    purple: '#4a2b82',  // Deep Purple\n    orange: '#c75e0b',  // Deep Orange\n    teal: '#158765',    // Deep Teal\n    rose: '#b81f66',    // Deep Rose\n    ruby: '#a81825',    // Deep Ruby\n    slate: '#495057',   // Deep Slate\n  };\n\n  /**\n   * \u{1F4D0} \u5B57\u4F53\u5927\u5C0F\u7CFB\u7EDF - 5\u6863\n   */\n  static FONT_SIZES = {\n    1: { base: 14, h1: 26, h2: 20, h3: 16, h4: 14, h5: 14, h6: 14, code: 12, caption: 12 },\n    2: { base: 15, h1: 28, h2: 21, h3: 17, h4: 15, h5: 15, h6: 15, code: 13, caption: 12 },\n    3: { base: 16, h1: 30, h2: 22, h3: 18, h4: 16, h5: 16, h6: 16, code: 14, caption: 13 }, // \u63A8\u8350\n    4: { base: 17, h1: 32, h2: 24, h3: 19, h4: 17, h5: 17, h6: 17, code: 15, caption: 14 },\n    5: { base: 18, h1: 34, h2: 26, h3: 20, h4: 18, h5: 18, h6: 18, code: 16, caption: 14 },\n  };\n\n  /**\n   * \u{1F524} \u5B57\u4F53\u6808\n   */\n  static FONTS = {\n    'sans-serif': `-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif`,\n    'serif': `'Times New Roman', Georgia, 'SimSun', serif`,\n    'monospace': `'SF Mono', Consolas, 'Liberation Mono', Menlo, Courier, monospace`,\n  };\n\n  /**\n   * \u{1F3A8} \u4E3B\u9898\u914D\u7F6E - \u6BCF\u79CD\u4E3B\u9898\u7684\u72EC\u7279\u914D\u8272\u548C\u89C4\u5219\n   */\n  static THEME_CONFIGS = {\n\n    github: {\n      name: '\u7B80\u7EA6',\n      lineHeight: 1.82,\n      paragraphGap: 18,\n      h1Decoration: 'none',\n      h2Decoration: 'none',\n      h3Decoration: 'bottom-line-left',\n      h4Decoration: 'none',\n      headingWeight: 800,\n      headingLetterSpacing: 0,\n      textColor: '#3e3e3e',\n      headingColor: '#3e3e3e',\n\n      linkDecoration: 'underline',\n      blockquoteBorderWidth: 4,\n      tableHeaderBg: '#f6f8fa',\n      tableCellPadding: 10,\n      figurePadding: 8,\n      figureBorderColor: '#e8eaed',\n      // Removed blockquoteBorderColor to allow theme color (was #d0d7de)\n      // Removed blockquoteBg to allow theme color tint (was #ffffff)\n    },\n    wechat: {\n      name: '\u7ECF\u5178',\n      lineHeight: 1.8,\n      paragraphGap: 24,\n      h1Decoration: 'classic-title',\n      h2Decoration: 'classic-title',\n      h3Decoration: 'classic-subhead',\n      h4Decoration: 'classic-minor',\n      headingWeight: 700,\n      headingLetterSpacing: 0,\n      textColor: '#3e3e3e',\n      headingColor: '#3e3e3e',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 4,\n      blockquoteBg: '#f8fafc',\n      blockquoteStyle: 'soft',\n    },\n    serif: {\n      name: '\u4F18\u96C5',\n      lineHeight: 1.8,\n      paragraphGap: 20,\n      h1Decoration: 'editorial-h1',      // \u6742\u5FD7\u5927\u6807\u9898 (\u91D1\u7EBF)\n      h2Decoration: 'editorial-h1',      // H2 \u6B64\u65F6\u4E5F\u662F\u91D1\u7EBF (Level 2 = Level 1)\n      h3Decoration: 'editorial-h2',      // H3 \u4F7F\u7528\u539F H2 \u6837\u5F0F (\u659C\u4F53\uFF0C\u73B0\u5728\u7684 helper \u5DF2\u5F3A\u5236\u5DE6\u5BF9\u9F50)\n      h4Decoration: 'editorial-h3',      // H4 \u4F7F\u7528\u539F H3 (\u5DE6\u5BF9\u9F50\u4E0B\u5212\u7EBF)\n      headingWeight: 700,\n      headingLetterSpacing: 1,           // \u4F18\u96C5\u4E3B\u9898\u589E\u52A0\u5B57\u95F4\u8DDD\n      textColor: '#3e3e3e',\n      headingColor: '#3e3e3e',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 0,          // \u5C45\u4E2D\u6837\u5F0F\u4E0D\u9700\u8981\u5DE6\u8FB9\u6846\n      blockquoteStyle: 'center',         // \u65B0\u589E\uFF1A\u5C45\u4E2D\u5F15\u7528\n    },\n    paper: {\n      name: '\u7EB8\u5F20\u957F\u6587',\n      lineHeight: 1.9,\n      paragraphGap: 22,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'paper-title',\n      h2Decoration: 'paper-chapter',\n      h3Decoration: 'paper-section',\n      h4Decoration: 'paper-kicker',\n      h5Decoration: 'simple',\n      h6Decoration: 'quiet',\n      headingWeight: 700,\n      headingLetterSpacing: 0,\n      textColor: '#3f3a33',\n      headingColor: '#3e3e3e',\n      sectionBg: '#fffdf8',\n      mutedTextColor: '#786f63',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 0,\n      blockquoteBg: '#f7f1e7',\n      blockquoteStyle: 'paper',\n      tableHeaderBg: '#f7f1e7',\n      tableBorderColor: '#e6dccd',\n      figureBorderColor: '#eadfce',\n    },\n    grid: {\n      name: '\u7F51\u683C\u6587\u6863',\n      lineHeight: 1.82,\n      paragraphGap: 20,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'grid-title',\n      h2Decoration: 'grid-chapter',\n      h3Decoration: 'grid-section',\n      h4Decoration: 'grid-kicker',\n      h5Decoration: 'light-bg',\n      h6Decoration: 'quiet',\n      headingWeight: 800,\n      headingLetterSpacing: 0,\n      textColor: '#344054',\n      headingColor: '#263238',\n      sectionBgStyle: 'grid',\n      sectionBg: '#ffffff',\n      sectionBgSize: '18px 18px',\n      gridLineAlpha: '09',\n      mutedTextColor: '#667085',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 4,\n      blockquoteBg: '#f6f9fc',\n      blockquoteStyle: 'soft',\n      blockquoteTextColor: '#4b5565',\n      tableHeaderBg: '#f3f7fb',\n      tableBorderColor: '#dbe5ef',\n    },\n    typo: {\n      name: 'Typo',\n      lineHeight: 1.92,\n      paragraphGap: 22,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'typo-title',\n      h2Decoration: 'typo-title',\n      h3Decoration: 'typo-section',\n      h4Decoration: 'typo-subhead',\n      h5Decoration: 'dashed-bottom',\n      h6Decoration: 'quiet',\n      headingWeight: 700,\n      headingLetterSpacing: 0,\n      textColor: '#333333',\n      headingColor: '#222222',\n      mutedTextColor: '#6b6b6b',\n      linkDecoration: 'underline',\n      blockquoteBorderWidth: 2,\n      blockquoteBg: '#fafafa',\n      blockquoteStyle: 'soft',\n      paragraphTextIndent: '2em',\n      tableHeaderBg: '#f7f7f7',\n      figureBorderColor: '#ededed',\n    },\n    media: {\n      name: '\u6E05\u723D\u5A92\u4F53',\n      lineHeight: 1.86,\n      paragraphGap: 18,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'media-title',\n      h2Decoration: 'media-chapter',\n      h3Decoration: 'media-section',\n      h4Decoration: 'left-border',\n      h5Decoration: 'light-bg',\n      h6Decoration: 'quiet',\n      headingWeight: 700,\n      headingLetterSpacing: 0,\n      textColor: '#3b4648',\n      headingColor: '#263238',\n      mutedTextColor: '#667476',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 3,\n      blockquoteBg: '#f3fbf8',\n      blockquoteStyle: 'soft',\n      tableHeaderBg: '#f3fbf8',\n      tableBorderColor: '#dbeee8',\n      figureBorderColor: '#dcefeb',\n    },\n    colorful: {\n      name: '\u5F69\u8272\u5F3A\u8C03',\n      lineHeight: 1.82,\n      paragraphGap: 20,\n      shiftHeadingDecorationsDown: true,\n      h1Decoration: 'colorful-title',\n      h2Decoration: 'colorful-chapter',\n      h3Decoration: 'colorful-section',\n      h4Decoration: 'colorful-kicker',\n      h5Decoration: 'light-bg',\n      h6Decoration: 'quiet',\n      headingWeight: 800,\n      headingLetterSpacing: 0,\n      textColor: '#3e3e3e',\n      headingColor: '#3e3e3e',\n      mutedTextColor: '#6b7280',\n      linkDecoration: 'none',\n      blockquoteBorderWidth: 4,\n      blockquoteBg: '#fffaf5',\n      blockquoteStyle: 'soft',\n      tableHeaderBg: '#fff8ed',\n      figureBorderColor: '#f0e4d4',\n      strongBg: true,\n    },\n  };\n\n  /**\n   * \u{1F4D0} \u95F4\u8DDD\u7CFB\u7EDF - 8px \u57FA\u51C6\n   */\n  static SPACING = {\n    xs: 4,\n    sm: 8,\n    md: 16,\n    lg: 24,\n    xl: 32,\n    xxl: 48,\n  };\n\n  /**\n   * \u{1F3AF} \u5706\u89D2\u7CFB\u7EDF\n   */\n  static RADIUS = {\n    sm: 4,\n    md: 8,\n    lg: 12,\n  };\n\n  static QUOTE_CALLOUT_NEUTRAL_BG = '#f9f9f9';\n  static QUOTE_NEUTRAL_BORDER = '#d9d9d9';\n\n  /**\n   * \u5F53\u524D\u914D\u7F6E\n   */\n  constructor(options = {}) {\n    this.themeName = options.theme || 'github';\n    this.themeColor = options.themeColor || 'blue';\n    this.customColor = options.customColor || null;\n    this.quoteCalloutStyleMode = options.quoteCalloutStyleMode || 'theme';\n    this.fontFamily = options.fontFamily || 'sans-serif';\n    this.fontSize = options.fontSize || 3;\n    this.macCodeBlock = options.macCodeBlock !== false;\n    this.codeLineNumber = options.codeLineNumber || false;\n    // \u4FA7\u8FB9\u8DDD\u8BBE\u7F6E (\u9ED8\u8BA4 16px)\n    this.sidePadding = options.sidePadding !== undefined ? options.sidePadding : 16;\n    // \u6807\u9898\u67D3\u8272\u8BBE\u7F6E\n    this.coloredHeader = options.coloredHeader || false;\n  }\n\n  /**\n   * \u83B7\u53D6\u5F53\u524D\u4E3B\u9898\u8272\u503C\n   */\n  getThemeColorValue() {\n    if (this.themeColor === 'custom' && this.customColor) {\n      return this.customColor;\n    }\n    return AppleTheme.THEME_COLORS[this.themeColor] || AppleTheme.THEME_COLORS.blue;\n  }\n\n  /**\n   * \u83B7\u53D6\u6807\u9898\u4E13\u7528\u6DF1\u8272\u503C\n   */\n  getHeadingColorValue() {\n    // 1. \u5982\u679C\u672A\u5F00\u542F\u6807\u9898\u67D3\u8272\uFF0C\u8FD4\u56DE\u9ED8\u8BA4\u6DF1\u7070\n    if (!this.coloredHeader) {\n      return '#3e3e3e';\n    }\n\n    // 2. \u81EA\u5B9A\u4E49\u989C\u8272\uFF1A\u81EA\u52A8\u8BA1\u7B97\u53D8\u6DF1 20%\n    if (this.themeColor === 'custom' && this.customColor) {\n      return this.adjustColorBrightness(this.customColor, -20);\n    }\n\n    // 3. \u9884\u8BBE\u989C\u8272\uFF1A\u8FD4\u56DE\u6DF1\u8272\u677F\u5BF9\u5E94\u503C\n    return AppleTheme.THEME_COLORS_DEEP[this.themeColor] || AppleTheme.THEME_COLORS_DEEP.blue;\n  }\n\n  /**\n   * \u8F85\u52A9\uFF1A\u8C03\u6574 Hex \u989C\u8272\u4EAE\u5EA6\n   * @param {string} hex - #RRGGBB\n   * @param {number} percent - -100 to 100\n   */\n  adjustColorBrightness(hex, percent) {\n    hex = hex.replace(/^#/, '');\n    let r = parseInt(hex.substring(0, 2), 16);\n    let g = parseInt(hex.substring(2, 4), 16);\n    let b = parseInt(hex.substring(4, 6), 16);\n\n    r = Math.round(r * (100 + percent) / 100);\n    g = Math.round(g * (100 + percent) / 100);\n    b = Math.round(b * (100 + percent) / 100);\n\n    r = (r < 255) ? r : 255;\n    g = (g < 255) ? g : 255;\n    b = (b < 255) ? b : 255;\n\n    // Pad with 0 if necessary\n    const rr = ((r.toString(16).length === 1) ? '0' + r.toString(16) : r.toString(16));\n    const gg = ((g.toString(16).length === 1) ? '0' + g.toString(16) : g.toString(16));\n    const bb = ((b.toString(16).length === 1) ? '0' + b.toString(16) : b.toString(16));\n\n    return `#${rr}${gg}${bb}`;\n  }\n\n  /**\n   * \u83B7\u53D6\u5F53\u524D\u4E3B\u9898\u914D\u7F6E\n   */\n  getThemeConfig() {\n    return AppleTheme.THEME_CONFIGS[this.themeName] || AppleTheme.THEME_CONFIGS.github;\n  }\n\n  /**\n   * \u83B7\u53D6\u5B57\u4F53\u5C3A\u5BF8\u914D\u7F6E\n   */\n  getSizes() {\n    return AppleTheme.FONT_SIZES[this.fontSize] || AppleTheme.FONT_SIZES[3];\n  }\n\n  /**\n   * \u83B7\u53D6\u5B57\u4F53\u6808\n   */\n  getFontFamily() {\n    return AppleTheme.FONTS[this.fontFamily] || AppleTheme.FONTS['sans-serif'];\n  }\n\n  getQuoteCalloutStyleMode() {\n    return this.quoteCalloutStyleMode === 'neutral' ? 'neutral' : 'theme';\n  }\n\n  /**\n   * \u83B7\u53D6\u5143\u7D20\u6837\u5F0F\n   * @param {string} tagName - HTML \u6807\u7B7E\u540D\n   * @returns {string} - CSS \u6837\u5F0F\u5B57\u7B26\u4E32\n   */\n  getStyle(tagName) {\n    const config = this.getThemeConfig();\n    const sizes = this.getSizes();\n    const font = this.getFontFamily();\n    const color = this.getThemeColorValue();\n    const quoteCalloutStyleMode = this.getQuoteCalloutStyleMode();\n    const s = AppleTheme.SPACING;\n    const r = AppleTheme.RADIUS;\n\n    // \u6807\u9898\u989C\u8272\u903B\u8F91\uFF1A\u4F7F\u7528\u4E13\u95E8\u7684\u6DF1\u8272\u7CFB\u6807\u9898\u8272\n    // \u6CE8\u610F\uFF1A\u67D0\u4E9B\u7279\u6B8A\u4E3B\u9898\u88C5\u9970(h1Decoration)\u53EF\u80FD\u5DF2\u7ECF\u5305\u542B\u4E86\u989C\u8272\u8BBE\u7F6E\uFF0C\u8FD9\u91CC\u4E3B\u8981\u9488\u5BF9\u6587\u5B57\u672C\u8EAB\n    const textColor = config.textColor;\n    const mutedTextColor = config.mutedTextColor;\n    const headingColor = this.getHeadingColorValue();\n\n    switch (tagName) {\n      case 'section':\n        // \u4F7F\u7528\u914D\u7F6E\u7684 sidePadding\n        if (config.sectionBgStyle !== 'grid') {\n          return this.joinStyleStrings(\n            `font-family: ${font}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${textColor}; padding: 20px ${this.sidePadding}px; background: ${config.sectionBg || '#ffffff'}; max-width: 100%; word-wrap: break-word; text-align: justify`\n          );\n        }\n\n        return this.joinStyleStrings(\n          `font-family: ${font}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${textColor}; padding: 20px ${this.sidePadding}px; max-width: 100%; word-wrap: break-word; text-align: justify`,\n          `background-color: ${config.sectionBg || '#ffffff'}`,\n          `background-image: linear-gradient(${this.hexToRgba(color, config.gridLineAlpha || '09')} 1px, transparent 1px), linear-gradient(90deg, ${this.hexToRgba(color, config.gridLineAlpha || '09')} 1px, transparent 1px)`,\n          config.sectionBgSize ? `background-size: ${config.sectionBgSize}` : ''\n        );\n\n      case 'h1': return this.getH1Style(config.h1Decoration, color, sizes.h1, font, headingColor, config);\n      case 'h2':\n        return config.shiftHeadingDecorationsDown\n          ? this.getH1Style(config.h1Decoration, color, sizes.h2, font, headingColor, config)\n          : this.getH2Style(config.h2Decoration, color, sizes.h2, font, headingColor, config);\n      case 'h3':\n        return config.shiftHeadingDecorationsDown\n          ? this.getH2Style(config.h2Decoration, color, sizes.h3, font, headingColor, config)\n          : this.getH3Style(config.h3Decoration, color, sizes.h3, font, headingColor, config);\n      case 'h4':\n        return config.shiftHeadingDecorationsDown\n          ? this.getH3Style(config.h3Decoration, color, sizes.h4, font, headingColor, config)\n          : this.getH4Style(config.h4Decoration, color, sizes.h4, font, headingColor);\n\n      case 'h5':\n        return this.getH5Style(config.h5Decoration, color, sizes.h5, font, headingColor);\n      case 'h6':\n        return this.getH6Style(config.h6Decoration, color, sizes.h6, font, headingColor, mutedTextColor);\n\n      case 'p':\n        return this.joinStyleStrings(\n          `font-family: ${font}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${textColor}; margin: 0 0 ${config.paragraphGap}px 0; text-align: justify; letter-spacing: 0`,\n          config.paragraphTextIndent ? `text-indent: ${config.paragraphTextIndent}` : ''\n        );\n\n\n\n\n\n      case 'blockquote':\n        if (config.blockquoteStyle === 'center') {\n          const centeredBackground = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_CALLOUT_NEUTRAL_BG\n            : (config.blockquoteBg || color + '1F');\n          const centeredRuleColor = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_NEUTRAL_BORDER\n            : `${color}55`;\n          return `font-family: ${AppleTheme.FONTS.serif}; font-size: ${sizes.base}px; line-height: 1.85; color: #4f4a45; background: ${centeredBackground}; width: 92%; box-sizing: border-box; margin: 24px auto; padding: 18px 20px; text-align: justify; border-top: 1px solid ${centeredRuleColor}; border-bottom: 1px solid ${centeredRuleColor}; border-radius: ${r.sm}px;`;\n        }\n        if (config.blockquoteStyle === 'paper') {\n          const paperBg = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_CALLOUT_NEUTRAL_BG\n            : (config.blockquoteBg || color + '1F');\n          const paperBorder = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_NEUTRAL_BORDER\n            : `${color}99`;\n          return `font-family: ${AppleTheme.FONTS.serif}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: #5f574c; background: ${paperBg}; margin: 22px 0 22px 8px; padding: 16px 18px; border-left: 3px solid ${paperBorder}; border-radius: ${r.sm}px; text-align: justify;`;\n        }\n        if (config.blockquoteStyle === 'soft') {\n          const softBg = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_CALLOUT_NEUTRAL_BG\n            : (config.blockquoteBg || color + '14');\n          const softTextColor = config.blockquoteTextColor || '#595959';\n          const softBorderColor = quoteCalloutStyleMode === 'neutral'\n            ? AppleTheme.QUOTE_NEUTRAL_BORDER\n            : `${color}99`;\n          const softBorderWidth = this.themeName === 'wechat'\n            ? 3\n            : (config.blockquoteBorderWidth || 4);\n          return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${softTextColor}; background: ${softBg}; margin: ${s.md}px 0 ${s.md}px 8px; padding: ${s.md}px; border-left: ${softBorderWidth}px solid ${softBorderColor}; border-radius: ${r.sm}px;`;\n        }\n\n        if (quoteCalloutStyleMode === 'neutral') {\n          const neutralBorderWidth = this.themeName === 'wechat'\n            ? 3\n            : (config.blockquoteBorderWidth || 4);\n          return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: #595959; background: ${AppleTheme.QUOTE_CALLOUT_NEUTRAL_BG}; margin: ${s.md}px 0 ${s.md}px 8px; padding: ${s.md}px; border-left: ${neutralBorderWidth}px solid ${AppleTheme.QUOTE_NEUTRAL_BORDER}; border-radius: ${r.sm}px;`;\n        }\n\n        // \u7ECF\u5178\u4E3B\u9898\uFF08wechat\uFF09\uFF1A\u4F7F\u7528\u66F4\u7EC6\u7684\u8FB9\u6846\u548C\u66F4\u6D45\u7684\u989C\u8272\uFF0C\u4E0E H3 \u533A\u5206\n        // H3: 4px \u4E3B\u9898\u8272 100% \u5DE6\u8FB9\u6846\uFF0C\u9876\u683C\n        // \u5F15\u7528\u5757: 3px \u4E3B\u9898\u8272 60% \u5DE6\u8FB9\u6846\uFF0C\u7F29\u8FDB 4px\n        if (this.themeName === 'wechat') {\n          return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: #595959; background: ${config.blockquoteBg || color + '1F'}; margin: ${s.md}px 0 ${s.md}px 4px; padding: ${s.md}px; border-left: 3px solid ${color}99; border-radius: 3px;`;\n        }\n\n        // Standard Blockquote: Restoring Italic and adjusting padding/background to match the screenshot\n        // Background: Light opacity of theme color (1F) for better visibility\n        // Border: Solid theme color\n        // Font: Normal (removed italic) for better legibility on mobile\n        return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: #595959; background: ${config.blockquoteBg || color + '1F'}; margin: ${s.md}px 0; padding: ${s.md}px; border-left: ${config.blockquoteBorderWidth}px solid ${config.blockquoteBorderColor || color}; border-radius: 3px;`;\n\n      case 'pre':\n        return `background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: ${r.md}px; padding: ${s.md}px; margin: ${s.md}px 0; overflow-x: auto; font-family: ${AppleTheme.FONTS.monospace}; font-size: ${sizes.code}px; line-height: 1.6; color: #24292e;`;\n\n      case 'code':\n        return `background: ${color}1A; color: ${color}; padding: 2px 4px; border-radius: 3px; font-family: ${AppleTheme.FONTS.monospace}; font-size: ${sizes.code}px;`;\n\n      case 'ul':\n        return `font-family: ${font}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${textColor}; margin: 12px 0; padding-left: 20px; list-style-type: disc;`;\n      case 'ol':\n        return `font-family: ${font}; font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${textColor}; margin: 12px 0; padding-left: 20px; list-style-type: decimal;`;\n      case 'li':\n        return `font-size: ${sizes.base}px; line-height: ${config.lineHeight}; color: ${textColor}; margin: 4px 0;`;\n      case 'li p':\n        return `margin: 0; padding: 0; line-height: ${config.lineHeight};`;\n\n\n\n\n      case 'figure':\n        // Fix: Restoring wireframe (border/padding) & balanced spacing (20px top/bottom)\n        // No shadow for cleaner look\n        return `display: block; margin: 20px 0; text-align: center; border: 1px solid ${config.figureBorderColor || '#e1e4e8'}; border-radius: ${r.md}px; padding: ${config.figurePadding || 10}px;`;\n\n      case 'figcaption':\n        return `font-size: ${sizes.caption}px; color: #999; text-align: center; margin-top: ${s.sm}px;`;\n\n      case 'img':\n        return `display: block; margin: 0 auto; max-width: 100%; border-radius: 4px;`;\n\n      case 'a':\n        return `color: ${color}; text-decoration: ${config.linkDecoration}; border-bottom: ${config.linkDecoration === 'none' ? `1px dashed ${color}` : 'none'};`;\n\n      case 'table-wrapper':\n        return `display: block; box-sizing: border-box; width: 100%; max-width: 100%; overflow-x: scroll; overflow-y: hidden; -webkit-overflow-scrolling: touch; margin: ${s.md}px 0; padding-bottom: 10px;`;\n      case 'table':\n        return `border-collapse: collapse; width: 720px; min-width: 100%; max-width: none; table-layout: auto; border: 1px solid ${config.tableBorderColor || '#e1e4e8'};`;\n      case 'th':\n        return `background: ${config.tableHeaderBg || color + '1F'}; font-weight: bold; color: ${textColor}; border: 1px solid ${config.tableBorderColor || '#e1e4e8'}; padding: ${config.tableCellPadding || 12}px; text-align: left; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;`;\n      case 'td':\n        return `border: 1px solid ${config.tableBorderColor || '#e1e4e8'}; padding: ${config.tableCellPadding || 12}px; text-align: left; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;`;\n      case 'thead':\n        return `background: #f6f8fa;`;\n\n      case 'hr':\n        return `border: 0; border-top: 1px solid rgba(0,0,0,0.08); margin: 40px 0;`;\n\n      case 'strong':\n        return config.strongBg\n          ? `font-weight: bold; color: ${color}; background: ${color}18; padding: 0 3px; border-radius: 3px;`\n          : `font-weight: bold; color: ${color};`;\n      case 'em':\n        return `font-style: italic;`;\n      case 'del':\n        return `text-decoration: line-through; color: #999;`;\n\n      case 'avatar-header':\n        return `margin: 0 0 ${s.sm}px 0 !important; display: flex !important; align-items: center !important; justify-content: flex-start !important; width: 100%; flex-direction: row !important; flex-wrap: nowrap !important; text-align: left !important;`;\n      case 'avatar':\n        return `display: inline-block !important; vertical-align: middle !important; margin: 0 !important; width: 32px !important; height: 32px !important; border-radius: 50%; object-fit: cover; border: 1px solid #e8e8ed; flex-shrink: 0;`;\n      case 'avatar-caption':\n        return `display: inline-block !important; vertical-align: middle !important; font-size: ${sizes.caption}px; color: #666; margin-left: 10px; line-height: 1.4; text-align: left !important;`;\n\n      default:\n        return '';\n    }\n  }\n\n  // === Helper Methods ===\n\n  getH1Style(type, color, fontSize, font, headingColor, config = {}) {\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 30px auto 20px; color: ${headingColor}; text-align: center; line-height: 1.2;`;\n    switch (type) {\n      case 'editorial-h1': // Magazine Style: Forced Serif + Golden Line\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 30px auto 20px; color: ${headingColor}; text-align: center; line-height: 1.2;\n          background-image: linear-gradient(to right, transparent, ${color}, transparent);\n          background-size: 100px 1px;\n          background-repeat: no-repeat;\n          background-position: bottom center;\n          padding-bottom: 20px; letter-spacing: 1px;`;\n      case 'bottom-line':\n        // Pure CSS centered short line using linear-gradient (simulating image)\n        return `${base}\n          background-image: linear-gradient(to right, ${color}, ${color});\n          background-size: 80px 3px;\n          background-repeat: no-repeat;\n          background-position: bottom center;\n          padding-bottom: 15px;`;\n      case 'border-box':\n        return `${base} border: 1px solid ${color}; padding: 10px 20px; border-radius: 4px; display: inline-block; width: auto;`;\n      case 'classic-title':\n        return `${base} margin: 34px auto 22px; padding: 0; background-image: linear-gradient(to right, transparent, ${color}, transparent); background-size: 120px 2px; background-repeat: no-repeat; background-position: bottom center; padding-bottom: 14px;`;\n      case 'paper-title':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 34px auto 24px; color: ${headingColor}; text-align: center; line-height: 1.35; letter-spacing: 1px; border-top: 2px solid ${color}; border-bottom: 1px solid ${color}66; padding: 16px 0 14px;`;\n      case 'grid-title':\n        return `${base} text-align: left; border: 1px solid ${color}55; border-radius: 4px; padding: 10px 12px; background: ${color}0F;`;\n      case 'typo-title':\n        return `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: 700; margin: 34px auto 22px; color: ${headingColor}; text-align: left; line-height: 1.28; border-bottom: 1px solid #d8d8d8; padding-bottom: 14px;`;\n      case 'media-title':\n        return `${base} text-align: left; color: ${headingColor}; background-image: linear-gradient(to right, ${color}, ${color}33); background-size: 100% 2px; background-repeat: no-repeat; background-position: bottom left; padding-bottom: 14px;`;\n      case 'colorful-title':\n        return `${base} color: #ffffff; background: ${color}; padding: 12px 18px; border-radius: 6px; box-shadow: 6px 6px 0 ${color}33;`;\n      default: // none or unknown\n        return this.joinStyleStrings(base, config.headingLetterSpacing ? `letter-spacing: ${config.headingLetterSpacing}px` : '');\n    }\n  }\n\n  getH2Style(type, color, fontSize, font, headingColor, config = {}) {\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 32px auto 16px; text-align: center; color: ${headingColor}; line-height: 1.25;`;\n    switch (type) {\n      case 'editorial-h1': // Golden Line (Shifted from H1)\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 32px auto 16px; color: ${headingColor}; text-align: center; line-height: 1.2;\n          background-image: linear-gradient(to right, transparent, ${color}, transparent);\n          background-size: 100px 1px;\n          background-repeat: no-repeat;\n          background-position: bottom center;\n          padding-bottom: 20px; letter-spacing: 1px;`;\n      case 'editorial-h2': // Magazine Subtitle\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: normal; margin: 32px auto 16px; text-align: center; color: ${headingColor}; line-height: 1.4; font-style: italic; letter-spacing: 1px;`;\n      case 'bottom-line':\n        // Pure CSS centered short line (thinner/shorter for H2)\n        return `${base}\n           background-image: linear-gradient(to right, ${color}, ${color});\n           background-size: 50px 2px;\n           background-repeat: no-repeat;\n           background-position: bottom center;\n           padding-bottom: 12px;`;\n      case 'filled-pill':\n        return `${base} background-color: ${color}; color: #fff; padding: 5px 20px; border-radius: 20px; display: inline-block; width: auto;`;\n      case 'bottom-line-center':\n        return `${base} display: inline-block; border-bottom: 1px solid ${color}; padding-bottom: 5px; width: auto;`;\n      case 'classic-title':\n        return `${base} margin: 34px auto 20px; padding: 0; background-image: linear-gradient(to right, transparent, ${color}, transparent); background-size: 120px 2px; background-repeat: no-repeat; background-position: bottom center; padding-bottom: 14px;`;\n      case 'paper-title':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 34px auto 20px; color: ${headingColor}; text-align: center; line-height: 1.35; letter-spacing: 1px; border-top: 2px solid ${color}; border-bottom: 1px solid ${color}66; padding: 14px 0 12px;`;\n      case 'paper-chapter':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 34px auto 20px; color: ${headingColor}; text-align: center; line-height: 1.35; letter-spacing: 1.5px; border-bottom: 2px solid ${color}; padding-bottom: 12px;`;\n      case 'grid-title':\n        return `${base} text-align: left; border: 1px solid ${color}55; border-radius: 4px; padding: 10px 12px; background: ${color}0F;`;\n      case 'grid-chapter':\n        return `${base} text-align: left; border-left: 3px solid ${color}; border-radius: 0 4px 4px 0; padding: 8px 12px; background: ${color}08;`;\n      case 'typo-title':\n        return `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: 700; margin: 34px 0 18px; color: ${headingColor}; text-align: left; line-height: 1.3; background-image: linear-gradient(#d8d8d8, #d8d8d8); background-size: 40% 1px; background-repeat: no-repeat; background-position: bottom left; padding-bottom: 12px;`;\n      case 'media-title':\n        return `${base} text-align: left; color: ${headingColor}; background-image: linear-gradient(to right, ${color}, ${color}33); background-size: 100% 2px; background-repeat: no-repeat; background-position: bottom left; padding-bottom: 12px;`;\n      case 'media-chapter':\n        return `${base} text-align: left; color: ${headingColor}; background-image: linear-gradient(to right, ${color}, transparent); background-size: 60% 2px; background-repeat: no-repeat; background-position: bottom left; padding-bottom: 12px;`;\n      case 'colorful-title':\n        return `${base} color: #ffffff; background: ${color}; padding: 10px 16px; border-radius: 6px; box-shadow: 5px 5px 0 ${color}33;`;\n      case 'colorful-chapter':\n        return `${base} text-align: left; border-left: 4px solid ${color}; background: ${color}12; padding: 10px 14px; border-radius: 0 4px 4px 0;`;\n      case 'paper-section':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 34px 0 16px; color: ${headingColor}; text-align: left; line-height: 1.35; border-bottom: 1px solid ${color}55; padding-bottom: 8px;`;\n      case 'grid-section':\n        return `${base} text-align: left; border-bottom: 1px solid ${color}66; padding: 4px 0 8px;`;\n      case 'typo-section':\n        return `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: 700; margin: 34px 0 16px; color: ${headingColor}; text-align: left; line-height: 1.35;`;\n      case 'media-section':\n        return `${base} display: inline-block; width: auto; text-align: left; background: ${color}14; border: 1px solid ${color}33; padding: 6px 12px; border-radius: 2px;`;\n      case 'colorful-section':\n        return `${base} display: inline-block; width: auto; text-align: left; background: ${color}18; border-bottom: 3px solid ${color}; padding: 6px 10px 5px; border-radius: 4px 4px 0 0;`;\n      default:\n        return this.joinStyleStrings(base, config.headingLetterSpacing ? `letter-spacing: ${config.headingLetterSpacing}px` : '');\n    }\n  }\n\n  getH3Style(type, color, fontSize, font, headingColor, config = {}) {\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 20px 0 12px; text-align: left; color: ${headingColor}; line-height: 1.3;`;\n    switch (type) {\n      case 'editorial-h2': // Italic Serif (Left Aligned for H3)\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: normal; margin: 24px 0 12px; text-align: left; color: ${headingColor}; line-height: 1.4; font-style: italic; letter-spacing: 1px;`;\n      case 'editorial-h3': // Magazine Section: Forced Serif + Left Underline\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 24px 0 12px; text-align: left; color: ${headingColor}; line-height: 1.3;\n           border-bottom: 1px solid ${color}; padding-bottom: 4px; display: inline-block; width: auto; letter-spacing: 0.5px;`;\n      case 'left-border':\n        return `${base} border-left: 4px solid ${color}; padding-left: 10px;`;\n      case 'bottom-line-left':\n        return `${base} display: inline-block; border-bottom: 2px solid ${color}; padding-bottom: 2px; margin-right: auto;`;\n      case 'classic-subhead':\n        return `${base} border-left: 3px solid ${color}; background: ${color}0A; padding: 6px 10px; margin: 24px 0 12px;`;\n      case 'paper-section':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 28px 0 14px; color: ${headingColor}; text-align: left; line-height: 1.35; border-top: 1px solid ${color}55; padding-top: 8px;`;\n      case 'grid-section':\n        return `${base} background-image: linear-gradient(${color}, ${color}); background-size: 3px 55%; background-position: left center; background-repeat: no-repeat; padding-left: 12px;`;\n      case 'typo-section':\n        return `${base} font-weight: 700; margin: 28px 0 14px; line-height: 1.35; border-left: 2px solid #d8d8d8; padding-left: 10px;`;\n      case 'media-section':\n        return `${base} display: inline-block; width: auto; background: ${color}14; border: 1px solid ${color}33; padding: 5px 10px; border-radius: 2px;`;\n      case 'colorful-section':\n        return `${base} display: inline-block; width: auto; background: ${color}18; border-bottom: 2px solid ${color}; padding: 5px 9px 4px; border-radius: 4px 4px 0 0;`;\n      case 'paper-kicker':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 24px 0 12px; color: ${headingColor}; text-align: left; line-height: 1.35; padding-left: 10px; border-left: 3px double ${color};`;\n      case 'typo-subhead':\n        return `${base} font-weight: 700; color: ${headingColor};`;\n      default:\n        return this.joinStyleStrings(base, config.headingLetterSpacing ? `letter-spacing: ${config.headingLetterSpacing}px` : '');\n    }\n  }\n\n  getH4Style(type, color, fontSize, font, headingColor) {\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 15px 0 10px; text-align: left; color: ${headingColor}; line-height: 1.35;`;\n    switch (type) {\n      case 'editorial-h3': // Inherit H3 style for H4\n        return `font-family: ${AppleTheme.FONTS.serif}; display: block; font-size: ${fontSize}px; font-weight: bold; margin: 15px 0 10px; text-align: left; color: ${headingColor}; line-height: 1.35;\n           border-bottom: 1px solid ${color}; padding-bottom: 3px; display: inline-block; width: auto; letter-spacing: 0.5px;`;\n      case 'simple': // Simple Bold (User Font)\n        // Use headingColor (Deep) instead of color (Bright)\n        return `${base}`;\n      case 'light-bg':\n        // Background uses bright color tint (low opacity), Text uses deep headingColor\n        return `${base} background-color: ${color}15; padding: 4px 8px; border-radius: 4px; display: inline-block;`;\n      case 'classic-minor':\n        return `${base} border-left: 2px solid ${color}55; padding-left: 8px;`;\n      case 'left-border':\n        return `${base} border-left: 3px solid ${color}; padding-left: 9px;`;\n      case 'bottom-line-left':\n        return `${base} display: inline-block; border-bottom: 2px solid ${color}; padding-bottom: 2px; margin-right: auto;`;\n      case 'paper-kicker':\n        return `font-family: ${AppleTheme.FONTS.serif}; display: inline-block; font-size: ${fontSize}px; font-weight: bold; margin: 22px 0 10px; color: ${headingColor}; text-align: left; line-height: 1.35; border-bottom: 1px double ${color}99; padding-bottom: 2px;`;\n      case 'grid-kicker':\n        return `${base} display: inline-block; border-bottom: 1px dashed ${color}44; padding-bottom: 2px;`;\n      case 'typo-subhead':\n        return `${base} font-weight: 700; letter-spacing: 1.5px;`;\n      case 'colorful-kicker':\n        return `${base} color: ${color}; background: ${color}12; padding: 4px 8px; border-radius: 4px; display: inline-block;`;\n      case 'italic-serif':\n        return `${base} font-style: italic; font-family: serif; border-bottom: 1px dashed #ccc; display: inline-block; padding-bottom: 2px;`;\n      default:\n        return base;\n    }\n  }\n\n  getH5Style(type, color, fontSize, font, headingColor) {\n    if (!type) {\n      return `font-family: ${font}; font-size: ${fontSize}px; font-weight: bold; color: ${headingColor}; margin: 10px 0; text-align: left; line-height: 1.4;`;\n    }\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; color: ${headingColor}; margin: 12px 0 8px; text-align: left; line-height: 1.4;`;\n    switch (type) {\n      case 'light-bg':\n        return `${base} background-color: ${color}12; padding: 3px 7px; border-radius: 4px; display: inline-block;`;\n      case 'dashed-bottom':\n        return `${base} font-weight: 600; border-bottom: 1px dashed ${color}33; display: inline-block; padding-bottom: 1px;`;\n      case 'simple':\n      default:\n        return base;\n    }\n  }\n\n  getH6Style(type, color, fontSize, font, headingColor, mutedColor = '#6b7280') {\n    if (!type) {\n      return `font-family: ${font}; font-size: ${fontSize}px; font-weight: bold; color: ${headingColor}; margin: 10px 0; text-align: left; line-height: 1.4;`;\n    }\n    const base = `font-family: ${font}; display: block; font-size: ${fontSize}px; font-weight: bold; color: ${headingColor}; margin: 10px 0 6px; text-align: left; line-height: 1.4;`;\n    switch (type) {\n      case 'quiet':\n        return `${base} color: ${mutedColor}; font-weight: 600;`;\n      default:\n        return base;\n    }\n  }\n\n  hexToRgba(hexColor, alphaHex = 'ff') {\n    const normalized = String(hexColor || '').trim().replace(/^#/, '');\n    if (!/^[0-9a-f]{6}$/i.test(normalized)) {\n      return hexColor;\n    }\n    const alpha = Number.parseInt(String(alphaHex || 'ff'), 16);\n    const clampedAlpha = Number.isFinite(alpha) ? Math.max(0, Math.min(255, alpha)) : 255;\n    const r = Number.parseInt(normalized.slice(0, 2), 16);\n    const g = Number.parseInt(normalized.slice(2, 4), 16);\n    const b = Number.parseInt(normalized.slice(4, 6), 16);\n    return `rgba(${r}, ${g}, ${b}, ${(clampedAlpha / 255).toFixed(3)})`;\n  }\n\n  joinStyleStrings(...styles) {\n    return styles\n      .map((style) => (style || '').trim())\n      .filter(Boolean)\n      .map((style) => style.endsWith(';') ? style : `${style};`)\n      .join(' ');\n  }\n\n  /**\n   * \u66F4\u65B0\u914D\u7F6E\n   */\n  update(options) {\n    if (options.theme !== undefined) this.themeName = options.theme;\n    if (options.themeColor !== undefined) this.themeColor = options.themeColor;\n    if (options.customColor !== undefined) this.customColor = options.customColor;\n    if (options.quoteCalloutStyleMode !== undefined) this.quoteCalloutStyleMode = options.quoteCalloutStyleMode;\n    if (options.fontFamily !== undefined) this.fontFamily = options.fontFamily;\n    if (options.fontSize !== undefined) this.fontSize = options.fontSize;\n    if (options.macCodeBlock !== undefined) this.macCodeBlock = options.macCodeBlock;\n    if (options.codeLineNumber !== undefined) this.codeLineNumber = options.codeLineNumber;\n    if (options.sidePadding !== undefined) this.sidePadding = options.sidePadding;\n    if (options.coloredHeader !== undefined) this.coloredHeader = options.coloredHeader;\n  }\n\n  /**\n   * \u83B7\u53D6\u4E3B\u9898\u5217\u8868\n   */\n  static getThemeList() {\n    return Object.entries(AppleTheme.THEME_CONFIGS).map(([key, config]) => ({\n      value: key,\n      label: config.name,\n    }));\n  }\n\n  /**\n   * \u83B7\u53D6\u4E3B\u9898\u8272\u5217\u8868\n   */\n  static getColorList() {\n    return Object.entries(AppleTheme.THEME_COLORS).map(([key, value]) => ({\n      value: key,\n      color: value,\n    }));\n  }\n}\n\n// \u5BFC\u51FA\u5230\u5168\u5C40\u4F5C\u7528\u57DF\nwindow.AppleTheme = AppleTheme;\n",
         "converter": "/**\n * \u{1F34E} Apple Style Markdown \u8F6C\u6362\u5668\n * \u76F4\u63A5\u7167\u6284 wechat-tool \u7684\u4EE3\u7801\u5757\u5B9E\u73B0\n * \u9488\u5BF9\u5FAE\u4FE1\u516C\u4F17\u53F7\u4F18\u5316\uFF1A\u4F7F\u7528 section \u7ED3\u6784\uFF0C\u589E\u5F3A\u517C\u5BB9\u6027\n */\n\n// Callout \u56FE\u6807\u914D\u7F6E\uFF08\u989C\u8272\u8DDF\u968F\u4E3B\u9898\u8272\uFF09\nconst CALLOUT_ICONS = {\n  // \u4FE1\u606F\u7C7B\n  note: { icon: '\u2139\uFE0F', label: '\u5907\u6CE8' },\n  info: { icon: '\u2139\uFE0F', label: '\u4FE1\u606F' },\n  todo: { icon: '\u2611\uFE0F', label: '\u5F85\u529E' },\n  // \u6458\u8981\u7C7B\n  abstract: { icon: '\u{1F4C4}', label: '\u6458\u8981' },\n  summary: { icon: '\u{1F4C4}', label: '\u6458\u8981' },\n  tldr: { icon: '\u{1F4C4}', label: 'TL;DR' },\n  // \u63D0\u793A\u7C7B\n  tip: { icon: '\u{1F4A1}', label: '\u63D0\u793A' },\n  hint: { icon: '\u{1F4A1}', label: '\u63D0\u793A' },\n  important: { icon: '\u{1F4A1}', label: '\u91CD\u8981' },\n  // \u6210\u529F\u7C7B\n  success: { icon: '\u2705', label: '\u6210\u529F' },\n  check: { icon: '\u2705', label: '\u5B8C\u6210' },\n  done: { icon: '\u2705', label: '\u5B8C\u6210' },\n  // \u95EE\u9898\u7C7B\n  question: { icon: '\u2753', label: '\u95EE\u9898' },\n  help: { icon: '\u2753', label: '\u5E2E\u52A9' },\n  faq: { icon: '\u2753', label: 'FAQ' },\n  // \u8B66\u544A\u7C7B\n  warning: { icon: '\u26A0\uFE0F', label: '\u8B66\u544A' },\n  caution: { icon: '\u26A0\uFE0F', label: '\u6CE8\u610F' },\n  attention: { icon: '\u26A0\uFE0F', label: '\u6CE8\u610F' },\n  // \u5931\u8D25/\u5371\u9669\u7C7B\n  failure: { icon: '\u274C', label: '\u5931\u8D25' },\n  fail: { icon: '\u274C', label: '\u5931\u8D25' },\n  missing: { icon: '\u274C', label: '\u7F3A\u5931' },\n  danger: { icon: '\u{1F6A8}', label: '\u5371\u9669' },\n  error: { icon: '\u274C', label: '\u9519\u8BEF' },\n  bug: { icon: '\u{1F41B}', label: 'Bug' },\n  // \u5F15\u7528\u7C7B\n  quote: { icon: '\u{1F4AC}', label: '\u5F15\u7528' },\n  cite: { icon: '\u{1F4DD}', label: '\u5F15\u7528' },\n  // \u793A\u4F8B\u7C7B\n  example: { icon: '\u{1F4CB}', label: '\u793A\u4F8B' },\n};\n\nconst CALLOUT_SEMANTIC_GROUPS = {\n  note: 'info',\n  info: 'info',\n  todo: 'info',\n  abstract: 'info',\n  summary: 'info',\n  tldr: 'info',\n  tip: 'tip',\n  hint: 'tip',\n  important: 'tip',\n  success: 'success',\n  check: 'success',\n  done: 'success',\n  question: 'question',\n  help: 'question',\n  faq: 'question',\n  warning: 'warning',\n  caution: 'warning',\n  attention: 'warning',\n  failure: 'danger',\n  fail: 'danger',\n  missing: 'danger',\n  danger: 'danger',\n  error: 'danger',\n  bug: 'danger',\n  quote: 'quote',\n  cite: 'quote',\n  example: 'quote',\n};\n\nconst CALLOUT_SEMANTIC_COLORS = {\n  info: '#2f6fdd',\n  tip: '#1f8c7a',\n  success: '#2d8a4a',\n  question: '#7251b5',\n  warning: '#b26a00',\n  danger: '#c44747',\n  quote: '#5f6b7a',\n};\n\nfunction resolveCalloutSemanticColor(type, fallbackColor) {\n  const key = String(type || '').trim().toLowerCase();\n  const group = CALLOUT_SEMANTIC_GROUPS[key] || 'info';\n  return CALLOUT_SEMANTIC_COLORS[group] || fallbackColor;\n}\n\nwindow.AppleStyleConverter = class AppleStyleConverter {\n  constructor(theme, avatarUrl = '', showImageCaption = true, app = null, sourcePath = '') {\n    this.theme = theme;\n    this.avatarUrl = avatarUrl;\n    this.showImageCaption = showImageCaption;\n    this.app = app; // Obsidian App instance\n    this.sourcePath = sourcePath; // Current file path for relative resolution\n    this.md = null;\n    this.hljs = null;\n  }\n\n  async initMarkdownIt() {\n    if (this.md) return;\n    if (typeof markdownit === 'undefined') throw new Error('markdown-it \u672A\u52A0\u8F7D');\n    this.hljs = typeof hljs !== 'undefined' ? hljs : null;\n    this.md = markdownit({ html: true, breaks: true, linkify: true, typographer: true });\n\n    // Enable MathJax if available\n    if (window.ObsidianWechatMath) {\n      window.ObsidianWechatMath(this.md);\n    }\n\n    this.setupRenderRules();\n  }\n\n  reinit() { this.md = null; }\n\n  updateConfig(config) {\n    if (config.showImageCaption !== undefined) {\n      this.showImageCaption = config.showImageCaption;\n    }\n    if (config.avatarUrl !== undefined) {\n      this.avatarUrl = config.avatarUrl;\n    }\n  }\n\n  updateSourcePath(path) {\n    this.sourcePath = path;\n  }\n\n  resolveImagePath(src) {\n    if (!this.app) return src;\n    // IF remote url, bypass\n    if (/^(https?:\\/\\/|data:)/i.test(src)) return src;\n\n    try {\n      // Markdown-it might encode the URL (e.g. %20 for space), but Obsidian expects decoded paths\n      const linkPath = decodeURI(src);\n      const sourcePath = this.sourcePath;\n      // Resolve using Obsidian's standard API\n      const tFile = this.app.metadataCache.getFirstLinkpathDest(linkPath, sourcePath);\n      if (tFile) {\n        return this.app.vault.getResourcePath(tFile);\n      }\n    } catch (e) {\n      console.error('Image resolution failed:', src, e);\n    }\n    return src;\n  }\n\n  setupRenderRules() {\n    // Callout & Blockquote \u667A\u80FD\u68C0\u6D4B\u6E32\u67D3\n    this.md.renderer.rules.blockquote_open = (tokens, idx, options, env, self) => {\n      // \u67E5\u627E blockquote \u5185\u7684\u7B2C\u4E00\u4E2A\u6587\u672C\u5185\u5BB9\uFF0C\u68C0\u6D4B\u662F\u5426\u4E3A callout \u8BED\u6CD5\n      const calloutInfo = this.detectCallout(tokens, idx);\n\n      // \u4F7F\u7528\u6808\u7BA1\u7406 callout \u72B6\u6001\uFF0C\u652F\u6301\u5D4C\u5957\n      if (!env._calloutStack) env._calloutStack = [];\n      env._calloutStack.push(calloutInfo);\n\n      if (calloutInfo) {\n        return this.renderCalloutOpen(calloutInfo);\n      }\n      // \u666E\u901A blockquote\n      return `<blockquote style=\"${this.getInlineStyle('blockquote')}\">`;\n    };\n\n    this.md.renderer.rules.blockquote_close = (tokens, idx, options, env, self) => {\n      const calloutInfo = env._calloutStack ? env._calloutStack.pop() : null;\n      if (calloutInfo) {\n        return `</section></section>`; // \u5173\u95ED\u5185\u5BB9\u533A\u548C\u5916\u5C42\u5BB9\u5668\n      }\n      return `</blockquote>`;\n    };\n\n    this.md.renderer.rules.paragraph_open = (tokens, idx) => {\n      if (tokens[idx].hidden) return '';\n      return `<p style=\"${this.getInlineStyle('p')}\">`;\n    };\n\n    this.md.renderer.rules.paragraph_close = (tokens, idx) => {\n      if (tokens[idx].hidden) return '';\n      return `</p>`;\n    };\n    this.md.renderer.rules.heading_open = (tokens, idx) => `<${tokens[idx].tag} style=\"${this.getInlineStyle(tokens[idx].tag)}\">`;\n    this.md.renderer.rules.bullet_list_open = () => `<ul style=\"${this.getInlineStyle('ul')}\">`;\n    this.md.renderer.rules.ordered_list_open = () => `<ol style=\"${this.getInlineStyle('ol')}\">`;\n    this.md.renderer.rules.list_item_open = () => `<li style=\"${this.getInlineStyle('li')}\">`;\n\n    this.md.renderer.rules.code_inline = (tokens, idx) =>\n      `<code style=\"${this.getInlineStyle('code')}\">${this.escapeHtml(tokens[idx].content)}</code>`;\n\n    this.md.renderer.rules.fence = (tokens, idx) => {\n      const content = tokens[idx].content;\n      const lang = tokens[idx].info || 'text';\n      return this.createCodeBlock(content, lang);\n    };\n\n    this.md.renderer.rules.link_open = (tokens, idx) => {\n      const href = tokens[idx].attrGet('href');\n      const safeHref = this.validateLink(href);\n      return `<a href=\"${safeHref}\" style=\"${this.getInlineStyle('a')}\">`;\n    };\n    this.md.renderer.rules.strong_open = () => `<strong style=\"${this.getInlineStyle('strong')}\">`;\n    this.md.renderer.rules.em_open = () => `<em style=\"${this.getInlineStyle('em')}\">`;\n    this.md.renderer.rules.s_open = () => `<del style=\"${this.getInlineStyle('del')}\">`;\n\n    this.md.renderer.rules.image = (tokens, idx) => {\n      let src = tokens[idx].attrGet('src');\n      const alt = tokens[idx].content;\n\n      // Resolve Local Path for Preview\n      src = this.resolveImagePath(src);\n\n\n      let caption = '';\n\n      if (alt) {\n        caption = alt;\n        const stripped = caption.replace(/\\|\\s*\\d+(x\\d+)?\\s*$/, '');\n        caption = stripped || caption;\n        caption = caption.replace(/\\.(jpg|jpeg|png|gif|webp|svg|bmp)$/i, '');\n      }\n\n\n      if (this.avatarUrl) {\n        // \u6C34\u5370\u6A21\u5F0F\uFF1A\u663E\u793A\u5934\u50CF + \u56FE\u7247\u540D\u79F0\uFF0C\u4F7F\u7528\u5E26\u8FB9\u6846\u7684\u6837\u5F0F\n        const avatarHeaderStyle = this.getInlineStyle('avatar-header');\n        const spacerStyle = 'display:block;height:8px;line-height:8px;font-size:0;';\n        // Fix: Force text-align: left for the figure container in watermark mode to prevent centering\n        // We strip the default text-align: center from the figure style and add text-align: left\n        let figureStyle = this.getInlineStyle('figure');\n        figureStyle = figureStyle.replace('text-align: center;', 'text-align: left;');\n\n        return `<figure style=\"${figureStyle}\"><div style=\"${avatarHeaderStyle}\"><img src=\"${this.avatarUrl}\" alt=\"logo\" style=\"${this.getInlineStyle('avatar')}\"><span style=\"${this.getInlineStyle('avatar-caption')}\">${caption}</span></div><section style=\"${spacerStyle}\">&nbsp;</section><img src=\"${src}\" alt=\"${alt}\" style=\"${this.getInlineStyle('img')}\"></figure>`;\n      }\n\n      // \u975E\u6C34\u5370\u6A21\u5F0F\uFF1A\u65E0\u8FB9\u6846\u6837\u5F0F\n      const simpleFigureStyle = 'display:block;margin:16px 0;text-align:center;';\n      if (this.showImageCaption && caption) {\n        return `<figure style=\"${simpleFigureStyle}\"><img src=\"${src}\" alt=\"${alt}\" style=\"${this.getInlineStyle('img')}\"><figcaption style=\"${this.getInlineStyle('figcaption')}\">${caption}</figcaption></figure>`;\n      } else {\n        return `<figure style=\"${simpleFigureStyle}\"><img src=\"${src}\" alt=\"${alt}\" style=\"${this.getInlineStyle('img')}\"></figure>`;\n      }\n    };\n\n    this.md.renderer.rules.hr = () => `<hr style=\"${this.getInlineStyle('hr')}\">`;\n    this.md.renderer.rules.table_open = (tokens, idx) => `<section style=\"${this.getInlineStyle('table-wrapper')}\"><table style=\"${this.getTableStyle(tokens, idx)}\">`;\n    this.md.renderer.rules.table_close = () => `</table></section>`;\n    this.md.renderer.rules.thead_open = () => `<thead style=\"${this.getInlineStyle('thead')}\">`;\n    this.md.renderer.rules.th_open = () => `<th style=\"${this.getInlineStyle('th')}\">`;\n    this.md.renderer.rules.td_open = () => `<td style=\"${this.getInlineStyle('td')}\">`;\n  }\n\n  getTableColumnCount(tokens, tableIdx) {\n    if (!Array.isArray(tokens)) return 0;\n\n    let rowOpen = false;\n    let count = 0;\n    for (let i = tableIdx + 1; i < tokens.length; i += 1) {\n      const token = tokens[i];\n      if (!token) continue;\n      if (token.type === 'table_close') break;\n      if (token.type === 'tr_open') {\n        rowOpen = true;\n        count = 0;\n        continue;\n      }\n      if (token.type === 'tr_close' && rowOpen) {\n        if (count > 0) return count;\n        rowOpen = false;\n        continue;\n      }\n      if (!rowOpen || (token.type !== 'th_open' && token.type !== 'td_open')) continue;\n\n      const colspanAttr = typeof token.attrGet === 'function' ? token.attrGet('colspan') : null;\n      const colspan = Number.parseInt(colspanAttr || '1', 10);\n      count += Number.isFinite(colspan) && colspan > 0 ? colspan : 1;\n    }\n\n    return count;\n  }\n\n  getTableMinWidth(tokens, tableIdx) {\n    const columns = this.getTableColumnCount(tokens, tableIdx);\n    if (!columns) return 720;\n    const width = columns <= 2 ? (columns * 180 + 80) : (columns * 230 + 80);\n    return Math.max(360, Math.min(1200, width));\n  }\n\n  getTableStyle(tokens, tableIdx) {\n    const baseStyle = this.getInlineStyle('table');\n    const minWidth = this.getTableMinWidth(tokens, tableIdx);\n    const withoutWidth = baseStyle\n      .replace(/(?:^|;)\\s*width\\s*:\\s*[^;]+;?/gi, ';')\n      .replace(/(?:^|;)\\s*min-width\\s*:\\s*[^;]+;?/gi, ';')\n      .replace(/(?:^|;)\\s*max-width\\s*:\\s*[^;]+;?/gi, ';')\n      .replace(/;{2,}/g, ';')\n      .replace(/^\\s*;\\s*/, '')\n      .trim();\n    const normalized = withoutWidth && !withoutWidth.endsWith(';') ? `${withoutWidth};` : withoutWidth;\n    return `width: ${minWidth}px; min-width: 100%; max-width: none; ${normalized}`;\n  }\n\n  /**\n   * \u68C0\u6D4B blockquote \u662F\u5426\u4E3A Callout \u8BED\u6CD5\n   * \u5E76\u6E05\u7406 marker \u6807\u8BC6\u7B26\n   * @param {Array} tokens - markdown-it tokens\n   * @param {number} idx - blockquote_open \u7684\u7D22\u5F15\n   * @returns {Object|null} - callout \u4FE1\u606F { type, title, icon, label } \u6216 null\n   */\n  detectCallout(tokens, idx) {\n    // \u67E5\u627E blockquote \u5185\u7684\u7B2C\u4E00\u4E2A inline token\n    for (let i = idx + 1; i < tokens.length; i++) {\n      if (tokens[i].type === 'blockquote_close') break;\n      if (tokens[i].type === 'inline' && tokens[i].content) {\n        // \u53EA\u53D6\u7B2C\u4E00\u884C\u5185\u5BB9\u8FDB\u884C\u5339\u914D\n        const firstLine = tokens[i].content.split('\\n')[0];\n        // \u652F\u6301\u81EA\u5B9A\u4E49 callout \u7C7B\u578B\uFF08\u5305\u542B\u4E2D\u6587\u3001\u8FDE\u5B57\u7B26\u7B49\uFF09\uFF0C\u4F8B\u5982 [!\u5B66\u4E60\u7814\u7A76] / [!custom-type]\n        const match = firstLine.match(/^\\[!\\s*([^\\]\\r\\n]+?)\\s*\\](?:\\s+(.*))?/);\n        if (match) {\n          const rawType = match[1].trim();\n          if (!rawType || !/\\S/u.test(rawType)) return null;\n          const type = rawType.toLowerCase();\n          const customTitle = match[2] ? match[2].trim() : null;\n          const mappedConfig = CALLOUT_ICONS[type];\n          const config = mappedConfig || { icon: CALLOUT_ICONS.note.icon, label: type };\n          const defaultTitle = type.charAt(0).toUpperCase() + type.slice(1);\n\n          // --- \u5728 Token \u9636\u6BB5\u6E05\u7406 Marker ---\n          // 1. \u66F4\u65B0 content\uFF1A\u79FB\u9664\u5305\u542B marker \u7684\u7B2C\u4E00\u884C\n          const lines = tokens[i].content.split('\\n');\n          lines.shift();\n          tokens[i].content = lines.join('\\n');\n\n          // 2. \u66F4\u65B0 children\uFF1A\u540C\u6B65\u79FB\u9664\u7B2C\u4E00\u884C\u5BF9\u5E94\u7684 tokens\n          if (tokens[i].children) {\n            const breakIdx = tokens[i].children.findIndex(c => c.type === 'softbreak' || c.type === 'hardbreak');\n            if (breakIdx !== -1) {\n              // \u79FB\u9664\u7B2C\u4E00\u4E2A\u6362\u884C\u7B26\u53CA\u5176\u4E4B\u524D\u7684\u6240\u6709\u5185\u5BB9\n              tokens[i].children = tokens[i].children.slice(breakIdx + 1);\n            } else {\n              // \u53EA\u6709\u4E00\u884C\uFF0C\u76F4\u63A5\u6E05\u7A7A\n              tokens[i].children = [];\n            }\n          }\n\n          // 3. \u5982\u679C\u8BE5\u6BB5\u843D\u53D8\u4E3A\u7A7A\uFF08\u8BF4\u660E marker \u72EC\u5360\u4E00\u884C\uFF09\uFF0C\u9690\u85CF\u8BE5\u6BB5\u843D\u5BB9\u5668\n          if (tokens[i].content.trim() === '') {\n            if (i > 0 && tokens[i-1].type === 'paragraph_open') tokens[i-1].hidden = true;\n            tokens[i].hidden = true; // \u9690\u85CF inline token \u672C\u8EAB\n            if (i < tokens.length - 1 && tokens[i+1].type === 'paragraph_close') tokens[i+1].hidden = true;\n          }\n\n          return {\n            type,\n            title: customTitle || defaultTitle,\n            icon: config.icon,\n            label: config.label,\n          };\n        }\n        break; // \u53EA\u68C0\u67E5\u7B2C\u4E00\u4E2A inline\n      }\n    }\n    return null;\n  }\n\n  /**\n   * \u6E32\u67D3 Callout \u5F00\u59CB\u6807\u7B7E\n   * @param {Object} calloutInfo - { type, title, icon }\n   * @returns {string} - HTML \u5B57\u7B26\u4E32\n   */\n  renderCalloutOpen(calloutInfo) {\n    const color = this.theme.getThemeColorValue();\n    const sizes = this.theme.getSizes();\n    const font = this.theme.getFontFamily();\n    const quoteCalloutStyleMode = typeof this.theme.getQuoteCalloutStyleMode === 'function'\n      ? this.theme.getQuoteCalloutStyleMode()\n      : 'theme';\n\n    if (quoteCalloutStyleMode === 'neutral') {\n      return this.renderCalloutOpenNeutral(calloutInfo, color, sizes, font);\n    }\n\n    const safeTitle = this.escapeHtml(String(calloutInfo.title ?? ''));\n    const accentColor = resolveCalloutSemanticColor(calloutInfo?.type, color);\n\n    const containerStyle = `\n      margin: 16px 0 16px 8px;\n      background: ${accentColor}0D;\n      border: 1px solid ${accentColor}24;\n      border-radius: 4px;\n      overflow: hidden;\n    `.replace(/\\s+/g, ' ').trim();\n\n    const headerStyle = `\n      display: flex;\n      align-items: center;\n      padding: 8px 12px;\n      background: ${accentColor}14;\n      border-bottom: 1px solid ${accentColor}24;\n      font-weight: bold;\n      font-size: ${sizes.base}px;\n      font-family: ${font};\n      color: ${accentColor};\n    `.replace(/\\s+/g, ' ').trim();\n\n    const iconStyle = `margin-right: 8px; font-size: ${sizes.base + 2}px; color: ${accentColor};`;\n    const titleStyle = `flex: 1; color: ${accentColor};`;\n\n    const contentStyle = `\n      padding: 12px 16px;\n      font-size: ${sizes.base}px;\n      line-height: 1.8;\n      color: #595959;\n      background: ${accentColor}0D;\n    `.replace(/\\s+/g, ' ').trim();\n\n    return `<section style=\"${containerStyle}\">\n      <section style=\"${headerStyle}\">\n        <span style=\"${iconStyle}\">${calloutInfo.icon}</span>\n        <span style=\"${titleStyle}\">${safeTitle}</span>\n      </section>\n      <section style=\"${contentStyle}\">`;\n  }\n\n  renderCalloutOpenNeutral(calloutInfo, themeColor, sizes, font) {\n    const safeTitle = this.escapeHtml(String(calloutInfo.title ?? ''));\n    const accentColor = resolveCalloutSemanticColor(calloutInfo?.type, themeColor);\n\n    const containerStyle = `\n      margin: 16px 0 16px 8px;\n      background: #f9f9f9;\n      border: 1px solid ${accentColor}24;\n      border-radius: 4px;\n      overflow: hidden;\n    `.replace(/\\s+/g, ' ').trim();\n\n    const headerStyle = `\n      display: flex;\n      align-items: center;\n      padding: 8px 12px;\n      background: ${accentColor}14;\n      border-bottom: 1px solid ${accentColor}24;\n      font-weight: bold;\n      font-size: ${sizes.base}px;\n      font-family: ${font};\n      color: ${accentColor};\n    `.replace(/\\s+/g, ' ').trim();\n\n    const iconStyle = `margin-right: 8px; font-size: ${sizes.base + 2}px; color: ${accentColor};`;\n    const titleStyle = `flex: 1; color: ${accentColor};`;\n    const contentStyle = `\n      padding: 12px 16px;\n      font-size: ${sizes.base}px;\n      line-height: 1.8;\n      color: #595959;\n      background: #f9f9f9;\n    `.replace(/\\s+/g, ' ').trim();\n\n    return `<section style=\"${containerStyle}\">\n      <section style=\"${headerStyle}\">\n        <span style=\"${iconStyle}\">${calloutInfo.icon}</span>\n        <span style=\"${titleStyle}\">${safeTitle}</span>\n      </section>\n      <section style=\"${contentStyle}\">`;\n  }\n\n  highlightCode(code, lang) {\n    if (!this.hljs) return this.escapeHtml(code);\n    try {\n      if (lang && this.hljs.getLanguage(lang)) return this.hljs.highlight(code, { language: lang }).value;\n      return this.hljs.highlightAuto(code).value;\n    } catch (e) { return this.escapeHtml(code); }\n  }\n\n  /**\n   * \u683C\u5F0F\u5316\u9AD8\u4EAE\u4EE3\u7801\uFF08\u53C2\u8003 wechat-tool formatHighlightedCode\uFF09\n   */\n  formatHighlightedCode(html, preserveNewlines = false) {\n    let formatted = html;\n    // \u5C06 span \u4E4B\u95F4\u7684\u7A7A\u683C\u79FB\u5230 span \u5185\u90E8\n    formatted = formatted.replace(/(<span[^>]*>[^<]*<\\/span>)(\\s+)(<span[^>]*>[^<]*<\\/span>)/g,\n      (_, span1, spaces, span2) => span1 + span2.replace(/^(<span[^>]*>)/, `$1${spaces}`));\n    formatted = formatted.replace(/(\\s+)(<span[^>]*>)/g,\n      (_, spaces, span) => span.replace(/^(<span[^>]*>)/, `$1${spaces}`));\n    // \u66FF\u6362\u5236\u8868\u7B26\u4E3A4\u4E2A\u7A7A\u683C\n    formatted = formatted.replace(/\\t/g, '    ');\n\n    // wechat-tool \u7684\u903B\u8F91\uFF1A\u5982\u679C\u662F lineNumbers \u6A21\u5F0F\uFF08preserveNewlines=false\uFF09\uFF0C\u5C06\u7A7A\u683C\u8F6C\u4E3A &nbsp;\n    // \u5982\u679C\u4E0D\u662F\uFF08preserveNewlines=true\uFF09\uFF0C\u5C06\u6362\u884C\u8F6C\u4E3A <br/> \u4E14\u7A7A\u683C\u8F6C\u4E3A &nbsp;\n    if (preserveNewlines) {\n      formatted = formatted\n        .replace(/\\r\\n/g, '<br/>')\n        .replace(/\\n/g, '<br/>')\n        .replace(/(>[^<]+)|(^[^<]+)/g, str => str.replace(/\\s/g, '&nbsp;'));\n    } else {\n      formatted = formatted.replace(/(>[^<]+)|(^[^<]+)/g, str => str.replace(/\\s/g, '&nbsp;'));\n    }\n    return formatted;\n  }\n\n  inlineHighlightStyles(html) {\n    const map = {\n      'hljs-keyword': 'color:#ff7b72 !important;', 'hljs-built_in': 'color:#ffa657 !important;',\n      'hljs-type': 'color:#ffa657 !important;', 'hljs-literal': 'color:#79c0ff !important;',\n      'hljs-number': 'color:#79c0ff !important;', 'hljs-string': 'color:#a5d6ff !important;',\n      'hljs-symbol': 'color:#a5d6ff !important;', 'hljs-comment': 'color:#8b949e !important;font-style:italic !important;',\n      'hljs-doctag': 'color:#8b949e !important;', 'hljs-meta': 'color:#ffa657 !important;',\n      'hljs-attr': 'color:#79c0ff !important;', 'hljs-attribute': 'color:#79c0ff !important;',\n      'hljs-name': 'color:#7ee787 !important;', 'hljs-tag': 'color:#7ee787 !important;',\n      'hljs-selector-tag': 'color:#7ee787 !important;', 'hljs-selector-class': 'color:#d2a8ff !important;',\n      'hljs-selector-id': 'color:#79c0ff !important;', 'hljs-variable': 'color:#ffa657 !important;',\n      'hljs-template-variable': 'color:#ffa657 !important;', 'hljs-params': 'color:#e6e6e6 !important;',\n      'hljs-function': 'color:#d2a8ff !important;', 'hljs-title': 'color:#d2a8ff !important;',\n      'hljs-punctuation': 'color:#e6e6e6 !important;', 'hljs-property': 'color:#79c0ff !important;',\n      'hljs-operator': 'color:#ff7b72 !important;', 'hljs-regexp': 'color:#a5d6ff !important;',\n      'hljs-subst': 'color:#e6e6e6 !important;',\n    };\n\n    // \u6539\u8FDB\uFF1A\u5904\u7406 class \u5C5E\u6027\u5305\u542B\u591A\u4E2A\u7C7B\u540D\u7684\u60C5\u51B5\n    return html.replace(/class=\"([^\"]*)\"/g, (match, classNames) => {\n      const classes = classNames.split(/\\s+/);\n      let styles = '';\n      for (const cls of classes) {\n        if (map[cls]) {\n          styles += map[cls];\n        }\n      }\n      return styles ? `style=\"${styles}\"` : match;\n    }).replace(/class=\"[^\"]*\"/g, ''); // \u518D\u6B21\u6E05\u7406\u672A\u5339\u914D\u7684 class\n  }\n\n  /**\n   * \u521B\u5EFA\u4EE3\u7801\u5757 - \u7167\u6284 wechat-tool \u7684\u5B9E\u73B0\n   * \u4F7F\u7528 wechat-tool \u7684\u989C\u8272\u548C\u7ED3\u6784\n   */\n  createCodeBlock(content, lang) {\n    const showMac = this.theme.macCodeBlock;\n    const showLineNum = this.theme.codeLineNumber;\n\n    // wechat-tool \u7684\u989C\u8272\u914D\u7F6E\uFF08GitHub Dark \u4E3B\u9898\uFF09\n    const background = '#0d1117';  // GitHub Dark \u80CC\u666F\n    const color = '#f0f6fc';       // GitHub Dark \u6587\u5B57\n    const barBackground = '#161b22'; // \u5DE5\u5177\u680F\u80CC\u666F\n    const borderColor = '#30363d';   // \u8FB9\u6846\u989C\u8272\n\n    let lines = content.replace(/\\r\\n/g, '\\n').split('\\n');\n    while (lines.length && lines[lines.length - 1].trim() === '') lines.pop();\n\n    // Mac \u5934\u90E8\n    // \u5173\u952E\u4FEE\u6B63\uFF1A\u4F7F\u7528 section \u800C\u4E0D\u662F div\uFF0C\u589E\u5F3A\u5728\u516C\u4F17\u53F7\u4E2D\u7684\u517C\u5BB9\u6027\n    const macHeader = showMac ? `<section style=\"display:block !important;background:${barBackground} !important;padding:6px 10px 6px 10px !important;border:none !important;border-bottom:1px solid ${borderColor} !important;border-radius:8px 8px 0 0 !important;line-height:1 !important;\">\n      <span style=\"display:inline-block !important;width:9px !important;height:9px !important;border-radius:50% !important;background:#ff5f57 !important;margin-right:7px !important;font-size:0 !important;line-height:0 !important;vertical-align:top !important;\"></span>\n      <span style=\"display:inline-block !important;width:9px !important;height:9px !important;border-radius:50% !important;background:#ffbd2e !important;margin-right:7px !important;font-size:0 !important;line-height:0 !important;vertical-align:top !important;\"></span>\n      <span style=\"display:inline-block !important;width:9px !important;height:9px !important;border-radius:50% !important;background:#28c840 !important;font-size:0 !important;line-height:0 !important;vertical-align:top !important;\"></span>\n    </section>` : '';\n\n    // \u7EDF\u4E00\u884C\u9AD8\u548C\u5B57\u4F53\u53D8\u91CF\n    const lineHeight = '1.75';\n    // const fontSize = '13px';\n\n    let codeHtml;\n\n    if (showLineNum) {\n      // \u5E26\u884C\u53F7\uFF1A\u9010\u884C\u5904\u7406\n      const highlightedLines = lines.map(lineRaw => {\n        const lineHtml = this.highlightCode(lineRaw, lang);\n        const styled = this.inlineHighlightStyles(lineHtml);\n        // \u6CE8\u610F\uFF1A\u8FD9\u91CC formatHighlightedCode \u7B2C\u4E8C\u4E2A\u53C2\u6570\u4E3A false\uFF0C\u4E0D\u5305\u542B <br>\uFF0C\u4E0D\u5305\u542B &nbsp; (\u9664\u975E\u5185\u90E8\u903B\u8F91\u5904\u7406)\n        // \u5B9E\u9645\u4E0A formatHighlightedCode \u7B2C\u4E8C\u4E2A\u53C2\u6570\u4E3A false \u65F6\uFF0C\u53EA\u505A\u7A7A\u683C\u5904\u7406\n        // wechat-tool \u4E2D\uFF1A return formatted === '' ? '&nbsp;' : formatted\n        const formatted = this.formatHighlightedCode(styled, false);\n        return formatted === '' ? '&nbsp;' : formatted;\n      });\n\n      // \u884C\u53F7\u5217\n      const lineNumbersHtml = highlightedLines.map((_, idx) =>\n        `<section style=\"height:1.75em !important;line-height:${lineHeight} !important;padding:0 12px 0 12px !important;font-size:13px !important;color:#95989C !important;text-align:right !important;white-space:nowrap !important;vertical-align:top !important;margin:0 !important;\">${idx + 1}</section>`\n      ).join('');\n\n      // \u4EE3\u7801\u5185\u5BB9\n      // \u5173\u952E\u6539\u52A8\uFF1A\u56DE\u5F52 wechat-tool \u539F\u59CB\u65B9\u6848 \u2014\u2014 \u4F7F\u7528 <br> \u62FC\u63A5\u4EE3\u7801\u884C\uFF0C\u800C\u4E0D\u662F div \u5206\u5272\n      // \u8FD9\u6837\u53F3\u4FA7\u5C31\u662F\u4E00\u4E2A\u5355\u4E00\u7684\u6587\u672C\u6D41\uFF0C\u9AD8\u5EA6\u4E25\u683C\u7531 line-height \u63A7\u5236\n      const codeInnerHtml = highlightedLines.join('<br/>');\n\n      const codeLinesHtml = `<section style=\"white-space:nowrap !important;display:inline-block !important;min-width:100% !important;line-height:${lineHeight} !important;font-size:13px !important;\">${codeInnerHtml}</section>`;\n\n      // \u884C\u53F7\u5217\u5BB9\u5668\u6837\u5F0F\n      const lineNumberColumnStyles = `text-align:right !important;padding:12px 0 12px 0 !important;border-right:1px solid rgba(255,255,255,0.1) !important;user-select:none !important;background:transparent !important;flex:0 0 auto !important;min-width:3.5em !important;margin:0 !important;`;\n\n      // \u6CE8\u610F flex \u5BB9\u5668\u7684 padding 0\uFF0C\u5185\u90E8 padding \u5206\u522B\u5728 lineNumberColumn \u548C code section\n      codeHtml = `<section style=\"display:flex !important;align-items:flex-start !important;overflow-x:hidden !important;overflow-y:visible !important;width:100% !important;padding:0 !important;margin:0 !important;\">\n        <section style=\"${lineNumberColumnStyles}\">${lineNumbersHtml}</section>\n        <section style=\"flex:1 1 auto !important;overflow-x:auto !important;overflow-y:visible !important;padding:12px 12px 12px 16px !important;margin:0 !important;min-width:0 !important;\">${codeLinesHtml}</section>\n      </section>`;\n    } else {\n      // \u65E0\u884C\u53F7\n      const highlighted = this.highlightCode(lines.join('\\n'), lang);\n      const styled = this.inlineHighlightStyles(highlighted);\n      // preserveNewlines=true -> \u5305\u542B <br>\n      const formatted = this.formatHighlightedCode(styled, true);\n      // \u6539\u52A8\uFF1Awhite-space: nowrap !important\n      const codeLinesHtml = `<section style=\"white-space:nowrap !important;display:inline-block !important;min-width:100% !important;word-break:keep-all !important;overflow-wrap:normal !important;line-height:${lineHeight} !important;font-size:13px !important;margin:0 !important;\">${formatted}</section>`;\n\n      codeHtml = `<section style=\"display:flex !important;align-items:flex-start !important;overflow-x:hidden !important;overflow-y:visible !important;width:100% !important;padding:0 !important;margin:0 !important;\">\n        <section style=\"flex:1 1 auto !important;overflow-x:auto !important;overflow-y:visible !important;padding:12px !important;min-width:0 !important;margin:0 !important;\">${codeLinesHtml}</section>\n      </section>`;\n    }\n\n    // \u5916\u5C42\u5BB9\u5668\n    return `<section class=\"code-snippet__fix\" style=\"width:100% !important;margin:12px 0 !important;background:${background} !important;border:1px solid ${borderColor} !important;border-radius:8px !important;overflow:hidden !important;box-shadow: 0 4px 12px rgba(0,0,0,0.3) !important;display:block !important;\">\n${macHeader}\n<section style=\"padding:0 !important;border:none !important;background:${background} !important;color:${color} !important;font-family:'SF Mono',Consolas,Monaco,monospace !important;font-size:13px !important;line-height:${lineHeight} !important;white-space:nowrap !important;overflow-x:auto !important;display:block !important;\">\n<pre style=\"margin:0 !important;padding:0 !important;background:${background} !important;font-family:inherit !important;font-size:13px !important;line-height:inherit !important;color:${color} !important;white-space:nowrap !important;overflow-x:visible !important;display:inline-block !important;min-width:100% !important;\">${codeHtml}</pre>\n</section>\n</section>`;\n  }\n\n  getInlineStyle(tagName) { return this.theme.getStyle(tagName); }\n  stripFrontmatter(md) { return md.replace(/^---\\n[\\s\\S]*?\\n---\\n?/, ''); }\n\n\n  async convert(markdown) {\n    if (!this.md) await this.initMarkdownIt();\n\n    // \u4FEE\u590D\uFF1A\u79FB\u9664\u5757\u7EA7\u516C\u5F0F $$ \u524D\u9762\u7684\u7F29\u8FDB\uFF0C\u907F\u514D\u88AB\u8BEF\u8BC6\u522B\u4E3A\u4EE3\u7801\u5757\n    // \u4EC5\u5339\u914D\u884C\u9996\u7684\u7A7A\u767D + $$\uFF0C\u4E0D\u5F71\u54CD\u5176\u4ED6\u7F29\u8FDB\n    markdown = markdown.replace(/^[\\t ]+(\\$\\$)/gm, '$1');\n\n    // Pre-process: Convert Wiki-links ![[...]] to standard images ![](...)\n    // Regex: ![[path|alt]] or ![[path]]\n    // Fix: Use more robust regex preventing greedy capture and encoding URI for paths with spaces\n    markdown = markdown.replace(/!\\[\\[([^\\[\\]|]+)(?:\\|([^\\[\\]]+))?\\]\\]/g, (match, path, alt) => {\n      // Must encodeURI to handle spaces in filenames which are valid in WikiLinks but break standard Markdown images\n      // trimmed path to avoid leading/trailing spaces breaking the link\n      if (!alt) {\n        const filename = path.trim().split('/').pop().replace(/\\.(jpg|jpeg|png|gif|webp|svg|bmp)$/i, '') || path.trim();\n        return `![${filename}](${encodeURI(path.trim())})`;\n      }\n      return `![${alt}](${encodeURI(path.trim())})`;\n    });\n\n\n\n    let html = this.md.render(this.stripFrontmatter(markdown));\n    html = this.fixListParagraphs(html);\n    html = this.unwrapFigures(html); // Fix: Remove <p> wrappers from <figure> to prevent empty lines\n    html = this.removeBlockquoteParagraphMargins(html); // Fix: Remove margins from <p> inside <blockquote> for vertical centering\n    html = this.fixMathJaxTags(html); // Fix: Replace <mjx-container> with WeChat-compatible tags\n    html = this.sanitizeHtml(html); // Final security pass: Neutralize XSS and dangerous tags\n    return `<section style=\"${this.getInlineStyle('section')}\">${html}</section>`;\n  }\n\n  fixMathJaxTags(html) {\n    if (!html.includes('mjx-container')) return html;\n\n    // Fix: Remove assistive MathML (hidden text that shows up in WeChat)\n    html = html.replace(/<mjx-assistive-mml[^>]*>[\\s\\S]*?<\\/mjx-assistive-mml>/gi, '');\n\n    const normalizeMathPositionStyles = (markup) => String(markup || '').replace(\n      /style=\"([^\"]*)\"/gi,\n      (_match, styleText) => {\n        let style = String(styleText || '');\n        let topValue = null;\n        style = style.replace(/(^|;)\\s*top\\s*:\\s*([^;\"]+)\\s*;?/i, (_m, prefix, value) => {\n          topValue = String(value || '').trim();\n          return prefix || '';\n        });\n        if (!topValue) return `style=\"${style}\"`;\n\n        if (/transform\\s*:/i.test(style)) {\n          style = style.replace(\n            /transform\\s*:\\s*([^;\"]+)/i,\n            (_m, value) => `transform:${String(value || '').trim()} translateY(${topValue})`\n          );\n        } else {\n          style = `${style}${style.trim().endsWith(';') || !style.trim() ? '' : ';'}transform: translateY(${topValue});`;\n        }\n        return `style=\"${style}\"`;\n      }\n    );\n\n    const appendSvgStyle = (markup, extraStyle) => String(markup || '').replace(/<svg([^>]*)>/i, (_m, svgAttrs) => {\n      if (svgAttrs.includes('style=\"')) {\n        return `<svg${svgAttrs.replace('style=\"', `style=\"${extraStyle}`)}>`;\n      }\n      return `<svg${svgAttrs} style=\"${extraStyle}\">`;\n    });\n\n    // Replace <mjx-container> with <section> (block) or <span> (inline)\n    // WeChat strips custom tags like mjx-container but keeps SVG content\n    return html.replace(/<mjx-container([^>]*)>(.*?)<\\/mjx-container>/gs, (match, attrs, content) => {\n      // Check for block display mode\n      // MathJax 3 usually adds display=\"true\" or class=\"MathJax CtxtMenu_Attached_0\" with separate style\n      const isBlock = attrs.includes('display=\"true\"') || attrs.includes('display: true');\n\n      const tag = isBlock ? 'section' : 'span';\n\n      // Inline math needs vertical alignment adjustment\n      // Block math needs centering and scaling (not scrolling) as per WeChat behavior\n      const style = isBlock\n        ? 'display:block; width:100%; margin:1em auto; text-align:center; max-width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch;'\n        : 'display:inline-block; vertical-align:middle; transform:translateY(-0.12em); margin:0 1px; line-height:1;';\n\n      content = normalizeMathPositionStyles(content);\n\n      // \u5173\u952E\u4FEE\u590D\uFF1A\u7ED9\u5757\u7EA7\u516C\u5F0F\u7684 SVG \u6DFB\u52A0 max-width: 100% \u548C height: auto\n      // \u8FD9\u6837\u5728\u624B\u673A\u4E0A\u9884\u89C8\u65F6\uFF0C\u516C\u5F0F\u4F1A\u6309\u6BD4\u4F8B\u7F29\u5C0F\u4EE5\u9002\u5E94\u5C4F\u5E55\uFF0C\u800C\u4E0D\u662F\u88AB\u906E\u6321\u6216\u9700\u8981\u6EDA\u52A8\n      // \u8FD9\u7B26\u5408\u5FAE\u4FE1\u516C\u4F17\u53F7\u7684\u9ED8\u8BA4\u6E32\u67D3\u884C\u4E3A\n      if (isBlock) {\n        content = appendSvgStyle(content, 'display:block; margin:0 auto; max-width:100%; height:auto; ');\n      } else {\n        content = content.replace(/vertical-align\\s*:\\s*[^;\"]+;?/gi, '');\n        content = appendSvgStyle(content, 'display:inline-block; max-width:300vw !important; height:auto; vertical-align:middle; ');\n      }\n\n      return `<${tag} data-owc-math=\"${isBlock ? 'block' : 'inline'}\" style=\"${style}\">${content}</${tag}>`;\n    });\n  }\n\n  fixListParagraphs(html) {\n    const style = this.getInlineStyle('li p');\n    return html.replace(/<li[^>]*>[\\s\\S]*?<\\/li>/g, m => m.replace(/<p style=\"[^\"]*\">/g, `<p style=\"${style}\">`));\n  }\n\n  replaceStyleDeclaration(styleText, property, value) {\n    const style = String(styleText || '');\n    const declaration = `${property}: ${value}`;\n    const propertyPattern = new RegExp(`(^|;)\\\\s*${property}\\\\s*:\\\\s*[^;\"]*`, 'i');\n\n    if (propertyPattern.test(style)) {\n      return style.replace(propertyPattern, (_match, prefix) => `${prefix ? `${prefix} ` : ''}${declaration}`);\n    }\n\n    const normalizedStyle = style.trim().replace(/;?\\s*$/, '');\n    return normalizedStyle ? `${normalizedStyle}; ${declaration}` : declaration;\n  }\n\n  /**\n   * Keep blockquote padding in control while preserving intentional blank lines.\n   * A blank line inside Markdown blockquotes renders as multiple paragraphs.\n   */\n  removeBlockquoteParagraphMargins(html) {\n    const containerTags = new Set([\n      'blockquote', 'section', 'div', 'figure', 'figcaption', 'table', 'thead', 'tbody', 'tfoot',\n      'tr', 'th', 'td', 'ul', 'ol', 'li', 'pre', 'article', 'aside',\n    ]);\n    const voidTags = new Set(['area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'source', 'track', 'wbr']);\n    const blockquoteStack = [];\n    const replacements = [];\n    const tagPattern = /<\\/?([a-zA-Z][\\w:-]*)(?:\\s[^<>]*)?>/g;\n\n    let match;\n    while ((match = tagPattern.exec(html)) !== null) {\n      const rawTag = match[0];\n      const tagName = String(match[1] || '').toLowerCase();\n      const isClosing = /^<\\//.test(rawTag);\n      const isSelfClosing = /\\/\\s*>$/.test(rawTag) || voidTags.has(tagName);\n\n      if (tagName === 'blockquote') {\n        if (isClosing) {\n          const frame = blockquoteStack.pop();\n          if (frame) {\n            const paragraphCount = frame.paragraphs.length;\n            frame.paragraphs.forEach((paragraph, index) => {\n              const isLastParagraph = index === paragraphCount - 1;\n              const marginValue = paragraphCount > 1 && !isLastParagraph ? '0 0 0.8em 0' : '0';\n              const updatedStyle = this.replaceStyleDeclaration(paragraph.styleText, 'margin', marginValue);\n              replacements.push({\n                start: paragraph.start,\n                end: paragraph.end,\n                value: paragraph.rawTag.replace(/style=\"([^\"]*)\"/, `style=\"${updatedStyle}\"`),\n              });\n            });\n          }\n          if (blockquoteStack.length > 0) {\n            const parentFrame = blockquoteStack[blockquoteStack.length - 1];\n            parentFrame.containerDepth = Math.max(0, parentFrame.containerDepth - 1);\n          }\n        } else {\n          if (blockquoteStack.length > 0) {\n            blockquoteStack[blockquoteStack.length - 1].containerDepth += 1;\n          }\n          blockquoteStack.push({ containerDepth: 0, paragraphs: [] });\n        }\n        continue;\n      }\n\n      if (blockquoteStack.length === 0) continue;\n\n      const frame = blockquoteStack[blockquoteStack.length - 1];\n      if (!isClosing && tagName === 'p') {\n        const styleMatch = rawTag.match(/\\bstyle=\"([^\"]*)\"/);\n        if (styleMatch && frame.containerDepth === 0) {\n          frame.paragraphs.push({\n            start: match.index,\n            end: match.index + rawTag.length,\n            rawTag,\n            styleText: styleMatch[1],\n          });\n        } else if (styleMatch) {\n          const updatedStyle = this.replaceStyleDeclaration(styleMatch[1], 'margin', '0');\n          replacements.push({\n            start: match.index,\n            end: match.index + rawTag.length,\n            value: rawTag.replace(/style=\"([^\"]*)\"/, `style=\"${updatedStyle}\"`),\n          });\n        }\n        continue;\n      }\n\n      if (!containerTags.has(tagName) || tagName === 'p') continue;\n      if (isClosing) {\n        frame.containerDepth = Math.max(0, frame.containerDepth - 1);\n      } else if (!isSelfClosing) {\n        frame.containerDepth += 1;\n      }\n    }\n\n    return replacements\n      .sort((a, b) => b.start - a.start)\n      .reduce((output, replacement) => (\n        output.slice(0, replacement.start) + replacement.value + output.slice(replacement.end)\n      ), html);\n  }\n\n  /**\n   * Fix: Unwrap <figure> from <p> tags\n   * Markdown-it wraps images in <p> by default, but <figure> inside <p> is invalid.\n   * Browsers (and WeChat) handle this by splitting the <p> into two empty <p>s above and below,\n   * causing unwanted empty lines. This regex removes the wrapping <p>.\n   */\n  unwrapFigures(html) {\n    // Logic: Match <p ...> <figure>...</figure> </p> and replace with <figure>...</figure>\n    return html.replace(/<p[^>]*>\\s*(<figure[\\s\\S]*?<\\/figure>)\\s*<\\/p>/gi, '$1');\n  }\n\n  validateLink(url, isImage = false) {\n    if (!url) return '#';\n    const value = String(url).trim();\n    if (!value) return '#';\n\n    // Keep legacy parity: allow raw data:image src in image context.\n    // Non-image data: remains blocked.\n    if (/^data:/i.test(value)) {\n      if (!isImage) return '#unsafe';\n      return /^data:image\\//i.test(value) ? value : '#';\n    }\n\n    // Allow safe protocols\n    const safeProtocols = ['http:', 'https:', 'obsidian:', 'mailto:', 'tel:', 'app:', 'capacitor:'];\n\n    try {\n      // URL constructor might fail for some internal links or malformed data URIs\n      const parsed = new URL(value);\n      if (safeProtocols.includes(parsed.protocol)) {\n        return value;\n      }\n    } catch (e) {\n      // Handle relative paths or Obsidian internal links that URL() can't parse\n      if (value.startsWith('#') || value.startsWith('/') || !value.includes(':')) return value;\n    }\n    return '#'; // Block javascript: and other dangerous protocols\n  }\n\n  sanitizeHtml(html) {\n    // 1. Remove dangerous tags and their content\n    let sanitized = html.replace(/<(script|iframe|object|embed|form|input|button|style)[^>]*>[\\s\\S]*?<\\/\\1>/gi, '');\n    // 2. Remove self-closing dangerous tags\n    sanitized = sanitized.replace(/<(script|iframe|object|embed|form|input|button|style)[^>]*\\/?>/gi, '');\n    // 3. Remove document wrapper tags/comments that may appear when users paste browser fragments.\n    sanitized = sanitized.replace(/<!--[\\s\\S]*?-->/g, '');\n    sanitized = sanitized.replace(/<\\/?(?:html|body|head|meta|title|link)[^>]*>/gi, '');\n    // 4. Remove all on* event handlers (e.g., onerror, onclick)\n    sanitized = sanitized.replace(/\\s+on\\w+\\s*=\\s*\"[^\"]*\"/gi, '');\n    sanitized = sanitized.replace(/\\s+on\\w+\\s*=\\s*'[^']*'/gi, '');\n    sanitized = sanitized.replace(/\\s+on\\w+\\s*=\\s*[^\\s>]+/gi, '');\n\n    // 5. Sanitize href and src in remaining HTML tags to prevent protocol bypass (e.g. <a href=\"javascript:...\")\n    sanitized = sanitized.replace(/<(a|img|source|video|audio|area)\\b([^>]*)>/gi, (match, tag, attrs) => {\n      const isImageTag = /^(img|source)$/i.test(tag);\n      let newAttrs = attrs.replace(/\\b(href|src)\\s*=\\s*(?:\"([^\"]*)\"|'([^']*)'|([^\\s>]+))/gi, (attrMatch, attrName, qVal, sqVal, uVal) => {\n        const val = qVal || sqVal || uVal || '';\n        const safeVal = this.validateLink(val, isImageTag);\n        const quote = qVal !== undefined ? '\"' : (sqVal !== undefined ? \"'\" : '\"');\n        return `${attrName}=${quote}${safeVal}${quote}`;\n      });\n      return `<${tag}${newAttrs}>`;\n    });\n\n    return sanitized;\n  }\n\n  escapeHtml(text) {\n    return text.replace(/[&<>\"']/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '\"': '&quot;', \"'\": '&#039;' }[m]));\n  }\n\n  extractFileName(src) {\n    if (!src) return '\u56FE\u7247';\n    return src.split('/').pop().split('\\\\').pop().replace(/\\.(jpg|jpeg|png|gif|webp|svg|bmp)$/i, '') || '\u56FE\u7247';\n  }\n}\n\nwindow.AppleStyleConverter = AppleStyleConverter;\n"
       }
     };
@@ -1698,6 +1698,42 @@ var require_obsidian_triplet_serializer = __commonJS({
         callout.replaceWith(...replacementNodes);
       }
     }
+    function getObsidianCalloutParts(callout) {
+      const typeRaw = callout.getAttribute("data-callout") || callout.getAttribute("data-callout-type") || "";
+      const type = String(typeRaw || "").trim().toLowerCase();
+      const titleEl = callout.querySelector(":scope > .callout-title .callout-title-inner") || callout.querySelector(":scope > .callout-title-inner") || callout.querySelector(":scope > .callout-title");
+      const titleText = String((titleEl == null ? void 0 : titleEl.textContent) || "").trim();
+      const contentEl = callout.querySelector(":scope > .callout-content") || callout.querySelector(":scope > .callout-body");
+      return { type, titleText, contentEl };
+    }
+    function convertObsidianImageSwipeCallouts(container) {
+      if (!container)
+        return;
+      const callouts = Array.from(
+        container.querySelectorAll("div.callout,aside.callout,blockquote.callout,section.callout")
+      );
+      for (const callout of callouts) {
+        if (!callout || !callout.parentNode)
+          continue;
+        const { type, titleText, contentEl } = getObsidianCalloutParts(callout);
+        if (type !== "image-swipe" && type !== "image-sensitive")
+          continue;
+        const sourceEl = contentEl || callout;
+        const imgs = Array.from(sourceEl.querySelectorAll("img"));
+        if (!imgs.length)
+          continue;
+        const block = document.createElement("section");
+        block.setAttribute("data-owc-image-swipe", "1");
+        block.setAttribute("data-owc-image-swipe-type", type);
+        if (type === "image-sensitive") {
+          block.setAttribute("data-owc-image-swipe-warning", encodeURIComponent(titleText || IMAGE_SWIPE_DEFAULT_WARNING));
+        } else {
+          block.setAttribute("data-owc-image-swipe-hint", encodeURIComponent(titleText || IMAGE_SWIPE_DEFAULT_HINT));
+        }
+        imgs.forEach((img) => block.appendChild(img));
+        callout.replaceWith(block);
+      }
+    }
     function sanitizeClassList(el, tagName, finalStage = false) {
       const className = el.getAttribute("class");
       if (!className)
@@ -1799,7 +1835,7 @@ var require_obsidian_triplet_serializer = __commonJS({
         if (tagName === "a")
           return /* @__PURE__ */ new Set(["href", "style"]);
         if (tagName === "img")
-          return /* @__PURE__ */ new Set(["src", "alt", "style", "width", "height", "class"]);
+          return /* @__PURE__ */ new Set(["src", "alt", "style", "width", "height", "class", "referrerpolicy"]);
         if (tagName === "section" && !finalStage) {
           return /* @__PURE__ */ new Set(["style", "class", "data-owc-image-swipe", "data-owc-image-swipe-type", "data-owc-image-swipe-warning", "data-owc-image-swipe-hint"]);
         }
@@ -2183,6 +2219,13 @@ var require_obsidian_triplet_serializer = __commonJS({
       }
       const rawAlt = img.getAttribute("alt") || "";
       const alt = buildLegacyParityImageAlt(img, rawAlt);
+      const widthHint = extractWidthHintFromText(alt);
+      if (widthHint && !img.getAttribute("width")) {
+        img.setAttribute("width", widthHint);
+      }
+      if (/^(?:https?:)?\/\//i.test(src)) {
+        img.setAttribute("referrerpolicy", "no-referrer");
+      }
       img.setAttribute("src", src);
       img.setAttribute("alt", alt);
       return {
@@ -2834,6 +2877,7 @@ var require_obsidian_triplet_serializer = __commonJS({
       container.innerHTML = root ? root.innerHTML : "";
       materializeImageEmbedPlaceholders(container, converter);
       promoteImageEmbedAltHints(container);
+      convertObsidianImageSwipeCallouts(container);
       convertObsidianCalloutsToLegacy(container, converter);
       pruneObsidianOnlyAttributes(container, { finalStage: false });
       normalizeLegacyTagAliases(container);
@@ -3963,7 +4007,12 @@ ${normalized}`;
 // services/obsidian-triplet-renderer.js
 var require_obsidian_triplet_renderer = __commonJS({
   "services/obsidian-triplet-renderer.js"(exports2, module2) {
-    var { MarkdownRenderer } = require("obsidian");
+    var MarkdownRenderer = null;
+    try {
+      ({ MarkdownRenderer } = require("obsidian"));
+    } catch (error) {
+      MarkdownRenderer = null;
+    }
     var { serializeObsidianRenderedHtml } = require_obsidian_triplet_serializer();
     var { normalizeRenderedDomPunctuation } = require_chinese_punctuation();
     var {
@@ -4146,6 +4195,37 @@ var require_obsidian_triplet_renderer = __commonJS({
         if (fenceState || inMathFence)
           continue;
         lines[i] = neutralizeLineOutsideInlineCode(line);
+      }
+      return lines.join("\n");
+    }
+    function normalizeWechatUnsafeTaskListMarkers(markdown) {
+      const source = String(markdown || "");
+      if (!source)
+        return source;
+      const lines = source.split("\n");
+      let fenceState = null;
+      let inMathFence = false;
+      for (let i = 0; i < lines.length; i += 1) {
+        const line = lines[i];
+        const fenceDelimiter = parseFencedBlockDelimiter(line);
+        if (fenceDelimiter) {
+          if (!fenceState) {
+            fenceState = fenceDelimiter;
+          } else if (fenceDelimiter.marker === fenceState.marker && fenceDelimiter.length >= fenceState.length) {
+            fenceState = null;
+          }
+          continue;
+        }
+        if (!fenceState && isMathFenceDelimiter(line)) {
+          inMathFence = !inMathFence;
+          continue;
+        }
+        if (fenceState || inMathFence)
+          continue;
+        lines[i] = line.replace(
+          /^(\s*)([-*+])\s+\[([ xX])\]\s+/,
+          (_match, indent, marker, state) => `${indent}${marker} ${String(state || "").trim().toLowerCase() === "x" ? "\u2611" : "\u25A1"} `
+        );
       }
       return lines.join("\n");
     }
@@ -4721,8 +4801,39 @@ var require_obsidian_triplet_renderer = __commonJS({
       const titledMatch = value.match(/^(.+?)\s+(['"]).*\2\s*$/);
       return (titledMatch ? titledMatch[1] : value).trim();
     }
+    function parseImageSwipeBareRemoteUrlLine(value) {
+      const match = String(value || "").trim().match(/^<?((?:https?:)?\/\/[^\s<>]+)>?$/i);
+      if (!match)
+        return null;
+      return {
+        src: encodeURI(match[1]),
+        alt: ""
+      };
+    }
+    function isImageSwipeRemoteSrc(src) {
+      return /^(?:https?:)?\/\//i.test(String(src || "").trim());
+    }
+    function extractImageSwipeWidthHint(alt) {
+      const match = String(alt || "").match(/\|\s*(\d{2,4})(?:x\d+)?\s*$/i);
+      return match ? match[1] : "";
+    }
+    function renderImageSwipeImgTag(image) {
+      const attrs = [
+        `src="${escapeImageSwipeHtmlAttr(image.src)}"`,
+        `alt="${escapeImageSwipeHtmlAttr(image.alt)}"`
+      ];
+      const width = extractImageSwipeWidthHint(image.alt);
+      if (width)
+        attrs.push(`width="${width}"`);
+      if (isImageSwipeRemoteSrc(image.src))
+        attrs.push('referrerpolicy="no-referrer"');
+      return `<img ${attrs.join(" ")}>`;
+    }
     function parseImageSwipeMarkdownLine(line) {
       const value = String(line || "").trim();
+      const bareRemoteImage = parseImageSwipeBareRemoteUrlLine(value);
+      if (bareRemoteImage)
+        return bareRemoteImage;
       const wikiMatch = value.match(/^!\[\[([^\]|]+)(?:\|([^\]]+))?]]$/);
       if (wikiMatch) {
         return {
@@ -4832,6 +4943,18 @@ var require_obsidian_triplet_renderer = __commonJS({
       }
       return images;
     }
+    function hasRemoteImageSwipeImage(blockLines) {
+      return collectImageSwipeImages(blockLines).some((image) => isImageSwipeRemoteSrc(image.src));
+    }
+    function normalizeBareRemoteImageSwipeQuoteLine(line) {
+      const match = String(line || "").match(/^(\s{0,3}>\s?)([\s\S]*)$/);
+      if (!match)
+        return line;
+      const image = parseImageSwipeBareRemoteUrlLine(match[2]);
+      if (!image)
+        return line;
+      return `${match[1]}![](${image.src})`;
+    }
     function renderImageSwipeHtmlBlock(type, blockLines, optionText) {
       const images = collectImageSwipeImages(blockLines);
       if (!images.length)
@@ -4847,7 +4970,7 @@ var require_obsidian_triplet_renderer = __commonJS({
       }
       return [
         `<section ${attrs.join(" ")}>`,
-        ...images.map((image) => `<img src="${escapeImageSwipeHtmlAttr(image.src)}" alt="${escapeImageSwipeHtmlAttr(image.alt)}">`),
+        ...images.map((image) => renderImageSwipeImgTag(image)),
         "</section>"
       ];
     }
@@ -4908,6 +5031,10 @@ var require_obsidian_triplet_renderer = __commonJS({
           blockLines.push(stripSingleQuotePrefix(lines[i]));
           i += 1;
         }
+        if (hasRemoteImageSwipeImage(blockLines)) {
+          output.push(...originalLines.map((line, index) => index === 0 ? line : normalizeBareRemoteImageSwipeQuoteLine(line)));
+          continue;
+        }
         const rendered = renderImageSwipeHtmlBlock(callout.type, blockLines, callout.optionText);
         if (rendered) {
           output.push(...rendered);
@@ -4930,6 +5057,7 @@ var require_obsidian_triplet_renderer = __commonJS({
       }
       const { markdown: mathProcessed, formulas: mathFormulas } = preRenderMathFormulas(output, converter);
       output = mathProcessed;
+      output = normalizeWechatUnsafeTaskListMarkers(output);
       output = escapePseudoHtmlTags(output);
       output = neutralizeUnsafeMarkdownLinks(output);
       output = neutralizePlainWikilinks(output);
@@ -5207,6 +5335,7 @@ var require_obsidian_triplet_renderer = __commonJS({
     module2.exports = {
       neutralizeUnsafeMarkdownLinks,
       neutralizePlainWikilinks,
+      normalizeWechatUnsafeTaskListMarkers,
       preprocessMarkdownForTriplet,
       injectHardBreaksForLegacyParity,
       normalizeRenderedDomPunctuation,
@@ -5236,10 +5365,45 @@ var require_native_renderer = __commonJS({
         return false;
       }
     }
+    function normalizeWechatUnsafeTaskListMarkersForNative(markdown) {
+      const source = String(markdown || "");
+      if (!source)
+        return source;
+      const lines = source.split("\n");
+      let fence = null;
+      let inMathFence = false;
+      for (let i = 0; i < lines.length; i += 1) {
+        const line = lines[i];
+        const trimmed = String(line || "").trim();
+        const fenceMatch = trimmed.match(/^(`{3,}|~{3,})/);
+        if (fenceMatch) {
+          const marker = fenceMatch[1][0];
+          const length = fenceMatch[1].length;
+          if (!fence) {
+            fence = { marker, length };
+          } else if (marker === fence.marker && length >= fence.length) {
+            fence = null;
+          }
+          continue;
+        }
+        if (!fence && /^\$\$\s*$/.test(trimmed)) {
+          inMathFence = !inMathFence;
+          continue;
+        }
+        if (fence || inMathFence)
+          continue;
+        lines[i] = line.replace(
+          /^(\s*)([-*+])\s+\[([ xX])\]\s+/,
+          (_match, indent, marker, state) => `${indent}${marker} ${String(state || "").trim().toLowerCase() === "x" ? "\u2611" : "\u25A1"} `
+        );
+      }
+      return lines.join("\n");
+    }
     function preprocessMarkdownForNative(markdown) {
       if (typeof markdown !== "string" || markdown.length === 0)
         return "";
       let output = markdown;
+      output = normalizeWechatUnsafeTaskListMarkersForNative(output);
       output = output.replace(/<(script|iframe|object|embed|form|input|button|style)\b[^>]*>[\s\S]*?<\/\1>/gi, "\n");
       output = output.replace(/<(script|iframe|object|embed|form|input|button|style)\b[^>]*\/?>/gi, "\n");
       output = output.replace(/<img\b[^>]*>/gi, (tag) => {
@@ -5318,6 +5482,7 @@ var require_native_renderer = __commonJS({
     module2.exports = {
       canUseNativePreviewFastPath: canUseNativePreviewFastPath2,
       isSafeRawImageSrc,
+      normalizeWechatUnsafeTaskListMarkersForNative,
       preprocessMarkdownForNative,
       cleanupNativeRenderedHtml,
       renderNativeMarkdown: renderNativeMarkdown2
@@ -6370,7 +6535,7 @@ var require_generated_skills = __commonJS({
             ],
             "description": "\u6700\u63A5\u8FD1\u666E\u901A\u9884\u89C8\uFF0C\u6B63\u6587\u5C3D\u91CF\u8FDE\u7EED\u6D41\u52A8\uFF0C\u53EA\u505A\u8F7B\u91CF\u7ED3\u6784\u589E\u5F3A\u3002"
           },
-          "prompt": "\u4F60\u6B63\u5728\u751F\u6210\u201C\u539F\u6587\u589E\u5F3A\u578B\u201D\u516C\u4F17\u53F7\u6392\u7248\u3002\n\n\u76EE\u6807\uFF1A\n- AI \u53EA\u505A\u8F7B\u91CF\u7ED3\u6784\u589E\u5F3A\uFF0C\u4E0D\u6539\u5199\u4F5C\u8005\u89C2\u70B9\u3002\n- \u6B63\u6587\u4E3B\u4F53\u4F18\u5148\u4F7F\u7528 section-block\uFF0C\u901A\u8FC7 sectionIndex \u5F15\u7528\u539F\u6587\u7AE0\u8282\u3002\n- \u9664\u975E\u539F\u6587\u975E\u5E38\u9002\u5408\uFF0C\u5426\u5219\u4E0D\u8981\u4E3B\u52A8\u751F\u6210\u6559\u7A0B\u611F\u5F88\u5F3A\u7684 hero\u3001part-nav\u3001phone-frame\u3001cta-card\u3002\n- \u5982\u679C\u8981\u7ED9\u51FA lead-quote\uFF0C\u4F18\u5148\u6458\u53D6\u539F\u6587\u4E2D\u7684\u5BFC\u8BED\u3001\u89C2\u70B9\u53E5\u6216\u603B\u7ED3\u53E5\uFF0C\u4E0D\u8981\u91CD\u65B0\u5199\u4E00\u6BB5\u65B0\u6587\u6848\u3002\n- \u5982\u679C\u539F\u6587\u7AE0\u8282\u91CC\u5DF2\u7ECF\u6709 callout\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\uFF0C\u4F18\u5148\u4FDD\u7559\u5728\u5BF9\u5E94 section-block / subsection \u4E2D\uFF0C\u4E0D\u8981\u538B\u5E73\u6210\u666E\u901A\u6BB5\u843D\u3002\n\n\u98CE\u683C\u539F\u5219\uFF1A\n- \u66F4\u50CF\u201C\u666E\u901A\u9884\u89C8\u7684\u5347\u7EA7\u7248\u201D\uFF0C\u4E0D\u662F\u6559\u7A0B\u6A21\u677F\u3002\n- \u4FDD\u7559\u539F\u6587\u8282\u594F\u548C\u7AE0\u8282\u987A\u5E8F\u3002\n- \u5141\u8BB8\u8F7B\u5FAE\u5BFC\u8BED\u589E\u5F3A\u548C\u56FE\u7247\u4E0A\u63D0\uFF0C\u4F46\u4E0D\u80FD\u727A\u7272\u6B63\u6587\u5B8C\u6574\u6027\u3002",
+          "prompt": "\u4F60\u6B63\u5728\u751F\u6210\u201C\u539F\u6587\u589E\u5F3A\u578B\u201D\u516C\u4F17\u53F7\u6392\u7248\u3002\n\n\u76EE\u6807\uFF1A\n- AI \u53EA\u505A\u8F7B\u91CF\u7ED3\u6784\u589E\u5F3A\uFF0C\u4E0D\u6539\u5199\u4F5C\u8005\u89C2\u70B9\u3002\n- \u6B63\u6587\u4E3B\u4F53\u4F18\u5148\u4F7F\u7528 section-block\uFF0C\u901A\u8FC7 sectionIndex \u5F15\u7528\u539F\u6587\u7AE0\u8282\u3002\n- \u9664\u975E\u539F\u6587\u975E\u5E38\u9002\u5408\uFF0C\u5426\u5219\u4E0D\u8981\u4E3B\u52A8\u751F\u6210\u6559\u7A0B\u611F\u5F88\u5F3A\u7684 hero\u3001part-nav\u3001phone-frame\u3001cta-card\u3002\n- \u5982\u679C\u8981\u7ED9\u51FA lead-quote\uFF0C\u4F18\u5148\u6458\u53D6\u539F\u6587\u4E2D\u7684\u5BFC\u8BED\u3001\u89C2\u70B9\u53E5\u6216\u603B\u7ED3\u53E5\uFF0C\u4E0D\u8981\u91CD\u65B0\u5199\u4E00\u6BB5\u65B0\u6587\u6848\u3002\n- \u5982\u679C\u539F\u6587\u7AE0\u8282\u91CC\u5DF2\u7ECF\u6709 callout\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\uFF0C\u4F18\u5148\u4FDD\u7559\u5728\u5BF9\u5E94 section-block / subsection \u4E2D\uFF0C\u4E0D\u8981\u538B\u5E73\u6210\u666E\u901A\u6BB5\u843D\u3002\n\n\u516C\u4F17\u53F7\u517C\u5BB9\u89C4\u5219\uFF1A\n- \u4E0D\u8981\u5728\u4EFB\u4F55\u53EF\u89C1\u6587\u672C\u5B57\u6BB5\u91CC\u8F93\u51FA\u88F8 Markdown \u6E90\u7801\uFF0C\u4F8B\u5982 `- [ ]`\u3001`- [x]`\u3001`## \u6807\u9898`\u3001\u8868\u683C\u5206\u9694\u7B26 `|---|`\u3001\u4EE3\u7801\u56F4\u680F ```\u3002\n- \u539F\u6587\u4E2D\u7684\u4EFB\u52A1\u6E05\u5355\u5FC5\u987B\u8F6C\u6362\u4E3A\u516C\u4F17\u53F7\u53EF\u8BFB\u6587\u672C\uFF1A\u672A\u5B8C\u6210\u9879\u7528 `\u25A1 \u4E8B\u9879`\uFF0C\u5B8C\u6210\u9879\u7528 `\u2611 \u4E8B\u9879`\uFF1B\u4E0D\u8981\u4FDD\u7559 `[ ]` \u6216 `[x]`\u3002\n- \u5982\u679C\u6E05\u5355\u9879\u5F88\u957F\uFF0C\u4F18\u5148\u62C6\u6210\u201C\u4E3B\u9879 + \u8BF4\u660E\u201D\u4E24\u884C\uFF0C\u6216\u653E\u8FDB bulletGroups / paragraphs\uFF0C\u907F\u514D\u957F\u62EC\u53F7\u5BFC\u81F4\u624B\u673A\u7AEF\u7F29\u8FDB\u4E0D\u9F50\u3002\n- \u8868\u683C\u5185\u5BB9\u9700\u8981\u4E48\u4FDD\u7559\u4E3A\u63D2\u4EF6\u53EF\u6E32\u67D3\u7684\u539F\u8868\u683C\u7ED3\u6784\uFF0C\u8981\u4E48\u6539\u5199\u4E3A\u6E05\u6670\u7684\u5206\u7EC4\u6E05\u5355\uFF1B\u4E0D\u8981\u628A Markdown \u8868\u683C\u6E90\u7801\u5F53\u666E\u901A\u6587\u5B57\u8F93\u51FA\u3002\n\n\u98CE\u683C\u539F\u5219\uFF1A\n- \u66F4\u50CF\u201C\u666E\u901A\u9884\u89C8\u7684\u5347\u7EA7\u7248\u201D\uFF0C\u4E0D\u662F\u6559\u7A0B\u6A21\u677F\u3002\n- \u4FDD\u7559\u539F\u6587\u8282\u594F\u548C\u7AE0\u8282\u987A\u5E8F\u3002\n- \u5141\u8BB8\u8F7B\u5FAE\u5BFC\u8BED\u589E\u5F3A\u548C\u56FE\u7247\u4E0A\u63D0\uFF0C\u4F46\u4E0D\u80FD\u727A\u7272\u6B63\u6587\u5B8C\u6574\u6027\u3002",
           "blocks": {
             "preferredIntroBlocks": [
               "lead-quote"
@@ -6404,7 +6569,7 @@ var require_generated_skills = __commonJS({
             "remainingImageStrategy": "sections-first",
             "maxSectionBlocks": 6
           },
-          "skillDoc": "---\nname: source-first-layout\ndescription: \u539F\u6587\u589E\u5F3A\u578B skill\u3002\u5F3A\u8C03\u6B63\u6587\u4FDD\u771F\u3001\u8F7B\u91CF\u7ED3\u6784\u589E\u5F3A\u3001AI \u5931\u8D25\u65F6\u672C\u5730\u515C\u5E95\u3002\n---\n\n# Source-First Layout Skill\n\n\u8FD9\u4E2A skill \u7528\u4E8E\u628A\u6587\u7AE0\u6392\u6210\u201C\u6700\u63A5\u8FD1\u666E\u901A\u9884\u89C8\u201D\u7684\u516C\u4F17\u53F7\u7248\u5F0F\u3002\n\n## Guardrails\n\n- \u4F18\u5148\u4F7F\u7528 `section-block`\n- \u4E0D\u91CD\u5199\u6B63\u6587\n- \u4E0D\u9ED8\u8BA4\u8FFD\u52A0 CTA\n- \u4E0D\u9ED8\u8BA4\u52A0\u5165\u6559\u7A0B\u5F0F\u5BFC\u822A\n- \u56FE\u7247\u53EA\u505A\u8F7B\u5EA6\u4E0A\u63D0\uFF0C\u4E0D\u5F3A\u884C\u624B\u673A\u58F3\n- \u539F\u6587\u91CC\u7684 `callout`\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\u5E94\u5C3D\u91CF\u4FDD\u7559\u5728\u5BF9\u5E94\u7684 `section-block / subsection` \u4E2D\uFF0C\u4E0D\u8981\u538B\u5E73\u6210\u666E\u901A\u6BB5\u843D",
+          "skillDoc": "---\nname: source-first-layout\ndescription: \u539F\u6587\u589E\u5F3A\u578B skill\u3002\u5F3A\u8C03\u6B63\u6587\u4FDD\u771F\u3001\u8F7B\u91CF\u7ED3\u6784\u589E\u5F3A\u3001AI \u5931\u8D25\u65F6\u672C\u5730\u515C\u5E95\u3002\n---\n\n# Source-First Layout Skill\n\n\u8FD9\u4E2A skill \u7528\u4E8E\u628A\u6587\u7AE0\u6392\u6210\u201C\u6700\u63A5\u8FD1\u666E\u901A\u9884\u89C8\u201D\u7684\u516C\u4F17\u53F7\u7248\u5F0F\u3002\n\n## Guardrails\n\n- \u4F18\u5148\u4F7F\u7528 `section-block`\n- \u4E0D\u91CD\u5199\u6B63\u6587\n- \u4E0D\u9ED8\u8BA4\u8FFD\u52A0 CTA\n- \u4E0D\u9ED8\u8BA4\u52A0\u5165\u6559\u7A0B\u5F0F\u5BFC\u822A\n- \u56FE\u7247\u53EA\u505A\u8F7B\u5EA6\u4E0A\u63D0\uFF0C\u4E0D\u5F3A\u884C\u624B\u673A\u58F3\n- \u539F\u6587\u91CC\u7684 `callout`\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\u5E94\u5C3D\u91CF\u4FDD\u7559\u5728\u5BF9\u5E94\u7684 `section-block / subsection` \u4E2D\uFF0C\u4E0D\u8981\u538B\u5E73\u6210\u666E\u901A\u6BB5\u843D\n- \u516C\u4F17\u53F7\u53EF\u89C1\u6587\u672C\u91CC\u4E0D\u80FD\u51FA\u73B0\u88F8 Markdown \u6E90\u7801\uFF1B\u4EFB\u52A1\u6E05\u5355 `- [ ]` / `- [x]` \u5FC5\u987B\u6539\u4E3A `\u25A1` / `\u2611` \u6587\u672C\uFF0C\u6216\u62C6\u6210\u66F4\u7A33\u7684\u5206\u7EC4\u6E05\u5355",
           "examples": [
             {
               "name": "article.json",
@@ -6475,7 +6640,7 @@ var require_generated_skills = __commonJS({
             ],
             "description": "\u66F4\u5F3A\u8C03\u7AE0\u8282\u7F16\u53F7\u3001\u4FE1\u606F\u5361\u4E0E\u622A\u56FE\u5C55\u793A\uFF0C\u9002\u5408\u6559\u7A0B\u3001\u6E05\u5355\u548C\u6848\u4F8B\u62C6\u89E3\u3002"
           },
-          "prompt": "\u4F60\u6B63\u5728\u751F\u6210\u201C\u6559\u7A0B\u5361\u7247\u578B\u201D\u516C\u4F17\u53F7\u6392\u7248\u3002\n\n\u76EE\u6807\uFF1A\n- \u5F3A\u5316\u7ED3\u6784\u611F\u3001\u6B65\u9AA4\u611F\u3001\u6848\u4F8B\u611F\u3002\n- \u53EF\u4EE5\u79EF\u6781\u4F7F\u7528 hero\u3001part-nav\u3001lead-quote\u3001case-block\u3002\n- section-block \u4ECD\u7136\u4F18\u5148\u627F\u8F7D\u6B63\u6587\uFF0C\u4F46\u6574\u4F53\u9700\u8981\u66F4\u50CF\u201C\u6559\u7A0B\u7CBE\u4FEE\u7A3F\u201D\u3002\n- \u5982\u679C\u6709\u622A\u56FE\u6216\u754C\u9762\u56FE\uFF0C\u4F18\u5148\u8003\u8651 hero \u5C01\u9762\u548C phone-frame\u3002\n- \u5373\u4F7F\u7ED3\u6784\u66F4\u5F3A\u5316\uFF0C\u4E5F\u8981\u5C3D\u91CF\u4FDD\u7559\u539F\u6587\u7AE0\u8282\u4E2D\u7684 callout\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\uFF0C\u4E0D\u8981\u4E3A\u4E86\u5361\u7247\u5316\u800C\u628A\u5B83\u4EEC\u538B\u5E73\u3002\n\n\u98CE\u683C\u539F\u5219\uFF1A\n- \u7528\u6237\u5E94\u8BE5\u4E00\u773C\u770B\u51FA\u8FD9\u662F\u4E00\u7BC7\u6559\u7A0B\u6216\u6848\u4F8B\u62C6\u89E3\u3002\n- \u53EF\u4EE5\u589E\u52A0\u7ED3\u6784\u6027\u5757\uFF0C\u4F46\u4E0D\u8981\u9057\u6F0F\u540E\u534A\u6BB5\u5185\u5BB9\u3002\n- \u4F18\u5148\u505A\u201C\u5C01\u9762\u6982\u89C8 -> \u5BFC\u8BED\u6458\u8981 -> \u5206\u7AE0\u8282\u6B63\u6587 -> \u53EF\u9009\u622A\u56FE\u5757\u201D\u3002",
+          "prompt": "\u4F60\u6B63\u5728\u751F\u6210\u201C\u6559\u7A0B\u5361\u7247\u578B\u201D\u516C\u4F17\u53F7\u6392\u7248\u3002\n\n\u76EE\u6807\uFF1A\n- \u5F3A\u5316\u7ED3\u6784\u611F\u3001\u6B65\u9AA4\u611F\u3001\u6848\u4F8B\u611F\u3002\n- \u53EF\u4EE5\u79EF\u6781\u4F7F\u7528 hero\u3001part-nav\u3001lead-quote\u3001case-block\u3002\n- section-block \u4ECD\u7136\u4F18\u5148\u627F\u8F7D\u6B63\u6587\uFF0C\u4F46\u6574\u4F53\u9700\u8981\u66F4\u50CF\u201C\u6559\u7A0B\u7CBE\u4FEE\u7A3F\u201D\u3002\n- \u5982\u679C\u6709\u622A\u56FE\u6216\u754C\u9762\u56FE\uFF0C\u4F18\u5148\u8003\u8651 hero \u5C01\u9762\u548C phone-frame\u3002\n- \u5373\u4F7F\u7ED3\u6784\u66F4\u5F3A\u5316\uFF0C\u4E5F\u8981\u5C3D\u91CF\u4FDD\u7559\u539F\u6587\u7AE0\u8282\u4E2D\u7684 callout\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\uFF0C\u4E0D\u8981\u4E3A\u4E86\u5361\u7247\u5316\u800C\u628A\u5B83\u4EEC\u538B\u5E73\u3002\n\n\u516C\u4F17\u53F7\u517C\u5BB9\u89C4\u5219\uFF1A\n- \u4E0D\u8981\u5728\u4EFB\u4F55\u53EF\u89C1\u6587\u672C\u5B57\u6BB5\u91CC\u8F93\u51FA\u88F8 Markdown \u6E90\u7801\uFF0C\u4F8B\u5982 `- [ ]`\u3001`- [x]`\u3001`## \u6807\u9898`\u3001\u8868\u683C\u5206\u9694\u7B26 `|---|`\u3001\u4EE3\u7801\u56F4\u680F ```\u3002\n- \u539F\u6587\u4E2D\u7684\u4EFB\u52A1\u6E05\u5355\u5FC5\u987B\u8F6C\u6362\u4E3A\u516C\u4F17\u53F7\u53EF\u8BFB\u6587\u672C\uFF1A\u672A\u5B8C\u6210\u9879\u7528 `\u25A1 \u4E8B\u9879`\uFF0C\u5B8C\u6210\u9879\u7528 `\u2611 \u4E8B\u9879`\uFF1B\u4E0D\u8981\u4FDD\u7559 `[ ]` \u6216 `[x]`\u3002\n- \u5BF9\u7269\u6599\u6E05\u5355\u3001\u6267\u884C\u6E05\u5355\u3001\u6B65\u9AA4\u6E05\u5355\uFF0C\u4F18\u5148\u62C6\u6210\u6559\u7A0B\u5361\u7247\u5F0F\u7684\u77ED\u9879\uFF1A\u6807\u9898\u4E00\u53E5\u3001\u8BF4\u660E\u4E00\u53E5\uFF1B\u907F\u514D\u201C\u5706\u70B9 + [ ] + \u957F\u62EC\u53F7\u201D\u8FD9\u79CD\u4F1A\u5728\u516C\u4F17\u53F7\u91CC\u9519\u4F4D\u7684\u6837\u5F0F\u3002\n- \u8868\u683C\u5185\u5BB9\u9700\u8981\u4E48\u4FDD\u7559\u4E3A\u63D2\u4EF6\u53EF\u6E32\u67D3\u7684\u539F\u8868\u683C\u7ED3\u6784\uFF0C\u8981\u4E48\u6539\u5199\u4E3A\u6E05\u6670\u7684\u5206\u7EC4\u6E05\u5355\uFF1B\u4E0D\u8981\u628A Markdown \u8868\u683C\u6E90\u7801\u5F53\u666E\u901A\u6587\u5B57\u8F93\u51FA\u3002\n\n\u98CE\u683C\u539F\u5219\uFF1A\n- \u7528\u6237\u5E94\u8BE5\u4E00\u773C\u770B\u51FA\u8FD9\u662F\u4E00\u7BC7\u6559\u7A0B\u6216\u6848\u4F8B\u62C6\u89E3\u3002\n- \u53EF\u4EE5\u589E\u52A0\u7ED3\u6784\u6027\u5757\uFF0C\u4F46\u4E0D\u8981\u9057\u6F0F\u540E\u534A\u6BB5\u5185\u5BB9\u3002\n- \u4F18\u5148\u505A\u201C\u5C01\u9762\u6982\u89C8 -> \u5BFC\u8BED\u6458\u8981 -> \u5206\u7AE0\u8282\u6B63\u6587 -> \u53EF\u9009\u622A\u56FE\u5757\u201D\u3002",
           "blocks": {
             "preferredIntroBlocks": [
               "hero",
@@ -6509,7 +6674,7 @@ var require_generated_skills = __commonJS({
             "remainingImageStrategy": "sections-first",
             "maxSectionBlocks": 8
           },
-          "skillDoc": "---\nname: tutorial-cards-layout\ndescription: \u6559\u7A0B\u5361\u7247\u578B skill\u3002\u5F3A\u8C03\u7AE0\u8282\u7F16\u53F7\u3001\u7ED3\u6784\u5316\u5361\u7247\u3001\u622A\u56FE\u5C55\u793A\u548C\u4FE1\u606F\u626B\u63CF\u6548\u7387\u3002\n---\n\n# Tutorial Cards Layout Skill\n\n\u8FD9\u4E2A skill \u7528\u4E8E\u628A\u6587\u7AE0\u6392\u6210\u201C\u6559\u7A0B\u7CBE\u4FEE\u7A3F\u201D\u7684\u6837\u5B50\u3002\n\n## Guardrails\n\n- \u53EF\u4EE5\u5F3A\u5316\u7ED3\u6784\uFF0C\u4E0D\u53EF\u4EE5\u4E22\u6B63\u6587\n- \u53EF\u4EE5\u7528 hero / part-nav / phone-frame\n- \u6B63\u6587\u4ECD\u4F18\u5148 section-block\n- CTA \u53EA\u80FD\u6309\u9700\u751F\u6210\uFF0C\u4E0D\u80FD\u9ED8\u8BA4\u52A0\n- `section-block` \u91CC\u7684\u7279\u6B8A\u5185\u5BB9\u8981\u5C3D\u91CF\u4FDD\u7559\uFF0C\u5305\u62EC `callout`\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\uFF1B\u53EF\u4EE5\u589E\u5F3A\u7ED3\u6784\uFF0C\u4F46\u4E0D\u8981\u628A\u8FD9\u4E9B\u5185\u5BB9\u538B\u5E73\u6210\u666E\u901A\u6BB5\u843D",
+          "skillDoc": "---\nname: tutorial-cards-layout\ndescription: \u6559\u7A0B\u5361\u7247\u578B skill\u3002\u5F3A\u8C03\u7AE0\u8282\u7F16\u53F7\u3001\u7ED3\u6784\u5316\u5361\u7247\u3001\u622A\u56FE\u5C55\u793A\u548C\u4FE1\u606F\u626B\u63CF\u6548\u7387\u3002\n---\n\n# Tutorial Cards Layout Skill\n\n\u8FD9\u4E2A skill \u7528\u4E8E\u628A\u6587\u7AE0\u6392\u6210\u201C\u6559\u7A0B\u7CBE\u4FEE\u7A3F\u201D\u7684\u6837\u5B50\u3002\n\n## Guardrails\n\n- \u53EF\u4EE5\u5F3A\u5316\u7ED3\u6784\uFF0C\u4E0D\u53EF\u4EE5\u4E22\u6B63\u6587\n- \u53EF\u4EE5\u7528 hero / part-nav / phone-frame\n- \u6B63\u6587\u4ECD\u4F18\u5148 section-block\n- CTA \u53EA\u80FD\u6309\u9700\u751F\u6210\uFF0C\u4E0D\u80FD\u9ED8\u8BA4\u52A0\n- `section-block` \u91CC\u7684\u7279\u6B8A\u5185\u5BB9\u8981\u5C3D\u91CF\u4FDD\u7559\uFF0C\u5305\u62EC `callout`\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\uFF1B\u53EF\u4EE5\u589E\u5F3A\u7ED3\u6784\uFF0C\u4F46\u4E0D\u8981\u628A\u8FD9\u4E9B\u5185\u5BB9\u538B\u5E73\u6210\u666E\u901A\u6BB5\u843D\n- \u516C\u4F17\u53F7\u53EF\u89C1\u6587\u672C\u91CC\u4E0D\u80FD\u51FA\u73B0\u88F8 Markdown \u6E90\u7801\uFF1B\u4EFB\u52A1\u6E05\u5355 `- [ ]` / `- [x]` \u5FC5\u987B\u6539\u4E3A `\u25A1` / `\u2611` \u6587\u672C\uFF0C\u957F\u6E05\u5355\u4F18\u5148\u62C6\u6210\u77ED\u9879\u5361\u7247\u6216\u5206\u7EC4\u6E05\u5355",
           "examples": [
             {
               "name": "tutorial.json",
@@ -6610,7 +6775,7 @@ var require_generated_skills = __commonJS({
             ],
             "description": "\u504F\u7F16\u8F91\u611F\u7684\u7559\u767D\u4E0E\u56FE\u6587\u8282\u594F\uFF0C\u9002\u5408\u89C2\u70B9\u3001\u7ECF\u9A8C\u4E0E\u54C1\u724C\u8868\u8FBE\u7C7B\u5185\u5BB9\u3002"
           },
-          "prompt": "\u4F60\u6B63\u5728\u751F\u6210\u201C\u8F7B\u6742\u5FD7\u578B\u201D\u516C\u4F17\u53F7\u6392\u7248\u3002\n\n\u76EE\u6807\uFF1A\n- \u8BA9\u6587\u7AE0\u66F4\u50CF\u7F16\u8F91\u6392\u7248\u8FC7\u7684\u5185\u5BB9\u7A3F\uFF0C\u800C\u4E0D\u662F\u6559\u7A0B\u6A21\u677F\u3002\n- \u4F18\u5148\u4F53\u73B0\u6807\u9898\u6C14\u8D28\u3001\u5BFC\u8BED\u8282\u594F\u3001\u7559\u767D\u548C\u56FE\u6587\u547C\u5438\u611F\u3002\n- \u5F31\u5316\u6559\u7A0B\u5F0F\u5BFC\u822A\u548C\u624B\u673A\u6846\u3002\n- \u5982\u679C\u539F\u6587\u9002\u5408\uFF0C\u53EF\u7528\u5F3A lead-quote\u3001masthead \u5F0F hero\u3001\u8F83\u8F7B\u7684\u7AE0\u8282\u8282\u594F\u3002\n- \u6B63\u6587\u533A\u5757\u4F9D\u7136\u8981\u4FDD\u771F\uFF0C\u539F\u6587\u91CC\u7684 callout\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\u5E94\u4F18\u5148\u4FDD\u7559\u5728\u5BF9\u5E94 section-block / subsection \u4E2D\u3002\n\n\u98CE\u683C\u539F\u5219\uFF1A\n- \u66F4\u5C11\u6559\u7A0B\u611F\uFF0C\u66F4\u5F3A editorial \u611F\u3002\n- \u4E0D\u8981\u628A\u6BCF\u4E00\u6BB5\u90FD\u5361\u7247\u5316\u3002\n- \u5141\u8BB8\u56FE\u6587\u7A7F\u63D2\uFF0C\u4F46\u4E0D\u727A\u7272\u6B63\u6587\u5B8C\u6574\u6027\u3002",
+          "prompt": "\u4F60\u6B63\u5728\u751F\u6210\u201C\u8F7B\u6742\u5FD7\u578B\u201D\u516C\u4F17\u53F7\u6392\u7248\u3002\n\n\u76EE\u6807\uFF1A\n- \u8BA9\u6587\u7AE0\u66F4\u50CF\u7F16\u8F91\u6392\u7248\u8FC7\u7684\u5185\u5BB9\u7A3F\uFF0C\u800C\u4E0D\u662F\u6559\u7A0B\u6A21\u677F\u3002\n- \u4F18\u5148\u4F53\u73B0\u6807\u9898\u6C14\u8D28\u3001\u5BFC\u8BED\u8282\u594F\u3001\u7559\u767D\u548C\u56FE\u6587\u547C\u5438\u611F\u3002\n- \u5F31\u5316\u6559\u7A0B\u5F0F\u5BFC\u822A\u548C\u624B\u673A\u6846\u3002\n- \u5982\u679C\u539F\u6587\u9002\u5408\uFF0C\u53EF\u7528\u5F3A lead-quote\u3001masthead \u5F0F hero\u3001\u8F83\u8F7B\u7684\u7AE0\u8282\u8282\u594F\u3002\n- \u6B63\u6587\u533A\u5757\u4F9D\u7136\u8981\u4FDD\u771F\uFF0C\u539F\u6587\u91CC\u7684 callout\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\u5E94\u4F18\u5148\u4FDD\u7559\u5728\u5BF9\u5E94 section-block / subsection \u4E2D\u3002\n\n\u516C\u4F17\u53F7\u517C\u5BB9\u89C4\u5219\uFF1A\n- \u4E0D\u8981\u5728\u4EFB\u4F55\u53EF\u89C1\u6587\u672C\u5B57\u6BB5\u91CC\u8F93\u51FA\u88F8 Markdown \u6E90\u7801\uFF0C\u4F8B\u5982 `- [ ]`\u3001`- [x]`\u3001`## \u6807\u9898`\u3001\u8868\u683C\u5206\u9694\u7B26 `|---|`\u3001\u4EE3\u7801\u56F4\u680F ```\u3002\n- \u539F\u6587\u4E2D\u7684\u4EFB\u52A1\u6E05\u5355\u5FC5\u987B\u8F6C\u6362\u4E3A\u516C\u4F17\u53F7\u53EF\u8BFB\u6587\u672C\uFF1A\u672A\u5B8C\u6210\u9879\u7528 `\u25A1 \u4E8B\u9879`\uFF0C\u5B8C\u6210\u9879\u7528 `\u2611 \u4E8B\u9879`\uFF1B\u4E0D\u8981\u4FDD\u7559 `[ ]` \u6216 `[x]`\u3002\n- \u6E05\u5355\u9879\u5F88\u957F\u65F6\uFF0C\u62C6\u6210\u66F4\u9002\u5408\u624B\u673A\u9605\u8BFB\u7684\u77ED\u6BB5\u843D\uFF0C\u4E0D\u8981\u4FDD\u7559\u957F\u62EC\u53F7\u9020\u6210\u7684\u8FDE\u7EED\u6362\u884C\u548C\u7F29\u8FDB\u9519\u4F4D\u3002\n- \u8868\u683C\u5185\u5BB9\u9700\u8981\u4E48\u4FDD\u7559\u4E3A\u63D2\u4EF6\u53EF\u6E32\u67D3\u7684\u539F\u8868\u683C\u7ED3\u6784\uFF0C\u8981\u4E48\u6539\u5199\u4E3A\u6E05\u6670\u7684\u5206\u7EC4\u6E05\u5355\uFF1B\u4E0D\u8981\u628A Markdown \u8868\u683C\u6E90\u7801\u5F53\u666E\u901A\u6587\u5B57\u8F93\u51FA\u3002\n\n\u98CE\u683C\u539F\u5219\uFF1A\n- \u66F4\u5C11\u6559\u7A0B\u611F\uFF0C\u66F4\u5F3A editorial \u611F\u3002\n- \u4E0D\u8981\u628A\u6BCF\u4E00\u6BB5\u90FD\u5361\u7247\u5316\u3002\n- \u5141\u8BB8\u56FE\u6587\u7A7F\u63D2\uFF0C\u4F46\u4E0D\u727A\u7272\u6B63\u6587\u5B8C\u6574\u6027\u3002",
           "blocks": {
             "preferredIntroBlocks": [
               "hero",
@@ -6643,7 +6808,7 @@ var require_generated_skills = __commonJS({
             "remainingImageStrategy": "sections-first",
             "maxSectionBlocks": 5
           },
-          "skillDoc": "---\nname: editorial-lite-layout\ndescription: \u8F7B\u6742\u5FD7\u578B skill\u3002\u5F3A\u8C03\u5BFC\u8BED\u3001\u7559\u767D\u3001\u7F16\u8F91\u611F\u8282\u594F\u548C\u66F4\u514B\u5236\u7684\u56FE\u6587\u5173\u7CFB\u3002\n---\n\n# Editorial Lite Layout Skill\n\n\u8FD9\u4E2A skill \u7528\u4E8E\u628A\u6587\u7AE0\u6392\u6210\u201C\u8F7B\u6742\u5FD7\u578B\u201D\u7684\u5185\u5BB9\u7A3F\u3002\n\n## Guardrails\n\n- \u5F3A\u8C03\u8282\u594F\u548C\u7559\u767D\uFF0C\u4E0D\u8981\u6BCF\u6BB5\u90FD\u5361\u7247\u5316\n- \u4E0D\u9ED8\u8BA4\u6559\u7A0B\u5BFC\u822A\n- \u4E0D\u9ED8\u8BA4\u624B\u673A\u58F3\n- lead-quote \u53EF\u4EE5\u66F4\u5F3A\uFF0C\u4F46\u4E0D\u80FD\u6539\u5199\u89C2\u70B9\n- `section-block` \u4F9D\u7136\u8981\u627F\u62C5\u6B63\u6587\u4FDD\u771F\u804C\u8D23\uFF1B\u539F\u6587\u91CC\u7684 `callout`\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\u5E94\u5C3D\u91CF\u4FDD\u7559\uFF0C\u4E0D\u8981\u4E3A\u4E86 editorial \u8282\u594F\u628A\u5B83\u4EEC\u538B\u5E73\u6210\u666E\u901A\u6587\u5B57",
+          "skillDoc": "---\nname: editorial-lite-layout\ndescription: \u8F7B\u6742\u5FD7\u578B skill\u3002\u5F3A\u8C03\u5BFC\u8BED\u3001\u7559\u767D\u3001\u7F16\u8F91\u611F\u8282\u594F\u548C\u66F4\u514B\u5236\u7684\u56FE\u6587\u5173\u7CFB\u3002\n---\n\n# Editorial Lite Layout Skill\n\n\u8FD9\u4E2A skill \u7528\u4E8E\u628A\u6587\u7AE0\u6392\u6210\u201C\u8F7B\u6742\u5FD7\u578B\u201D\u7684\u5185\u5BB9\u7A3F\u3002\n\n## Guardrails\n\n- \u5F3A\u8C03\u8282\u594F\u548C\u7559\u767D\uFF0C\u4E0D\u8981\u6BCF\u6BB5\u90FD\u5361\u7247\u5316\n- \u4E0D\u9ED8\u8BA4\u6559\u7A0B\u5BFC\u822A\n- \u4E0D\u9ED8\u8BA4\u624B\u673A\u58F3\n- lead-quote \u53EF\u4EE5\u66F4\u5F3A\uFF0C\u4F46\u4E0D\u80FD\u6539\u5199\u89C2\u70B9\n- `section-block` \u4F9D\u7136\u8981\u627F\u62C5\u6B63\u6587\u4FDD\u771F\u804C\u8D23\uFF1B\u539F\u6587\u91CC\u7684 `callout`\u3001\u4EE3\u7801\u5757\u3001\u8868\u683C\u3001\u5D4C\u5957\u5217\u8868\u7B49\u7279\u6B8A\u7ED3\u6784\u5E94\u5C3D\u91CF\u4FDD\u7559\uFF0C\u4E0D\u8981\u4E3A\u4E86 editorial \u8282\u594F\u628A\u5B83\u4EEC\u538B\u5E73\u6210\u666E\u901A\u6587\u5B57\n- \u516C\u4F17\u53F7\u53EF\u89C1\u6587\u672C\u91CC\u4E0D\u80FD\u51FA\u73B0\u88F8 Markdown \u6E90\u7801\uFF1B\u4EFB\u52A1\u6E05\u5355 `- [ ]` / `- [x]` \u5FC5\u987B\u6539\u4E3A `\u25A1` / `\u2611` \u6587\u672C\uFF0C\u957F\u6E05\u5355\u8981\u62C6\u6210\u624B\u673A\u7AEF\u66F4\u7A33\u5B9A\u7684\u77ED\u6BB5\u843D",
           "examples": [
             {
               "name": "editorial.json",
@@ -6776,7 +6941,10 @@ var require_ai_layout_skill_bundle = __commonJS({
       "selection \u8868\u793A\u7528\u6237\u5F53\u524D\u9009\u62E9\uFF1Bresolved \u8868\u793A\u672C\u6B21\u6700\u7EC8\u91C7\u7528\u7684\u5E03\u5C40\u548C\u989C\u8272\u3002",
       "\u5982\u679C selection \u4E3A auto\uFF0C\u8BF7\u6839\u636E\u5185\u5BB9\u63A8\u8350 recommendedLayoutFamily \u548C recommendedColorPalette\uFF0C\u5E76\u5199\u5165 resolved\u3002",
       "\u5982\u679C selection \u5DF2\u6307\u5B9A\u5177\u4F53\u5E03\u5C40\u6216\u989C\u8272\uFF0Cresolved \u5FC5\u987B\u5C0A\u91CD\u8BE5\u9009\u62E9\u3002",
-      "AI \u7F16\u6392\u6700\u7EC8\u4F1A\u88AB\u6E32\u67D3\u4E3A\u5FAE\u4FE1\u5B89\u5168 HTML\uFF0C\u4E0D\u80FD\u4F9D\u8D56\u989D\u5916 style \u6807\u7B7E\u6216 class \u9009\u62E9\u5668\u3002"
+      "AI \u7F16\u6392\u6700\u7EC8\u4F1A\u88AB\u6E32\u67D3\u4E3A\u5FAE\u4FE1\u5B89\u5168 HTML\uFF0C\u4E0D\u80FD\u4F9D\u8D56\u989D\u5916 style \u6807\u7B7E\u6216 class \u9009\u62E9\u5668\u3002",
+      "\u516C\u4F17\u53F7\u53EF\u89C1\u6587\u672C\u91CC\u4E0D\u8981\u8F93\u51FA\u88F8 Markdown \u6E90\u7801\uFF0C\u4F8B\u5982 - [ ]\u3001- [x]\u3001## \u6807\u9898\u3001|---|\u3001\u4EE3\u7801\u56F4\u680F\u3002",
+      "\u539F\u6587\u4EFB\u52A1\u6E05\u5355\u5FC5\u987B\u8F6C\u6362\u6210\u516C\u4F17\u53F7\u5B89\u5168\u6587\u672C\uFF1A\u672A\u5B8C\u6210\u9879\u7528 \u25A1 \u4E8B\u9879\uFF0C\u5B8C\u6210\u9879\u7528 \u2611 \u4E8B\u9879\uFF1B\u4E0D\u8981\u4FDD\u7559 [ ] \u6216 [x]\u3002",
+      "\u957F\u6E05\u5355\u9879\u8981\u62C6\u6210\u4E3B\u9879\u548C\u8BF4\u660E\uFF0C\u6216\u653E\u5165 bulletGroups / paragraphs\uFF0C\u907F\u514D\u624B\u673A\u7AEF\u51FA\u73B0\u5706\u70B9 + [ ] + \u957F\u62EC\u53F7\u5BFC\u81F4\u7F29\u8FDB\u9519\u4F4D\u3002"
     ];
     function getAiLayoutBlockConstraintLines() {
       return AI_LAYOUT_ALLOWED_BLOCKS.map((block) => `- ${block.type}: ${block.fields.join(", ")}`);
@@ -7078,6 +7246,7 @@ var require_ai_layout = __commonJS({
     var MAX_CASE_BLOCK_BULLETS = 6;
     var MAX_CASE_BLOCK_IMAGE_IDS = 4;
     var ANTHROPIC_LAYOUT_MAX_TOKENS = 8192;
+    var DEFAULT_AI_REQUEST_TIMEOUT_MS = 12e4;
     var AI_LAYOUT_DEFAULT_FAMILY = "source-first";
     var AI_LAYOUT_DEFAULT_COLOR_PALETTE = "tech-green";
     var AI_LAYOUT_IMPLEMENTED_FAMILIES = new Set(AI_LAYOUT_FAMILIES);
@@ -7137,7 +7306,7 @@ var require_ai_layout = __commonJS({
         defaultColorPalette: AI_LAYOUT_SELECTION_AUTO2,
         customColor: "#7c3aed",
         includeImagesInLayout: true,
-        requestTimeoutMs: 45e3,
+        requestTimeoutMs: DEFAULT_AI_REQUEST_TIMEOUT_MS,
         providers: [],
         articleLayoutsByPath: {}
       };
@@ -7380,6 +7549,30 @@ var require_ai_layout = __commonJS({
         enabled: raw.enabled !== false
       };
     }
+    function isAllowedAiProviderBaseUrl(baseUrl) {
+      try {
+        const parsed = new URL(baseUrl);
+        if (parsed.protocol === "https:")
+          return true;
+        if (parsed.protocol !== "http:")
+          return false;
+        const hostname = parsed.hostname.toLowerCase();
+        if (hostname === "localhost" || hostname === "127.0.0.1" || hostname === "::1")
+          return true;
+        if (/^10\./.test(hostname))
+          return true;
+        if (/^192\.168\./.test(hostname))
+          return true;
+        const private172 = hostname.match(/^172\.(\d+)\./);
+        if (private172) {
+          const secondOctet = Number(private172[1]);
+          return secondOctet >= 16 && secondOctet <= 31;
+        }
+        return false;
+      } catch (e) {
+        return false;
+      }
+    }
     function getAiProviderIssues2(provider = {}) {
       const issues = [];
       const baseUrl = coerceString(provider.baseUrl);
@@ -7387,7 +7580,7 @@ var require_ai_layout = __commonJS({
       const model = coerceString(provider.model);
       if (!baseUrl) {
         issues.push("missing-base-url");
-      } else if (!/^https:\/\//i.test(baseUrl)) {
+      } else if (!isAllowedAiProviderBaseUrl(baseUrl)) {
         issues.push("invalid-base-url");
       }
       if (!apiKey)
@@ -7408,7 +7601,7 @@ var require_ai_layout = __commonJS({
         return "\u914D\u7F6E\u5B8C\u6574";
       const labels = {
         "missing-base-url": "\u7F3A\u5C11 Base URL",
-        "invalid-base-url": "Base URL \u5FC5\u987B\u662F HTTPS",
+        "invalid-base-url": "Base URL \u5FC5\u987B\u662F HTTPS\uFF0C\u6216\u6307\u5411\u672C\u673A/\u5C40\u57DF\u7F51\u7684 HTTP \u5730\u5740",
         "missing-api-key": "\u7F3A\u5C11 API Key",
         "missing-model": "\u7F3A\u5C11\u6A21\u578B\u540D",
         disabled: "\u5DF2\u505C\u7528"
@@ -9465,7 +9658,7 @@ ${String((message == null ? void 0 : message.content) || "").trim()}`;
         colorPalette: AI_LAYOUT_SELECTION_AUTO2
       },
       imageRefs = [],
-      timeoutMs = 45e3,
+      timeoutMs = DEFAULT_AI_REQUEST_TIMEOUT_MS,
       fetchImpl = globalThis.fetch
     }) {
       if (!markdown || !String(markdown).trim())
@@ -9591,8 +9784,14 @@ ${String((message == null ? void 0 : message.content) || "").trim()}`;
       });
       return !!((_b = (_a2 = result == null ? void 0 : result.layoutJson) == null ? void 0 : _a2.blocks) == null ? void 0 : _b.length);
     }
+    function normalizeWechatTaskMarkerText(text) {
+      return String(text || "").replace(
+        /(^|\n)(\s*)\[([ xX])\]\s+/g,
+        (_match, lineStart, indent, state) => `${lineStart}${indent}${String(state || "").trim().toLowerCase() === "x" ? "\u2611" : "\u25A1"} `
+      );
+    }
     function escapeHtml(text) {
-      return String(text || "").replace(/[&<>"']/g, (char) => ({
+      return normalizeWechatTaskMarkerText(text).replace(/[&<>"']/g, (char) => ({
         "&": "&amp;",
         "<": "&lt;",
         ">": "&gt;",
@@ -10047,6 +10246,7 @@ ${String((message == null ? void 0 : message.content) || "").trim()}`;
       createDefaultAiSettings: createDefaultAiSettings2,
       normalizeAiSettings: normalizeAiSettings2,
       normalizeAiProvider: normalizeAiProvider2,
+      isAllowedAiProviderBaseUrl,
       getAiProviderIssues: getAiProviderIssues2,
       isAiProviderRunnable: isAiProviderRunnable2,
       summarizeAiProviderIssues: summarizeAiProviderIssues2,
@@ -10114,10 +10314,44 @@ var require_wechat_sync = __commonJS({
         imageSources
       };
     }
+    function hashBytesFNV1a(bytes) {
+      let hash = 2166136261;
+      for (let i = 0; i < bytes.length; i++) {
+        hash ^= bytes[i];
+        hash = Math.imul(hash, 16777619);
+      }
+      return (hash >>> 0).toString(16).padStart(8, "0");
+    }
+    async function computeBlobFingerprint(blob) {
+      if (!blob || typeof blob.arrayBuffer !== "function")
+        return "unknown";
+      const buffer = await blob.arrayBuffer();
+      const bytes = new Uint8Array(buffer);
+      const contentHash = hashBytesFNV1a(bytes);
+      const type = blob.type || "application/octet-stream";
+      return `${type}:${bytes.length}:${contentHash}`;
+    }
+    function getCachedCoverEntry(cache, key) {
+      if (!cache || !cache.has(key))
+        return null;
+      const value = cache.get(key);
+      if (typeof value === "string") {
+        return { mediaId: value, fingerprint: "" };
+      }
+      if (value && typeof value === "object" && typeof value.mediaId === "string") {
+        return value;
+      }
+      return null;
+    }
+    function buildCoverUploadCacheKey(account, coverSrc) {
+      const namespace = String((account == null ? void 0 : account.id) || (account == null ? void 0 : account.appId) || "").trim();
+      return `${namespace}::cover::${String(coverSrc || "")}`;
+    }
     function createWechatSyncService2(deps) {
       const {
         createApi,
         srcToBlob,
+        coverUploadCache = null,
         processAllImages,
         processMathFormulas,
         prepareHtmlForDraft = async (html) => html,
@@ -10133,22 +10367,41 @@ var require_wechat_sync = __commonJS({
           activeFile,
           publishMeta,
           sessionCoverBase64,
+          sessionThumbMediaId,
           sessionDigest,
+          draftMediaId,
+          draftIndex = 0,
           onStatus,
           onImageProgress,
           onMathProgress
         }) {
           const api = createApi(account.appId, account.appSecret, proxyUrl);
           const imageUploadFailures = [];
-          if (onStatus)
-            onStatus("cover");
-          const coverSrc = sessionCoverBase64 || publishMeta.coverSrc || getFirstImageFromArticle();
-          if (!coverSrc) {
-            throw new Error("\u672A\u8BBE\u7F6E\u5C01\u9762\u56FE\uFF0C\u540C\u6B65\u5931\u8D25\u3002\u8BF7\u5728\u5F39\u7A97\u4E2D\u4E0A\u4F20\u5C01\u9762\u3002");
+          let thumbMediaId = typeof sessionThumbMediaId === "string" ? sessionThumbMediaId.trim() : "";
+          if (!thumbMediaId) {
+            if (onStatus)
+              onStatus("cover");
+            const coverSrc = sessionCoverBase64 || publishMeta.coverSrc || getFirstImageFromArticle();
+            if (!coverSrc) {
+              throw new Error("\u672A\u8BBE\u7F6E\u5C01\u9762\u56FE\uFF0C\u540C\u6B65\u5931\u8D25\u3002\u8BF7\u5728\u5F39\u7A97\u4E2D\u4E0A\u4F20\u5C01\u9762\u3002");
+            }
+            const coverBlob = await srcToBlob(coverSrc);
+            const fingerprint = await computeBlobFingerprint(coverBlob);
+            const coverCacheKey = buildCoverUploadCacheKey(account, coverSrc);
+            const cachedCover = getCachedCoverEntry(coverUploadCache, coverCacheKey);
+            if (cachedCover && cachedCover.fingerprint && cachedCover.fingerprint === fingerprint && cachedCover.mediaId) {
+              thumbMediaId = cachedCover.mediaId;
+            } else {
+              const coverRes = await api.uploadCover(coverBlob);
+              thumbMediaId = coverRes.media_id;
+              if (coverUploadCache && thumbMediaId) {
+                coverUploadCache.set(coverCacheKey, {
+                  mediaId: thumbMediaId,
+                  fingerprint
+                });
+              }
+            }
           }
-          const coverBlob = await srcToBlob(coverSrc);
-          const coverRes = await api.uploadCover(coverBlob);
-          const thumbMediaId = coverRes.media_id;
           let draftHtml = await prepareHtmlForDraft(currentHtml);
           if (onStatus)
             onStatus("images");
@@ -10192,10 +10445,22 @@ var require_wechat_sync = __commonJS({
           }
           if (onStatus)
             onStatus("draft");
-          await api.createDraft(article);
+          const normalizedDraftMediaId = typeof draftMediaId === "string" ? draftMediaId.trim() : "";
+          const isUpdate = !!normalizedDraftMediaId;
+          let mediaId = "";
+          if (isUpdate) {
+            await api.updateDraft(normalizedDraftMediaId, draftIndex, article);
+            mediaId = normalizedDraftMediaId;
+          } else {
+            const draftRes = await api.createDraft(article);
+            mediaId = (draftRes == null ? void 0 : draftRes.media_id) || "";
+          }
           const cleanupResult = await cleanupConfiguredDirectory(activeFile);
           return {
             article,
+            mediaId,
+            isUpdate,
+            draftIndex,
             cleanupResult,
             imageUploadFailures,
             placeholderImageSources: cleanedResult.imageSources
@@ -10206,6 +10471,1616 @@ var require_wechat_sync = __commonJS({
     module2.exports = {
       replaceUnuploadedDraftImagesWithPlaceholders,
       createWechatSyncService: createWechatSyncService2
+    };
+  }
+});
+
+// services/wechatsync-bridge.js
+var require_wechatsync_bridge = __commonJS({
+  "services/wechatsync-bridge.js"(exports2, module2) {
+    var DEFAULT_WECHATSYNC_PORT2 = 9527;
+    var DEFAULT_REQUEST_TIMEOUT_MS = 36e4;
+    var DEFAULT_CONNECT_TIMEOUT_MS = 6e4;
+    var DEFAULT_PLATFORM_REQUEST_TIMEOUT_MS = 6e4;
+    var DEFAULT_SYNC_REQUEST_TIMEOUT_MS = 18e4;
+    var DEFAULT_HELLO_TIMEOUT_MS = 3e4;
+    var LOCAL_BIND_HOST = "127.0.0.1";
+    var REMOTE_BIND_HOST = "0.0.0.0";
+    var WS_GUID = "258EAFA5-E914-47DA-95CA-C5AB0DC85B11";
+    var HELLO_ERROR_TOKEN_MISMATCH = "token_mismatch";
+    var HELLO_ERROR_INVALID_PAYLOAD = "invalid_payload";
+    var HELLO_ERROR_TIMEOUT = "hello_timeout";
+    var HELLO_ERROR_VERSION_UNSUPPORTED = "version_unsupported";
+    var HELLO_ERROR_DUPLICATE_SESSION = "duplicate_session";
+    var HELLO_ERROR_TOO_MANY_CLIENTS = "too_many_clients";
+    var DEFAULT_MAX_CLIENTS = 4;
+    var MAX_CONNECTED_CLIENT_REGISTRY = 20;
+    function isUnsupportedBridgeMethodError(error = {}) {
+      const message = String((error == null ? void 0 : error.message) || error || "");
+      return /unknown method|unknown tool|method not found|not supported|unsupported/i.test(message);
+    }
+    function isRecoverableBridgeConnectionError(error = {}) {
+      const code = (error == null ? void 0 : error.code) || "";
+      return ["EXTENSION_NOT_CONNECTED", "EXTENSION_NOT_AUTHENTICATED", "BRIDGE_UNAVAILABLE", "BRIDGE_REQUEST_TIMEOUT"].includes(code);
+    }
+    function sleep2(ms) {
+      return new Promise((resolve) => setTimeout(resolve, ms));
+    }
+    async function retryRecoverableBridgeOperation2(operation, options = {}) {
+      var _a;
+      const {
+        retries = 2,
+        delayMs = 1e3,
+        delay = sleep2,
+        shouldRetry = isRecoverableBridgeConnectionError,
+        logger = console,
+        label = "bridge request"
+      } = options;
+      let attempt = 0;
+      while (true) {
+        try {
+          return await operation({ attempt });
+        } catch (error) {
+          const readableError = createReadableBridgeError(error);
+          if (attempt >= retries || !shouldRetry(readableError, attempt)) {
+            throw readableError;
+          }
+          attempt += 1;
+          (_a = logger.debug) == null ? void 0 : _a.call(logger, "[WechatsyncBridge] retrying recoverable operation", {
+            label,
+            attempt,
+            retries,
+            delayMs,
+            code: readableError == null ? void 0 : readableError.code,
+            message: (readableError == null ? void 0 : readableError.message) || String(readableError)
+          });
+          await delay(delayMs, attempt, readableError);
+        }
+      }
+    }
+    function createEmitter() {
+      const listeners = /* @__PURE__ */ new Map();
+      return {
+        on(event, handler) {
+          const handlers = listeners.get(event) || [];
+          handlers.push(handler);
+          listeners.set(event, handlers);
+          return this;
+        },
+        once(event, handler) {
+          const wrapped = (...args) => {
+            this.off(event, wrapped);
+            handler(...args);
+          };
+          return this.on(event, wrapped);
+        },
+        off(event, handler) {
+          const handlers = listeners.get(event) || [];
+          listeners.set(event, handlers.filter((item) => item !== handler));
+          return this;
+        },
+        emit(event, ...args) {
+          const handlers = listeners.get(event) || [];
+          for (const handler of handlers.slice()) {
+            handler(...args);
+          }
+        }
+      };
+    }
+    function encodeWebSocketTextFrame(text) {
+      const payload = Buffer.from(String(text));
+      const length = payload.length;
+      let header;
+      if (length < 126) {
+        header = Buffer.from([129, length]);
+      } else if (length < 65536) {
+        header = Buffer.alloc(4);
+        header[0] = 129;
+        header[1] = 126;
+        header.writeUInt16BE(length, 2);
+      } else {
+        header = Buffer.alloc(10);
+        header[0] = 129;
+        header[1] = 127;
+        header.writeBigUInt64BE(BigInt(length), 2);
+      }
+      return Buffer.concat([header, payload]);
+    }
+    function parseWebSocketFrames(buffer) {
+      const messages = [];
+      let offset = 0;
+      while (offset + 2 <= buffer.length) {
+        const firstByte = buffer[offset];
+        const secondByte = buffer[offset + 1];
+        const opcode = firstByte & 15;
+        const masked = (secondByte & 128) === 128;
+        let payloadLength = secondByte & 127;
+        let cursor = offset + 2;
+        if (payloadLength === 126) {
+          if (cursor + 2 > buffer.length)
+            break;
+          payloadLength = buffer.readUInt16BE(cursor);
+          cursor += 2;
+        } else if (payloadLength === 127) {
+          if (cursor + 8 > buffer.length)
+            break;
+          const longLength = buffer.readBigUInt64BE(cursor);
+          if (longLength > BigInt(Number.MAX_SAFE_INTEGER)) {
+            throw new Error("WebSocket frame is too large.");
+          }
+          payloadLength = Number(longLength);
+          cursor += 8;
+        }
+        let mask = null;
+        if (masked) {
+          if (cursor + 4 > buffer.length)
+            break;
+          mask = buffer.subarray(cursor, cursor + 4);
+          cursor += 4;
+        }
+        if (cursor + payloadLength > buffer.length)
+          break;
+        const payload = Buffer.from(buffer.subarray(cursor, cursor + payloadLength));
+        if (mask) {
+          for (let i = 0; i < payload.length; i++) {
+            payload[i] = payload[i] ^ mask[i % 4];
+          }
+        }
+        if (opcode === 1) {
+          messages.push(payload.toString("utf8"));
+        }
+        if (opcode === 8) {
+          messages.push({
+            __ws_control: "close",
+            code: payload.length >= 2 ? payload.readUInt16BE(0) : void 0
+          });
+        }
+        if (opcode === 9) {
+          messages.push({ __ws_control: "ping", payload });
+        }
+        offset = cursor + payloadLength;
+      }
+      return {
+        messages,
+        remaining: buffer.subarray(offset)
+      };
+    }
+    function createSocketWrapper(socket) {
+      const emitter = createEmitter();
+      const wrapper = {
+        readyState: 1,
+        on: emitter.on.bind(emitter),
+        once: emitter.once.bind(emitter),
+        off: emitter.off.bind(emitter),
+        send(data) {
+          if (wrapper.readyState !== 1)
+            return;
+          socket.write(encodeWebSocketTextFrame(data));
+        },
+        close() {
+          wrapper.readyState = 3;
+          socket.end();
+        }
+      };
+      let buffered = Buffer.alloc(0);
+      socket.on("data", (chunk) => {
+        try {
+          buffered = Buffer.concat([buffered, chunk]);
+          const result = parseWebSocketFrames(buffered);
+          buffered = result.remaining;
+          for (const message of result.messages) {
+            if (typeof message === "object" && message !== null && message.__ws_control) {
+              if (message.__ws_control === "ping") {
+                const pongFrame = Buffer.alloc(2 + message.payload.length);
+                pongFrame[0] = 138;
+                pongFrame[1] = message.payload.length;
+                message.payload.copy(pongFrame, 2);
+                socket.write(pongFrame);
+              }
+              if (message.__ws_control === "close") {
+                wrapper.readyState = 3;
+                socket.end();
+              }
+              continue;
+            }
+            emitter.emit("message", Buffer.from(message));
+          }
+        } catch (error) {
+          emitter.emit("error", error);
+          socket.destroy();
+        }
+      });
+      socket.on("close", () => {
+        wrapper.readyState = 3;
+        emitter.emit("close");
+      });
+      socket.on("error", (error) => {
+        wrapper.readyState = 3;
+        emitter.emit("error", error);
+      });
+      return wrapper;
+    }
+    function isOriginAllowedForWebSocket(origin = "", { allowlist = null } = {}) {
+      if (!allowlist)
+        return true;
+      const trimmed = String(origin || "").trim();
+      if (!trimmed)
+        return true;
+      for (const pattern of allowlist) {
+        if (typeof pattern === "string") {
+          if (pattern === "*" || pattern === trimmed)
+            return true;
+          if (pattern.endsWith("*") && trimmed.startsWith(pattern.slice(0, -1)))
+            return true;
+        } else if (pattern instanceof RegExp) {
+          if (pattern.test(trimmed))
+            return true;
+        }
+      }
+      return false;
+    }
+    function createMinimalWebSocketServer({ http, port, host = LOCAL_BIND_HOST, originAllowlist = null, logger = console }) {
+      const crypto = require("crypto");
+      const emitter = createEmitter();
+      const server = http.createServer();
+      const sockets = /* @__PURE__ */ new Set();
+      server.on("upgrade", (req, socket) => {
+        var _a, _b, _c;
+        const origin = req.headers.origin || "";
+        (_a = logger.debug) == null ? void 0 : _a.call(logger, "[WechatsyncBridge] WebSocket upgrade received", {
+          url: req.url,
+          origin,
+          userAgent: req.headers["user-agent"] || ""
+        });
+        if (originAllowlist && !isOriginAllowedForWebSocket(origin, { allowlist: originAllowlist })) {
+          (_b = logger.warn) == null ? void 0 : _b.call(logger, "[WechatsyncBridge] WebSocket upgrade rejected: origin not allowed", { origin });
+          try {
+            socket.write("HTTP/1.1 403 Forbidden\r\nConnection: close\r\nContent-Length: 0\r\n\r\n");
+          } catch (e) {
+          }
+          socket.destroy();
+          return;
+        }
+        const key = req.headers["sec-websocket-key"];
+        if (!key) {
+          (_c = logger.warn) == null ? void 0 : _c.call(logger, "[WechatsyncBridge] WebSocket upgrade rejected: missing sec-websocket-key");
+          socket.destroy();
+          return;
+        }
+        const accept = crypto.createHash("sha1").update(`${key}${WS_GUID}`).digest("base64");
+        socket.write([
+          "HTTP/1.1 101 Switching Protocols",
+          "Upgrade: websocket",
+          "Connection: Upgrade",
+          `Sec-WebSocket-Accept: ${accept}`,
+          "",
+          ""
+        ].join("\r\n"));
+        const wrapped = createSocketWrapper(socket);
+        sockets.add(wrapped);
+        wrapped.on("close", () => sockets.delete(wrapped));
+        emitter.emit("connection", wrapped, { origin });
+      });
+      server.on("error", (error) => emitter.emit("error", error));
+      server.listen(port, host, () => emitter.emit("listening"));
+      return {
+        on: emitter.on.bind(emitter),
+        once: emitter.once.bind(emitter),
+        off: emitter.off.bind(emitter),
+        close(callback) {
+          var _a;
+          for (const socket of sockets) {
+            try {
+              socket.close();
+            } catch (error) {
+              (_a = logger.warn) == null ? void 0 : _a.call(logger, "Failed to close Wechatsync socket:", error);
+            }
+          }
+          server.close(callback);
+        }
+      };
+    }
+    function getWebSocketOpenState(WebSocketServer) {
+      var _a;
+      return (WebSocketServer == null ? void 0 : WebSocketServer.OPEN) || ((_a = WebSocketServer == null ? void 0 : WebSocketServer.WebSocket) == null ? void 0 : _a.OPEN) || 1;
+    }
+    function createReadableBridgeError(error) {
+      const message = String((error == null ? void 0 : error.message) || error || "");
+      if (/Invalid or missing token|MCP token not configured|401|403/i.test(message)) {
+        const friendly = new Error("\u6D4F\u89C8\u5668\u63D2\u4EF6\u5DF2\u54CD\u5E94\uFF0C\u4F46\u8FDE\u63A5\u4EE4\u724C\u6821\u9A8C\u5931\u8D25\u3002\u8BF7\u786E\u8BA4 Obsidian \u4E0E\u6D4F\u89C8\u5668\u63D2\u4EF6\u4F7F\u7528\u540C\u4E00\u4E2A\u8FDE\u63A5\u4EE4\u724C\u3002");
+        friendly.code = "AUTH_FAILED";
+        friendly.cause = error;
+        return friendly;
+      }
+      if (/Extension not authenticated/i.test(message)) {
+        const friendly = new Error("\u6D4F\u89C8\u5668\u63D2\u4EF6\u5DF2\u8FDE\u63A5\u4F46\u672A\u901A\u8FC7\u8BA4\u8BC1\u3002\u8BF7\u786E\u8BA4\u63D2\u4EF6\u5DF2\u5347\u7EA7\u5230\u652F\u6301\u5B89\u5168\u63E1\u624B\u7684\u7248\u672C\uFF0C\u4E14\u4F7F\u7528\u4E0E Obsidian \u4E00\u81F4\u7684\u8FDE\u63A5\u4EE4\u724C\u3002");
+        friendly.code = "EXTENSION_NOT_AUTHENTICATED";
+        friendly.cause = error;
+        return friendly;
+      }
+      if (/Extension not connected|not connected|timeout:no_extension/i.test(message)) {
+        const friendly = new Error("\u5C1A\u672A\u8FDE\u63A5\u5230\u6D4F\u89C8\u5668\u63D2\u4EF6\u3002\u8BF7\u786E\u8BA4\u5DF2\u5728\u6B63\u5728\u8FD0\u884C\u7684 Chromium \u6D4F\u89C8\u5668\u4E2D\u5B89\u88C5\u63D2\u4EF6\uFF0C\u5E76\u68C0\u67E5\u5730\u5740\u3001\u7AEF\u53E3\u548C\u8FDE\u63A5\u4EE4\u724C\u3002");
+        friendly.code = "EXTENSION_NOT_CONNECTED";
+        friendly.cause = error;
+        return friendly;
+      }
+      if (/Request timeout: listPlatforms/i.test(message)) {
+        const friendly = new Error("\u6D4F\u89C8\u5668\u63D2\u4EF6\u5DF2\u8FDE\u63A5\uFF0C\u4F46\u8BFB\u53D6\u5E73\u53F0\u5217\u8868\u8D85\u65F6\u3002\u5E73\u53F0\u8F83\u591A\u6216\u90E8\u5206\u5E73\u53F0\u68C0\u67E5\u8F83\u6162\u65F6\u53EF\u80FD\u53D1\u751F\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5\u3002");
+        friendly.code = "PLATFORM_LIST_TIMEOUT";
+        friendly.cause = error;
+        return friendly;
+      }
+      if (/Request timeout: syncArticle/i.test(message)) {
+        const friendly = new Error("\u6D4F\u89C8\u5668\u63D2\u4EF6\u957F\u65F6\u95F4\u6CA1\u6709\u8FD4\u56DE\u540C\u6B65\u7ED3\u679C\u3002\u63D2\u4EF6\u53EF\u80FD\u4ECD\u5728\u540E\u53F0\u5904\u7406\uFF0C\u8BF7\u5148\u5230\u63D2\u4EF6\u5386\u53F2\u6216\u76EE\u6807\u5E73\u53F0\u8349\u7A3F\u7BB1\u786E\u8BA4\u7ED3\u679C\uFF1B\u5982\u679C\u67D0\u4E2A\u5E73\u53F0\u5361\u4F4F\uFF0C\u5EFA\u8BAE\u51CF\u5C11\u5E73\u53F0\u540E\u91CD\u8BD5\u3002");
+        friendly.code = "SYNC_TIMEOUT";
+        friendly.cause = error;
+        return friendly;
+      }
+      if (/Request timeout: (health|listSupportedPlatforms|enqueueSyncArticle|getSyncTask|getSyncTaskLink|openSyncTask|getAuthSnapshot)/i.test(message)) {
+        const friendly = new Error("\u6D4F\u89C8\u5668\u63D2\u4EF6\u54CD\u5E94\u8D85\u65F6\uFF0C\u8BF7\u786E\u8BA4\u6D4F\u89C8\u5668\u6B63\u5728\u8FD0\u884C\uFF0C\u5730\u5740\u3001\u7AEF\u53E3\u548C\u8FDE\u63A5\u4EE4\u724C\u6B63\u786E\u540E\u91CD\u8BD5\u3002");
+        friendly.code = "BRIDGE_REQUEST_TIMEOUT";
+        friendly.cause = error;
+        return friendly;
+      }
+      if (/EADDRINUSE|Primary|ECONNREFUSED|not reachable/i.test(message)) {
+        const friendly = new Error("\u65E0\u6CD5\u8FDE\u63A5\u672C\u5730\u670D\u52A1\u3002\u8BF7\u786E\u8BA4\u6CA1\u6709\u5176\u4ED6\u540C\u6B65\u8FDB\u7A0B\u5360\u7528\u7AEF\u53E3\uFF0C\u6216\u7A0D\u540E\u91CD\u8BD5\u3002");
+        friendly.code = "BRIDGE_UNAVAILABLE";
+        friendly.cause = error;
+        return friendly;
+      }
+      return error instanceof Error ? error : new Error(message || "\u6D4F\u89C8\u5668\u63D2\u4EF6\u8FDE\u63A5\u8BF7\u6C42\u5931\u8D25\u3002");
+    }
+    function readRequestBody(req) {
+      return new Promise((resolve, reject) => {
+        let body = "";
+        req.on("data", (chunk) => {
+          body += chunk;
+        });
+        req.on("end", () => resolve(body));
+        req.on("error", reject);
+      });
+    }
+    function defaultConnectionIdFactory() {
+      try {
+        const nodeCrypto = require("crypto");
+        if (typeof nodeCrypto.randomUUID === "function") {
+          return nodeCrypto.randomUUID();
+        }
+      } catch (e) {
+      }
+      return `conn-${Date.now()}-${Math.random().toString(36).slice(2, 11)}`;
+    }
+    function createWechatSyncBridgeService2(options = {}) {
+      const {
+        WebSocketServer,
+        http,
+        port = DEFAULT_WECHATSYNC_PORT2,
+        token = "",
+        requestTimeoutMs = DEFAULT_REQUEST_TIMEOUT_MS,
+        connectTimeoutMs = DEFAULT_CONNECT_TIMEOUT_MS,
+        helloTimeoutMs = DEFAULT_HELLO_TIMEOUT_MS,
+        allowRemote = false,
+        originAllowlist = null,
+        serverVersion = "",
+        logger = console,
+        idFactory = () => `${Date.now()}-${Math.random().toString(36).slice(2, 11)}`,
+        connectionIdFactory = defaultConnectionIdFactory,
+        onClientRegistryChange = null,
+        initialConnectedClients = [],
+        maxClients = DEFAULT_MAX_CLIENTS
+      } = options;
+      if (!http) {
+        throw new Error("http module is required to create Wechatsync bridge service.");
+      }
+      const bindHost = allowRemote ? REMOTE_BIND_HOST : LOCAL_BIND_HOST;
+      let connectedClients = Array.isArray(initialConnectedClients) ? initialConnectedClients.map((c) => ({ ...c })) : [];
+      let _clientRegistryDebounceTimer = null;
+      trimClientRegistry();
+      function scheduleRegistryChange() {
+        if (!onClientRegistryChange)
+          return;
+        clearTimeout(_clientRegistryDebounceTimer);
+        _clientRegistryDebounceTimer = setTimeout(() => {
+          onClientRegistryChange(connectedClients.map((c) => ({ ...c })));
+        }, 1e3);
+      }
+      function trimClientRegistry() {
+        if (connectedClients.length <= MAX_CONNECTED_CLIENT_REGISTRY)
+          return 0;
+        const connected = connectedClients.filter((c) => c && c.status === "connected");
+        const disconnected = connectedClients.filter((c) => c && c.status !== "connected").sort((a, b) => (b.lastSeenAt || 0) - (a.lastSeenAt || 0));
+        const budgetForDisconnected = Math.max(0, MAX_CONNECTED_CLIENT_REGISTRY - connected.length);
+        const keptDisconnected = disconnected.slice(0, budgetForDisconnected);
+        const next = [...connected, ...keptDisconnected];
+        const dropped = connectedClients.length - next.length;
+        connectedClients = next;
+        return dropped;
+      }
+      function upsertConnectedClient(hello, status) {
+        var _a;
+        const now = Date.now();
+        const idx = connectedClients.findIndex(
+          (c) => c.extensionInstanceId === hello.extensionInstanceId
+        );
+        if (idx >= 0) {
+          const existing = connectedClients[idx];
+          connectedClients[idx] = {
+            ...existing,
+            browserName: hello.browserName || existing.browserName,
+            profileLabel: hello.profileLabel !== void 0 ? hello.profileLabel : existing.profileLabel,
+            capabilities: hello.capabilities || existing.capabilities,
+            extensionVersion: hello.version || existing.extensionVersion,
+            status,
+            lastSeenAt: now,
+            lastConnectedAt: status === "connected" ? now : existing.lastConnectedAt
+          };
+        } else {
+          connectedClients.push({
+            extensionInstanceId: hello.extensionInstanceId,
+            browserName: hello.browserName || "",
+            profileLabel: hello.profileLabel || "",
+            capabilities: hello.capabilities || {},
+            extensionVersion: hello.version || "",
+            status,
+            lastSeenAt: now,
+            firstConnectedAt: now,
+            lastConnectedAt: now
+          });
+        }
+        const dropped = trimClientRegistry();
+        if (dropped > 0) {
+          (_a = logger.debug) == null ? void 0 : _a.call(logger, "Wechatsync bridge: trimmed", dropped, "stale client registry entries");
+        }
+        scheduleRegistryChange();
+      }
+      function markClientDisconnected(extensionInstanceId) {
+        if (!extensionInstanceId)
+          return;
+        const idx = connectedClients.findIndex(
+          (c) => c.extensionInstanceId === extensionInstanceId
+        );
+        if (idx < 0)
+          return;
+        connectedClients[idx] = { ...connectedClients[idx], status: "disconnected" };
+        scheduleRegistryChange();
+      }
+      function refreshClientSeen(extensionInstanceId) {
+        if (!extensionInstanceId)
+          return;
+        const idx = connectedClients.findIndex(
+          (c) => c.extensionInstanceId === extensionInstanceId
+        );
+        if (idx < 0)
+          return;
+        connectedClients[idx] = { ...connectedClients[idx], lastSeenAt: Date.now() };
+        scheduleRegistryChange();
+      }
+      let wss = null;
+      let httpServer = null;
+      const sessions = /* @__PURE__ */ new Map();
+      const connectionIdToInstanceId = /* @__PURE__ */ new Map();
+      let primaryClientId = null;
+      const pendingConnections = /* @__PURE__ */ new Map();
+      const connectionResolvers = [];
+      const wsOpenState = getWebSocketOpenState(WebSocketServer);
+      const diagnostics = {
+        socketsOpened: 0,
+        helloAttempts: 0,
+        helloRejections: 0,
+        helloSuccesses: 0,
+        lastHelloRejection: null
+      };
+      function debug(message, details) {
+        var _a;
+        (_a = logger.debug) == null ? void 0 : _a.call(logger, `[WechatsyncBridge] ${message}`, details || "");
+      }
+      function audit(event, details) {
+        var _a;
+        (_a = logger.info) == null ? void 0 : _a.call(logger, `[WechatsyncBridge:audit] ${event}`, details || {});
+      }
+      function isClientSocketOpen(ws) {
+        return !!(ws && ws.readyState === wsOpenState);
+      }
+      function isAuthenticatedConnected() {
+        for (const session of sessions.values()) {
+          if (isClientSocketOpen(session.ws))
+            return true;
+        }
+        return false;
+      }
+      function notifyConnected() {
+        while (connectionResolvers.length > 0) {
+          const resolve = connectionResolvers.shift();
+          resolve();
+        }
+      }
+      function tryParseHelloPayload(message) {
+        if (!message || typeof message !== "object")
+          return null;
+        if (message.type !== "extension_hello")
+          return null;
+        return {
+          type: "extension_hello",
+          token: typeof message.token === "string" ? message.token : "",
+          extensionInstanceId: typeof message.extensionInstanceId === "string" ? message.extensionInstanceId : "",
+          extensionId: typeof message.extensionId === "string" ? message.extensionId : "",
+          version: typeof message.version === "string" ? message.version : "",
+          profileLabel: typeof message.profileLabel === "string" ? message.profileLabel : "",
+          browserName: typeof message.browserName === "string" ? message.browserName : "",
+          capabilities: message.capabilities && typeof message.capabilities === "object" ? message.capabilities : {}
+        };
+      }
+      function sendHelloAck(ws, { ok, connectionId = "", error = "" }) {
+        var _a;
+        try {
+          const payload = ok ? {
+            type: "extension_hello_ack",
+            ok: true,
+            connectionId,
+            mode: "multi-client",
+            serverVersion: serverVersion || ""
+          } : {
+            type: "extension_hello_ack",
+            ok: false,
+            error
+          };
+          ws.send(JSON.stringify(payload));
+        } catch (err) {
+          (_a = logger.warn) == null ? void 0 : _a.call(logger, "Failed to send extension_hello_ack:", err);
+        }
+      }
+      function closeWs(ws, reason) {
+        var _a;
+        try {
+          (_a = ws.close) == null ? void 0 : _a.call(ws);
+        } catch (err) {
+          debug("Failed to close socket", { reason, error: (err == null ? void 0 : err.message) || String(err) });
+        }
+      }
+      function removePendingConnection(connectionId) {
+        const pending = pendingConnections.get(connectionId);
+        if (!pending)
+          return;
+        if (pending.helloTimeout)
+          clearTimeout(pending.helloTimeout);
+        pendingConnections.delete(connectionId);
+      }
+      function registerSession(pending, hello, origin) {
+        const instanceId = hello.extensionInstanceId;
+        const existing = sessions.get(instanceId);
+        if (existing) {
+          audit("hello_takeover", {
+            connectionId: existing.connectionId,
+            newConnectionId: pending.connectionId,
+            extensionInstanceId: instanceId,
+            previousSocketOpen: isClientSocketOpen(existing.ws)
+          });
+          closeWs(existing.ws, "hello_takeover");
+          connectionIdToInstanceId.delete(existing.connectionId);
+          for (const [, req] of existing.pendingRequests.entries()) {
+            clearTimeout(req.timeout);
+            req.reject(createReadableBridgeError(new Error("Session replaced by reconnect.")));
+          }
+          existing.pendingRequests.clear();
+          sessions.delete(instanceId);
+        }
+        let openCount = 0;
+        for (const s of sessions.values()) {
+          if (isClientSocketOpen(s.ws))
+            openCount += 1;
+        }
+        if (openCount >= maxClients) {
+          rejectHello(pending, HELLO_ERROR_TOO_MANY_CLIENTS, { max: maxClients, current: openCount });
+          return;
+        }
+        const session = {
+          connectionId: pending.connectionId,
+          ws: pending.ws,
+          extensionInstanceId: instanceId,
+          extensionId: hello.extensionId || "",
+          version: hello.version || "",
+          profileLabel: hello.profileLabel || "",
+          browserName: hello.browserName || "",
+          capabilities: hello.capabilities || {},
+          connectedAt: pending.connectedAt,
+          authenticatedAt: Date.now(),
+          origin: origin || pending.origin || "",
+          pendingRequests: /* @__PURE__ */ new Map()
+        };
+        sessions.set(instanceId, session);
+        connectionIdToInstanceId.set(pending.connectionId, instanceId);
+        removePendingConnection(pending.connectionId);
+        if (primaryClientId === null) {
+          primaryClientId = instanceId;
+        }
+        diagnostics.helloAttempts += 1;
+        diagnostics.helloSuccesses += 1;
+        audit("session_registered", {
+          connectionId: session.connectionId,
+          extensionInstanceId: instanceId,
+          profileLabel: session.profileLabel,
+          browserName: session.browserName,
+          sessionsCount: sessions.size
+        });
+        sendHelloAck(pending.ws, { ok: true, connectionId: pending.connectionId });
+        upsertConnectedClient(hello, "connected");
+        notifyConnected();
+      }
+      function rejectHello(pending, errorCode, details = {}) {
+        diagnostics.helloAttempts += 1;
+        diagnostics.helloRejections += 1;
+        diagnostics.lastHelloRejection = {
+          reason: errorCode,
+          at: Date.now(),
+          connectionId: pending.connectionId,
+          details: { ...details }
+        };
+        audit("hello_rejected", {
+          connectionId: pending.connectionId,
+          reason: errorCode,
+          ...details
+        });
+        sendHelloAck(pending.ws, { ok: false, error: errorCode });
+        removePendingConnection(pending.connectionId);
+        closeWs(pending.ws, `hello_rejected:${errorCode}`);
+      }
+      function handlePendingMessage(pending, raw, origin) {
+        var _a;
+        let parsed;
+        try {
+          parsed = JSON.parse(raw);
+        } catch (error) {
+          (_a = logger.warn) == null ? void 0 : _a.call(logger, "Failed to parse pending bridge message:", error);
+          rejectHello(pending, HELLO_ERROR_INVALID_PAYLOAD, { parseError: true });
+          return;
+        }
+        const hello = tryParseHelloPayload(parsed);
+        if (!hello) {
+          rejectHello(pending, HELLO_ERROR_INVALID_PAYLOAD, { receivedType: (parsed == null ? void 0 : parsed.type) || "" });
+          return;
+        }
+        if (token && hello.token !== token) {
+          rejectHello(pending, HELLO_ERROR_TOKEN_MISMATCH, {
+            extensionInstanceId: hello.extensionInstanceId,
+            extensionId: hello.extensionId
+          });
+          return;
+        }
+        registerSession(pending, hello, origin);
+      }
+      function handleSessionMessage(session, raw) {
+        var _a, _b;
+        let message;
+        try {
+          message = JSON.parse(raw);
+        } catch (error) {
+          (_a = logger.warn) == null ? void 0 : _a.call(logger, "Failed to parse Wechatsync bridge response:", error);
+          return;
+        }
+        if ((message == null ? void 0 : message.type) === "extension_hello") {
+          debug("Ignoring extension_hello on already-authenticated session");
+          return;
+        }
+        if ((message == null ? void 0 : message.type) === "heartbeat") {
+          refreshClientSeen(session.extensionInstanceId);
+          if (isClientSocketOpen(session.ws)) {
+            try {
+              session.ws.send(JSON.stringify({ type: "heartbeat_ack", ts: message.ts }));
+            } catch (err) {
+              (_b = logger.warn) == null ? void 0 : _b.call(logger, "Failed to send heartbeat_ack:", (err == null ? void 0 : err.message) || err);
+            }
+          }
+          return;
+        }
+        const pending = session.pendingRequests.get(message.id);
+        if (!pending) {
+          debug("Received response for one-way, unknown, or timed out request", {
+            id: message.id,
+            hasError: !!message.error,
+            resultKind: Array.isArray(message.result) ? "array" : typeof message.result
+          });
+          return;
+        }
+        clearTimeout(pending.timeout);
+        session.pendingRequests.delete(message.id);
+        if (message.error) {
+          const errorMessage = message.error.message || message.error.error || String(message.error);
+          debug("Request failed", {
+            id: message.id,
+            method: pending.method,
+            elapsedMs: Date.now() - pending.startedAt,
+            error: errorMessage
+          });
+          pending.reject(createReadableBridgeError(new Error(errorMessage)));
+          return;
+        }
+        debug("Request completed", {
+          id: message.id,
+          method: pending.method,
+          elapsedMs: Date.now() - pending.startedAt,
+          resultKind: Array.isArray(message.result) ? "array" : typeof message.result
+        });
+        pending.resolve(message.result);
+      }
+      function registerConnection(ws, { origin = "" } = {}) {
+        const connectionId = connectionIdFactory();
+        diagnostics.socketsOpened += 1;
+        const pending = {
+          connectionId,
+          ws,
+          connectedAt: Date.now(),
+          origin,
+          helloTimeout: null
+        };
+        pendingConnections.set(connectionId, pending);
+        debug("Extension connected (pending hello)", { connectionId, origin });
+        pending.helloTimeout = setTimeout(() => {
+          if (!pendingConnections.has(connectionId))
+            return;
+          rejectHello(pending, HELLO_ERROR_TIMEOUT, { timeoutMs: helloTimeoutMs });
+        }, helloTimeoutMs);
+        ws.on("message", (data) => {
+          const raw = data.toString();
+          const stillPending = pendingConnections.get(connectionId);
+          if (stillPending) {
+            handlePendingMessage(stillPending, raw, origin);
+            return;
+          }
+          const instanceId = connectionIdToInstanceId.get(connectionId);
+          const session = instanceId ? sessions.get(instanceId) : null;
+          if (session)
+            handleSessionMessage(session, raw);
+        });
+        ws.on("close", () => {
+          removePendingConnection(connectionId);
+          const instanceId = connectionIdToInstanceId.get(connectionId);
+          if (instanceId) {
+            connectionIdToInstanceId.delete(connectionId);
+            const session = sessions.get(instanceId);
+            if (session) {
+              for (const [, req] of session.pendingRequests.entries()) {
+                clearTimeout(req.timeout);
+                req.reject(createReadableBridgeError(new Error("Extension disconnected.")));
+              }
+              session.pendingRequests.clear();
+              sessions.delete(instanceId);
+              markClientDisconnected(instanceId);
+              debug("Session disconnected", { connectionId, extensionInstanceId: instanceId });
+              if (primaryClientId === instanceId) {
+                primaryClientId = null;
+                for (const [id, s] of sessions.entries()) {
+                  if (isClientSocketOpen(s.ws)) {
+                    primaryClientId = id;
+                    break;
+                  }
+                }
+              }
+            }
+          }
+        });
+        ws.on("error", (error) => {
+          var _a;
+          (_a = logger.warn) == null ? void 0 : _a.call(logger, "Wechatsync bridge WebSocket error:", error);
+        });
+      }
+      function isAuthorizedHttpRequest(req) {
+        if (!token)
+          return { ok: true };
+        const header = req.headers["authorization"] || req.headers["Authorization"] || "";
+        const value = Array.isArray(header) ? header[0] : header;
+        if (!value || typeof value !== "string") {
+          return { ok: false, status: 401, reason: "missing_authorization" };
+        }
+        const match = /^Bearer\s+(.+)$/i.exec(value.trim());
+        if (!match) {
+          return { ok: false, status: 401, reason: "invalid_authorization_scheme" };
+        }
+        if (match[1].trim() !== token) {
+          return { ok: false, status: 403, reason: "invalid_token" };
+        }
+        return { ok: true };
+      }
+      function denyHttpRequest(res, status, reason) {
+        res.writeHead(status, { "Content-Type": "application/json" });
+        res.end(JSON.stringify({ error: reason }));
+      }
+      async function startHttpApi() {
+        httpServer = http.createServer(async (req, res) => {
+          if (req.method === "OPTIONS") {
+            res.writeHead(204);
+            res.end();
+            return;
+          }
+          const auth = isAuthorizedHttpRequest(req);
+          if (!auth.ok) {
+            audit("http_request_unauthorized", {
+              url: req.url,
+              method: req.method,
+              reason: auth.reason
+            });
+            denyHttpRequest(res, auth.status, auth.reason);
+            return;
+          }
+          if (req.method === "GET" && req.url === "/status") {
+            res.writeHead(200, { "Content-Type": "application/json" });
+            res.end(JSON.stringify({
+              connected: isAuthenticatedConnected(),
+              mode: "primary",
+              authenticated: isAuthenticatedConnected(),
+              pendingConnections: pendingConnections.size,
+              host: bindHost,
+              allowRemote: !!allowRemote
+            }));
+            return;
+          }
+          if (req.method === "POST" && req.url === "/request") {
+            try {
+              const body = await readRequestBody(req);
+              const { method, params, timeoutMs } = JSON.parse(body || "{}");
+              const result = await requestInternal(method, params, { timeoutMs });
+              res.writeHead(200, { "Content-Type": "application/json" });
+              res.end(JSON.stringify({ result }));
+            } catch (error) {
+              res.writeHead(500, { "Content-Type": "application/json" });
+              res.end(JSON.stringify({ error: error.message || String(error) }));
+            }
+            return;
+          }
+          if (req.method === "POST" && req.url === "/send") {
+            try {
+              const body = await readRequestBody(req);
+              const { method, params } = JSON.parse(body || "{}");
+              const result = sendInternal(method, params);
+              res.writeHead(200, { "Content-Type": "application/json" });
+              res.end(JSON.stringify({ result }));
+            } catch (error) {
+              res.writeHead(500, { "Content-Type": "application/json" });
+              res.end(JSON.stringify({ error: error.message || String(error) }));
+            }
+            return;
+          }
+          res.writeHead(404);
+          res.end("Not found");
+        });
+        await new Promise((resolve, reject) => {
+          httpServer.once("error", reject);
+          httpServer.listen({ port: port + 1, host: bindHost }, () => {
+            var _a;
+            (_a = httpServer.off) == null ? void 0 : _a.call(httpServer, "error", reject);
+            resolve();
+          });
+        });
+      }
+      async function startServer() {
+        await new Promise((resolve, reject) => {
+          try {
+            wss = WebSocketServer ? new WebSocketServer({ port, host: bindHost }) : createMinimalWebSocketServer({ http, port, host: bindHost, originAllowlist, logger });
+          } catch (error) {
+            reject(error);
+            return;
+          }
+          wss.once("listening", resolve);
+          wss.once("error", reject);
+          wss.on("connection", (ws, request3) => {
+            var _a;
+            const origin = ((_a = request3 == null ? void 0 : request3.headers) == null ? void 0 : _a.origin) || (request3 == null ? void 0 : request3.origin) || "";
+            registerConnection(ws, { origin });
+          });
+        });
+        try {
+          await startHttpApi();
+        } catch (error) {
+          if (wss) {
+            await new Promise((resolve) => wss.close(resolve));
+            wss = null;
+          }
+          throw error;
+        }
+      }
+      async function start() {
+        if (wss) {
+          return getStatus();
+        }
+        try {
+          await startServer();
+          debug("Bridge started", {
+            port,
+            httpPort: port + 1,
+            host: bindHost,
+            allowRemote
+          });
+        } catch (error) {
+          throw createReadableBridgeError(error);
+        }
+        return getStatus();
+      }
+      async function stop() {
+        for (const session of sessions.values()) {
+          for (const [id, req] of session.pendingRequests.entries()) {
+            clearTimeout(req.timeout);
+            req.reject(new Error(`Request cancelled: ${id}`));
+          }
+          session.pendingRequests.clear();
+          closeWs(session.ws, "stop");
+        }
+        sessions.clear();
+        connectionIdToInstanceId.clear();
+        primaryClientId = null;
+        for (const pending of pendingConnections.values()) {
+          if (pending.helloTimeout)
+            clearTimeout(pending.helloTimeout);
+          closeWs(pending.ws, "stop");
+        }
+        pendingConnections.clear();
+        if (wss) {
+          await new Promise((resolve) => wss.close(resolve));
+          wss = null;
+        }
+        if (httpServer) {
+          await new Promise((resolve) => httpServer.close(resolve));
+          httpServer = null;
+        }
+      }
+      function waitForConnection(timeoutMs = connectTimeoutMs) {
+        if (isAuthenticatedConnected())
+          return Promise.resolve();
+        return new Promise((resolve, reject) => {
+          let wrappedResolve;
+          const timeout = setTimeout(() => {
+            const index = connectionResolvers.indexOf(wrappedResolve);
+            if (index >= 0)
+              connectionResolvers.splice(index, 1);
+            reject(createReadableBridgeError(new Error("timeout:no_extension")));
+          }, timeoutMs);
+          wrappedResolve = () => {
+            clearTimeout(timeout);
+            resolve();
+          };
+          connectionResolvers.push(wrappedResolve);
+        });
+      }
+      function requestInternal(method, params, options2 = {}) {
+        if (!method) {
+          return Promise.reject(new Error("Wechatsync bridge method is required."));
+        }
+        const session = primaryClientId ? sessions.get(primaryClientId) : null;
+        if (!session) {
+          if (pendingConnections.size > 0) {
+            return Promise.reject(createReadableBridgeError(new Error("Extension not authenticated.")));
+          }
+          return Promise.reject(createReadableBridgeError(new Error("Extension not connected.")));
+        }
+        if (!isClientSocketOpen(session.ws)) {
+          return Promise.reject(createReadableBridgeError(new Error("Extension not connected.")));
+        }
+        const id = idFactory();
+        const message = { id, method, params };
+        if (token)
+          message.token = token;
+        const timeoutMs = Number.isFinite(Number(options2.timeoutMs)) && Number(options2.timeoutMs) > 0 ? Number(options2.timeoutMs) : requestTimeoutMs;
+        return new Promise((resolve, reject) => {
+          const timeout = setTimeout(() => {
+            session.pendingRequests.delete(id);
+            debug("Request timed out", { id, method, timeoutMs });
+            reject(createReadableBridgeError(new Error(`Request timeout: ${method}`)));
+          }, timeoutMs);
+          session.pendingRequests.set(id, { resolve, reject, timeout, method, startedAt: Date.now() });
+          debug("Sending request", {
+            id,
+            method,
+            timeoutMs,
+            connectionId: session.connectionId,
+            extensionInstanceId: session.extensionInstanceId,
+            paramKeys: params && typeof params === "object" ? Object.keys(params) : []
+          });
+          session.ws.send(JSON.stringify(message));
+        });
+      }
+      function sendInternal(method, params) {
+        if (!method) {
+          throw new Error("Wechatsync bridge method is required.");
+        }
+        const session = primaryClientId ? sessions.get(primaryClientId) : null;
+        if (!session) {
+          if (pendingConnections.size > 0) {
+            throw createReadableBridgeError(new Error("Extension not authenticated."));
+          }
+          throw createReadableBridgeError(new Error("Extension not connected."));
+        }
+        if (!isClientSocketOpen(session.ws)) {
+          throw createReadableBridgeError(new Error("Extension not connected."));
+        }
+        const id = idFactory();
+        const message = { id, method, params };
+        if (token)
+          message.token = token;
+        debug("Sending one-way request", {
+          id,
+          method,
+          connectionId: session.connectionId,
+          extensionInstanceId: session.extensionInstanceId,
+          paramKeys: params && typeof params === "object" ? Object.keys(params) : []
+        });
+        session.ws.send(JSON.stringify(message));
+        return { accepted: true, requestId: id, method };
+      }
+      async function request2(method, params, options2 = {}) {
+        await start();
+        return requestInternal(method, params, options2);
+      }
+      async function requestWithMethodFallback(method, fallbackMethod, params, options2 = {}) {
+        try {
+          return await request2(method, params, options2);
+        } catch (error) {
+          if (!fallbackMethod || !isUnsupportedBridgeMethodError(error))
+            throw error;
+          debug("Retrying request with fallback method", {
+            method,
+            fallbackMethod,
+            code: error == null ? void 0 : error.code,
+            message: (error == null ? void 0 : error.message) || String(error)
+          });
+          return request2(fallbackMethod, params, options2);
+        }
+      }
+      async function send(method, params) {
+        await start();
+        return sendInternal(method, params);
+      }
+      function listPlatforms({ forceRefresh = false, timeoutMs = DEFAULT_PLATFORM_REQUEST_TIMEOUT_MS } = {}) {
+        return request2("listPlatforms", { forceRefresh }, { timeoutMs });
+      }
+      function health({ timeoutMs = 5e3 } = {}) {
+        return request2("health", {}, { timeoutMs });
+      }
+      function listSupportedPlatforms({ timeoutMs = DEFAULT_PLATFORM_REQUEST_TIMEOUT_MS } = {}) {
+        return requestWithMethodFallback("listSupportedPlatforms", "list_supported_platforms", {}, { timeoutMs });
+      }
+      function checkAuth(platformOrPlatforms, { timeoutMs = DEFAULT_PLATFORM_REQUEST_TIMEOUT_MS, forceRefresh = false } = {}) {
+        const params = Array.isArray(platformOrPlatforms) ? { platforms: platformOrPlatforms, forceRefresh } : { platform: platformOrPlatforms, forceRefresh };
+        return requestWithMethodFallback("checkAuth", "check_auth", params, { timeoutMs });
+      }
+      function syncArticle({ platforms, title, markdown, content, cover, coverThumbnail, assets, quotaPolicy, timeoutMs = DEFAULT_SYNC_REQUEST_TIMEOUT_MS }) {
+        const article = { title, markdown, content, cover, assets };
+        if (coverThumbnail)
+          article.coverThumbnail = coverThumbnail;
+        const params = { platforms, article };
+        if (quotaPolicy === "block" || quotaPolicy === "truncate") {
+          params.quotaPolicy = quotaPolicy;
+        }
+        return request2("syncArticle", params, { timeoutMs });
+      }
+      function enqueueSyncArticle({
+        platforms,
+        title,
+        markdown,
+        content,
+        cover,
+        coverThumbnail,
+        assets,
+        source = "obsidian",
+        quotaPolicy,
+        timeoutMs = 1e4
+      }) {
+        const article = { title, markdown, content, cover, assets };
+        if (coverThumbnail)
+          article.coverThumbnail = coverThumbnail;
+        const params = { platforms, source, article };
+        if (quotaPolicy === "block" || quotaPolicy === "truncate") {
+          params.quotaPolicy = quotaPolicy;
+        }
+        return requestWithMethodFallback("enqueueSyncArticle", "enqueue_sync_article", params, { timeoutMs });
+      }
+      function getSyncTask(syncIdOrOptions, { timeoutMs = 5e3 } = {}) {
+        const params = typeof syncIdOrOptions === "object" && syncIdOrOptions !== null ? { syncId: syncIdOrOptions.syncId } : { syncId: syncIdOrOptions };
+        return requestWithMethodFallback("getSyncTask", "get_sync_task", params, { timeoutMs });
+      }
+      function getSyncTaskLink(syncIdOrOptions, { timeoutMs = 5e3 } = {}) {
+        const params = typeof syncIdOrOptions === "object" && syncIdOrOptions !== null ? { syncId: syncIdOrOptions.syncId } : { syncId: syncIdOrOptions };
+        return requestWithMethodFallback("getSyncTaskLink", "get_sync_task_link", params, { timeoutMs });
+      }
+      function openSyncTask(syncIdOrOptions, { timeoutMs = 5e3 } = {}) {
+        const params = typeof syncIdOrOptions === "object" && syncIdOrOptions !== null ? { syncId: syncIdOrOptions.syncId } : { syncId: syncIdOrOptions };
+        return requestWithMethodFallback("openSyncTask", "open_sync_task", params, { timeoutMs });
+      }
+      function getAuthSnapshot({ platforms = [], maxAgeMs = 864e5, timeoutMs = 5e3 } = {}) {
+        return requestWithMethodFallback("getAuthSnapshot", "get_auth_snapshot", {
+          platforms,
+          maxAgeMs
+        }, { timeoutMs });
+      }
+      function sendArticle({ platforms, title, markdown, content, cover, coverThumbnail, assets, quotaPolicy }) {
+        const article = { title, markdown, content, cover, assets };
+        if (coverThumbnail)
+          article.coverThumbnail = coverThumbnail;
+        const params = { platforms, article };
+        if (quotaPolicy === "block" || quotaPolicy === "truncate") {
+          params.quotaPolicy = quotaPolicy;
+        }
+        return send("syncArticle", params);
+      }
+      async function getStatus() {
+        return {
+          mode: "primary",
+          connected: isAuthenticatedConnected(),
+          authenticated: isAuthenticatedConnected(),
+          pendingConnections: pendingConnections.size,
+          host: bindHost,
+          allowRemote: !!allowRemote,
+          port,
+          connectedClients: connectedClients.map((c) => ({ ...c })),
+          primaryClientId,
+          maxClients,
+          diagnostics: getDiagnostics()
+        };
+      }
+      function getDiagnostics() {
+        return {
+          socketsOpened: diagnostics.socketsOpened,
+          helloAttempts: diagnostics.helloAttempts,
+          helloRejections: diagnostics.helloRejections,
+          helloSuccesses: diagnostics.helloSuccesses,
+          pendingConnections: pendingConnections.size,
+          lastHelloRejection: diagnostics.lastHelloRejection ? { ...diagnostics.lastHelloRejection, details: { ...diagnostics.lastHelloRejection.details || {} } } : null
+        };
+      }
+      function getActiveClientDescriptor() {
+        const session = primaryClientId ? sessions.get(primaryClientId) : null;
+        if (!session)
+          return null;
+        return {
+          connectionId: session.connectionId,
+          extensionInstanceId: session.extensionInstanceId,
+          extensionId: session.extensionId,
+          version: session.version,
+          profileLabel: session.profileLabel,
+          browserName: session.browserName,
+          capabilities: { ...session.capabilities || {} },
+          connectedAt: session.connectedAt,
+          authenticatedAt: session.authenticatedAt,
+          origin: session.origin
+        };
+      }
+      return {
+        start,
+        stop,
+        waitForConnection,
+        getStatus,
+        getDiagnostics,
+        getActiveClientDescriptor,
+        health,
+        listSupportedPlatforms,
+        listPlatforms,
+        checkAuth,
+        syncArticle,
+        enqueueSyncArticle,
+        getSyncTask,
+        getSyncTaskLink,
+        openSyncTask,
+        getAuthSnapshot,
+        sendArticle,
+        _request: request2,
+        _send: send
+      };
+    }
+    module2.exports = {
+      DEFAULT_WECHATSYNC_PORT: DEFAULT_WECHATSYNC_PORT2,
+      DEFAULT_SYNC_REQUEST_TIMEOUT_MS,
+      DEFAULT_HELLO_TIMEOUT_MS,
+      LOCAL_BIND_HOST,
+      REMOTE_BIND_HOST,
+      HELLO_ERROR_TOKEN_MISMATCH,
+      HELLO_ERROR_INVALID_PAYLOAD,
+      HELLO_ERROR_TIMEOUT,
+      HELLO_ERROR_VERSION_UNSUPPORTED,
+      HELLO_ERROR_DUPLICATE_SESSION,
+      HELLO_ERROR_TOO_MANY_CLIENTS,
+      DEFAULT_MAX_CLIENTS,
+      createReadableBridgeError,
+      createWechatSyncBridgeService: createWechatSyncBridgeService2,
+      isOriginAllowedForWebSocket,
+      isRecoverableBridgeConnectionError,
+      isUnsupportedBridgeMethodError,
+      parseWebSocketFrames,
+      retryRecoverableBridgeOperation: retryRecoverableBridgeOperation2
+    };
+  }
+});
+
+// services/wechatsync-results.js
+var require_wechatsync_results = __commonJS({
+  "services/wechatsync-results.js"(exports2, module2) {
+    var FEATURED_WECHATSYNC_PLATFORM_ORDER = [
+      "xiaohongshu",
+      "zhihu",
+      "weibo",
+      "douyin",
+      "toutiao",
+      "bilibili",
+      "csdn",
+      "yuque",
+      "jianshu",
+      "smzdm"
+    ];
+    var FEATURED_WECHATSYNC_PLATFORM_RANK = new Map(
+      FEATURED_WECHATSYNC_PLATFORM_ORDER.map((id, index) => [id, index])
+    );
+    var FALLBACK_WECHATSYNC_PLATFORMS = [
+      { id: "xiaohongshu", name: "\u5C0F\u7EA2\u4E66", homepage: "https://creator.xiaohongshu.com/publish/publish?from=menu&target=article", capabilities: ["article", "draft", "image_upload"] },
+      { id: "zhihu", name: "\u77E5\u4E4E", homepage: "https://www.zhihu.com", capabilities: ["article", "draft", "image_upload", "tags", "cover"] },
+      { id: "weibo", name: "\u5FAE\u535A", homepage: "https://card.weibo.com/article/v5/editor", capabilities: ["article", "draft", "image_upload", "cover"] },
+      { id: "douyin", name: "\u6296\u97F3\u56FE\u6587", homepage: "https://creator.douyin.com", capabilities: ["article", "draft", "image_upload"] },
+      { id: "toutiao", name: "\u5934\u6761\u53F7", homepage: "https://mp.toutiao.com/profile_v4/graphic/publish", capabilities: ["article", "draft", "image_upload", "cover"] },
+      { id: "bilibili", name: "B\u7AD9\u4E13\u680F", homepage: "https://member.bilibili.com/platform/upload/text", capabilities: ["article", "draft", "image_upload"] },
+      { id: "csdn", name: "CSDN", homepage: "https://editor.csdn.net/md/", capabilities: ["article", "draft", "image_upload"] },
+      { id: "yuque", name: "\u8BED\u96C0", homepage: "https://www.yuque.com/dashboard", capabilities: ["article", "draft", "image_upload"] },
+      { id: "jianshu", name: "\u7B80\u4E66", homepage: "https://www.jianshu.com", capabilities: ["article", "draft", "image_upload", "categories"] },
+      { id: "smzdm", name: "\u4EC0\u4E48\u503C\u5F97\u4E70", homepage: "https://post.smzdm.com/tougao/", capabilities: ["article", "draft", "image_upload"] },
+      { id: "juejin", name: "\u6398\u91D1", homepage: "https://juejin.cn", capabilities: ["article", "draft", "image_upload", "categories", "tags", "cover"] },
+      { id: "baijiahao", name: "\u767E\u5BB6\u53F7", homepage: "https://baijiahao.baidu.com/", capabilities: ["article", "draft", "image_upload"] },
+      { id: "douban", name: "\u8C46\u74E3", homepage: "https://www.douban.com/note/create", capabilities: ["article", "draft", "image_upload"] },
+      { id: "sohu", name: "\u641C\u72D0\u53F7", homepage: "https://mp.sohu.com/mpfe/v3/main/first/page?newsType=1", capabilities: ["article", "draft", "image_upload"] },
+      { id: "xueqiu", name: "\u96EA\u7403", homepage: "https://mp.xueqiu.com/writeV2", capabilities: ["article", "draft", "image_upload"] },
+      { id: "woshipm", name: "\u4EBA\u4EBA\u90FD\u662F\u4EA7\u54C1\u7ECF\u7406", homepage: "https://www.woshipm.com", capabilities: ["article", "draft", "image_upload"] },
+      { id: "dayu", name: "\u5927\u9C7C\u53F7", homepage: "https://mp.dayu.com/dashboard/account/profile", capabilities: ["article", "draft", "image_upload"] },
+      { id: "yidian", name: "\u4E00\u70B9\u53F7", homepage: "https://mp.yidianzixun.com", capabilities: ["article", "draft", "image_upload"] },
+      { id: "51cto", name: "51CTO", homepage: "https://blog.51cto.com/blogger/publish", capabilities: ["article", "draft", "image_upload"] },
+      { id: "imooc", name: "\u6155\u8BFE\u624B\u8BB0", homepage: "https://www.imooc.com/article", capabilities: ["article", "draft", "image_upload"] },
+      { id: "oschina", name: "\u5F00\u6E90\u4E2D\u56FD", homepage: "https://my.oschina.net", capabilities: ["article", "draft", "image_upload"] },
+      { id: "segmentfault", name: "\u601D\u5426", homepage: "https://segmentfault.com/user/draft", capabilities: ["article", "draft", "image_upload"] },
+      { id: "cnblogs", name: "\u535A\u5BA2\u56ED", homepage: "https://www.cnblogs.com", capabilities: ["article", "draft", "image_upload"] },
+      { id: "sohufocus", name: "\u641C\u72D0\u7126\u70B9", homepage: "https://mp.focus.cn/fe/index.html#/info/draft", capabilities: ["article", "draft", "image_upload"] },
+      { id: "x", name: "X (Twitter)", homepage: "https://x.com/compose/articles", capabilities: ["article", "draft", "image_upload"] },
+      { id: "eastmoney", name: "\u4E1C\u65B9\u8D22\u5BCC", homepage: "https://mp.eastmoney.com", capabilities: ["article", "draft", "image_upload", "cover"] },
+      { id: "netease", name: "\u7F51\u6613\u53F7", homepage: "https://mp.163.com/#/article-publish", capabilities: ["article", "draft", "image_upload"] }
+    ];
+    function getFallbackWechatsyncPlatforms2() {
+      return FALLBACK_WECHATSYNC_PLATFORMS.map((platform) => ({ ...platform }));
+    }
+    function isPlatformNotFoundError(error = "") {
+      return /platform not found|adapter not found|not found/i.test(String(error || ""));
+    }
+    function normalizeWechatsyncCapabilities(platform = {}) {
+      const rawCapabilities = Array.isArray(platform.capabilities) ? platform.capabilities : [];
+      const capabilitySet = new Set(rawCapabilities.map((capability) => String(capability || "").trim()).filter(Boolean));
+      if (platform.supportsArticle === true)
+        capabilitySet.add("article");
+      if (platform.supportsDraft === true || platform.draft === true)
+        capabilitySet.add("draft");
+      if (platform.supportsImageUpload === true || platform.imageUpload === true || platform.supportsImages === true) {
+        capabilitySet.add("image_upload");
+      }
+      if (platform.supportsCover === true || platform.cover === true)
+        capabilitySet.add("cover");
+      if (platform.supportsTags === true || platform.tags === true)
+        capabilitySet.add("tags");
+      if (platform.supportsCategories === true || platform.categories === true)
+        capabilitySet.add("categories");
+      return Array.from(capabilitySet);
+    }
+    function normalizeWechatsyncPlatform2(platform = {}) {
+      const id = String(platform.id || platform.type || platform.platform || "").trim();
+      if (!id || id === "weixin")
+        return null;
+      const nestedAuth = platform.auth && typeof platform.auth === "object" ? platform.auth : {};
+      const user = platform.user && typeof platform.user === "object" ? platform.user : {};
+      const rawStatus = String(platform.status || platform.authStatus || platform.authState || "").trim();
+      const authStatus = ["available", "login_required", "unknown", "bridge_required"].includes(rawStatus) ? rawStatus : "";
+      const hasExplicitAuthKnown = Object.prototype.hasOwnProperty.call(platform, "authKnown");
+      const authKnown = hasExplicitAuthKnown ? platform.authKnown === true : Object.prototype.hasOwnProperty.call(platform, "isAuthenticated") || Object.prototype.hasOwnProperty.call(platform, "authenticated") || Object.prototype.hasOwnProperty.call(platform, "isAuth") || Object.prototype.hasOwnProperty.call(platform, "loggedIn") || Object.prototype.hasOwnProperty.call(nestedAuth, "isAuthenticated") || Object.prototype.hasOwnProperty.call(nestedAuth, "authenticated") || Object.prototype.hasOwnProperty.call(nestedAuth, "loggedIn") || typeof platform.status === "string";
+      return {
+        id,
+        name: String(platform.name || platform.title || platform.platformName || id),
+        homepage: typeof platform.homepage === "string" ? platform.homepage : "",
+        icon: typeof platform.icon === "string" ? platform.icon : "",
+        capabilities: normalizeWechatsyncCapabilities(platform),
+        authStatus,
+        authKnown,
+        authenticated: platform.isAuthenticated === true || platform.authenticated === true || platform.isAuth === true || platform.loggedIn === true || nestedAuth.isAuthenticated === true || nestedAuth.authenticated === true || nestedAuth.loggedIn === true || authStatus === "available" || platform.status === "authenticated" || platform.status === "logged_in" || platform.status === "\u5DF2\u767B\u5F55",
+        username: typeof platform.username === "string" ? platform.username : typeof platform.accountName === "string" ? platform.accountName : typeof nestedAuth.username === "string" ? nestedAuth.username : typeof user.name === "string" ? user.name : "",
+        error: typeof platform.error === "string" ? platform.error : ""
+      };
+    }
+    function getWechatsyncPlatformStatus(platform = {}, options = {}) {
+      if (options.bridgeConnected === false || platform.authStatus === "bridge_required")
+        return "bridge_required";
+      const explicitStatus = String(platform.authStatus || platform.authState || "").trim();
+      if (["available", "login_required", "unknown", "bridge_required"].includes(explicitStatus))
+        return explicitStatus;
+      if (!platform.authKnown)
+        return "unknown";
+      return platform.authenticated ? "available" : "login_required";
+    }
+    function getWechatsyncPlatformStatusBadge2(platform = {}, options = {}) {
+      const status = getWechatsyncPlatformStatus(platform, options);
+      if (status === "bridge_required")
+        return { status, text: "\u9700\u8FDE\u63A5\u6D4F\u89C8\u5668\u63D2\u4EF6", cls: "is-bridge" };
+      if (status === "available") {
+        return {
+          status,
+          text: platform.username ? `\u4E0A\u6B21\u53EF\u7528 \xB7 ${platform.username}` : "\u4E0A\u6B21\u53EF\u7528",
+          cls: "is-ok"
+        };
+      }
+      if (status === "login_required") {
+        return { status, text: platform.error || "\u9700\u767B\u5F55", cls: "is-error" };
+      }
+      return { status: "unknown", text: "\u672A\u68C0\u6D4B", cls: "is-unknown" };
+    }
+    function getWechatsyncPlatformIdFromItem(item = {}) {
+      return String((item == null ? void 0 : item.id) || (item == null ? void 0 : item.platform) || (item == null ? void 0 : item.type) || item || "").trim();
+    }
+    function getWechatsyncPlatformSortRank(platformId = "") {
+      return FEATURED_WECHATSYNC_PLATFORM_RANK.has(platformId) ? FEATURED_WECHATSYNC_PLATFORM_RANK.get(platformId) : FEATURED_WECHATSYNC_PLATFORM_ORDER.length + 1e3;
+    }
+    function isWechatsyncPlatformAuthenticated(platform = {}, bridgeConnected = true) {
+      if (bridgeConnected === false)
+        return false;
+      const status = getWechatsyncPlatformStatus(platform, { bridgeConnected });
+      return status === "available" || (platform == null ? void 0 : platform.authenticated) === true;
+    }
+    function sortWechatsyncPlatformItemsForDisplay2(items = [], options = {}) {
+      const {
+        bridgeConnected = true,
+        authenticatedFirst = bridgeConnected !== false,
+        getPlatformId = getWechatsyncPlatformIdFromItem,
+        getPlatform = (item) => item
+      } = options;
+      return (Array.isArray(items) ? items : []).map((item, originalIndex) => ({ item, originalIndex })).sort((a, b) => {
+        const aPlatform = getPlatform(a.item) || {};
+        const bPlatform = getPlatform(b.item) || {};
+        if (authenticatedFirst) {
+          const authDiff = Number(isWechatsyncPlatformAuthenticated(bPlatform, bridgeConnected)) - Number(isWechatsyncPlatformAuthenticated(aPlatform, bridgeConnected));
+          if (authDiff !== 0)
+            return authDiff;
+        }
+        const aRank = getWechatsyncPlatformSortRank(getPlatformId(a.item));
+        const bRank = getWechatsyncPlatformSortRank(getPlatformId(b.item));
+        return aRank - bRank || a.originalIndex - b.originalIndex;
+      }).map(({ item }) => item);
+    }
+    function sortWechatsyncPlatformsForDisplay(platforms = [], options = {}) {
+      return sortWechatsyncPlatformItemsForDisplay2(platforms, {
+        ...options,
+        getPlatformId: (platform) => platform == null ? void 0 : platform.id,
+        getPlatform: (platform) => platform
+      });
+    }
+    function buildWechatsyncPlatformCatalog2(options = {}) {
+      var _a;
+      const {
+        fallbackPlatforms = getFallbackWechatsyncPlatforms2(),
+        supportedPlatforms = [],
+        authSnapshotPlatforms = [],
+        bridgeConnected = true
+      } = options;
+      const normalizedSupported = normalizeWechatsyncPlatformList2(supportedPlatforms);
+      const basePlatforms = bridgeConnected && normalizedSupported.length ? normalizedSupported : normalizeWechatsyncPlatformList2(fallbackPlatforms);
+      const authById = new Map(
+        normalizeWechatsyncPlatformList2(authSnapshotPlatforms).map((platform) => [platform.id, platform])
+      );
+      const catalog = [];
+      const seen = /* @__PURE__ */ new Set();
+      for (const base of basePlatforms) {
+        const auth = authById.get(base.id);
+        const merged = {
+          ...base,
+          ...auth || {},
+          name: base.name || (auth == null ? void 0 : auth.name) || base.id,
+          homepage: base.homepage || (auth == null ? void 0 : auth.homepage) || "",
+          icon: base.icon || (auth == null ? void 0 : auth.icon) || "",
+          capabilities: ((_a = base.capabilities) == null ? void 0 : _a.length) ? base.capabilities : (auth == null ? void 0 : auth.capabilities) || []
+        };
+        catalog.push(bridgeConnected ? auth ? merged : { ...merged, authKnown: false, authenticated: false, username: "", error: "" } : { ...merged, authStatus: "bridge_required", authKnown: true, authenticated: false, username: "", error: "" });
+        seen.add(base.id);
+      }
+      if (bridgeConnected) {
+        for (const auth of authById.values()) {
+          if (seen.has(auth.id))
+            continue;
+          catalog.push(auth);
+        }
+      }
+      return sortWechatsyncPlatformsForDisplay(catalog, {
+        bridgeConnected,
+        authenticatedFirst: bridgeConnected
+      });
+    }
+    function normalizeWechatsyncCheckAuthResult(candidate = {}, auth = {}) {
+      const error = typeof (auth == null ? void 0 : auth.error) === "string" ? auth.error : "";
+      if (isPlatformNotFoundError(error))
+        return null;
+      return normalizeWechatsyncPlatform2({
+        ...auth,
+        id: candidate.id,
+        name: candidate.name,
+        type: candidate.id,
+        platform: candidate.id
+      });
+    }
+    async function probeWechatsyncPlatformsIndividually2(bridge, options = {}) {
+      const {
+        candidates = getFallbackWechatsyncPlatforms2(),
+        timeoutMs = 6e3,
+        concurrency = 4,
+        logger = console
+      } = options;
+      const results = [];
+      for (let i = 0; i < candidates.length; i += concurrency) {
+        const batch = candidates.slice(i, i + concurrency);
+        const batchResults = await Promise.all(batch.map(async (candidate) => {
+          var _a, _b;
+          try {
+            const auth = await bridge.checkAuth(candidate.id, { timeoutMs });
+            const normalized = normalizeWechatsyncCheckAuthResult(candidate, auth);
+            (_a = logger.debug) == null ? void 0 : _a.call(logger, "[Wechatsync] fallback checkAuth result", {
+              id: candidate.id,
+              name: candidate.name,
+              authenticated: normalized == null ? void 0 : normalized.authenticated,
+              error: (auth == null ? void 0 : auth.error) || ""
+            });
+            return normalized;
+          } catch (error) {
+            (_b = logger.debug) == null ? void 0 : _b.call(logger, "[Wechatsync] fallback checkAuth failed", {
+              id: candidate.id,
+              name: candidate.name,
+              code: error == null ? void 0 : error.code,
+              message: (error == null ? void 0 : error.message) || String(error)
+            });
+            return null;
+          }
+        }));
+        results.push(...batchResults.filter(Boolean));
+      }
+      const byId = /* @__PURE__ */ new Map();
+      for (const platform of results) {
+        if (!byId.has(platform.id))
+          byId.set(platform.id, platform);
+      }
+      return Array.from(byId.values());
+    }
+    function normalizeWechatsyncPlatformList2(response) {
+      const candidates = Array.isArray(response) ? response : Array.isArray(response == null ? void 0 : response.platforms) ? response.platforms : Array.isArray(response == null ? void 0 : response.result) ? response.result : Array.isArray(response == null ? void 0 : response.data) ? response.data : [];
+      return candidates.map((platform) => normalizeWechatsyncPlatform2(platform)).filter(Boolean);
+    }
+    function normalizeWechatsyncAuthSnapshot2(response = {}, fallbackPlatforms = []) {
+      const source = response && typeof response === "object" ? response : {};
+      const fallbackById = new Map(
+        (Array.isArray(fallbackPlatforms) ? fallbackPlatforms : []).map((platform) => normalizeWechatsyncPlatform2(platform)).filter(Boolean).map((platform) => [platform.id, platform])
+      );
+      const platforms = normalizeWechatsyncPlatformList2(source).map((platform) => {
+        const fallback = fallbackById.get(platform.id) || {};
+        return {
+          ...fallback,
+          ...platform,
+          name: platform.name && platform.name !== platform.id ? platform.name : fallback.name || platform.name
+        };
+      });
+      const checkedAt = Number.isFinite(Number(source.checkedAt)) ? Number(source.checkedAt) : platforms.reduce((latest, platform) => {
+        const candidate = Number(platform.checkedAt || platform.lastSuccessAt || platform.lastFailureAt || 0);
+        return Number.isFinite(candidate) && candidate > latest ? candidate : latest;
+      }, 0);
+      return {
+        source: typeof source.source === "string" ? source.source : "cache",
+        checkedAt,
+        platforms
+      };
+    }
+    function summarizeWechatsyncPlatformResponse2(response) {
+      const rawPlatforms = Array.isArray(response) ? response : Array.isArray(response == null ? void 0 : response.platforms) ? response.platforms : Array.isArray(response == null ? void 0 : response.result) ? response.result : Array.isArray(response == null ? void 0 : response.data) ? response.data : [];
+      const normalized = normalizeWechatsyncPlatformList2(response);
+      return {
+        responseKind: Array.isArray(response) ? "array" : typeof response,
+        rawCount: rawPlatforms.length,
+        normalizedCount: normalized.length,
+        authenticatedCount: normalized.filter((platform) => platform.authenticated).length,
+        platforms: normalized.map((platform) => ({
+          id: platform.id,
+          name: platform.name,
+          authenticated: platform.authenticated,
+          username: platform.username
+        }))
+      };
+    }
+    function getWechatSyncResultPlatformId2(result = {}) {
+      return String(result.platform || result.id || result.type || "").trim();
+    }
+    function getWechatSyncResultError2(result = {}) {
+      return String(result.error || result.message || "").trim();
+    }
+    function getWechatSyncResultUrl2(result = {}) {
+      return String(result.postUrl || result.draftUrl || result.editUrl || result.url || result.link || "").trim();
+    }
+    function isWechatSyncAuthFailureMessage(message = "") {
+      return /未登录|登录|auth|unauthori[sz]ed|forbidden|cookie|token|鉴权|401|403/i.test(String(message || ""));
+    }
+    function isWechatSyncConnectionFailure2(error = {}) {
+      return ["AUTH_FAILED", "EXTENSION_NOT_CONNECTED", "EXTENSION_NOT_AUTHENTICATED", "BRIDGE_UNAVAILABLE", "PLATFORM_LIST_TIMEOUT"].includes(error == null ? void 0 : error.code);
+    }
+    function normalizeWechatSyncResponseResults2(result) {
+      if (Array.isArray(result == null ? void 0 : result.results))
+        return result.results.filter(Boolean);
+      if (Array.isArray(result))
+        return result.filter(Boolean);
+      if (result && typeof result === "object" && "success" in result)
+        return [result];
+      return [];
+    }
+    function getMultiPlatformResultSummary2(results = [], requestedPlatformIds = [], fatalError = null) {
+      const normalizedResults = normalizeWechatSyncResponseResults2(results);
+      const successResults = normalizedResults.filter((item) => (item == null ? void 0 : item.success) === true);
+      const failedResults = normalizedResults.filter((item) => (item == null ? void 0 : item.success) === false);
+      const authFailedResults = failedResults.filter((item) => isWechatSyncAuthFailureMessage(getWechatSyncResultError2(item)));
+      const totalCount = normalizedResults.length || requestedPlatformIds.length;
+      return {
+        normalizedResults,
+        successResults,
+        failedResults,
+        authFailedResults,
+        successCount: successResults.length,
+        failedCount: failedResults.length,
+        totalCount,
+        isAllSuccess: totalCount > 0 && !fatalError && successResults.length === totalCount
+      };
+    }
+    function updateCachedPlatformsAfterSync2(cachedPlatforms = [], results = []) {
+      const byId = /* @__PURE__ */ new Map();
+      for (const platform of cachedPlatforms) {
+        const normalized = normalizeWechatsyncPlatform2(platform);
+        if (normalized)
+          byId.set(normalized.id, normalized);
+      }
+      for (const result of normalizeWechatSyncResponseResults2(results)) {
+        const platformId = getWechatSyncResultPlatformId2(result);
+        if (!platformId || platformId === "weixin")
+          continue;
+        const previous = byId.get(platformId) || normalizeWechatsyncPlatform2(result) || {
+          id: platformId,
+          name: platformId,
+          authenticated: false
+        };
+        const errorMessage = getWechatSyncResultError2(result);
+        if ((result == null ? void 0 : result.success) === true) {
+          byId.set(platformId, {
+            ...previous,
+            authenticated: true,
+            error: ""
+          });
+          continue;
+        }
+        if (isWechatSyncAuthFailureMessage(errorMessage)) {
+          byId.set(platformId, {
+            ...previous,
+            authenticated: false,
+            error: errorMessage
+          });
+        }
+      }
+      return Array.from(byId.values());
+    }
+    module2.exports = {
+      FEATURED_WECHATSYNC_PLATFORM_ORDER,
+      buildWechatsyncPlatformCatalog: buildWechatsyncPlatformCatalog2,
+      getFallbackWechatsyncPlatforms: getFallbackWechatsyncPlatforms2,
+      getMultiPlatformResultSummary: getMultiPlatformResultSummary2,
+      getWechatSyncResultError: getWechatSyncResultError2,
+      getWechatSyncResultPlatformId: getWechatSyncResultPlatformId2,
+      getWechatSyncResultUrl: getWechatSyncResultUrl2,
+      getWechatsyncPlatformStatus,
+      getWechatsyncPlatformStatusBadge: getWechatsyncPlatformStatusBadge2,
+      isWechatSyncAuthFailureMessage,
+      isWechatSyncConnectionFailure: isWechatSyncConnectionFailure2,
+      normalizeWechatSyncResponseResults: normalizeWechatSyncResponseResults2,
+      normalizeWechatsyncAuthSnapshot: normalizeWechatsyncAuthSnapshot2,
+      normalizeWechatsyncCheckAuthResult,
+      normalizeWechatsyncCapabilities,
+      normalizeWechatsyncPlatformList: normalizeWechatsyncPlatformList2,
+      normalizeWechatsyncPlatform: normalizeWechatsyncPlatform2,
+      probeWechatsyncPlatformsIndividually: probeWechatsyncPlatformsIndividually2,
+      sortWechatsyncPlatformItemsForDisplay: sortWechatsyncPlatformItemsForDisplay2,
+      sortWechatsyncPlatformsForDisplay,
+      summarizeWechatsyncPlatformResponse: summarizeWechatsyncPlatformResponse2,
+      updateCachedPlatformsAfterSync: updateCachedPlatformsAfterSync2
     };
   }
 });
@@ -10241,6 +12116,120 @@ var require_sync_context = __commonJS({
     module2.exports = {
       resolveSyncAccount: resolveSyncAccount2,
       toSyncFriendlyMessage: toSyncFriendlyMessage2
+    };
+  }
+});
+
+// services/wechat-draft-cache.js
+var require_wechat_draft_cache = __commonJS({
+  "services/wechat-draft-cache.js"(exports2, module2) {
+    var { normalizeVaultPath: normalizeVaultPath2 } = require_path_utils();
+    var DRAFT_CACHE_VERSION = 1;
+    function createEmptyDraftCache2() {
+      return {
+        version: DRAFT_CACHE_VERSION,
+        articles: {}
+      };
+    }
+    function normalizeDraftEntry(entry, fallbackPath = "") {
+      if (!entry || typeof entry !== "object")
+        return null;
+      const mediaId = typeof entry.mediaId === "string" ? entry.mediaId.trim() : typeof entry.media_id === "string" ? entry.media_id.trim() : "";
+      if (!mediaId)
+        return null;
+      const sourcePath = normalizeVaultPath2(
+        typeof entry.sourcePath === "string" && entry.sourcePath ? entry.sourcePath : fallbackPath
+      );
+      if (!sourcePath)
+        return null;
+      const index = Number.isInteger(entry.index) && entry.index >= 0 ? entry.index : 0;
+      const updatedAt = Number.isFinite(entry.updatedAt) && entry.updatedAt > 0 ? entry.updatedAt : 0;
+      return {
+        sourcePath,
+        mediaId,
+        accountId: typeof entry.accountId === "string" ? entry.accountId.trim() : "",
+        title: typeof entry.title === "string" ? entry.title : "",
+        index,
+        updatedAt
+      };
+    }
+    function normalizeDraftCache2(rawCache) {
+      const normalized = createEmptyDraftCache2();
+      let changed = false;
+      if (!rawCache || typeof rawCache !== "object" || Array.isArray(rawCache)) {
+        return {
+          cache: normalized,
+          changed: rawCache !== void 0 && rawCache !== null
+        };
+      }
+      const sourceArticles = rawCache.version === DRAFT_CACHE_VERSION && rawCache.articles && typeof rawCache.articles === "object" ? rawCache.articles : rawCache;
+      if (sourceArticles !== rawCache.articles || rawCache.version !== DRAFT_CACHE_VERSION) {
+        changed = true;
+      }
+      for (const [rawPath, rawEntry] of Object.entries(sourceArticles)) {
+        const sourcePath = normalizeVaultPath2(rawPath);
+        const entry = normalizeDraftEntry(rawEntry, sourcePath);
+        if (!entry) {
+          changed = true;
+          continue;
+        }
+        normalized.articles[entry.sourcePath] = entry;
+        if (entry.sourcePath !== rawPath || JSON.stringify(entry) !== JSON.stringify(rawEntry)) {
+          changed = true;
+        }
+      }
+      const expected = JSON.stringify(normalized);
+      if (expected !== JSON.stringify(rawCache)) {
+        changed = true;
+      }
+      return { cache: normalized, changed };
+    }
+    function getDraftAssociation2(settings, sourcePath, accountId = "") {
+      const path = normalizeVaultPath2(sourcePath || "");
+      if (!path)
+        return null;
+      const { cache } = normalizeDraftCache2(settings == null ? void 0 : settings.draftCache);
+      const entry = cache.articles[path] || null;
+      if (!entry)
+        return null;
+      const expectedAccountId = typeof accountId === "string" ? accountId.trim() : "";
+      if (expectedAccountId && entry.accountId && entry.accountId !== expectedAccountId) {
+        return null;
+      }
+      return { ...entry };
+    }
+    function setDraftAssociation2(settings, association) {
+      if (!settings || typeof settings !== "object")
+        return createEmptyDraftCache2();
+      const sourcePath = normalizeVaultPath2((association == null ? void 0 : association.sourcePath) || (association == null ? void 0 : association.filePath) || "");
+      const entry = normalizeDraftEntry({ ...association, sourcePath }, sourcePath);
+      const { cache } = normalizeDraftCache2(settings.draftCache);
+      if (entry) {
+        cache.articles[entry.sourcePath] = {
+          ...entry,
+          updatedAt: entry.updatedAt || Date.now()
+        };
+      }
+      settings.draftCache = cache;
+      return cache;
+    }
+    function clearDraftAssociation2(settings, sourcePath) {
+      if (!settings || typeof settings !== "object")
+        return createEmptyDraftCache2();
+      const path = normalizeVaultPath2(sourcePath || "");
+      const { cache } = normalizeDraftCache2(settings.draftCache);
+      if (path)
+        delete cache.articles[path];
+      settings.draftCache = cache;
+      return cache;
+    }
+    module2.exports = {
+      DRAFT_CACHE_VERSION,
+      createEmptyDraftCache: createEmptyDraftCache2,
+      normalizeDraftCache: normalizeDraftCache2,
+      getDraftAssociation: getDraftAssociation2,
+      setDraftAssociation: setDraftAssociation2,
+      clearDraftAssociation: clearDraftAssociation2
     };
   }
 });
@@ -11262,6 +13251,2212 @@ var require_obsidian_fetch_adapter = __commonJS({
   }
 });
 
+// services/markdown-utils.js
+var require_markdown_utils = __commonJS({
+  "services/markdown-utils.js"(exports2, module2) {
+    function stripMarkdownFrontmatter2(markdown = "") {
+      return String(markdown || "").replace(
+        /^(?:\uFEFF)?---[ \t]*\r?\n[\s\S]*?\r?\n(?:---|\.\.\.)[ \t]*(?:\r?\n|$)/,
+        ""
+      );
+    }
+    module2.exports = {
+      stripMarkdownFrontmatter: stripMarkdownFrontmatter2
+    };
+  }
+});
+
+// services/article-image-assets.js
+var require_article_image_assets = __commonJS({
+  "services/article-image-assets.js"(exports2, module2) {
+    var path = require("path");
+    var { fileURLToPath } = require("url");
+    var DEFAULT_MAX_IMAGE_SIZE_BYTES = 10 * 1024 * 1024;
+    var DEFAULT_MAX_TOTAL_IMAGE_SIZE_BYTES = 50 * 1024 * 1024;
+    var SUPPORTED_IMAGE_MIME_BY_EXT = {
+      png: "image/png",
+      jpg: "image/jpeg",
+      jpeg: "image/jpeg",
+      webp: "image/webp",
+      gif: "image/gif"
+    };
+    var RECOGNIZED_UNSUPPORTED_IMAGE_MIME_BY_EXT = {
+      svg: "image/svg+xml",
+      heic: "image/heic",
+      heif: "image/heif",
+      avif: "image/avif"
+    };
+    function normalizePath(value) {
+      return String(value || "").trim().replace(/\\/g, "/").replace(/^\/+/, "").replace(/\/{2,}/g, "/");
+    }
+    function getExtension(filename) {
+      const ext = String(filename || "").split("?")[0].split("#")[0].split(".").pop();
+      return ext && ext !== filename ? ext.toLowerCase() : "";
+    }
+    function isRemoteImageSrc(src) {
+      return /^https?:\/\//i.test(String(src || "").trim());
+    }
+    function isDataImageSrc(src) {
+      return /^data:image\//i.test(String(src || "").trim());
+    }
+    function isAssetImageSrc(src) {
+      return /^asset:\/\//i.test(String(src || "").trim());
+    }
+    function isFileUrl(src) {
+      return /^file:\/\//i.test(String(src || "").trim());
+    }
+    function decodeLocalPath(value) {
+      try {
+        return decodeURI(String(value || "").trim());
+      } catch (e) {
+        return String(value || "").trim();
+      }
+    }
+    function getFileUrlPath(src) {
+      try {
+        return fileURLToPath(src);
+      } catch (e) {
+        return "";
+      }
+    }
+    function getVaultRelativePathFromLocalPath(app, localPath) {
+      var _a, _b;
+      const basePath = (_b = (_a = app == null ? void 0 : app.vault) == null ? void 0 : _a.adapter) == null ? void 0 : _b.basePath;
+      if (!basePath || !localPath)
+        return "";
+      try {
+        const relativePath = path.relative(path.resolve(basePath), path.resolve(localPath));
+        if (!relativePath || relativePath.startsWith("..") || path.isAbsolute(relativePath))
+          return "";
+        return normalizePath(relativePath);
+      } catch (e) {
+        return "";
+      }
+    }
+    function getFilenameFromPath(src) {
+      const value = String(src || "").split("?")[0].split("#")[0].replace(/\\/g, "/");
+      const filename = value.split("/").filter(Boolean).pop();
+      return filename || "image";
+    }
+    function stripMarkdownDestination(rawDestination) {
+      const raw = String(rawDestination || "").trim();
+      if (raw.startsWith("<")) {
+        const end = raw.indexOf(">");
+        if (end > 0)
+          return raw.slice(1, end).trim();
+      }
+      return raw.replace(/\\([()])/g, "$1").trim();
+    }
+    function splitWikiEmbedTarget(rawTarget) {
+      const parts = String(rawTarget || "").split("|");
+      const src = (parts.shift() || "").trim();
+      const alias = parts.join("|").trim();
+      return { src, alias };
+    }
+    function createAltFromSrc(src, fallback = "\u56FE\u7247") {
+      const filename = getFilenameFromPath(src);
+      return filename.replace(/\.(png|jpe?g|gif|webp|svg|heic|heif|avif)$/i, "") || fallback;
+    }
+    function collectWikiImageEmbeds(markdown) {
+      const results = [];
+      const pattern = /!\[\[([^\]\n]+?)\]\]/g;
+      let match;
+      while ((match = pattern.exec(markdown)) !== null) {
+        const { src, alias } = splitWikiEmbedTarget(match[1]);
+        if (!src)
+          continue;
+        results.push({
+          type: "wiki",
+          start: match.index,
+          end: match.index + match[0].length,
+          raw: match[0],
+          src,
+          alt: alias || createAltFromSrc(src)
+        });
+      }
+      return results;
+    }
+    function isImageWikiTarget(src) {
+      const ext = getExtension(String(src || "").split("#")[0]);
+      return !!(SUPPORTED_IMAGE_MIME_BY_EXT[ext] || RECOGNIZED_UNSUPPORTED_IMAGE_MIME_BY_EXT[ext]);
+    }
+    function collectPlainWikiImageLinks(markdown) {
+      const results = [];
+      const pattern = /\[\[([^\]\n]+?)\]\]/g;
+      let match;
+      while ((match = pattern.exec(markdown)) !== null) {
+        if (markdown[match.index - 1] === "!")
+          continue;
+        const { src, alias } = splitWikiEmbedTarget(match[1]);
+        if (!src || !isImageWikiTarget(src))
+          continue;
+        results.push({
+          type: "wiki-link",
+          start: match.index,
+          end: match.index + match[0].length,
+          raw: match[0],
+          src,
+          alt: alias || createAltFromSrc(src)
+        });
+      }
+      return results;
+    }
+    function collectMarkdownImages(markdown) {
+      const results = [];
+      let index = 0;
+      while (index < markdown.length) {
+        const start = markdown.indexOf("![", index);
+        if (start < 0)
+          break;
+        let cursor = start + 2;
+        let escaped = false;
+        let altEnd = -1;
+        while (cursor < markdown.length) {
+          const char = markdown[cursor];
+          if (escaped) {
+            escaped = false;
+          } else if (char === "\\") {
+            escaped = true;
+          } else if (char === "]") {
+            altEnd = cursor;
+            break;
+          }
+          cursor += 1;
+        }
+        if (altEnd < 0 || markdown[altEnd + 1] !== "(") {
+          index = start + 2;
+          continue;
+        }
+        const destinationStart = altEnd + 2;
+        cursor = destinationStart;
+        let depth = 0;
+        escaped = false;
+        let destinationEnd = -1;
+        while (cursor < markdown.length) {
+          const char = markdown[cursor];
+          if (escaped) {
+            escaped = false;
+          } else if (char === "\\") {
+            escaped = true;
+          } else if (char === "(") {
+            depth += 1;
+          } else if (char === ")") {
+            if (depth === 0) {
+              destinationEnd = cursor;
+              break;
+            }
+            depth -= 1;
+          }
+          cursor += 1;
+        }
+        if (destinationEnd < 0) {
+          index = start + 2;
+          continue;
+        }
+        const alt = markdown.slice(start + 2, altEnd);
+        const destination = stripMarkdownDestination(markdown.slice(destinationStart, destinationEnd));
+        if (destination) {
+          results.push({
+            type: "markdown",
+            start,
+            end: destinationEnd + 1,
+            raw: markdown.slice(start, destinationEnd + 1),
+            src: destination,
+            alt
+          });
+        }
+        index = destinationEnd + 1;
+      }
+      return results;
+    }
+    function collectFencedCodeRanges(markdown) {
+      const ranges = [];
+      const fencePattern = /^( {0,3})(`{3,}|~{3,})[^\n]*(?:\n|$)/gm;
+      let match;
+      let open = null;
+      while ((match = fencePattern.exec(markdown)) !== null) {
+        const marker = match[2][0];
+        const length = match[2].length;
+        if (!open) {
+          open = { start: match.index, marker, length };
+          continue;
+        }
+        if (open.marker === marker && length >= open.length) {
+          ranges.push({ start: open.start, end: match.index + match[0].length });
+          open = null;
+        }
+      }
+      if (open)
+        ranges.push({ start: open.start, end: markdown.length });
+      return ranges;
+    }
+    function collectInlineCodeRanges(markdown, blockedRanges = []) {
+      const ranges = [];
+      let index = 0;
+      while (index < markdown.length) {
+        const blocked = blockedRanges.find((range) => index >= range.start && index < range.end);
+        if (blocked) {
+          index = blocked.end;
+          continue;
+        }
+        if (markdown[index] !== "`") {
+          index += 1;
+          continue;
+        }
+        let runEnd = index + 1;
+        while (runEnd < markdown.length && markdown[runEnd] === "`")
+          runEnd += 1;
+        const tickRun = markdown.slice(index, runEnd);
+        const closing = markdown.indexOf(tickRun, runEnd);
+        if (closing < 0) {
+          index = runEnd;
+          continue;
+        }
+        ranges.push({ start: index, end: closing + tickRun.length });
+        index = closing + tickRun.length;
+      }
+      return ranges;
+    }
+    function isInsideRanges(index, ranges) {
+      return ranges.some((range) => index >= range.start && index < range.end);
+    }
+    function collectArticleImageReferences(markdown) {
+      const fencedCodeRanges = collectFencedCodeRanges(markdown);
+      const codeRanges = [
+        ...fencedCodeRanges,
+        ...collectInlineCodeRanges(markdown, fencedCodeRanges)
+      ];
+      return [
+        ...collectWikiImageEmbeds(markdown),
+        ...collectPlainWikiImageLinks(markdown),
+        ...collectMarkdownImages(markdown)
+      ].filter((ref) => !isInsideRanges(ref.start, codeRanges)).sort((a, b) => a.start - b.start);
+    }
+    function bufferFromBinary(binary) {
+      if (Buffer.isBuffer(binary))
+        return binary;
+      if (binary instanceof ArrayBuffer)
+        return Buffer.from(binary);
+      if (ArrayBuffer.isView(binary)) {
+        return Buffer.from(binary.buffer, binary.byteOffset, binary.byteLength);
+      }
+      return Buffer.from(binary || []);
+    }
+    function inferMimeType(filename, buffer) {
+      const ext = getExtension(filename);
+      if (SUPPORTED_IMAGE_MIME_BY_EXT[ext])
+        return SUPPORTED_IMAGE_MIME_BY_EXT[ext];
+      if (RECOGNIZED_UNSUPPORTED_IMAGE_MIME_BY_EXT[ext]) {
+        return RECOGNIZED_UNSUPPORTED_IMAGE_MIME_BY_EXT[ext];
+      }
+      if ((buffer == null ? void 0 : buffer.length) >= 12) {
+        if (buffer[0] === 137 && buffer.slice(1, 4).toString("ascii") === "PNG")
+          return "image/png";
+        if (buffer[0] === 255 && buffer[1] === 216)
+          return "image/jpeg";
+        if (buffer.slice(0, 4).toString("ascii") === "GIF8")
+          return "image/gif";
+        if (buffer.slice(0, 4).toString("ascii") === "RIFF" && buffer.slice(8, 12).toString("ascii") === "WEBP")
+          return "image/webp";
+      }
+      return ext ? `image/${ext}` : "application/octet-stream";
+    }
+    function createWarning(code, message, details = {}) {
+      return {
+        code,
+        message,
+        severity: details.severity || "error",
+        src: details.src || "",
+        filename: details.filename || "",
+        size: details.size || 0
+      };
+    }
+    function isSupportedImageFile(filename) {
+      return !!SUPPORTED_IMAGE_MIME_BY_EXT[getExtension(filename)];
+    }
+    function isRecognizedUnsupportedImageFile(filename) {
+      return !!RECOGNIZED_UNSUPPORTED_IMAGE_MIME_BY_EXT[getExtension(filename)];
+    }
+    function getNoteSourcePath(noteFile) {
+      return typeof (noteFile == null ? void 0 : noteFile.path) === "string" ? noteFile.path : "";
+    }
+    function resolveVaultFile(app, src, noteFile) {
+      var _a, _b;
+      if (!app || !src)
+        return null;
+      const decoded = (() => {
+        try {
+          return decodeURI(src);
+        } catch (e) {
+          return src;
+        }
+      })();
+      const sourcePath = getNoteSourcePath(noteFile);
+      const metadataCache = app.metadataCache;
+      const vault = app.vault;
+      const lookupSrc = getVaultRelativePathFromLocalPath(app, decoded) || decoded;
+      try {
+        const linked = (_a = metadataCache == null ? void 0 : metadataCache.getFirstLinkpathDest) == null ? void 0 : _a.call(metadataCache, lookupSrc, sourcePath);
+        if (linked == null ? void 0 : linked.extension)
+          return linked;
+      } catch (e) {
+      }
+      const candidates = [];
+      const normalized = normalizePath(lookupSrc);
+      if (normalized)
+        candidates.push(normalized);
+      if (sourcePath && normalized && !normalized.startsWith("/")) {
+        const noteDir = path.posix.dirname(normalizePath(sourcePath));
+        candidates.push(normalizePath(path.posix.join(noteDir === "." ? "" : noteDir, normalized)));
+      }
+      for (const candidate of candidates) {
+        try {
+          const file = (_b = vault == null ? void 0 : vault.getAbstractFileByPath) == null ? void 0 : _b.call(vault, candidate);
+          if (file == null ? void 0 : file.extension)
+            return file;
+        } catch (e) {
+        }
+      }
+      return null;
+    }
+    async function readVaultAsset(app, file) {
+      var _a, _b;
+      const binary = await app.vault.readBinary(file);
+      const buffer = bufferFromBinary(binary);
+      let resourceSrc = "";
+      try {
+        resourceSrc = ((_b = (_a = app.vault).getResourcePath) == null ? void 0 : _b.call(_a, file)) || "";
+      } catch (e) {
+        resourceSrc = "";
+      }
+      return {
+        buffer,
+        filename: file.name || getFilenameFromPath(file.path),
+        vaultRelativePath: file.path || "",
+        resourceSrc
+      };
+    }
+    function makeAssetId(index) {
+      return `image-${index}`;
+    }
+    function createMarkdownImage(alt, src) {
+      const safeAlt = String(alt || createAltFromSrc(src)).replace(/\]/g, "\\]");
+      return `![${safeAlt}](${src})`;
+    }
+    function replaceRanges(markdown, replacements) {
+      return replacements.slice().sort((a, b) => b.start - a.start).reduce((output, item) => output.slice(0, item.start) + item.value + output.slice(item.end), markdown);
+    }
+    function isLocalLikeSrc(src) {
+      if (!src)
+        return false;
+      if (isRemoteImageSrc(src) || isDataImageSrc(src) || isAssetImageSrc(src))
+        return false;
+      return true;
+    }
+    async function resolveLocalImageAsset({
+      app,
+      src,
+      noteFile,
+      assetIndex,
+      originalSrc = src,
+      existingByKey,
+      limits
+    }) {
+      let file = null;
+      let readResult = null;
+      let cacheKey = "";
+      if (isFileUrl(src)) {
+        const filePath = getFileUrlPath(src);
+        const vaultRelativePath2 = getVaultRelativePathFromLocalPath(app, filePath);
+        if (!vaultRelativePath2) {
+          return {
+            warning: createWarning("image_outside_vault_unsupported", "\u53EA\u652F\u6301\u8BFB\u53D6\u5F53\u524D vault \u5185\u7684 file:// \u56FE\u7247", { src: originalSrc })
+          };
+        }
+        file = resolveVaultFile(app, vaultRelativePath2, noteFile);
+        if (!file) {
+          return {
+            warning: createWarning("image_local_missing", "\u672C\u5730\u56FE\u7247\u672A\u627E\u5230", { src: originalSrc })
+          };
+        }
+        cacheKey = `vault:${file.path || vaultRelativePath2}`;
+      } else {
+        file = resolveVaultFile(app, decodeLocalPath(src), noteFile);
+        if (!file) {
+          return {
+            warning: createWarning("image_local_missing", "\u672C\u5730\u56FE\u7247\u672A\u627E\u5230", { src: originalSrc })
+          };
+        }
+        cacheKey = `vault:${file.path || src}`;
+      }
+      if (existingByKey.has(cacheKey)) {
+        return { asset: existingByKey.get(cacheKey), reused: true };
+      }
+      try {
+        readResult = await readVaultAsset(app, file);
+      } catch (error) {
+        return {
+          warning: createWarning("image_local_read_failed", `\u8BFB\u53D6\u672C\u5730\u56FE\u7247\u5931\u8D25\uFF1A${error.message || String(error)}`, {
+            src: originalSrc,
+            filename: (file == null ? void 0 : file.name) || getFilenameFromPath(src)
+          })
+        };
+      }
+      const { buffer, filename, vaultRelativePath, resourceSrc } = readResult;
+      const mimeType = inferMimeType(filename, buffer);
+      const size = buffer.length;
+      if (!isSupportedImageFile(filename)) {
+        const code = isRecognizedUnsupportedImageFile(filename) ? "image_invalid_mime" : "image_invalid_mime";
+        return {
+          warning: createWarning(code, `\u6682\u4E0D\u652F\u6301\u8BE5\u56FE\u7247\u683C\u5F0F\uFF1A${filename}`, {
+            src: originalSrc,
+            filename,
+            size
+          })
+        };
+      }
+      if (size > limits.maxImageSizeBytes) {
+        return {
+          warning: createWarning("image_too_large", `\u56FE\u7247\u8D85\u8FC7 ${Math.round(limits.maxImageSizeBytes / 1024 / 1024)} MB\uFF1A${filename}`, {
+            src: originalSrc,
+            filename,
+            size
+          })
+        };
+      }
+      const asset = {
+        id: makeAssetId(assetIndex),
+        filename,
+        mimeType,
+        size,
+        base64: buffer.toString("base64"),
+        source: {
+          kind: "obsidian-local",
+          originalSrc,
+          notePath: getNoteSourcePath(noteFile),
+          vaultRelativePath
+        }
+      };
+      if (resourceSrc)
+        asset.source.resourceSrc = resourceSrc;
+      existingByKey.set(cacheKey, asset);
+      return { asset };
+    }
+    function getFirstMarkdownImageSrc(markdown) {
+      const first = collectArticleImageReferences(markdown)[0];
+      return (first == null ? void 0 : first.src) || "";
+    }
+    function replaceArticleContentImageSources(html, assets = []) {
+      var _a, _b, _c;
+      let output = String(html || "");
+      for (const asset of assets) {
+        const assetSrc = `asset://${asset.id}`;
+        const candidates = [
+          (_a = asset == null ? void 0 : asset.source) == null ? void 0 : _a.resourceSrc,
+          (_b = asset == null ? void 0 : asset.source) == null ? void 0 : _b.originalSrc,
+          (_c = asset == null ? void 0 : asset.source) == null ? void 0 : _c.vaultRelativePath
+        ].filter(Boolean);
+        for (const candidate of candidates) {
+          output = output.replace(
+            new RegExp(`(<img\\b[^>]*\\bsrc=["'])${escapeRegExp(candidate)}(["'][^>]*>)`, "gi"),
+            `$1${assetSrc}$2`
+          );
+        }
+      }
+      return output;
+    }
+    function stripUrlQueryHash(value) {
+      const raw = String(value || "");
+      if (!raw)
+        return "";
+      try {
+        const url = new URL(raw);
+        url.search = "";
+        url.hash = "";
+        return url.toString();
+      } catch (e) {
+        return raw.split("?")[0].split("#")[0];
+      }
+    }
+    function getRenderedSrcVaultPath(renderedSrc) {
+      try {
+        const url = new URL(String(renderedSrc || ""));
+        return decodeURIComponent(url.pathname.replace(/^\/+/, ""));
+      } catch (e) {
+        return "";
+      }
+    }
+    function findAssetForRenderedSrc(renderedSrc, assets = []) {
+      var _a, _b, _c;
+      const src = String(renderedSrc || "");
+      if (!src || !Array.isArray(assets) || !assets.length)
+        return null;
+      const renderedKey = stripUrlQueryHash(src);
+      for (const asset of assets) {
+        const resourceSrc = ((_a = asset == null ? void 0 : asset.source) == null ? void 0 : _a.resourceSrc) || "";
+        if (!resourceSrc)
+          continue;
+        if (stripUrlQueryHash(resourceSrc) === renderedKey)
+          return asset;
+      }
+      const pathInRenderedSrc = getRenderedSrcVaultPath(src);
+      if (!pathInRenderedSrc)
+        return null;
+      for (const asset of assets) {
+        const candidates = [
+          (_b = asset == null ? void 0 : asset.source) == null ? void 0 : _b.vaultRelativePath,
+          (_c = asset == null ? void 0 : asset.source) == null ? void 0 : _c.originalSrc
+        ].filter(Boolean);
+        for (const candidate of candidates) {
+          if (pathInRenderedSrc === candidate)
+            return asset;
+          if (pathInRenderedSrc.endsWith(`/${candidate}`))
+            return asset;
+        }
+      }
+      return null;
+    }
+    function findAssetForCover(coverString, assets = []) {
+      const cover = String(coverString || "").trim();
+      if (!cover.startsWith("asset://"))
+        return null;
+      if (!Array.isArray(assets) || !assets.length)
+        return null;
+      const id = cover.slice("asset://".length);
+      if (!id)
+        return null;
+      for (const asset of assets) {
+        if (asset && asset.id === id)
+          return asset;
+      }
+      return null;
+    }
+    function mapAppUrlImagesToAssetUrls2(html, assets = []) {
+      if (!html)
+        return "";
+      return String(html).replace(
+        /(<img\b[^>]*\bsrc=["'])([^"']+)(["'][^>]*>)/gi,
+        (match, prefix, src, suffix) => {
+          if (!/^(app|capacitor):\/\//i.test(src))
+            return match;
+          const asset = findAssetForRenderedSrc(src, assets);
+          if (!asset)
+            return match;
+          return `${prefix}asset://${asset.id}${suffix}`;
+        }
+      );
+    }
+    function escapeRegExp(value) {
+      return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    }
+    function formatArticleImageWarnings(warnings = []) {
+      const items = warnings.filter((warning) => (warning == null ? void 0 : warning.severity) !== "info");
+      if (!items.length)
+        return "";
+      const preview = items.slice(0, 3).map((warning) => {
+        const target = warning.filename || warning.src || "\u56FE\u7247";
+        return `${warning.message || "\u56FE\u7247\u5904\u7406\u5931\u8D25"}\uFF08${target}\uFF09`;
+      }).join("\uFF1B");
+      const suffix = items.length > 3 ? `\uFF0C\u53E6\u6709 ${items.length - 3} \u9879` : "";
+      return `${preview}${suffix}`;
+    }
+    async function resolveArticleImages(markdown, noteFile, options = {}) {
+      const app = options.app;
+      const limits = {
+        maxImageSizeBytes: options.maxImageSizeBytes || DEFAULT_MAX_IMAGE_SIZE_BYTES,
+        maxTotalImageSizeBytes: options.maxTotalImageSizeBytes || DEFAULT_MAX_TOTAL_IMAGE_SIZE_BYTES
+      };
+      const sourceMarkdown = String(markdown || "");
+      const references = collectArticleImageReferences(sourceMarkdown);
+      const warnings = [];
+      const replacements = [];
+      const assets = [];
+      const existingByKey = /* @__PURE__ */ new Map();
+      const resolveSrc = async (src, originalSrc = src) => {
+        const trimmed = String(src || "").trim();
+        if (!trimmed)
+          return { src: trimmed };
+        if (!isLocalLikeSrc(trimmed))
+          return { src: trimmed };
+        if (!isFileUrl(trimmed) && /^[a-z][a-z0-9+.-]*:/i.test(trimmed)) {
+          return {
+            src: trimmed,
+            warning: createWarning("image_unsupported_protocol", "\u4E0D\u652F\u6301\u7684\u56FE\u7247\u5730\u5740", { src: originalSrc })
+          };
+        }
+        const result = await resolveLocalImageAsset({
+          app,
+          src: trimmed,
+          noteFile,
+          assetIndex: assets.length + 1,
+          originalSrc,
+          existingByKey,
+          limits
+        });
+        if (result.warning)
+          return { src: trimmed, warning: result.warning };
+        if (result.asset && !result.reused)
+          assets.push(result.asset);
+        return { src: `asset://${result.asset.id}`, asset: result.asset };
+      };
+      for (const ref of references) {
+        const result = await resolveSrc(ref.src, ref.src);
+        if (result.warning) {
+          warnings.push(result.warning);
+          continue;
+        }
+        if (result.src !== ref.src) {
+          replacements.push({
+            start: ref.start,
+            end: ref.end,
+            value: createMarkdownImage(ref.alt, result.src)
+          });
+        }
+      }
+      let cover = options.cover || "";
+      if (cover && isLocalLikeSrc(cover)) {
+        const coverResult = await resolveSrc(cover, cover);
+        if (coverResult.warning) {
+          warnings.push(coverResult.warning);
+        } else {
+          cover = coverResult.src;
+        }
+      }
+      const totalSize = assets.reduce((sum, asset) => sum + (asset.size || 0), 0);
+      if (totalSize > limits.maxTotalImageSizeBytes) {
+        warnings.push(createWarning("image_too_large", `\u6587\u7AE0\u56FE\u7247\u603B\u91CF\u8D85\u8FC7 ${Math.round(limits.maxTotalImageSizeBytes / 1024 / 1024)} MB`, {
+          size: totalSize
+        }));
+      }
+      const resolvedMarkdown = replaceRanges(sourceMarkdown, replacements);
+      return {
+        markdown: resolvedMarkdown,
+        assets,
+        warnings,
+        cover,
+        firstImageSrc: getFirstMarkdownImageSrc(resolvedMarkdown)
+      };
+    }
+    module2.exports = {
+      DEFAULT_MAX_IMAGE_SIZE_BYTES,
+      DEFAULT_MAX_TOTAL_IMAGE_SIZE_BYTES,
+      collectArticleImageReferences,
+      findAssetForCover,
+      findAssetForRenderedSrc,
+      formatArticleImageWarnings,
+      getFirstMarkdownImageSrc,
+      mapAppUrlImagesToAssetUrls: mapAppUrlImagesToAssetUrls2,
+      replaceArticleContentImageSources,
+      resolveArticleImages
+    };
+  }
+});
+
+// services/wechatsync-settings.js
+var require_wechatsync_settings = __commonJS({
+  "services/wechatsync-settings.js"(exports2, module2) {
+    var { DEFAULT_WECHATSYNC_PORT: DEFAULT_WECHATSYNC_PORT2 } = require_wechatsync_bridge();
+    var {
+      buildWechatsyncPlatformCatalog: buildWechatsyncPlatformCatalog2,
+      getFallbackWechatsyncPlatforms: getFallbackWechatsyncPlatforms2,
+      normalizeWechatsyncPlatform: normalizeWechatsyncPlatform2
+    } = require_wechatsync_results();
+    function createDefaultMultiPlatformSyncSettings2() {
+      return {
+        enabled: false,
+        port: DEFAULT_WECHATSYNC_PORT2,
+        token: "",
+        allowRemote: false,
+        supportedPlatforms: [],
+        connectedClients: [],
+        selectedPlatforms: [],
+        recentTasks: [],
+        connection: {
+          status: "untested",
+          checkedAt: 0,
+          platforms: [],
+          message: ""
+        }
+      };
+    }
+    function normalizeConnectedClient(value) {
+      if (!value || typeof value !== "object")
+        return null;
+      const id = String(value.extensionInstanceId || "").trim();
+      if (!id)
+        return null;
+      const status = value.status === "connected" ? "connected" : "disconnected";
+      const now = Date.now();
+      return {
+        extensionInstanceId: id,
+        browserName: typeof value.browserName === "string" ? value.browserName : "",
+        profileLabel: typeof value.profileLabel === "string" ? value.profileLabel : "",
+        capabilities: value.capabilities && typeof value.capabilities === "object" ? { ...value.capabilities } : {},
+        extensionVersion: typeof value.extensionVersion === "string" ? value.extensionVersion : "",
+        status,
+        lastSeenAt: Number.isFinite(Number(value.lastSeenAt)) ? Number(value.lastSeenAt) : now,
+        firstConnectedAt: Number.isFinite(Number(value.firstConnectedAt)) ? Number(value.firstConnectedAt) : now,
+        lastConnectedAt: Number.isFinite(Number(value.lastConnectedAt)) ? Number(value.lastConnectedAt) : now
+      };
+    }
+    function normalizeConnectedClients(value) {
+      if (!Array.isArray(value))
+        return [];
+      return value.map((entry) => normalizeConnectedClient(entry)).filter(Boolean);
+    }
+    function normalizeWechatsyncPlatformId2(value = "") {
+      const id = String(value || "").trim().toLowerCase();
+      if (id === "twitter")
+        return "x";
+      return id && id !== "weixin" ? id : "";
+    }
+    function parseWechatsyncPlatformIds2(value = []) {
+      const rawIds = Array.isArray(value) ? value : String(value || "").split(/[\s,，;；]+/);
+      const seen = /* @__PURE__ */ new Set();
+      return rawIds.map((id) => normalizeWechatsyncPlatformId2(id)).filter((id) => {
+        if (!id || seen.has(id))
+          return false;
+        seen.add(id);
+        return true;
+      });
+    }
+    function mergeWechatsyncPlatformLists2(...lists) {
+      const byId = /* @__PURE__ */ new Map();
+      for (const list of lists) {
+        for (const platform of Array.isArray(list) ? list : []) {
+          const normalized = normalizeWechatsyncPlatform2(platform);
+          if (!normalized)
+            continue;
+          byId.set(normalized.id, {
+            ...byId.get(normalized.id) || {},
+            ...normalized
+          });
+        }
+      }
+      return Array.from(byId.values());
+    }
+    function normalizeWechatSyncCapabilities2(value = {}) {
+      const source = value && typeof value === "object" ? value : {};
+      const knownKeys = [
+        "enqueueSyncArticle",
+        "listSupportedPlatforms",
+        "checkAuth",
+        "getSyncTask",
+        "getSyncTaskLink",
+        "openSyncTask",
+        "getAuthSnapshot",
+        "quotaPolicy",
+        // Set by Obsidian Publisher >= 0.2.6 when LicenseManager reports an
+        // active Pro tier; the publish modal hides upgrade affordances when true.
+        "proLicensed"
+      ];
+      return knownKeys.reduce((result, key) => {
+        if (Object.prototype.hasOwnProperty.call(source, key))
+          result[key] = source[key] === true;
+        return result;
+      }, {});
+    }
+    function hasWechatSyncCapability2(settings = {}, capability = "") {
+      const capabilities = normalizeMultiPlatformSyncSettings2(settings).connection.capabilities || {};
+      return capabilities[capability] === true;
+    }
+    function hasWechatSyncProLicense(settings = {}) {
+      var _a, _b;
+      const normalized = normalizeMultiPlatformSyncSettings2(settings);
+      if (((_b = (_a = normalized.connection) == null ? void 0 : _a.capabilities) == null ? void 0 : _b.proLicensed) === true)
+        return true;
+      return (normalized.connectedClients || []).some((client) => {
+        if ((client == null ? void 0 : client.status) !== "connected")
+          return false;
+        return normalizeWechatSyncCapabilities2(client.capabilities || {}).proLicensed === true;
+      });
+    }
+    function normalizeWechatSyncRecentTasks2(value = []) {
+      const tasks = Array.isArray(value) ? value : [];
+      const seen = /* @__PURE__ */ new Set();
+      return tasks.map((task) => {
+        const syncId = String((task == null ? void 0 : task.syncId) || "").trim();
+        if (!syncId || seen.has(syncId))
+          return null;
+        seen.add(syncId);
+        return {
+          syncId,
+          title: String((task == null ? void 0 : task.title) || "\u65E0\u6807\u9898\u6587\u7AE0"),
+          platforms: parseWechatsyncPlatformIds2((task == null ? void 0 : task.platforms) || []),
+          createdAt: Number.isFinite(Number(task == null ? void 0 : task.createdAt)) ? Number(task.createdAt) : Date.now()
+        };
+      }).filter(Boolean).slice(0, 10);
+    }
+    function normalizeMultiPlatformConnection2(value = {}) {
+      const source = value && typeof value === "object" ? value : {};
+      const status = ["connected", "failed", "untested"].includes(source.status) ? source.status : "untested";
+      return {
+        status,
+        checkedAt: Number.isFinite(Number(source.checkedAt)) ? Number(source.checkedAt) : 0,
+        platforms: Array.isArray(source.platforms) ? source.platforms.map((platform) => normalizeWechatsyncPlatform2(platform)).filter(Boolean) : [],
+        message: typeof source.message === "string" ? source.message : "",
+        capabilities: normalizeWechatSyncCapabilities2(source.capabilities)
+      };
+    }
+    function normalizeMultiPlatformSyncSettings2(value = {}) {
+      const defaults = createDefaultMultiPlatformSyncSettings2();
+      const source = value && typeof value === "object" ? value : {};
+      const portNumber = Number(source.port);
+      const fallbackPlatformIds = new Set(getFallbackWechatsyncPlatforms2().map((platform) => platform.id));
+      const supportedPlatforms = mergeWechatsyncPlatformLists2(source.supportedPlatforms);
+      const supportedPlatformIds = new Set(supportedPlatforms.map((platform) => platform.id));
+      const selectablePlatformIds = /* @__PURE__ */ new Set([...fallbackPlatformIds, ...supportedPlatformIds]);
+      const selectedPlatforms = parseWechatsyncPlatformIds2(source.selectedPlatforms).filter((id) => selectablePlatformIds.has(id));
+      return {
+        enabled: !!source.enabled,
+        port: Number.isInteger(portNumber) && portNumber > 0 && portNumber < 65536 ? portNumber : defaults.port,
+        token: typeof source.token === "string" ? source.token.trim() : "",
+        allowRemote: source.allowRemote === true,
+        supportedPlatforms,
+        selectedPlatforms,
+        connection: normalizeMultiPlatformConnection2(source.connection),
+        recentTasks: normalizeWechatSyncRecentTasks2(source.recentTasks),
+        connectedClients: normalizeConnectedClients(source.connectedClients)
+      };
+    }
+    function getConfiguredWechatsyncPlatforms2(settings = {}, cachedPlatforms = []) {
+      const normalizedSettings = normalizeMultiPlatformSyncSettings2(settings);
+      const availableById = new Map(
+        mergeWechatsyncPlatformLists2(getFallbackWechatsyncPlatforms2(), normalizedSettings.supportedPlatforms).map((platform) => [platform.id, platform])
+      );
+      const cachedById = new Map(
+        (cachedPlatforms || []).map((platform) => normalizeWechatsyncPlatform2(platform)).filter(Boolean).map((platform) => [platform.id, platform])
+      );
+      return (normalizedSettings.selectedPlatforms || []).map((id) => {
+        const fallback = availableById.get(id) || { id, name: id, custom: true };
+        const cached = cachedById.get(id);
+        return cached ? { ...fallback, ...cached, authKnown: true } : { ...fallback, authKnown: false, authenticated: false, username: "", error: "" };
+      }).filter((platform) => platform.id !== "weixin");
+    }
+    function getAvailableWechatsyncPlatforms2(settings = {}) {
+      var _a, _b;
+      const normalizedSettings = normalizeMultiPlatformSyncSettings2(settings);
+      return buildWechatsyncPlatformCatalog2({
+        supportedPlatforms: normalizedSettings.supportedPlatforms,
+        authSnapshotPlatforms: ((_a = normalizedSettings.connection) == null ? void 0 : _a.platforms) || [],
+        bridgeConnected: ((_b = normalizedSettings.connection) == null ? void 0 : _b.status) === "connected"
+      });
+    }
+    module2.exports = {
+      createDefaultMultiPlatformSyncSettings: createDefaultMultiPlatformSyncSettings2,
+      normalizeConnectedClient,
+      normalizeConnectedClients,
+      normalizeWechatsyncPlatformId: normalizeWechatsyncPlatformId2,
+      parseWechatsyncPlatformIds: parseWechatsyncPlatformIds2,
+      mergeWechatsyncPlatformLists: mergeWechatsyncPlatformLists2,
+      normalizeWechatSyncCapabilities: normalizeWechatSyncCapabilities2,
+      hasWechatSyncCapability: hasWechatSyncCapability2,
+      hasWechatSyncProLicense,
+      normalizeWechatSyncRecentTasks: normalizeWechatSyncRecentTasks2,
+      normalizeMultiPlatformConnection: normalizeMultiPlatformConnection2,
+      normalizeMultiPlatformSyncSettings: normalizeMultiPlatformSyncSettings2,
+      getConfiguredWechatsyncPlatforms: getConfiguredWechatsyncPlatforms2,
+      getAvailableWechatsyncPlatforms: getAvailableWechatsyncPlatforms2
+    };
+  }
+});
+
+// views/connection-status-bar.js
+var require_connection_status_bar = __commonJS({
+  "views/connection-status-bar.js"(exports2, module2) {
+    function formatWechatsyncCheckedAt2(timestamp) {
+      if (!timestamp)
+        return "";
+      try {
+        return new Date(timestamp).toLocaleString("zh-CN", {
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit"
+        });
+      } catch (e) {
+        return "";
+      }
+    }
+    function describeWechatsyncConnectionState2(connection = {}, context = {}) {
+      const { variant = "modal" } = context;
+      const checkedAtText = formatWechatsyncCheckedAt2(connection.checkedAt);
+      if (connection.status === "connected") {
+        if (variant === "settings") {
+          return {
+            dotLabel: "\u5DF2\u8FDE\u63A5",
+            dotClass: "is-ok",
+            text: connection.message || (checkedAtText ? `\u5DF2\u8FDE\u63A5\u6D4F\u89C8\u5668\u63D2\u4EF6\u3002\u4E0A\u6B21\u68C0\u67E5 ${checkedAtText}\u3002` : "\u5DF2\u8FDE\u63A5\u6D4F\u89C8\u5668\u63D2\u4EF6\u3002")
+          };
+        }
+        return {
+          dotLabel: "\u5DF2\u8FDE\u63A5",
+          dotClass: "is-ok",
+          text: checkedAtText ? `\u5DF2\u8FDE\u63A5\u3002\u4F7F\u7528\u8BBE\u7F6E\u4E2D ${checkedAtText} \u7684\u6240\u9009\u5E73\u53F0\u914D\u7F6E\uFF0C\u5FAE\u4FE1\u4E0D\u4F1A\u51FA\u73B0\u5728\u8FD9\u91CC\u3002` : "\u5DF2\u8FDE\u63A5\u3002\u52FE\u9009\u672C\u6B21\u8981\u53D1\u9001\u7684\u5E73\u53F0\uFF0C\u5FAE\u4FE1\u4E0D\u4F1A\u51FA\u73B0\u5728\u8FD9\u91CC\u3002"
+        };
+      }
+      if (connection.status === "failed") {
+        return {
+          dotLabel: "\u672A\u8FDE\u63A5",
+          dotClass: "is-error",
+          text: variant === "settings" ? `\u4E0A\u6B21\u8FDE\u63A5\u5931\u8D25${connection.message ? `\uFF1A${connection.message}` : ""}\u3002\u8BF7\u68C0\u67E5\u7AEF\u53E3\u3001\u4EE4\u724C\u540E\u70B9\u51FB\u300C\u6D4B\u8BD5\u8FDE\u63A5\u300D\u3002` : `\u4E0A\u6B21\u8FDE\u63A5\u5931\u8D25${connection.message ? `\uFF1A${connection.message}` : ""}\u3002\u8BF7\u5148\u8FDE\u63A5\u6D4F\u89C8\u5668\u63D2\u4EF6\u540E\u518D\u53D1\u5E03\u3002`
+        };
+      }
+      return {
+        dotLabel: "\u672A\u6D4B\u8BD5",
+        dotClass: "",
+        text: variant === "settings" ? "\u5C1A\u672A\u6D4B\u8BD5\u4E0E\u6D4F\u89C8\u5668\u63D2\u4EF6\u7684\u8FDE\u63A5\u3002\u70B9\u51FB\u4E0B\u65B9\u300C\u6D4B\u8BD5\u8FDE\u63A5\u300D\u5F00\u59CB\u8BCA\u65AD\u3002" : "\u5C1A\u672A\u8FDE\u63A5\u6D4F\u89C8\u5668\u63D2\u4EF6\u3002\u5E73\u53F0\u5217\u8868\u5148\u663E\u793A\u672C\u5730\u5907\u7528\u6E05\u5355\uFF0C\u8FDE\u63A5\u540E\u4F1A\u8BFB\u53D6\u63D2\u4EF6\u5B9E\u9645\u652F\u6301\u7684\u5E73\u53F0\u3002"
+      };
+    }
+    function renderWechatsyncConnectionStatusBar2(parentEl, options = {}) {
+      const {
+        dotLabel = "",
+        dotClass = "",
+        text = "",
+        action = null
+      } = options;
+      const bar = parentEl.createDiv({ cls: "wechat-multiplatform-status" });
+      if (dotLabel) {
+        bar.createEl("span", {
+          text: dotLabel,
+          cls: `wechat-multiplatform-status-dot ${dotClass}`.trim()
+        });
+      }
+      if (text) {
+        bar.createEl("span", { text, cls: "wechat-multiplatform-status-text" });
+      }
+      let actionButton = null;
+      if (action && typeof action === "object") {
+        actionButton = bar.createEl("button", {
+          text: action.label || "\u91CD\u8BD5",
+          cls: "wechat-multiplatform-status-action"
+        });
+        if (action.disabled)
+          actionButton.disabled = true;
+        if (typeof action.onClick === "function") {
+          actionButton.addEventListener("click", (event) => {
+            action.onClick(event, actionButton);
+          });
+        }
+      }
+      return { bar, actionButton };
+    }
+    module2.exports = {
+      formatWechatsyncCheckedAt: formatWechatsyncCheckedAt2,
+      describeWechatsyncConnectionState: describeWechatsyncConnectionState2,
+      renderWechatsyncConnectionStatusBar: renderWechatsyncConnectionStatusBar2
+    };
+  }
+});
+
+// views/settings/multi-platform-tab.js
+var require_multi_platform_tab = __commonJS({
+  "views/settings/multi-platform-tab.js"(exports2, module2) {
+    var { Setting: Setting2, Notice: Notice2 } = require("obsidian");
+    var {
+      DEFAULT_WECHATSYNC_PORT: DEFAULT_WECHATSYNC_PORT2,
+      retryRecoverableBridgeOperation: retryRecoverableBridgeOperation2,
+      isUnsupportedBridgeMethodError: isWechatSyncUnsupportedMethodError2
+    } = require_wechatsync_bridge();
+    var {
+      getFallbackWechatsyncPlatforms: getFallbackWechatsyncPlatforms2,
+      getWechatsyncPlatformStatusBadge: getWechatsyncPlatformStatusBadge2,
+      normalizeWechatsyncAuthSnapshot: normalizeWechatsyncAuthSnapshot2,
+      normalizeWechatsyncPlatformList: normalizeWechatsyncPlatformList2,
+      summarizeWechatsyncPlatformResponse: summarizeWechatsyncPlatformResponse2
+    } = require_wechatsync_results();
+    var {
+      getAvailableWechatsyncPlatforms: getAvailableWechatsyncPlatforms2,
+      hasWechatSyncProLicense,
+      mergeWechatsyncPlatformLists: mergeWechatsyncPlatformLists2,
+      normalizeMultiPlatformSyncSettings: normalizeMultiPlatformSyncSettings2,
+      normalizeWechatSyncCapabilities: normalizeWechatSyncCapabilities2,
+      parseWechatsyncPlatformIds: parseWechatsyncPlatformIds2
+    } = require_wechatsync_settings();
+    var {
+      describeWechatsyncConnectionState: describeWechatsyncConnectionState2,
+      formatWechatsyncCheckedAt: formatWechatsyncCheckedAt2,
+      renderWechatsyncConnectionStatusBar: renderWechatsyncConnectionStatusBar2
+    } = require_connection_status_bar();
+    var OBSIDIAN_PUBLISHER_PRO_URL2 = "https://xiaoweibox.top/obsidian-publisher/pro/?from=obsidian-plugin";
+    var OBSIDIAN_PUBLISHER_EXTENSION_GUIDE_URL2 = "https://xiaoweibox.top/obsidian-publisher/guide/?from=obsidian-plugin#install-extension";
+    var OBSIDIAN_PUBLISHER_BRIDGE_GUIDE_URL2 = "https://xiaoweibox.top/obsidian-publisher/guide/?from=obsidian-plugin#bridge";
+    function openExternalUrl(url) {
+      var _a;
+      const target = String(url || "").trim();
+      if (!/^https?:\/\//i.test(target))
+        return false;
+      try {
+        const electron = require("electron");
+        if ((_a = electron == null ? void 0 : electron.shell) == null ? void 0 : _a.openExternal) {
+          electron.shell.openExternal(target);
+          return true;
+        }
+      } catch (e) {
+      }
+      if (typeof window !== "undefined" && typeof window.open === "function") {
+        window.open(target, "_blank", "noopener");
+        return true;
+      }
+      return false;
+    }
+    function renderMultiPlatformSettingsTab2(tab, containerEl) {
+      var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p;
+      const { plugin } = tab;
+      const multiPlatformSettings = normalizeMultiPlatformSyncSettings2(plugin.settings.multiPlatformSync);
+      plugin.settings.multiPlatformSync = multiPlatformSettings;
+      const isProLicensed = hasWechatSyncProLicense(multiPlatformSettings);
+      new Setting2(containerEl).setName("\u6D4F\u89C8\u5668\u63D2\u4EF6\u53D1\u5E03").setDesc("Obsidian \u8D1F\u8D23\u5199\u4F5C\u3001\u9884\u89C8\u548C\u5E73\u53F0\u9009\u62E9\uFF1B\u6D4F\u89C8\u5668\u63D2\u4EF6\u4F7F\u7528\u5F53\u524D\u7684\u6D4F\u89C8\u5668\u767B\u5F55\u6001\uFF0C\u628A\u6587\u7AE0\u4FDD\u5B58\u5230\u77E5\u4E4E\u3001\u6398\u91D1\u3001CSDN \u7B49\u5E73\u53F0\u8349\u7A3F\u7BB1\u3002\u5FAE\u4FE1\u4ECD\u53EF\u4F7F\u7528\u4E0A\u65B9\u516C\u4F17\u53F7 API\u3002").setHeading();
+      const guide = containerEl.createDiv({
+        cls: `wechat-multiplatform-onboarding${isProLicensed ? " is-pro" : ""}`
+      });
+      guide.createEl("div", {
+        cls: "wechat-multiplatform-onboarding-title",
+        text: isProLicensed ? "Pro \u5DF2\u6FC0\u6D3B\uFF1A\u591A\u5E73\u53F0\u53D1\u5E03\u5DF2\u89E3\u9501" : "\u4E0B\u4E00\u6B65\uFF1A\u5B89\u88C5\u6D4F\u89C8\u5668\u63D2\u4EF6\u5E76\u5B8C\u6210\u914D\u7F6E"
+      });
+      guide.createEl("p", {
+        text: isProLicensed ? "\u5F53\u524D\u6D4F\u89C8\u5668\u63D2\u4EF6\u6388\u6743\u5DF2\u540C\u6B65\u5230 Obsidian\uFF0C\u53D1\u5E03\u5230\u5176\u4ED6\u5E73\u53F0\u65F6\u4E0D\u518D\u53D7\u514D\u8D39\u7248\u6BCF\u65E5\u5E73\u53F0\u6570\u91CF\u9650\u5236\u3002" : "\u514D\u8D39\u7248\u6BCF\u5929\u53EF\u53D1\u5E03\u5230 3 \u4E2A\u5E73\u53F0\u3002\u60F3\u5148\u8BD5\u7528\uFF0C\u5148\u5B89\u88C5\u6D4F\u89C8\u5668\u63D2\u4EF6\uFF1B\u5DF2\u7ECF\u8D2D\u4E70\u6216\u5DF2\u7ECF\u88C5\u597D\u6D4F\u89C8\u5668\u63D2\u4EF6\uFF0C\u53EF\u76F4\u63A5\u67E5\u770B\u914D\u7F6E\u6B65\u9AA4\u3002"
+      });
+      if (isProLicensed) {
+        guide.createEl("span", {
+          text: "Pro",
+          cls: "wechat-pro-identity-badge wechat-pro-identity-badge-panel"
+        });
+      }
+      const guideActions = guide.createDiv({ cls: "wechat-multiplatform-onboarding-actions" });
+      const installGuideBtn = guideActions.createEl("button", { text: "\u5B89\u88C5\u6D4F\u89C8\u5668\u63D2\u4EF6", cls: "mod-cta" });
+      installGuideBtn.onclick = () => openExternalUrl(OBSIDIAN_PUBLISHER_EXTENSION_GUIDE_URL2);
+      const bridgeGuideBtn = guideActions.createEl("button", { text: "\u67E5\u770B\u914D\u7F6E\u6B65\u9AA4" });
+      bridgeGuideBtn.onclick = () => openExternalUrl(OBSIDIAN_PUBLISHER_BRIDGE_GUIDE_URL2);
+      const proGuideBtn = guideActions.createEl("button", { text: isProLicensed ? "\u67E5\u770B Pro \u6743\u76CA" : "\u4E86\u89E3 Pro" });
+      proGuideBtn.onclick = () => openExternalUrl(OBSIDIAN_PUBLISHER_PRO_URL2);
+      new Setting2(containerEl).setName("\u542F\u7528\u6D4F\u89C8\u5668\u63D2\u4EF6\u53D1\u5E03").setDesc("\u5F00\u542F\u540E\uFF0CObsidian \u4F1A\u628A\u6587\u7AE0\u53D1\u9001\u7ED9\u6D4F\u89C8\u5668\u63D2\u4EF6\uFF0C\u7531\u63D2\u4EF6\u4F7F\u7528\u6D4F\u89C8\u5668\u767B\u5F55\u6001\u4FDD\u5B58\u5230\u5404\u5E73\u53F0\u8349\u7A3F\u7BB1\u3002\u5728\u4E0B\u65B9\u586B\u5165\u300C\u8FDE\u63A5\u4EE4\u724C\u300D\u5373\u53EF\u5B8C\u6210\u914D\u5BF9\u3002").addToggle((toggle) => toggle.setValue(multiPlatformSettings.enabled).onChange(async (value) => {
+        var _a2;
+        plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+          ...plugin.settings.multiPlatformSync,
+          enabled: value
+        });
+        await plugin.saveSettings();
+        if (value) {
+          plugin.startWechatSyncBridgeInBackground("settings-enabled");
+        } else if ((_a2 = plugin._wechatSyncBridgeService) == null ? void 0 : _a2.stop) {
+          await plugin._wechatSyncBridgeService.stop().catch((error) => {
+            console.warn("\u505C\u6B62\u6D4F\u89C8\u5668\u63D2\u4EF6\u8FDE\u63A5\u5931\u8D25:", error);
+          });
+        }
+        tab.display();
+      }));
+      if (!multiPlatformSettings.enabled) {
+        return;
+      }
+      new Setting2(containerEl).setName("\u672C\u5730\u670D\u52A1\u7AEF\u53E3").setDesc("\u9ED8\u8BA4 9527\u3002\u53EA\u6709\u5F53\u6D4F\u89C8\u5668\u63D2\u4EF6\u4E2D\u7684\u672C\u5730\u670D\u52A1\u5730\u5740\u4F7F\u7528\u4E86\u5176\u4ED6\u7AEF\u53E3\u65F6\u624D\u9700\u8981\u4FEE\u6539\u3002").addText((text) => text.setPlaceholder(String(DEFAULT_WECHATSYNC_PORT2)).setValue(String(multiPlatformSettings.port)).onChange(async (value) => {
+        const nextPort = Number(value);
+        plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+          ...plugin.settings.multiPlatformSync,
+          port: Number.isInteger(nextPort) ? nextPort : DEFAULT_WECHATSYNC_PORT2,
+          connection: { status: "untested" }
+        });
+        await plugin.saveSettings();
+        plugin.startWechatSyncBridgeInBackground("settings-port-change");
+      }));
+      new Setting2(containerEl).setName("\u8FDE\u63A5\u4EE4\u724C").setDesc("\u586B\u5165\u6D4F\u89C8\u5668\u63D2\u4EF6\u672C\u5730\u670D\u52A1\u4E2D\u663E\u793A\u7684\u8FDE\u63A5\u4EE4\u724C\uFF0C\u7528\u4E8E\u786E\u8BA4 Obsidian \u4E0E\u63D2\u4EF6\u5C5E\u4E8E\u540C\u4E00\u7EC4\u8FDE\u63A5\u3002").addText((text) => text.setPlaceholder("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx").setValue(multiPlatformSettings.token).onChange(async (value) => {
+        plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+          ...plugin.settings.multiPlatformSync,
+          token: value,
+          connection: { status: "untested" }
+        });
+        await plugin.saveSettings();
+        plugin.startWechatSyncBridgeInBackground("settings-token-change");
+      }));
+      {
+        let renderBrowserIcon2 = function(parentEl, name) {
+          const key = (name || "").toLowerCase().replace(/\s+/g, "");
+          const browser = LOW_CONFIDENCE_BROWSER_KEYS.has(key) ? null : BROWSER_SVG[key];
+          if (browser) {
+            const svg = parentEl.createSvg("svg", {
+              attr: { viewBox: "0 0 24 24", width: "14", height: "14", fill: browser.color },
+              cls: "wechat-bridge-browser-icon"
+            });
+            svg.createSvg("path", { attr: { d: browser.path } });
+          } else {
+            parentEl.createEl("span", {
+              cls: "wechat-bridge-browser-icon-generic",
+              text: BROWSER_EMOJI_FALLBACK[key] || "\u{1F310}"
+            });
+          }
+        }, renderBrowserLabel2 = function(parentEl, browserName, profileLabel) {
+          const label = (profileLabel || "").trim();
+          if (label) {
+            parentEl.createEl("span", { cls: "wechat-bridge-status-profile", text: label });
+          } else {
+            parentEl.createEl("span", {
+              text: browserName ? browserName.charAt(0).toUpperCase() + browserName.slice(1) : "\u6D4F\u89C8\u5668"
+            });
+          }
+        }, fmtRelativeTime2 = function(ts) {
+          if (!ts)
+            return "";
+          const d = Date.now() - ts;
+          if (d < 6e4)
+            return "\u521A\u521A";
+          if (d < 36e5)
+            return `${Math.floor(d / 6e4)} \u5206\u949F\u524D`;
+          if (d < 864e5)
+            return `${Math.floor(d / 36e5)} \u5C0F\u65F6\u524D`;
+          return `${Math.floor(d / 864e5)} \u5929\u524D`;
+        };
+        var renderBrowserIcon = renderBrowserIcon2, renderBrowserLabel = renderBrowserLabel2, fmtRelativeTime = fmtRelativeTime2;
+        const clients = multiPlatformSettings.connectedClients || [];
+        const liveClient = clients.find((c) => c.status === "connected");
+        const lastClient = clients[clients.length - 1];
+        const BROWSER_SVG = {
+          chrome: { color: "#4285F4", path: "M12 0C8.21 0 4.831 1.757 2.632 4.501l3.953 6.848A5.454 5.454 0 0 1 12 6.545h10.691A12 12 0 0 0 12 0zM1.931 5.47A11.943 11.943 0 0 0 0 12c0 6.012 4.42 10.991 10.189 11.864l3.953-6.847a5.45 5.45 0 0 1-6.865-2.29zm13.342 2.166a5.446 5.446 0 0 1 1.45 7.09l.002.001h-.002l-5.344 9.257c.206.01.413.016.621.016 6.627 0 12-5.373 12-12 0-1.54-.29-3.011-.818-4.364zM12 16.364a4.364 4.364 0 1 1 0-8.728 4.364 4.364 0 0 1 0 8.728Z" },
+          chromium: { color: "#4285F4", path: "M12 0C8.21 0 4.831 1.757 2.632 4.501l3.953 6.848A5.454 5.454 0 0 1 12 6.545h10.691A12 12 0 0 0 12 0zM1.931 5.47A11.943 11.943 0 0 0 0 12c0 6.012 4.42 10.991 10.189 11.864l3.953-6.847a5.45 5.45 0 0 1-6.865-2.29zm13.342 2.166a5.446 5.446 0 0 1 1.45 7.09l.002.001h-.002l-5.344 9.257c.206.01.413.016.621.016 6.627 0 12-5.373 12-12 0-1.54-.29-3.011-.818-4.364zM12 16.364a4.364 4.364 0 1 1 0-8.728 4.364 4.364 0 0 1 0 8.728Z" },
+          firefox: { color: "#FF7139", path: "M20.452 3.445a11.002 11.002 0 00-2.482-1.908C16.944.997 15.098.093 12.477.032c-.734-.017-1.457.03-2.174.144-.72.114-1.398.292-2.118.56-1.017.377-1.996.975-2.574 1.554.583-.349 1.476-.733 2.55-.992a10.083 10.083 0 013.729-.167c2.341.34 4.178 1.381 5.48 2.625a8.066 8.066 0 011.298 1.587c1.468 2.382 1.33 5.376.184 7.142-.85 1.312-2.67 2.544-4.37 2.53-.583-.023-1.438-.152-2.25-.566-2.629-1.343-3.021-4.688-1.118-6.306-.632-.136-1.82.13-2.646 1.363-.742 1.107-.7 2.816-.242 4.028a6.473 6.473 0 01-.59-1.895 7.695 7.695 0 01.416-3.845A8.212 8.212 0 019.45 5.399c.896-1.069 1.908-1.72 2.75-2.005-.54-.471-1.411-.738-2.421-.767C8.31 2.583 6.327 3.061 4.7 4.41a8.148 8.148 0 00-1.976 2.414c-.455.836-.691 1.659-.697 1.678.122-1.445.704-2.994 1.248-4.055-.79.413-1.827 1.668-2.41 3.042C.095 9.37-.2 11.608.14 13.989c.966 5.668 5.9 9.982 11.843 9.982C18.62 23.971 24 18.591 24 11.956a11.93 11.93 0 00-3.548-8.511z" },
+          edge: { color: "#0078D4", path: "M21.86 17.86q.14 0 .25.12.1.13.1.25t-.11.33l-.32.46-.43.53-.44.5q-.21.25-.38.42l-.22.23q-.58.53-1.34 1.04-.76.51-1.6.91-.86.4-1.74.64t-1.67.24q-.9 0-1.69-.28-.8-.28-1.48-.78-.68-.5-1.22-1.17-.53-.66-.92-1.44-.38-.77-.58-1.6-.2-.83-.2-1.67 0-1 .32-1.96.33-.97.87-1.8.14.95.55 1.77.41.82 1.02 1.5.6.68 1.38 1.21.78.54 1.64.9.86.36 1.77.56.92.2 1.8.2 1.12 0 2.18-.24 1.06-.23 2.06-.72l.2-.1.2-.05zm-15.5-1.27q0 1.1.27 2.15.27 1.06.78 2.03.51.96 1.24 1.77.74.82 1.66 1.4-1.47-.2-2.8-.74-1.33-.55-2.48-1.37-1.15-.83-2.08-1.9-.92-1.07-1.58-2.33T.36 14.94Q0 13.54 0 12.06q0-.81.32-1.49.31-.68.83-1.23.53-.55 1.2-.96.66-.4 1.35-.66.74-.27 1.5-.39.78-.12 1.55-.12.7 0 1.42.1.72.12 1.4.35.68.23 1.32.57.63.35 1.16.83-.35 0-.7.07-.33.07-.65.23v-.02q-.63.28-1.2.74-.57.46-1.05 1.04-.48.58-.87 1.26-.38.67-.65 1.39-.27.71-.42 1.44-.15.72-.15 1.38zM11.96.06q1.7 0 3.33.39 1.63.38 3.07 1.15 1.43.77 2.62 1.93 1.18 1.16 1.98 2.7.49.94.76 1.96.28 1 .28 2.08 0 .89-.23 1.7-.24.8-.69 1.48-.45.68-1.1 1.22-.64.53-1.45.88-.54.24-1.11.36-.58.13-1.16.13-.42 0-.97-.03-.54-.03-1.1-.12-.55-.1-1.05-.28-.5-.19-.84-.5-.12-.09-.23-.24-.1-.16-.1-.33 0-.15.16-.35.16-.2.35-.5.2-.28.36-.68.16-.4.16-.95 0-1.06-.4-1.96-.4-.91-1.06-1.64-.66-.74-1.52-1.28-.86-.55-1.79-.89-.84-.3-1.72-.44-.87-.14-1.76-.14-1.55 0-3.06.45T.94 7.55q.71-1.74 1.81-3.13 1.1-1.38 2.52-2.35Q6.68 1.1 8.37.58q1.7-.52 3.58-.52Z" },
+          brave: { color: "#FB542B", path: "M15.68 0l2.096 2.38s1.84-.512 2.709.358c.868.87 1.584 1.638 1.584 1.638l-.562 1.381.715 2.047s-2.104 7.98-2.35 8.955c-.486 1.919-.818 2.66-2.198 3.633-1.38.972-3.884 2.66-4.293 2.916-.409.256-.92.692-1.38.692-.46 0-.97-.436-1.38-.692a185.796 185.796 0 01-4.293-2.916c-1.38-.973-1.712-1.714-2.197-3.633-.247-.975-2.351-8.955-2.351-8.955l.715-2.047-.562-1.381s.716-.768 1.585-1.638c.868-.87 2.708-.358 2.708-.358L8.321 0h7.36zm-3.679 14.936c-.14 0-1.038.317-1.758.69-.72.373-1.242.637-1.409.742-.167.104-.065.301.087.409.152.107 2.194 1.69 2.393 1.866.198.175.489.464.687.464.198 0 .49-.29.688-.464.198-.175 2.24-1.759 2.392-1.866.152-.108.254-.305.087-.41-.167-.104-.689-.368-1.41-.741-.72-.373-1.617-.69-1.757-.69zm0-11.278s-.409.001-1.022.206-1.278.46-1.584.46c-.307 0-2.581-.434-2.581-.434S4.119 7.152 4.119 7.849c0 .697.339.881.68 1.243l2.02 2.149c.192.203.59.511.356 1.066-.235.555-.58 1.26-.196 1.977.384.716 1.042 1.194 1.464 1.115.421-.08 1.412-.598 1.776-.834.364-.237 1.518-1.19 1.518-1.554 0-.365-1.193-1.02-1.413-1.168-.22-.15-1.226-.725-1.247-.95-.02-.227-.012-.293.284-.851.297-.559.831-1.304.742-1.8-.089-.495-.95-.753-1.565-.986-.615-.232-1.799-.671-1.947-.74-.148-.068-.11-.133.339-.175.448-.043 1.719-.212 2.292-.052.573.16 1.552.403 1.632.532.079.13.149.134.067.579-.081.445-.5 2.581-.541 2.96-.04.38-.12.63.288.724.409.094 1.097.256 1.333.256s.924-.162 1.333-.256c.408-.093.329-.344.288-.723-.04-.38-.46-2.516-.541-2.961-.082-.445-.012-.45.067-.579.08-.129 1.059-.372 1.632-.532.573-.16 1.845.009 2.292.052.449.042.487.107.339.175-.148.069-1.332.508-1.947.74-.615.233-1.476.49-1.565.986-.09.496.445 1.241.742 1.8.297.558.304.624.284.85-.02.226-1.026.802-1.247.95-.22.15-1.413.804-1.413 1.169 0 .364 1.154 1.317 1.518 1.554.364.236 1.355.755 1.776.834.422.079 1.08-.4 1.464-1.115.384-.716.039-1.422-.195-1.977-.235-.555.163-.863.355-1.066l2.02-2.149c.341-.362.68-.546.68-1.243 0-.697-2.695-3.96-2.695-3.96s-2.274.436-2.58.436c-.307 0-.972-.256-1.585-.461-.613-.205-1.022-.206-1.022-.206z" },
+          opera: { color: "#FF1B2D", path: "M8.051 5.238c-1.328 1.566-2.186 3.883-2.246 6.48v.564c.061 2.598.918 4.912 2.246 6.479 1.721 2.236 4.279 3.654 7.139 3.654 1.756 0 3.4-.537 4.807-1.471C17.879 22.846 15.074 24 12 24c-.192 0-.383-.004-.57-.014C5.064 23.689 0 18.436 0 12 0 5.371 5.373 0 12 0h.045c3.055.012 5.84 1.166 7.953 3.055-1.408-.93-3.051-1.471-4.81-1.471-2.858 0-5.417 1.42-7.14 3.654h.003zM24 12c0 3.556-1.545 6.748-4.002 8.945-3.078 1.5-5.946.451-6.896-.205 3.023-.664 5.307-4.32 5.307-8.74 0-4.422-2.283-8.075-5.307-8.74.949-.654 3.818-1.703 6.896-.205C22.455 5.25 24 8.445 24 12z" },
+          vivaldi: { color: "#EF3939", path: "M12 0C6.75 0 3.817 0 1.912 1.904.007 3.81 0 6.75 0 12s0 8.175 1.912 10.08C3.825 23.985 6.75 24 12 24c5.25 0 8.183 0 10.088-1.904C23.993 20.19 24 17.25 24 12s0-8.175-1.912-10.08C20.175.015 17.25 0 12 0zm-.168 3a9 9 0 016.49 2.648 9 9 0 010 12.704A9 9 0 1111.832 3zM7.568 7.496a1.433 1.433 0 00-.142.004A1.5 1.5 0 006.21 9.75l1.701 3c.93 1.582 1.839 3.202 2.791 4.822a1.417 1.417 0 001.41.75 1.5 1.5 0 001.223-.81l4.447-7.762A1.56 1.56 0 0018 8.768a1.5 1.5 0 10-2.828.914 2.513 2.513 0 01.256 1.119v.246a2.393 2.393 0 01-2.52 2.13 2.348 2.348 0 01-1.965-1.214c-.307-.51-.6-1.035-.9-1.553-.42-.72-.826-1.41-1.246-2.16a1.433 1.433 0 00-1.229-.754Z" },
+          arc: { color: "#7E5BEF", path: "M23.9371 8.5089c.1471-.7147.0367-1.4661-.3364-2.0967-.4203-.7094-1.1035-1.1876-1.9075-1.3506a2.9178 2.9178 0 0 0-.5623-.0578h-.0105c-1.3768 0-2.5329.988-2.8061 2.3385-.1629.7935-.4782 1.5607-.9196 2.2701a.263.263 0 0 1-.2363.1205.2627.2627 0 0 1-.2209-.1468l-2.8587-5.9906c-.3626-.762-1.0142-1.361-1.8235-1.5975-1.3873-.4099-2.8166.2838-3.4052 1.524L5.897 9.7333c-.0788.1629-.31.1576-.3784-.0053v-.0052a2.8597 2.8597 0 0 0-2.6642-1.7972c-.3784 0-.7515.0736-1.1088.2207-1.4714.6148-2.1283 2.349-1.5187 3.8203.557 1.3295 1.4714 2.5855 2.659 3.668.084.0788.1103.1997.063.3048l-.9563 2.0074c-.6727 1.4188-.1314 3.1477 1.2664 3.8571.4099.2049.846.31 1.298.31 1.1035 0 2.123-.6411 2.5959-1.6395l.825-1.7289a.254.254 0 0 1 .3048-.1366c1.0037.2732 2.0127.4204 3.0058.4204 1.1193 0 2.2229-.1682 3.2896-.4782a.2626.2626 0 0 1 .3101.1366l.8145 1.7131c.4834 1.0195 1.4924 1.7131 2.6169 1.7184.4572 0 .8986-.0999 1.3138-.3101 1.403-.7094 1.939-2.4435 1.2664-3.8676L19.875 15.787c-.0473-.1051-.0263-.226.0578-.3048 1.9864-1.8497 3.4525-4.2723 4.0043-6.9733ZM6.2121 20.0172a1.835 1.835 0 0 1-.6764.7622 1.8352 1.8352 0 0 1-.9788.2835c-.2733 0-.5518-.063-.8093-.1891-.9038-.4467-1.2454-1.5713-.8093-2.4804l.7935-1.6658c.0684-.1471.2575-.1997.3837-.1051.1681.1209.3415.2365.5202.3521.6989.4467 1.4293.825 2.1808 1.1351.1419.0578.205.2154.1419.352l-.7462 1.5555Zm5.0763-2.0442c-4.2092 0-8.6548-2.8534-10.1262-6.4951a1.8286 1.8286 0 0 1 1.009-2.3805c.2259-.0893.4571-.1366.683-.1366.7252 0 1.4084.431 1.6974 1.1456.9196 2.2806 4.0043 4.2092 6.7368 4.2092.4204 0 .8408-.042 1.256-.1156a.2643.2643 0 0 1 .2837.1419l1.3768 2.9007c.0683.1471-.0105.3205-.1629.3626-.8986.2365-1.8182.3678-2.7536.3678Zm-.599-4.9291.6358-1.3348c.0526-.1051.205-.1051.2575 0l.6201 1.3033c.042.0841-.0158.1891-.1051.2049-.268.0368-.536.0578-.7988.0578a5.0634 5.0634 0 0 1-.4887-.0263c-.1103-.0157-.1629-.1208-.1208-.2049Zm8.4604 7.8246a1.831 1.831 0 0 1-2.0329-.2788 1.8292 1.8292 0 0 1-.4316-.5778l-4.987-10.4836c-.0998-.2102-.3994-.2102-.4939 0l-1.545 3.2529a.2623.2623 0 0 1-.3205.1366c-1.051-.3626-2.0495-.9774-2.7904-1.7184a.2552.2552 0 0 1-.0473-.2943l3.3421-7.031c.1156-.247.2943-.4677.5203-.6201 1.051-.6884 2.2806-.2575 2.7378.7041l6.8577 14.4248c.4309.9144.0946 2.0389-.8093 2.4856Zm-1.4451-9.6481a.258.258 0 0 1 .0315-.2732c.783-1.0037 1.3558-2.1756 1.6028-3.421.1734-.867.9354-1.4714 1.7919-1.4714.1472 0 .2943.0158.4467.0526.9722.2417 1.5344 1.2507 1.3295 2.2333-.4835 2.3017-1.6816 4.3879-3.3159 6.0222-.1313.1314-.3468.0946-.4256-.0683l-1.4609-3.0742Z" }
+        };
+        const BROWSER_EMOJI_FALLBACK = { safari: "\u{1F9ED}", comet: "\u2604\uFE0F", orion: "\u2B50", zen: "\u{1FAB7}" };
+        const LOW_CONFIDENCE_BROWSER_KEYS = /* @__PURE__ */ new Set(["chrome", "chromium"]);
+        const bar = containerEl.createDiv({ cls: "wechat-multiplatform-token-status" });
+        const dot = bar.createEl("span", { cls: "wechat-multiplatform-token-status-dot" });
+        const body = bar.createDiv({ cls: "wechat-bridge-status-body" });
+        if (!multiPlatformSettings.token) {
+          (_b = (_a = dot.classList) == null ? void 0 : _a.add) == null ? void 0 : _b.call(_a, "is-error");
+          dot.textContent = "\u672A\u586B\u5199";
+          body.createEl("span", { text: "\u8FDE\u63A5\u4EE4\u724C\u5C1A\u672A\u586B\u5199\u3002\u8BF7\u5230\u6D4F\u89C8\u5668\u6269\u5C55\u5F39\u7A97\u590D\u5236\u4EE4\u724C\u3002" });
+        } else if (liveClient) {
+          (_d = (_c = dot.classList) == null ? void 0 : _c.add) == null ? void 0 : _d.call(_c, "is-ok");
+          dot.textContent = "\u5DF2\u5C31\u7EEA";
+          renderBrowserIcon2(body, liveClient.browserName);
+          renderBrowserLabel2(body, liveClient.browserName, liveClient.profileLabel);
+          body.createEl("span", { cls: "wechat-bridge-status-time", text: fmtRelativeTime2(liveClient.lastSeenAt) });
+        } else if (lastClient) {
+          (_f = (_e = dot.classList) == null ? void 0 : _e.add) == null ? void 0 : _f.call(_e, "is-unknown");
+          dot.textContent = "\u5DF2\u65AD\u5F00";
+          renderBrowserIcon2(body, lastClient.browserName);
+          renderBrowserLabel2(body, lastClient.browserName, lastClient.profileLabel);
+          body.createEl("span", { text: " \u5DF2\u65AD\u5F00\uFF0C\u8BF7\u91CD\u542F\u6D4F\u89C8\u5668\u6269\u5C55\u91CD\u65B0\u8FDE\u63A5\u3002" });
+          body.createEl("span", { cls: "wechat-bridge-status-time", text: fmtRelativeTime2(lastClient.lastSeenAt) });
+        } else if (((_g = multiPlatformSettings.connection) == null ? void 0 : _g.status) === "connected") {
+          (_i = (_h = dot.classList) == null ? void 0 : _h.add) == null ? void 0 : _i.call(_h, "is-ok");
+          dot.textContent = "\u5DF2\u5C31\u7EEA";
+          const checkedAt = formatWechatsyncCheckedAt2(multiPlatformSettings.connection.checkedAt);
+          body.createEl("span", {
+            text: checkedAt ? `\u6D4F\u89C8\u5668\u6269\u5C55\u5DF2\u8FDE\u63A5\uFF0C\u53EF\u4EE5\u53D1\u5E03\u3002\u4E0A\u6B21\u68C0\u67E5 ${checkedAt}\u3002` : "\u6D4F\u89C8\u5668\u6269\u5C55\u5DF2\u8FDE\u63A5\uFF0C\u53EF\u4EE5\u53D1\u5E03\u3002"
+          });
+        } else if (((_j = multiPlatformSettings.connection) == null ? void 0 : _j.status) === "failed") {
+          (_l = (_k = dot.classList) == null ? void 0 : _k.add) == null ? void 0 : _l.call(_k, "is-error");
+          dot.textContent = "\u8FDE\u63A5\u5931\u8D25";
+          body.createEl("span", {
+            text: multiPlatformSettings.connection.message ? `${multiPlatformSettings.connection.message}\u3002\u8BF7\u68C0\u67E5\u7AEF\u53E3\u548C\u4EE4\u724C\u540E\u70B9\u51FB\u300C\u6D4B\u8BD5\u8FDE\u63A5\u300D\u3002` : "\u8BF7\u68C0\u67E5\u7AEF\u53E3\u548C\u4EE4\u724C\u540E\u70B9\u51FB\u300C\u6D4B\u8BD5\u8FDE\u63A5\u300D\u3002"
+          });
+        } else {
+          (_n = (_m = dot.classList) == null ? void 0 : _m.add) == null ? void 0 : _n.call(_m, "is-unknown");
+          dot.textContent = "\u7B49\u5F85\u8FDE\u63A5";
+          body.createEl("span", { text: "\u4EE4\u724C\u5DF2\u586B\u5199\uFF0C\u8BF7\u70B9\u51FB\u4E0B\u65B9\u300C\u6D4B\u8BD5\u8FDE\u63A5\u300D\u786E\u8BA4\u8FDE\u63A5\u3002" });
+        }
+      }
+      const getSupportedPlatformsFromExtension = async (bridge) => {
+        const response = await bridge.listSupportedPlatforms({ timeoutMs: 1e4 });
+        return normalizeWechatsyncPlatformList2(response);
+      };
+      const getAuthSnapshotFromExtension = async (bridge, platforms = [], fallbackPlatforms = []) => {
+        const response = await bridge.getAuthSnapshot({
+          platforms,
+          maxAgeMs: 864e5,
+          timeoutMs: 5e3
+        });
+        return normalizeWechatsyncAuthSnapshot2(response, fallbackPlatforms);
+      };
+      const hasExtensionPlatformList = Array.isArray(multiPlatformSettings.supportedPlatforms) && multiPlatformSettings.supportedPlatforms.length > 0 && ((_o = multiPlatformSettings.connection) == null ? void 0 : _o.status) === "connected";
+      const availablePlatforms = getAvailableWechatsyncPlatforms2(multiPlatformSettings);
+      const selectedPlatformSet = new Set(multiPlatformSettings.selectedPlatforms || []);
+      const hasCachedAuthState = availablePlatforms.some(
+        (platform) => platform.authKnown && platform.authStatus !== "bridge_required"
+      );
+      const getPlatformAuthBadge = (platform = {}) => {
+        var _a2;
+        return getWechatsyncPlatformStatusBadge2(platform, {
+          bridgeConnected: ((_a2 = multiPlatformSettings.connection) == null ? void 0 : _a2.status) === "connected"
+        });
+      };
+      const platformPicker = containerEl.createDiv({ cls: "wechat-platform-picker" });
+      const platformPickerHeader = platformPicker.createDiv({ cls: "wechat-platform-picker-header" });
+      const platformPickerTitle = platformPickerHeader.createDiv();
+      platformPickerTitle.createEl("div", { text: "\u53D1\u5E03\u5E73\u53F0\uFF08\u6D4F\u89C8\u5668\u63D2\u4EF6\u652F\u6301\uFF09", cls: "wechat-platform-picker-title" });
+      const checkedAtText = formatWechatsyncCheckedAt2((_p = multiPlatformSettings.connection) == null ? void 0 : _p.checkedAt);
+      platformPickerTitle.createEl("div", {
+        text: hasCachedAuthState ? `\u5DF2\u52FE\u9009\u5E73\u53F0\u4F1A\u663E\u793A\u4E0A\u6B21\u72B6\u6001${checkedAtText ? `\uFF08${checkedAtText}\uFF09` : ""}\uFF1B\u672C\u6B21\u53D1\u5E03\u4ECD\u4EE5\u6D4F\u89C8\u5668\u63D2\u4EF6\u5B9E\u9645\u7ED3\u679C\u4E3A\u51C6\u3002` : hasExtensionPlatformList ? "\u5E73\u53F0\u6E05\u5355\u6765\u81EA\u5F53\u524D\u8FDE\u63A5\u7684\u6D4F\u89C8\u5668\u63D2\u4EF6\uFF1B\u4EC5\u52FE\u9009\u7684\u5E73\u53F0\u4F1A\u663E\u793A\u4E0A\u6B21\u72B6\u6001\u3002" : "\u672A\u8FDE\u63A5\u63D2\u4EF6\u524D\u5148\u663E\u793A\u672C\u5730\u5907\u7528\u6E05\u5355\uFF1B\u8FDE\u63A5\u6210\u529F\u540E\u4F1A\u5237\u65B0\u4E3A\u63D2\u4EF6\u5B9E\u9645\u652F\u6301\u7684\u5E73\u53F0\u3002",
+        cls: "wechat-platform-picker-desc"
+      });
+      const platformSummary = platformPickerHeader.createDiv({ cls: "wechat-platform-picker-summary" });
+      const updatePlatformSummary = () => {
+        platformSummary.setText(`\u5DF2\u9009\u62E9 ${selectedPlatformSet.size} \u4E2A`);
+      };
+      updatePlatformSummary();
+      const platformGrid = platformPicker.createDiv({ cls: "wechat-platform-grid" });
+      const saveSelectedPlatforms = async () => {
+        const current = normalizeMultiPlatformSyncSettings2(plugin.settings.multiPlatformSync);
+        plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+          ...current,
+          selectedPlatforms: Array.from(selectedPlatformSet)
+        });
+        await plugin.saveSettings();
+      };
+      for (const platform of availablePlatforms) {
+        const authBadge = getPlatformAuthBadge(platform);
+        const isSelected = selectedPlatformSet.has(platform.id);
+        const chip = platformGrid.createEl("label", {
+          cls: `wechat-platform-chip ${isSelected ? `${authBadge.cls} is-selected` : ""}`
+        });
+        chip.setAttribute("title", isSelected ? `${platform.name} \xB7 ${authBadge.text}` : platform.name);
+        const checkbox = chip.createEl("input", { attr: { type: "checkbox" } });
+        checkbox.checked = isSelected;
+        checkbox.value = platform.id;
+        const chipBody = chip.createEl("span", { cls: "wechat-platform-chip-body" });
+        chipBody.createEl("span", { text: platform.name, cls: "wechat-platform-chip-name" });
+        const statusEl = chipBody.createEl("span", {
+          text: authBadge.text,
+          cls: `wechat-platform-chip-status ${authBadge.cls}`
+        });
+        statusEl.setAttribute("title", authBadge.text);
+        const setStatusVisible = (visible) => {
+          var _a2, _b2, _c2, _d2, _e2, _f2, _g2, _h2;
+          for (const cls of ["is-ok", "is-error", "is-unknown", "is-bridge"]) {
+            (_a2 = chip.removeClass) == null ? void 0 : _a2.call(chip, cls);
+            (_b2 = chip.classList) == null ? void 0 : _b2.remove(cls);
+            (_c2 = statusEl.removeClass) == null ? void 0 : _c2.call(statusEl, cls);
+            (_d2 = statusEl.classList) == null ? void 0 : _d2.remove(cls);
+          }
+          statusEl.textContent = authBadge.text;
+          if (visible) {
+            (_e2 = chip.addClass) == null ? void 0 : _e2.call(chip, authBadge.cls);
+            (_f2 = chip.classList) == null ? void 0 : _f2.add(authBadge.cls);
+            (_g2 = statusEl.addClass) == null ? void 0 : _g2.call(statusEl, authBadge.cls);
+            (_h2 = statusEl.classList) == null ? void 0 : _h2.add(authBadge.cls);
+          }
+          chip.setAttribute("title", visible ? `${platform.name} \xB7 ${authBadge.text}` : platform.name);
+        };
+        checkbox.onchange = async () => {
+          if (checkbox.checked) {
+            selectedPlatformSet.add(platform.id);
+            chip.addClass("is-selected");
+            setStatusVisible(true);
+            if (authBadge.status === "login_required") {
+              new Notice2(`${platform.name} \u4E0A\u6B21\u72B6\u6001\u4E3A\u9700\u767B\u5F55\u3002\u8BF7\u5148\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u6253\u5F00\u5E73\u53F0\u767B\u5F55\u9875\uFF0C\u6216\u7EE7\u7EED\u5C1D\u8BD5\u7531\u63D2\u4EF6\u8FD4\u56DE\u5B9E\u9645\u7ED3\u679C\u3002`, 8e3);
+            }
+          } else {
+            selectedPlatformSet.delete(platform.id);
+            chip.removeClass("is-selected");
+            setStatusVisible(false);
+          }
+          updatePlatformSummary();
+          await saveSelectedPlatforms();
+        };
+      }
+      new Setting2(containerEl).setName("\u6D4B\u8BD5\u8FDE\u63A5").setDesc("\u53EA\u9A8C\u8BC1 Obsidian\u3001\u6D4F\u89C8\u5668\u63D2\u4EF6\u548C\u8FDE\u63A5\u4EE4\u724C\u662F\u5426\u8FDE\u901A\uFF0C\u5E76\u8BFB\u53D6\u5E73\u53F0\u6E05\u5355\uFF1B\u4E0D\u4F1A\u5B9E\u65F6\u68C0\u6D4B\u6240\u6709\u5E73\u53F0\u767B\u5F55\u72B6\u6001\u3002").addButton((button) => button.setButtonText("\u6D4B\u8BD5").onClick(async () => {
+        var _a2, _b2, _c2, _d2, _e2, _f2;
+        button.setButtonText("\u7B49\u5F85\u63D2\u4EF6...");
+        (_a2 = button.setDisabled) == null ? void 0 : _a2.call(button, true);
+        const startedAt = Date.now();
+        let bridge = null;
+        let bridgeStartStatus = null;
+        let shouldRedisplay = false;
+        try {
+          const currentBeforeTest = normalizeMultiPlatformSyncSettings2(plugin.settings.multiPlatformSync);
+          console.debug("[Wechatsync] test connection started", {
+            port: (_b2 = plugin.settings.multiPlatformSync) == null ? void 0 : _b2.port,
+            hasToken: !!((_c2 = plugin.settings.multiPlatformSync) == null ? void 0 : _c2.token),
+            forceRefresh: false
+          });
+          bridge = plugin.getWechatSyncBridgeService();
+          bridgeStartStatus = await bridge.start();
+          console.debug("[Wechatsync] bridge started", bridgeStartStatus);
+          await bridge.waitForConnection(15e3);
+          console.debug("[Wechatsync] extension connection ready", {
+            elapsedMs: Date.now() - startedAt
+          });
+          let health = null;
+          let capabilities = {};
+          try {
+            health = await retryRecoverableBridgeOperation2(async ({ attempt }) => {
+              if (attempt > 0) {
+                console.debug("[Wechatsync] retrying health after bridge recovery window", { attempt });
+              }
+              const healthResult = await bridge.health({ timeoutMs: 5e3 });
+              if ((healthResult == null ? void 0 : healthResult.tokenValid) === false) {
+                const authError = new Error("\u8FDE\u63A5\u4EE4\u724C\u6821\u9A8C\u5931\u8D25\u3002\u8BF7\u786E\u8BA4 Obsidian \u4E0E\u6D4F\u89C8\u5668\u63D2\u4EF6\u4F7F\u7528\u540C\u4E00\u4E2A\u8FDE\u63A5\u4EE4\u724C\u3002");
+                authError.code = "AUTH_FAILED";
+                throw authError;
+              }
+              if ((healthResult == null ? void 0 : healthResult.ok) === false) {
+                const healthError = new Error(healthResult.error || "\u6D4F\u89C8\u5668\u63D2\u4EF6\u5065\u5EB7\u68C0\u67E5\u5931\u8D25");
+                healthError.code = "BRIDGE_REQUEST_TIMEOUT";
+                throw healthError;
+              }
+              return healthResult;
+            }, {
+              retries: 2,
+              delayMs: 1e3,
+              logger: console,
+              label: "settings health"
+            });
+            console.debug("[Wechatsync] health result", health);
+            capabilities = normalizeWechatSyncCapabilities2(health == null ? void 0 : health.capabilities);
+          } catch (healthError) {
+            if (!isWechatSyncUnsupportedMethodError2(healthError))
+              throw healthError;
+            console.warn("[Wechatsync] extension does not support health, falling back to socket-only check", healthError);
+          }
+          let supportedPlatforms = [];
+          try {
+            supportedPlatforms = await getSupportedPlatformsFromExtension(bridge);
+            console.debug("[Wechatsync] supported platforms loaded", {
+              count: supportedPlatforms.length,
+              platforms: supportedPlatforms.map((platform) => platform.id)
+            });
+          } catch (platformError) {
+            if (isWechatSyncUnsupportedMethodError2(platformError)) {
+              console.warn("[Wechatsync] extension does not support listSupportedPlatforms, keeping fallback list", platformError);
+            } else {
+              console.warn("[Wechatsync] listSupportedPlatforms failed, keeping existing platform list", platformError);
+            }
+          }
+          const selectedPlatformIds = parseWechatsyncPlatformIds2(currentBeforeTest.selectedPlatforms || []);
+          const current = normalizeMultiPlatformSyncSettings2(plugin.settings.multiPlatformSync);
+          const nextPlatforms = normalizeWechatsyncPlatformList2(current.connection.platforms || []).filter((platform) => selectedPlatformIds.includes(platform.id));
+          plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+            ...current,
+            supportedPlatforms: supportedPlatforms.length ? supportedPlatforms : current.supportedPlatforms,
+            connection: {
+              ...current.connection,
+              status: "connected",
+              checkedAt: Date.now(),
+              platforms: nextPlatforms,
+              capabilities,
+              message: health ? "\u5DF2\u8FDE\u63A5\uFF0C\u8FDE\u63A5\u4EE4\u724C\u5DF2\u901A\u8FC7\u63D2\u4EF6\u6821\u9A8C\u3002\u672A\u8BFB\u53D6\u5E73\u53F0\u767B\u5F55\u72B6\u6001\u3002" : "\u5DF2\u8FDE\u63A5\u3002\u5F53\u524D\u63D2\u4EF6\u7248\u672C\u672A\u63D0\u4F9B\u5065\u5EB7\u6821\u9A8C\uFF0C\u5E73\u53F0\u767B\u5F55\u72B6\u6001\u672A\u81EA\u52A8\u68C0\u6D4B\u3002"
+            }
+          });
+          await plugin.saveSettings();
+          shouldRedisplay = true;
+          new Notice2(health ? "\u2705 \u5DF2\u8FDE\u63A5\u6D4F\u89C8\u5668\u63D2\u4EF6\uFF0C\u8FDE\u63A5\u4EE4\u724C\u6821\u9A8C\u901A\u8FC7" : "\u2705 \u5DF2\u8FDE\u63A5\u6D4F\u89C8\u5668\u63D2\u4EF6");
+        } catch (error) {
+          let bridgeStatusAfterFailure = null;
+          let diagnostics = null;
+          try {
+            bridgeStatusAfterFailure = await ((_d2 = bridge == null ? void 0 : bridge.getStatus) == null ? void 0 : _d2.call(bridge));
+          } catch (statusError) {
+            bridgeStatusAfterFailure = { error: (statusError == null ? void 0 : statusError.message) || String(statusError) };
+          }
+          try {
+            diagnostics = ((_e2 = bridge == null ? void 0 : bridge.getDiagnostics) == null ? void 0 : _e2.call(bridge)) || null;
+          } catch (e) {
+            diagnostics = null;
+          }
+          let detailedMessage = error.message || "\u6D4F\u89C8\u5668\u63D2\u4EF6\u8FDE\u63A5\u5931\u8D25";
+          let hint = "";
+          if ((error == null ? void 0 : error.code) === "EXTENSION_NOT_CONNECTED" && (diagnostics == null ? void 0 : diagnostics.helloRejections) > 0) {
+            const last = diagnostics.lastHelloRejection;
+            const reason = last == null ? void 0 : last.reason;
+            if (reason === "token_mismatch") {
+              detailedMessage = '\u914D\u5BF9\u4EE4\u724C\u4E0D\u4E00\u81F4\u3002\u5982\u679C\u4F60\u521A\u521A\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u8BBE\u7F6E\u4E2D\u91CD\u7F6E\u8FC7\u4EE4\u724C\uFF0C\u8BF7\u590D\u5236\u65B0\u4EE4\u724C\u5E76\u7C98\u8D34\u5230\u4E0B\u65B9"\u8FDE\u63A5\u4EE4\u724C"\u8F93\u5165\u6846\u3002';
+            } else if (reason === "hello_timeout") {
+              detailedMessage = "\u6D4F\u89C8\u5668\u63D2\u4EF6\u8FDE\u63A5\u540E\u672A\u5728\u9650\u5B9A\u65F6\u95F4\u5185\u5B8C\u6210\u63E1\u624B\u3002\u53EF\u80FD\u6269\u5C55\u7248\u672C\u8FC7\u65E7\u6216\u672A\u542F\u7528\u63E1\u624B\u3002";
+            } else if (reason === "invalid_payload") {
+              detailedMessage = "\u6D4F\u89C8\u5668\u63D2\u4EF6\u53D1\u9001\u7684\u63E1\u624B\u6570\u636E\u683C\u5F0F\u4E0D\u6B63\u786E\u3002\u8BF7\u5347\u7EA7\u6D4F\u89C8\u5668\u63D2\u4EF6\u5230\u652F\u6301\u5B89\u5168\u63E1\u624B\u7684\u7248\u672C\u3002";
+            } else if (reason === "version_unsupported") {
+              detailedMessage = "\u6D4F\u89C8\u5668\u63D2\u4EF6\u7248\u672C\u4E0E Obsidian \u4E0D\u517C\u5BB9\uFF0C\u63E1\u624B\u88AB\u62D2\u7EDD\u3002\u8BF7\u5347\u7EA7\u6D4F\u89C8\u5668\u63D2\u4EF6\u3002";
+            } else if (reason) {
+              detailedMessage = `\u6D4F\u89C8\u5668\u63D2\u4EF6\u63E1\u624B\u5931\u8D25\uFF08${reason}\uFF09\u3002\u8BF7\u68C0\u67E5\u6D4F\u89C8\u5668\u63D2\u4EF6\u7248\u672C\u4E0E\u8FDE\u63A5\u4EE4\u724C\u3002`;
+            }
+            hint = "";
+          } else if (["EXTENSION_NOT_CONNECTED", "BRIDGE_UNAVAILABLE", "BRIDGE_REQUEST_TIMEOUT"].includes(error == null ? void 0 : error.code)) {
+            hint = "\u8BF7\u786E\u8BA4\u6D4F\u89C8\u5668\u6B63\u5728\u8FD0\u884C\u3001\u5DF2\u5B89\u88C5\u6D4F\u89C8\u5668\u63D2\u4EF6\uFF0C\u5E76\u68C0\u67E5\u5730\u5740\u3001\u7AEF\u53E3\u548C\u8FDE\u63A5\u4EE4\u724C\u4E0E\u8FD9\u91CC\u4E00\u81F4\u3002";
+          } else if ((error == null ? void 0 : error.code) === "EXTENSION_NOT_AUTHENTICATED") {
+            detailedMessage = "\u6D4F\u89C8\u5668\u63D2\u4EF6\u5DF2\u8FDE\u63A5\u4F46\u5C1A\u672A\u901A\u8FC7\u8BA4\u8BC1\u3002\u8BF7\u786E\u8BA4\u63D2\u4EF6\u5DF2\u5347\u7EA7\u5230\u652F\u6301\u5B89\u5168\u63E1\u624B\u7684\u7248\u672C\uFF0C\u4E14\u4F7F\u7528\u4E0E Obsidian \u4E00\u81F4\u7684\u8FDE\u63A5\u4EE4\u724C\u3002";
+          }
+          console.error("[Wechatsync] test connection failed", {
+            elapsedMs: Date.now() - startedAt,
+            code: error == null ? void 0 : error.code,
+            message: (error == null ? void 0 : error.message) || String(error),
+            stack: error == null ? void 0 : error.stack,
+            bridgeStartStatus,
+            bridgeStatusAfterFailure,
+            diagnostics,
+            detailedMessage
+          });
+          plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+            ...plugin.settings.multiPlatformSync,
+            connection: {
+              status: "failed",
+              checkedAt: Date.now(),
+              platforms: [],
+              capabilities: {},
+              message: detailedMessage
+            }
+          });
+          await plugin.saveSettings();
+          new Notice2(`\u274C ${detailedMessage}${hint ? ` ${hint}` : ""}`, 12e3);
+          shouldRedisplay = true;
+        } finally {
+          (_f2 = button.setDisabled) == null ? void 0 : _f2.call(button, false);
+          button.setButtonText("\u6D4B\u8BD5");
+          if (shouldRedisplay)
+            tab.display();
+        }
+      }));
+      new Setting2(containerEl).setName("\u8BFB\u53D6\u5DF2\u9009\u5E73\u53F0\u72B6\u6001").setDesc("\u8BFB\u53D6\u6D4F\u89C8\u5668\u63D2\u4EF6\u7F13\u5B58\u7684\u4E0A\u6B21\u72B6\u6001\uFF0C\u4E0D\u4F1A\u5B9E\u65F6\u68C0\u6D4B\u767B\u5F55\uFF1B\u53D1\u5E03\u65F6\u4ECD\u4EE5\u6D4F\u89C8\u5668\u63D2\u4EF6\u5B9E\u9645\u6267\u884C\u4E3A\u51C6\u3002").addButton((button) => button.setButtonText("\u8BFB\u53D6").onClick(async () => {
+        var _a2, _b2, _c2, _d2;
+        const current = normalizeMultiPlatformSyncSettings2(plugin.settings.multiPlatformSync);
+        const platformById = new Map(
+          getAvailableWechatsyncPlatforms2(current).map((platform) => [platform.id, platform])
+        );
+        const candidates = parseWechatsyncPlatformIds2(current.selectedPlatforms || []).map((id) => platformById.get(id) || { id, name: id }).filter((platform) => platform.id);
+        if (!candidates.length) {
+          new Notice2("\u8BF7\u5148\u52FE\u9009\u81F3\u5C11\u4E00\u4E2A\u53D1\u5E03\u5E73\u53F0");
+          return;
+        }
+        button.setButtonText("\u8BFB\u53D6\u4E2D...");
+        (_a2 = button.setDisabled) == null ? void 0 : _a2.call(button, true);
+        const startedAt = Date.now();
+        try {
+          const bridge = plugin.getWechatSyncBridgeService();
+          await bridge.start();
+          await bridge.waitForConnection(15e3);
+          const platformFallbacks = mergeWechatsyncPlatformLists2(
+            current.supportedPlatforms,
+            (_b2 = current.connection) == null ? void 0 : _b2.platforms,
+            getFallbackWechatsyncPlatforms2()
+          );
+          const authSnapshot = await getAuthSnapshotFromExtension(
+            bridge,
+            candidates.map((platform) => platform.id),
+            platformFallbacks
+          );
+          const cachedPlatforms = normalizeWechatsyncPlatformList2(authSnapshot.platforms || []);
+          console.debug("[Wechatsync] selected platform cached auth snapshot summary", {
+            elapsedMs: Date.now() - startedAt,
+            checkedAt: authSnapshot.checkedAt,
+            ...summarizeWechatsyncPlatformResponse2(cachedPlatforms)
+          });
+          plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+            ...current,
+            connection: {
+              ...current.connection,
+              status: "connected",
+              checkedAt: authSnapshot.checkedAt || Date.now(),
+              platforms: cachedPlatforms,
+              capabilities: {
+                ...((_c2 = current.connection) == null ? void 0 : _c2.capabilities) || {},
+                getAuthSnapshot: true
+              },
+              message: "\u5DF2\u8BFB\u53D6\u6240\u9009\u5E73\u53F0\u7684\u4E0A\u6B21\u767B\u5F55\u72B6\u6001\u3002"
+            }
+          });
+          await plugin.saveSettings();
+          const authenticatedCount = cachedPlatforms.filter((platform) => platform.authenticated).length;
+          new Notice2(`\u2705 \u5DF2\u8BFB\u53D6 ${cachedPlatforms.length} \u4E2A\u5DF2\u9009\u5E73\u53F0\uFF0C${authenticatedCount} \u4E2A\u4E0A\u6B21\u53EF\u7528`);
+          tab.display();
+        } catch (error) {
+          console.error("[Wechatsync] selected platform cached auth snapshot failed", {
+            elapsedMs: Date.now() - startedAt,
+            code: error == null ? void 0 : error.code,
+            message: (error == null ? void 0 : error.message) || String(error)
+          });
+          new Notice2(`\u274C \u8BFB\u53D6\u5931\u8D25\uFF1A${error.message}`, 1e4);
+        } finally {
+          (_d2 = button.setDisabled) == null ? void 0 : _d2.call(button, false);
+          button.setButtonText("\u8BFB\u53D6");
+        }
+      }));
+    }
+    module2.exports = { renderMultiPlatformSettingsTab: renderMultiPlatformSettingsTab2 };
+  }
+});
+
+// views/publish-modal/multi-platform.js
+var require_multi_platform = __commonJS({
+  "views/publish-modal/multi-platform.js"(exports2, module2) {
+    var obsidian = require("obsidian");
+    var { Notice: Notice2, Platform: Platform2 } = obsidian;
+    var {
+      isWechatSyncConnectionFailure: isWechatSyncConnectionFailure2,
+      getWechatsyncPlatformStatusBadge: getWechatsyncPlatformStatusBadge2,
+      normalizeWechatSyncResponseResults: normalizeWechatSyncResponseResults2,
+      normalizeWechatsyncPlatform: normalizeWechatsyncPlatform2,
+      summarizeWechatsyncPlatformResponse: summarizeWechatsyncPlatformResponse2,
+      updateCachedPlatformsAfterSync: updateCachedPlatformsAfterSync2
+    } = require_wechatsync_results();
+    var {
+      isUnsupportedBridgeMethodError: isWechatSyncUnsupportedMethodError2
+    } = require_wechatsync_bridge();
+    var {
+      getAvailableWechatsyncPlatforms: getAvailableWechatsyncPlatforms2,
+      normalizeWechatSyncCapabilities: normalizeWechatSyncCapabilities2,
+      normalizeMultiPlatformConnection: normalizeMultiPlatformConnection2,
+      normalizeMultiPlatformSyncSettings: normalizeMultiPlatformSyncSettings2,
+      normalizeWechatSyncRecentTasks: normalizeWechatSyncRecentTasks2,
+      parseWechatsyncPlatformIds: parseWechatsyncPlatformIds2
+    } = require_wechatsync_settings();
+    var {
+      describeWechatsyncConnectionState: describeWechatsyncConnectionState2,
+      renderWechatsyncConnectionStatusBar: renderWechatsyncConnectionStatusBar2
+    } = require_connection_status_bar();
+    var { stripMarkdownFrontmatter: stripMarkdownFrontmatter2 } = require_markdown_utils();
+    var {
+      DEFAULT_MAX_IMAGE_SIZE_BYTES,
+      findAssetForCover,
+      formatArticleImageWarnings,
+      resolveArticleImages
+    } = require_article_image_assets();
+    var QUOTA_POLICY = "truncate";
+    var FREE_DAILY_PLATFORM_QUOTA = 3;
+    var MODAL_SELECTED_PLATFORM_IDS = "__wechatMultiPlatformSelectedPlatformIds";
+    var MATERIAL_COVER_ASSET_TTL_MS = 5 * 60 * 1e3;
+    var MAX_MATERIAL_COVER_ASSET_CACHE_ENTRIES = 3;
+    function getQuotaHintText(selectedCount = 0, { proLicensed = false } = {}) {
+      if (proLicensed) {
+        return selectedCount > 0 ? `\u5DF2\u9009 ${selectedCount} \u4E2A\u5E73\u53F0\u3002Pro \u5DF2\u6FC0\u6D3B\uFF0C\u65E0\u6BCF\u65E5\u5E73\u53F0\u6570\u91CF\u9650\u5236\u3002` : "Pro \u5DF2\u6FC0\u6D3B\uFF0C\u65E0\u6BCF\u65E5\u5E73\u53F0\u6570\u91CF\u9650\u5236\u3002";
+      }
+      if (selectedCount > FREE_DAILY_PLATFORM_QUOTA) {
+        return `\u5DF2\u9009 ${selectedCount} \u4E2A\u5E73\u53F0\uFF1B\u514D\u8D39\u7248\u6BCF\u5929 ${FREE_DAILY_PLATFORM_QUOTA} \u4E2A\u5E73\u53F0\u989D\u5EA6\uFF0C\u8D85\u51FA\u90E8\u5206\u4F1A\u81EA\u52A8\u8DF3\u8FC7\u3002`;
+      }
+      if (selectedCount === FREE_DAILY_PLATFORM_QUOTA) {
+        return `\u5DF2\u9009 ${selectedCount} \u4E2A\u5E73\u53F0\uFF0C\u521A\u597D\u8FBE\u5230\u514D\u8D39\u7248\u6BCF\u5929 ${FREE_DAILY_PLATFORM_QUOTA} \u4E2A\u5E73\u53F0\u989D\u5EA6\u3002`;
+      }
+      if (selectedCount > 0) {
+        return `\u5DF2\u9009 ${selectedCount} \u4E2A\u5E73\u53F0\uFF1B\u514D\u8D39\u7248\u6BCF\u5929 ${FREE_DAILY_PLATFORM_QUOTA} \u4E2A\u5E73\u53F0\u989D\u5EA6\u3002`;
+      }
+      return `\u514D\u8D39\u7248\u6BCF\u5929 ${FREE_DAILY_PLATFORM_QUOTA} \u4E2A\u5E73\u53F0\u989D\u5EA6\u3002`;
+    }
+    function isMobileClient2(app) {
+      if (typeof (Platform2 == null ? void 0 : Platform2.isMobile) === "boolean")
+        return Platform2.isMobile;
+      return !!(app == null ? void 0 : app.isMobile);
+    }
+    function openPublisherProPage(view) {
+      if (typeof (view == null ? void 0 : view.openPublisherProPage) === "function")
+        return view.openPublisherProPage();
+      if (typeof (view == null ? void 0 : view.openExternalUrl) === "function") {
+        return view.openExternalUrl("https://xiaoweibox.top/obsidian-publisher/pro/");
+      }
+      return false;
+    }
+    function openPublisherGuidePage(view, section = "install-extension") {
+      if (typeof (view == null ? void 0 : view.openPublisherGuidePage) === "function") {
+        return view.openPublisherGuidePage(section);
+      }
+      if (typeof (view == null ? void 0 : view.openExternalUrl) === "function") {
+        const hash = section === "bridge" ? "bridge" : "install-extension";
+        return view.openExternalUrl(`https://xiaoweibox.top/obsidian-publisher/guide/?from=obsidian-plugin#${hash}`);
+      }
+      return false;
+    }
+    function getBridgeSafeSessionCover(cover) {
+      const value = String(cover || "").trim();
+      if (/^(data:image\/|https?:\/\/)/i.test(value))
+        return value;
+      return "";
+    }
+    function getFilenameFromUrl(url, fallback = "wechat-material-cover") {
+      try {
+        const parsed = new URL(String(url || ""));
+        const filename = decodeURIComponent(parsed.pathname.split("/").filter(Boolean).pop() || "");
+        return filename || fallback;
+      } catch (e) {
+        return fallback;
+      }
+    }
+    function normalizeRemoteCoverFilename(url, mimeType = "") {
+      const rawName = getFilenameFromUrl(url);
+      if (/\.(png|jpe?g|gif|webp)$/i.test(rawName))
+        return rawName;
+      if (/png/i.test(mimeType))
+        return `${rawName}.png`;
+      if (/gif/i.test(mimeType))
+        return `${rawName}.gif`;
+      if (/webp/i.test(mimeType))
+        return `${rawName}.webp`;
+      return `${rawName}.jpg`;
+    }
+    function bufferFromArrayBuffer(arrayBuffer) {
+      if (Buffer.isBuffer(arrayBuffer))
+        return arrayBuffer;
+      if (arrayBuffer instanceof ArrayBuffer)
+        return Buffer.from(arrayBuffer);
+      if (ArrayBuffer.isView(arrayBuffer)) {
+        return Buffer.from(arrayBuffer.buffer, arrayBuffer.byteOffset, arrayBuffer.byteLength);
+      }
+      return Buffer.from(arrayBuffer || []);
+    }
+    function getMaterialCoverAssetCacheKey(view, url) {
+      return [
+        (view == null ? void 0 : view.sessionThumbMediaId) || "",
+        String(url || "").trim()
+      ].join("::");
+    }
+    function pruneMaterialCoverAssetCache(view, now = Date.now()) {
+      if (!view.wechatMaterialCoverAssetCache)
+        view.wechatMaterialCoverAssetCache = /* @__PURE__ */ new Map();
+      for (const [key, entry] of view.wechatMaterialCoverAssetCache.entries()) {
+        if (!entry || now - entry.cachedAt >= MATERIAL_COVER_ASSET_TTL_MS) {
+          view.wechatMaterialCoverAssetCache.delete(key);
+        }
+      }
+      while (view.wechatMaterialCoverAssetCache.size > MAX_MATERIAL_COVER_ASSET_CACHE_ENTRIES) {
+        let oldestKey = "";
+        let oldestAt = Infinity;
+        for (const [key, entry] of view.wechatMaterialCoverAssetCache.entries()) {
+          if (((entry == null ? void 0 : entry.cachedAt) || 0) < oldestAt) {
+            oldestAt = entry.cachedAt || 0;
+            oldestKey = key;
+          }
+        }
+        if (!oldestKey)
+          break;
+        view.wechatMaterialCoverAssetCache.delete(oldestKey);
+      }
+    }
+    function cloneMaterialCoverAsset(cachedAsset, id) {
+      return {
+        id,
+        filename: cachedAsset.filename,
+        mimeType: cachedAsset.mimeType,
+        size: cachedAsset.size,
+        base64: cachedAsset.base64,
+        source: { ...cachedAsset.source || {} }
+      };
+    }
+    async function downloadMaterialCoverAsBridgeAsset(view, coverUrl, assets = []) {
+      var _a;
+      const url = String(coverUrl || "").trim();
+      if (!/^https?:\/\//i.test(url)) {
+        throw new Error("\u5FAE\u4FE1\u7D20\u6750\u5E93\u5C01\u9762\u7F3A\u5C11\u53EF\u4E0B\u8F7D URL\uFF0C\u65E0\u6CD5\u7528\u4E8E\u591A\u5E73\u53F0\u53D1\u5E03\u3002\u8BF7\u6539\u7528\u672C\u5730\u5C01\u9762\u6216 frontmatter cover\u3002");
+      }
+      const now = Date.now();
+      const cacheKey = getMaterialCoverAssetCacheKey(view, url);
+      pruneMaterialCoverAssetCache(view, now);
+      const cached = (_a = view.wechatMaterialCoverAssetCache) == null ? void 0 : _a.get(cacheKey);
+      if (cached && now - cached.cachedAt < MATERIAL_COVER_ASSET_TTL_MS) {
+        const id2 = `image-${assets.length + 1}`;
+        const asset2 = cloneMaterialCoverAsset(cached.asset, id2);
+        assets.push(asset2);
+        return {
+          asset: asset2,
+          cover: `asset://${id2}`,
+          fromCache: true
+        };
+      }
+      let response;
+      try {
+        response = await obsidian.requestUrl({ url, method: "GET" });
+      } catch (error) {
+        throw new Error(`\u5FAE\u4FE1\u7D20\u6750\u5E93\u5C01\u9762\u4E0B\u8F7D\u5931\u8D25\uFF1A${error.message || String(error)}`);
+      }
+      const arrayBuffer = typeof (response == null ? void 0 : response.arrayBuffer) === "function" ? await response.arrayBuffer() : response == null ? void 0 : response.arrayBuffer;
+      const buffer = bufferFromArrayBuffer(arrayBuffer);
+      if (!buffer.length) {
+        throw new Error("\u5FAE\u4FE1\u7D20\u6750\u5E93\u5C01\u9762\u4E0B\u8F7D\u5931\u8D25\uFF1A\u56FE\u7247\u5185\u5BB9\u4E3A\u7A7A\u3002");
+      }
+      if (buffer.length > DEFAULT_MAX_IMAGE_SIZE_BYTES) {
+        throw new Error(`\u5FAE\u4FE1\u7D20\u6750\u5E93\u5C01\u9762\u8D85\u8FC7 ${Math.round(DEFAULT_MAX_IMAGE_SIZE_BYTES / 1024 / 1024)} MB\uFF0C\u65E0\u6CD5\u7528\u4E8E\u591A\u5E73\u53F0\u53D1\u5E03\u3002`);
+      }
+      const headers = (response == null ? void 0 : response.headers) || {};
+      const mimeType = String(headers["content-type"] || headers["Content-Type"] || "image/jpeg").split(";")[0].trim() || "image/jpeg";
+      if (!/^image\/(png|jpe?g|gif|webp)$/i.test(mimeType)) {
+        throw new Error(`\u5FAE\u4FE1\u7D20\u6750\u5E93\u5C01\u9762\u683C\u5F0F\u4E0D\u652F\u6301\uFF1A${mimeType}`);
+      }
+      const id = `image-${assets.length + 1}`;
+      const filename = normalizeRemoteCoverFilename(url, mimeType);
+      const asset = {
+        id,
+        filename,
+        mimeType,
+        size: buffer.length,
+        base64: buffer.toString("base64"),
+        source: {
+          kind: "wechat-material-cover",
+          originalSrc: url,
+          thumbMediaId: view.sessionThumbMediaId || ""
+        }
+      };
+      assets.push(asset);
+      if (!view.wechatMaterialCoverAssetCache)
+        view.wechatMaterialCoverAssetCache = /* @__PURE__ */ new Map();
+      view.wechatMaterialCoverAssetCache.set(cacheKey, {
+        cachedAt: now,
+        asset: {
+          filename,
+          mimeType,
+          size: buffer.length,
+          base64: asset.base64,
+          source: { ...asset.source }
+        }
+      });
+      pruneMaterialCoverAssetCache(view, now);
+      return {
+        asset,
+        cover: `asset://${id}`,
+        fromCache: false
+      };
+    }
+    function getModalSelectedPlatformIds(modal, defaultSelectedPlatforms) {
+      if (!Array.isArray(modal == null ? void 0 : modal[MODAL_SELECTED_PLATFORM_IDS])) {
+        modal[MODAL_SELECTED_PLATFORM_IDS] = Array.from(defaultSelectedPlatforms);
+      }
+      return new Set(parseWechatsyncPlatformIds2(modal[MODAL_SELECTED_PLATFORM_IDS]));
+    }
+    function saveModalSelectedPlatformIds(modal, selectedPlatforms) {
+      if (!modal)
+        return;
+      modal[MODAL_SELECTED_PLATFORM_IDS] = Array.from(selectedPlatforms);
+    }
+    async function detectQuotaPolicySupport(bridge, cachedConnection = {}) {
+      var _a;
+      const cachedCapabilities = normalizeWechatSyncCapabilities2(cachedConnection.capabilities || {});
+      if (cachedCapabilities.quotaPolicy === true)
+        return cachedCapabilities;
+      if (!bridge || typeof bridge.health !== "function")
+        return cachedCapabilities;
+      try {
+        const health = await bridge.health({ timeoutMs: 5e3 });
+        return {
+          ...cachedCapabilities,
+          ...normalizeWechatSyncCapabilities2((health == null ? void 0 : health.capabilities) || {})
+        };
+      } catch (error) {
+        if (isWechatSyncUnsupportedMethodError2(error))
+          return cachedCapabilities;
+        (_a = console.debug) == null ? void 0 : _a.call(console, "[Wechatsync] quota feature detection skipped", {
+          code: error == null ? void 0 : error.code,
+          message: (error == null ? void 0 : error.message) || String(error)
+        });
+        return cachedCapabilities;
+      }
+    }
+    function resolvePublishModalCapabilities(view, cachedConnection = {}) {
+      var _a, _b;
+      const cachedCapabilities = normalizeWechatSyncCapabilities2(cachedConnection.capabilities || {});
+      const bridge = (_b = (_a = view == null ? void 0 : view.plugin) == null ? void 0 : _a.getWechatSyncBridgeService) == null ? void 0 : _b.call(_a);
+      const activeClient = typeof (bridge == null ? void 0 : bridge.getActiveClientDescriptor) === "function" ? bridge.getActiveClientDescriptor() : null;
+      if (activeClient == null ? void 0 : activeClient.capabilities) {
+        return {
+          ...cachedCapabilities,
+          ...normalizeWechatSyncCapabilities2(activeClient.capabilities)
+        };
+      }
+      const status = typeof (bridge == null ? void 0 : bridge.getStatus) === "function" ? bridge.getStatus() : null;
+      const liveClient = Array.isArray(status == null ? void 0 : status.connectedClients) ? status.connectedClients.find((client) => (client == null ? void 0 : client.status) === "connected" && client.capabilities) : null;
+      return {
+        ...cachedCapabilities,
+        ...normalizeWechatSyncCapabilities2((liveClient == null ? void 0 : liveClient.capabilities) || {})
+      };
+    }
+    async function showMultiPlatformPublishModal2(view, options = {}) {
+      var _a;
+      if (!view.currentHtml) {
+        new Notice2(view.getMissingRenderNotice());
+        return;
+      }
+      const modal = options.modal || new obsidian.Modal(view.app);
+      const shouldOpenModal = !options.modal;
+      const mobileSync = isMobileClient2(view.app);
+      const bridgeSettings = normalizeMultiPlatformSyncSettings2(view.plugin.settings.multiPlatformSync);
+      const cachedConnection = bridgeSettings.connection || normalizeMultiPlatformConnection2();
+      view.preparePublishModalShell(modal, { mode: "multi", mobileSync });
+      const { wechatTab, multiPlatformTab } = view.createPublishModeTabs(modal, "multi");
+      wechatTab.onclick = () => {
+        view.showSyncModal({ modal });
+      };
+      const intro = modal.contentEl.createDiv({ cls: "wechat-multiplatform-intro" });
+      const introText = intro.createDiv({ cls: "wechat-multiplatform-intro-text" });
+      introText.createEl("p", {
+        text: "\u9009\u62E9\u5E73\u53F0\u540E\u901A\u8FC7\u6D4F\u89C8\u5668\u63D2\u4EF6\u4FDD\u5B58\u4E3A\u8349\u7A3F\u3002"
+      });
+      const publishModalCapabilities = resolvePublishModalCapabilities(view, cachedConnection);
+      const isProLicensed = publishModalCapabilities.proLicensed === true;
+      const quotaHint = modal.contentEl.createDiv({
+        cls: `wechat-multiplatform-quota-hint ${isProLicensed ? "is-pro" : "is-free"}`
+      });
+      if (isProLicensed) {
+        quotaHint.createEl("span", {
+          text: "Pro",
+          cls: "wechat-pro-identity-badge wechat-pro-identity-badge-quota"
+        });
+      } else {
+        quotaHint.createEl("span", {
+          text: "\u514D\u8D39\u7248",
+          cls: "wechat-multiplatform-quota-pill"
+        });
+      }
+      const quotaText = quotaHint.createEl("span", {
+        cls: "wechat-multiplatform-quota-copy",
+        text: getQuotaHintText(0, { proLicensed: isProLicensed })
+      });
+      if (!isProLicensed) {
+        const quotaUpgradeBtn = quotaHint.createEl("button", {
+          text: "\u5347\u7EA7 Pro",
+          cls: "wechat-multiplatform-quota-link"
+        });
+        quotaUpgradeBtn.onclick = () => openPublisherProPage(view);
+      }
+      if (!bridgeSettings.enabled) {
+        const disabledHint = modal.contentEl.createDiv({ cls: "wechat-sync-empty-state" });
+        disabledHint.createEl("h3", { text: "\u5C1A\u672A\u542F\u7528\u6D4F\u89C8\u5668\u63D2\u4EF6\u53D1\u5E03" });
+        disabledHint.createEl("p", { text: "\u8BF7\u5148\u5B89\u88C5\u6D4F\u89C8\u5668\u63D2\u4EF6\uFF0C\u518D\u5230\u8BBE\u7F6E\u4E2D\u542F\u7528\u6D4F\u89C8\u5668\u63D2\u4EF6\u53D1\u5E03\u3001\u6D4B\u8BD5\u8FDE\u63A5\u5E76\u9009\u62E9\u5E73\u53F0\u3002\u514D\u8D39\u7248\u6BCF\u5929\u53EF\u53D1\u5E03\u5230 3 \u4E2A\u5E73\u53F0\u3002" });
+        const settingsBtn = disabledHint.createEl("button", { text: "\u53BB\u8BBE\u7F6E", cls: "mod-cta" });
+        settingsBtn.onclick = () => {
+          modal.close();
+          if (!view.openPluginSettings()) {
+            new Notice2("\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u6253\u5F00 Obsidian \u53D1\u5E03\u52A9\u624B\u5E76\u5F00\u542F\u6D4F\u89C8\u5668\u63D2\u4EF6\u53D1\u5E03");
+          }
+        };
+        const guideBtn = disabledHint.createEl("button", { text: "\u5B89\u88C5\u6D4F\u89C8\u5668\u63D2\u4EF6\u6559\u7A0B" });
+        guideBtn.onclick = () => openPublisherGuidePage(view, "install-extension");
+        if (shouldOpenModal)
+          modal.open();
+        return;
+      }
+      const availablePlatforms = getAvailableWechatsyncPlatforms2(bridgeSettings);
+      const defaultSelectedPlatforms = new Set(
+        parseWechatsyncPlatformIds2(bridgeSettings.selectedPlatforms || [])
+      );
+      const displayedPlatforms = availablePlatforms.filter((p) => defaultSelectedPlatforms.has(p.id));
+      const isBridgeReady = cachedConnection.status === "connected";
+      const modalSelectedPlatforms = getModalSelectedPlatformIds(modal, defaultSelectedPlatforms);
+      {
+        const description = describeWechatsyncConnectionState2(cachedConnection, { variant: "modal" });
+        renderWechatsyncConnectionStatusBar2(modal.contentEl, description);
+      }
+      const platformListEl = modal.contentEl.createDiv({ cls: "wechat-multiplatform-list" });
+      const selectedPlatforms = /* @__PURE__ */ new Set();
+      console.debug("[Wechatsync] render cached platform state", {
+        status: cachedConnection.status,
+        checkedAt: cachedConnection.checkedAt,
+        message: cachedConnection.message,
+        ...summarizeWechatsyncPlatformResponse2(cachedConnection.platforms)
+      });
+      const btnRow = modal.contentEl.createDiv({ cls: "wechat-modal-buttons" });
+      const cancelBtn = btnRow.createEl("button", { text: "\u53D6\u6D88" });
+      const syncBtn = btnRow.createEl("button", { text: "\u53D1\u9001\u5230\u6D4F\u89C8\u5668\u63D2\u4EF6", cls: "mod-cta" });
+      syncBtn.disabled = true;
+      (_a = syncBtn.addClass) == null ? void 0 : _a.call(syncBtn, "apple-btn-disabled");
+      cancelBtn.onclick = () => modal.close();
+      const updateQuotaHintText = () => {
+        quotaText.textContent = getQuotaHintText(selectedPlatforms.size, { proLicensed: isProLicensed });
+      };
+      const updateSyncButtonState = () => {
+        var _a2, _b;
+        syncBtn.disabled = !isBridgeReady || selectedPlatforms.size === 0;
+        if (syncBtn.disabled) {
+          (_a2 = syncBtn.addClass) == null ? void 0 : _a2.call(syncBtn, "apple-btn-disabled");
+        } else {
+          (_b = syncBtn.removeClass) == null ? void 0 : _b.call(syncBtn, "apple-btn-disabled");
+        }
+        updateQuotaHintText();
+      };
+      const renderPlatforms = (platforms = []) => {
+        platformListEl.empty();
+        selectedPlatforms.clear();
+        const normalizedPlatforms = platforms.map((platform) => normalizeWechatsyncPlatform2(platform)).filter(Boolean);
+        if (normalizedPlatforms.length === 0) {
+          const empty = platformListEl.createDiv({ cls: "wechat-multiplatform-state" });
+          empty.createEl("div", { text: "\u8FD8\u6CA1\u6709\u53EF\u5206\u53D1\u7684\u5E73\u53F0", cls: "wechat-multiplatform-state-title" });
+          empty.createEl("p", { text: "\u8BF7\u5148\u8FDE\u63A5\u6D4F\u89C8\u5668\u63D2\u4EF6\uFF0C\u6216\u7A0D\u540E\u91CD\u8BD5\u8BFB\u53D6\u5E73\u53F0\u6E05\u5355\u3002" });
+          updateSyncButtonState();
+          return;
+        }
+        for (const platform of normalizedPlatforms) {
+          const authInfo = getWechatsyncPlatformStatusBadge2(platform, { bridgeConnected: isBridgeReady });
+          const isSelected = isBridgeReady && modalSelectedPlatforms.has(platform.id);
+          const row = platformListEl.createDiv({
+            cls: `wechat-multiplatform-platform ${isSelected ? `${authInfo.cls} is-selected` : ""} ${!isBridgeReady ? "is-disabled" : ""}`.trim()
+          });
+          row.setAttribute("title", isSelected ? `${platform.name} \xB7 ${authInfo.text}` : platform.name);
+          const checkbox = row.createEl("input");
+          checkbox.type = "checkbox";
+          checkbox.value = platform.id;
+          checkbox.checked = isSelected;
+          checkbox.disabled = !isBridgeReady;
+          if (isSelected)
+            selectedPlatforms.add(platform.id);
+          const label = row.createEl("label", { cls: "wechat-multiplatform-platform-label" });
+          label.createEl("span", { text: platform.name, cls: "wechat-multiplatform-platform-name" });
+          const statusEl = label.createEl("span", {
+            text: authInfo.text,
+            cls: `wechat-multiplatform-platform-status ${authInfo.cls}`
+          });
+          statusEl.setAttribute("title", authInfo.text);
+          const setStatusVisible = (visible) => {
+            var _a2, _b, _c, _d, _e, _f, _g, _h;
+            for (const cls of ["is-ok", "is-error", "is-unknown", "is-bridge"]) {
+              (_a2 = row.removeClass) == null ? void 0 : _a2.call(row, cls);
+              (_b = row.classList) == null ? void 0 : _b.remove(cls);
+              (_c = statusEl.removeClass) == null ? void 0 : _c.call(statusEl, cls);
+              (_d = statusEl.classList) == null ? void 0 : _d.remove(cls);
+            }
+            statusEl.textContent = authInfo.text;
+            if (visible) {
+              (_e = row.addClass) == null ? void 0 : _e.call(row, authInfo.cls);
+              (_f = row.classList) == null ? void 0 : _f.add(authInfo.cls);
+              (_g = statusEl.addClass) == null ? void 0 : _g.call(statusEl, authInfo.cls);
+              (_h = statusEl.classList) == null ? void 0 : _h.add(authInfo.cls);
+            }
+            row.setAttribute("title", visible ? `${platform.name} \xB7 ${authInfo.text}` : platform.name);
+          };
+          label.onclick = () => {
+            if (!checkbox.disabled)
+              checkbox.click();
+          };
+          checkbox.onchange = () => {
+            var _a2, _b, _c, _d;
+            if (checkbox.checked) {
+              selectedPlatforms.add(platform.id);
+              (_a2 = row.addClass) == null ? void 0 : _a2.call(row, "is-selected");
+              (_b = row.classList) == null ? void 0 : _b.add("is-selected");
+              setStatusVisible(true);
+              if (authInfo.status === "login_required") {
+                new Notice2(`${platform.name} \u4E0A\u6B21\u72B6\u6001\u4E3A\u9700\u767B\u5F55\u3002\u8BF7\u5148\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u6253\u5F00\u5E73\u53F0\u767B\u5F55\u9875\uFF0C\u6216\u7EE7\u7EED\u5C1D\u8BD5\u7531\u63D2\u4EF6\u8FD4\u56DE\u5B9E\u9645\u7ED3\u679C\u3002`, 8e3);
+              }
+              if (authInfo.status === "unknown") {
+                new Notice2(`${platform.name} \u6B64\u524D\u672A\u68C0\u6D4B\uFF0C\u53D1\u5E03\u7ED3\u679C\u4EE5\u6D4F\u89C8\u5668\u63D2\u4EF6\u5B9E\u9645\u6267\u884C\u4E3A\u51C6\u3002`, 6e3);
+              }
+            } else {
+              selectedPlatforms.delete(platform.id);
+              (_c = row.removeClass) == null ? void 0 : _c.call(row, "is-selected");
+              (_d = row.classList) == null ? void 0 : _d.remove("is-selected");
+              setStatusVisible(false);
+            }
+            saveModalSelectedPlatformIds(modal, selectedPlatforms);
+            updateSyncButtonState();
+          };
+        }
+        updateSyncButtonState();
+      };
+      renderPlatforms(displayedPlatforms);
+      syncBtn.onclick = async () => {
+        var _a2, _b, _c, _d, _e;
+        if (!isBridgeReady) {
+          new Notice2("\u8BF7\u5148\u8FDE\u63A5\u6D4F\u89C8\u5668\u63D2\u4EF6\uFF0C\u518D\u53D1\u9001\u591A\u5E73\u53F0\u53D1\u5E03\u4EFB\u52A1\u3002", 8e3);
+          return;
+        }
+        if (selectedPlatforms.size === 0) {
+          new Notice2("\u8BF7\u5148\u9009\u62E9\u81F3\u5C11\u4E00\u4E2A\u5E73\u53F0");
+          return;
+        }
+        const activeFile = view.getPublishContextFile();
+        const title = (activeFile == null ? void 0 : activeFile.basename) || "\u65E0\u6807\u9898\u6587\u7AE0";
+        const rawMarkdown = stripMarkdownFrontmatter2(view.lastResolvedMarkdown || "");
+        const exportHtml = view.getCurrentExportHtml() || view.currentHtml || "";
+        const publishMeta = view.getFrontmatterPublishMeta(activeFile);
+        const selectedWechatMaterialCover = !!view.sessionThumbMediaId;
+        const rawCover = getBridgeSafeSessionCover(view.sessionCoverBase64) || publishMeta.cover || "";
+        const notice = new Notice2("\u6B63\u5728\u51C6\u5907\u5E76\u53D1\u9001\u5230\u6D4F\u89C8\u5668\u63D2\u4EF6...", 0);
+        syncBtn.disabled = true;
+        (_a2 = syncBtn.addClass) == null ? void 0 : _a2.call(syncBtn, "apple-btn-disabled");
+        const sendStartedAt = Date.now();
+        const requestedPlatformIds = Array.from(selectedPlatforms);
+        try {
+          const resolvedImages = await resolveArticleImages(rawMarkdown, activeFile, {
+            app: view.app,
+            cover: rawCover
+          });
+          if ((_b = resolvedImages.warnings) == null ? void 0 : _b.length) {
+            throw new Error(`\u672C\u5730\u56FE\u7247\u5904\u7406\u5931\u8D25\uFF1A${formatArticleImageWarnings(resolvedImages.warnings)}`);
+          }
+          const markdown = resolvedImages.markdown;
+          const assets = resolvedImages.assets;
+          const fallbackCover = view.getFirstImageFromArticle();
+          let cover = resolvedImages.cover || resolvedImages.firstImageSrc || (/^(https?:\/\/|data:image\/)/i.test(fallbackCover || "") ? fallbackCover : "") || "";
+          if (selectedWechatMaterialCover) {
+            const materialCover = await downloadMaterialCoverAsBridgeAsset(view, view.sessionCoverBase64, assets);
+            cover = materialCover.cover;
+          }
+          const content = await view.prepareHtmlForWechatsyncArticleViaBridge(exportHtml, assets);
+          const base64Matches = String(content || "").match(/data:image\/[a-z]+;base64,/gi);
+          if (base64Matches && base64Matches.length) {
+            console.error("[Wechatsync] bridge content contains inline base64 images \u2014 this should never happen on bridge flow. Likely a regression in prepareHtmlForWechatsyncArticleViaBridge or a forgotten callsite using the legacy preparator.", {
+              inlineBase64ImageCount: base64Matches.length,
+              contentLength: content.length,
+              assetCount: assets.length,
+              title
+            });
+          }
+          const coverAsset = findAssetForCover(cover, assets);
+          const coverThumbnail = coverAsset ? await view.generateCoverThumbnailFromAsset(coverAsset) : "";
+          console.info("[Wechatsync] enqueueSyncArticle started", {
+            platformCount: requestedPlatformIds.length,
+            platforms: requestedPlatformIds,
+            title,
+            hasMarkdown: !!markdown,
+            contentLength: content.length,
+            hasCover: !!cover,
+            hasCoverThumbnail: !!coverThumbnail,
+            coverThumbnailBytes: coverThumbnail.length,
+            assetCount: assets.length,
+            assetBytes: assets.reduce((sum, asset) => sum + (asset.size || 0), 0)
+          });
+          const bridge = view.plugin.getWechatSyncBridgeService();
+          const detectedCapabilities = await detectQuotaPolicySupport(bridge, cachedConnection);
+          let result = null;
+          let usedFallbackSend = false;
+          try {
+            result = await bridge.enqueueSyncArticle({
+              platforms: requestedPlatformIds,
+              title,
+              markdown,
+              content,
+              cover,
+              coverThumbnail,
+              assets,
+              source: "obsidian",
+              quotaPolicy: QUOTA_POLICY
+            });
+          } catch (enqueueError) {
+            if (!isWechatSyncUnsupportedMethodError2(enqueueError))
+              throw enqueueError;
+            usedFallbackSend = true;
+            console.warn("[Wechatsync] enqueueSyncArticle unsupported, falling back to one-way syncArticle", enqueueError);
+            result = await bridge.sendArticle({
+              platforms: requestedPlatformIds,
+              title,
+              markdown,
+              content,
+              cover,
+              coverThumbnail,
+              assets,
+              quotaPolicy: QUOTA_POLICY
+            });
+          }
+          console.info("[Wechatsync] enqueueSyncArticle accepted", {
+            elapsedMs: Date.now() - sendStartedAt,
+            resultKind: Array.isArray(result) ? "array" : typeof result,
+            syncId: result == null ? void 0 : result.syncId,
+            requestId: result == null ? void 0 : result.requestId,
+            accepted: result == null ? void 0 : result.accepted,
+            quotaBlocked: result == null ? void 0 : result.quotaBlocked,
+            skippedPlatforms: result == null ? void 0 : result.skippedPlatforms,
+            usedFallbackSend,
+            platformCount: requestedPlatformIds.length,
+            supportsQuotaPolicy: detectedCapabilities.quotaPolicy === true
+          });
+          const currentMultiPlatformSettings = normalizeMultiPlatformSyncSettings2(view.plugin.settings.multiPlatformSync);
+          if ((result == null ? void 0 : result.accepted) === false) {
+            notice.hide();
+            modal.close();
+            view.plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+              ...currentMultiPlatformSettings,
+              connection: {
+                ...currentMultiPlatformSettings.connection,
+                status: "connected",
+                checkedAt: Date.now(),
+                capabilities: {
+                  ...((_c = currentMultiPlatformSettings.connection) == null ? void 0 : _c.capabilities) || {},
+                  ...detectedCapabilities
+                },
+                message: (result == null ? void 0 : result.message) || "\u6D4F\u89C8\u5668\u63D2\u4EF6\u5DF2\u62D2\u7EDD\u672C\u6B21\u53D1\u5E03\u3002"
+              }
+            });
+            await view.plugin.saveSettings();
+            view.showMultiPlatformQuotaBlockedModal({
+              quotaResult: result,
+              requestedPlatformIds
+            });
+            return;
+          }
+          if (result == null ? void 0 : result.syncId)
+            notice.setMessage("\u5DF2\u6295\u9012\uFF0C\u6B63\u5728\u8BFB\u53D6\u63D2\u4EF6\u4EFB\u52A1\u72B6\u6001...");
+          const taskSnapshot = (result == null ? void 0 : result.syncId) ? await view.getWechatsyncTaskSnapshot(bridge, result.syncId) : null;
+          const immediateResults = normalizeWechatSyncResponseResults2(result);
+          const taskResults = Array.isArray(taskSnapshot == null ? void 0 : taskSnapshot.platforms) ? taskSnapshot.platforms.map((item) => ({
+            platform: (item == null ? void 0 : item.id) || (item == null ? void 0 : item.platform),
+            platformName: item == null ? void 0 : item.name,
+            success: (item == null ? void 0 : item.success) === true || (item == null ? void 0 : item.status) === "success",
+            error: (item == null ? void 0 : item.error) || (item == null ? void 0 : item.message) || ""
+          })) : [];
+          const cachedPlatformsAfterSync = updateCachedPlatformsAfterSync2(
+            ((_d = currentMultiPlatformSettings.connection) == null ? void 0 : _d.platforms) || [],
+            immediateResults.length ? immediateResults : taskResults
+          );
+          notice.hide();
+          modal.close();
+          const nextRecentTasks = (result == null ? void 0 : result.syncId) ? normalizeWechatSyncRecentTasks2([
+            {
+              syncId: result.syncId,
+              title,
+              platforms: Array.isArray(result == null ? void 0 : result.publishedPlatforms) && result.publishedPlatforms.length ? result.publishedPlatforms : Array.isArray(result == null ? void 0 : result.platforms) && result.platforms.length ? result.platforms : requestedPlatformIds,
+              createdAt: Date.now()
+            },
+            ...currentMultiPlatformSettings.recentTasks || []
+          ]) : currentMultiPlatformSettings.recentTasks;
+          view.plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+            ...currentMultiPlatformSettings,
+            recentTasks: nextRecentTasks,
+            connection: {
+              ...currentMultiPlatformSettings.connection,
+              status: "connected",
+              checkedAt: Date.now(),
+              platforms: cachedPlatformsAfterSync,
+              capabilities: {
+                ...((_e = currentMultiPlatformSettings.connection) == null ? void 0 : _e.capabilities) || {},
+                ...detectedCapabilities
+              },
+              message: ""
+            }
+          });
+          await view.plugin.saveSettings();
+          view.showWechatsyncEnqueueAcceptedModal({
+            syncId: (result == null ? void 0 : result.syncId) || "",
+            title,
+            platforms: requestedPlatformIds,
+            task: taskSnapshot,
+            usedFallbackSend,
+            quotaResult: result
+          });
+        } catch (error) {
+          notice.hide();
+          console.error("[Wechatsync] enqueueSyncArticle failed", {
+            elapsedMs: Date.now() - sendStartedAt,
+            code: error == null ? void 0 : error.code,
+            message: (error == null ? void 0 : error.message) || String(error),
+            stack: error == null ? void 0 : error.stack,
+            requestedPlatformIds
+          });
+          const displayMessage = (error == null ? void 0 : error.code) === "EXTENSION_NOT_AUTHENTICATED" ? '\u6D4F\u89C8\u5668\u63D2\u4EF6\u5DF2\u8FDE\u63A5\u4F46\u672A\u901A\u8FC7\u63E1\u624B\u8BA4\u8BC1\u3002\u5982\u679C\u4F60\u521A\u521A\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u8BBE\u7F6E\u4E2D\u91CD\u7F6E\u8FC7\u4EE4\u724C\uFF0C\u8BF7\u5230\u672C\u63D2\u4EF6\u7684"\u591A\u5E73\u53F0\u540C\u6B65"\u8BBE\u7F6E\u9875\u7C98\u8D34\u65B0\u4EE4\u724C\uFF1B\u5426\u5219\u8BF7\u786E\u8BA4\u63D2\u4EF6\u5DF2\u5347\u7EA7\u5230\u652F\u6301\u5B89\u5168\u63E1\u624B\u7684\u7248\u672C\u3002' : (error == null ? void 0 : error.message) || "\u6D4F\u89C8\u5668\u63D2\u4EF6\u8FDE\u63A5\u5931\u8D25";
+          if (isWechatSyncConnectionFailure2(error)) {
+            const currentMultiPlatformSettings = normalizeMultiPlatformSyncSettings2(view.plugin.settings.multiPlatformSync);
+            view.plugin.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings2({
+              ...currentMultiPlatformSettings,
+              connection: {
+                ...currentMultiPlatformSettings.connection,
+                status: "failed",
+                checkedAt: Date.now(),
+                message: displayMessage
+              }
+            });
+            await view.plugin.saveSettings();
+          }
+          modal.close();
+          new Notice2(`\u274C \u53D1\u9001\u5230\u6D4F\u89C8\u5668\u63D2\u4EF6\u5931\u8D25\uFF1A${displayMessage}`, 1e4);
+          view.showMultiPlatformSyncResultModal({
+            requestedPlatformIds,
+            fatalError: error
+          });
+        } finally {
+          updateSyncButtonState();
+        }
+      };
+      if (shouldOpenModal)
+        modal.open();
+    }
+    module2.exports = { showMultiPlatformPublishModal: showMultiPlatformPublishModal2 };
+  }
+});
+
 // input.js
 var { Plugin, MarkdownView, ItemView, Notice, Platform, requestUrl, request } = require("obsidian");
 var { PluginSettingTab, Setting } = require("obsidian");
@@ -11301,13 +15496,71 @@ var {
   testAiProviderConnection
 } = require_ai_layout();
 var { createWechatSyncService } = require_wechat_sync();
+var {
+  DEFAULT_WECHATSYNC_PORT,
+  createWechatSyncBridgeService,
+  isUnsupportedBridgeMethodError: isWechatSyncUnsupportedMethodError,
+  retryRecoverableBridgeOperation
+} = require_wechatsync_bridge();
+var {
+  buildWechatsyncPlatformCatalog,
+  getFallbackWechatsyncPlatforms,
+  getMultiPlatformResultSummary,
+  getWechatSyncResultError,
+  getWechatSyncResultPlatformId,
+  getWechatSyncResultUrl,
+  getWechatsyncPlatformStatusBadge,
+  isWechatSyncConnectionFailure,
+  normalizeWechatSyncResponseResults,
+  normalizeWechatsyncAuthSnapshot,
+  normalizeWechatsyncPlatform,
+  normalizeWechatsyncPlatformList,
+  probeWechatsyncPlatformsIndividually,
+  sortWechatsyncPlatformItemsForDisplay,
+  summarizeWechatsyncPlatformResponse,
+  updateCachedPlatformsAfterSync
+} = require_wechatsync_results();
 var { resolveSyncAccount, toSyncFriendlyMessage } = require_sync_context();
+var {
+  createEmptyDraftCache,
+  normalizeDraftCache,
+  getDraftAssociation,
+  setDraftAssociation,
+  clearDraftAssociation
+} = require_wechat_draft_cache();
 var { processAllImages: processAllImagesService, processMathFormulas: processMathFormulasService } = require_wechat_media();
 var { cleanHtmlForDraft: cleanHtmlForDraftService } = require_wechat_html_cleaner();
 var { rasterizeSvgToPngBlob } = require_svg_rasterizer();
 var { createObsidianFetchAdapter } = require_obsidian_fetch_adapter();
+var { stripMarkdownFrontmatter } = require_markdown_utils();
+var { mapAppUrlImagesToAssetUrls } = require_article_image_assets();
 var APPLE_STYLE_VIEW = "apple-style-converter";
-var APPLE_STYLE_VIEW_TITLE = "\u5FAE\u4FE1\u516C\u4F17\u53F7\u8F6C\u6362\u5668";
+var APPLE_STYLE_VIEW_TITLE = "Obsidian \u53D1\u5E03\u52A9\u624B";
+var OBSIDIAN_PUBLISHER_PRO_URL = "https://xiaoweibox.top/obsidian-publisher/pro/";
+var OBSIDIAN_PUBLISHER_GUIDE_URL = "https://xiaoweibox.top/obsidian-publisher/guide/";
+var OBSIDIAN_PUBLISHER_EXTENSION_GUIDE_URL = `${OBSIDIAN_PUBLISHER_GUIDE_URL}?from=obsidian-plugin#install-extension`;
+var OBSIDIAN_PUBLISHER_BRIDGE_GUIDE_URL = `${OBSIDIAN_PUBLISHER_GUIDE_URL}?from=obsidian-plugin#bridge`;
+var MULTI_PLATFORM_TAB_LABEL = "\u5176\u4ED6\u5E73\u53F0\uFF08\u5C0F\u7EA2\u4E66/\u77E5\u4E4E/\u6296\u97F3\u7B49\uFF09";
+var {
+  createDefaultMultiPlatformSyncSettings,
+  normalizeWechatsyncPlatformId,
+  parseWechatsyncPlatformIds,
+  mergeWechatsyncPlatformLists,
+  normalizeWechatSyncCapabilities,
+  hasWechatSyncCapability,
+  normalizeWechatSyncRecentTasks,
+  normalizeMultiPlatformConnection,
+  normalizeMultiPlatformSyncSettings,
+  getConfiguredWechatsyncPlatforms,
+  getAvailableWechatsyncPlatforms
+} = require_wechatsync_settings();
+var {
+  formatWechatsyncCheckedAt,
+  describeWechatsyncConnectionState,
+  renderWechatsyncConnectionStatusBar
+} = require_connection_status_bar();
+var { renderMultiPlatformSettingsTab } = require_multi_platform_tab();
+var { showMultiPlatformPublishModal } = require_multi_platform();
 var IMAGE_SWIPE_COMMAND_COPY = {
   "image-swipe": {
     zhName: "\u63D2\u5165\u56FE\u7247\u5757",
@@ -11389,6 +15642,7 @@ var DEFAULT_SETTINGS = {
   // 代理设置
   proxyUrl: "",
   // Cloudflare Worker 等代理地址
+  draftCache: createEmptyDraftCache(),
   // 预览设置
   usePhoneFrame: true,
   // 是否使用手机框预览
@@ -11403,6 +15657,7 @@ var DEFAULT_SETTINGS = {
   cleanupUseSystemTrash: true,
   cleanupDirTemplate: "",
   // 发送成功后要清理的目录（支持 {{note}}）
+  multiPlatformSync: createDefaultMultiPlatformSyncSettings(),
   // 旧字段保留用于迁移检测
   wechatAppId: "",
   wechatAppSecret: "",
@@ -11599,6 +15854,19 @@ var WechatAPI = class {
       return await this.uploadMultipart(url, blob, "media");
     });
   }
+  async batchGetMaterials(type, offset = 0, count = 20) {
+    return this.actionWithTokenRetry(async (token) => {
+      const url = `https://api.weixin.qq.com/cgi-bin/material/batchget_material?access_token=${token}`;
+      const data = await this.requestWithRetry(() => this.sendRequest(url, {
+        method: "POST",
+        body: JSON.stringify({ type, offset, count })
+      }));
+      if (Array.isArray(data.item) || data.item_count !== void 0 || data.total_count !== void 0) {
+        return data;
+      }
+      throw new Error(`\u5FAE\u4FE1API\u62A5\u9519: ${data.errmsg || JSON.stringify(data)} (${data.errcode || "N/A"})`);
+    });
+  }
   async createDraft(article) {
     return this.actionWithTokenRetry(async (token) => {
       const url = `https://api.weixin.qq.com/cgi-bin/draft/add?access_token=${token}`;
@@ -11610,6 +15878,46 @@ var WechatAPI = class {
         return data;
       }
       throw new Error(`\u521B\u5EFA\u8349\u7A3F\u5931\u8D25: ${data.errmsg || JSON.stringify(data)} (${data.errcode || "N/A"})`);
+    });
+  }
+  async getDraftCount() {
+    return this.actionWithTokenRetry(async (token) => {
+      const url = `https://api.weixin.qq.com/cgi-bin/draft/count?access_token=${token}`;
+      return await this.requestWithRetry(() => this.sendRequest(url, {
+        method: "POST",
+        body: JSON.stringify({})
+      }));
+    });
+  }
+  async batchGetDrafts(offset = 0, count = 20, noContent = 1) {
+    return this.actionWithTokenRetry(async (token) => {
+      const url = `https://api.weixin.qq.com/cgi-bin/draft/batchget?access_token=${token}`;
+      return await this.requestWithRetry(() => this.sendRequest(url, {
+        method: "POST",
+        body: JSON.stringify({ offset, count, no_content: noContent })
+      }));
+    });
+  }
+  async getDraft(mediaId) {
+    return this.actionWithTokenRetry(async (token) => {
+      const url = `https://api.weixin.qq.com/cgi-bin/draft/get?access_token=${token}`;
+      return await this.requestWithRetry(() => this.sendRequest(url, {
+        method: "POST",
+        body: JSON.stringify({ media_id: mediaId })
+      }));
+    });
+  }
+  async updateDraft(mediaId, index, article) {
+    return this.actionWithTokenRetry(async (token) => {
+      const url = `https://api.weixin.qq.com/cgi-bin/draft/update?access_token=${token}`;
+      const data = await this.sendRequest(url, {
+        method: "POST",
+        body: JSON.stringify({ media_id: mediaId, index, articles: article })
+      });
+      if (data.errcode === 0 || data.errmsg === "ok") {
+        return { media_id: mediaId };
+      }
+      throw new Error(`\u66F4\u65B0\u8349\u7A3F\u5931\u8D25: ${data.errmsg || JSON.stringify(data)} (${data.errcode || "N/A"})`);
     });
   }
   async uploadMultipart(url, blob, fieldName) {
@@ -11698,10 +16006,16 @@ var AppleStyleView = class extends ItemView {
     this.theme = null;
     this.lastActiveFile = null;
     this.sessionCoverBase64 = "";
+    this.sessionThumbMediaId = "";
+    this.sessionDraftMediaId = "";
+    this.sessionDraftIndex = 0;
     this.sessionDigest = "";
+    this.wechatMaterialCache = /* @__PURE__ */ new Map();
+    this.wechatMaterialCoverAssetCache = /* @__PURE__ */ new Map();
     this.articleStates = /* @__PURE__ */ new Map();
     this.svgUploadCache = /* @__PURE__ */ new Map();
     this.imageUploadCache = /* @__PURE__ */ new Map();
+    this.coverUploadCache = /* @__PURE__ */ new Map();
     this.mermaidImageCache = /* @__PURE__ */ new Map();
     this.renderGeneration = 0;
     this.lastRenderError = "";
@@ -11734,7 +16048,7 @@ var AppleStyleView = class extends ItemView {
     return "wand";
   }
   async onOpen() {
-    console.log("\u{1F34E} \u8F6C\u6362\u5668\u9762\u677F\u6253\u5F00");
+    console.log("\u{1F34E} \u53D1\u5E03\u52A9\u624B\u9762\u677F\u6253\u5F00");
     const container = this.containerEl.children[1];
     container.empty();
     container.addClass("apple-converter-container");
@@ -12050,7 +16364,7 @@ var AppleStyleView = class extends ItemView {
     } else {
       this.copyBtn = null;
     }
-    createIconBtn("send", "\u4E00\u952E\u540C\u6B65\u5230\u8349\u7A3F\u7BB1", () => this.showSyncModal());
+    createIconBtn("send", "\u53D1\u5E03\u4E0E\u5206\u53D1", () => this.showSyncModal());
     this.settingsOverlay = container.createEl("div", { cls: "apple-settings-overlay" });
     const settingsArea = this.settingsOverlay.createEl("div", { cls: "apple-settings-area" });
     this.settingsArea = settingsArea;
@@ -14441,6 +18755,43 @@ var AppleStyleView = class extends ItemView {
     }
     return true;
   }
+  openExternalUrl(url, options = {}) {
+    var _a;
+    const target = String(url || "").trim();
+    const allowExtensionUrls = (options == null ? void 0 : options.allowExtensionUrls) === true;
+    const isHttpUrl = /^https?:\/\//i.test(target);
+    const isExtensionUrl = /^(chrome|edge|brave|moz)-extension:\/\//i.test(target);
+    if (!isHttpUrl && !(allowExtensionUrls && isExtensionUrl)) {
+      new Notice("\u8349\u7A3F\u94FE\u63A5\u4E0D\u53EF\u7528");
+      return false;
+    }
+    try {
+      const electron = require("electron");
+      if ((_a = electron == null ? void 0 : electron.shell) == null ? void 0 : _a.openExternal) {
+        electron.shell.openExternal(target);
+        return true;
+      }
+    } catch (e) {
+    }
+    if (typeof window !== "undefined" && typeof window.open === "function") {
+      window.open(target, "_blank", "noopener");
+      return true;
+    }
+    new Notice("\u65E0\u6CD5\u6253\u5F00\u8349\u7A3F\u94FE\u63A5\uFF0C\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u4E2D\u67E5\u770B\u540C\u6B65\u7ED3\u679C");
+    return false;
+  }
+  openPublisherProPage() {
+    return this.openExternalUrl(OBSIDIAN_PUBLISHER_PRO_URL);
+  }
+  openPublisherGuidePage(section = "") {
+    if (section === "bridge") {
+      return this.openExternalUrl(OBSIDIAN_PUBLISHER_BRIDGE_GUIDE_URL);
+    }
+    if (section === "install-extension") {
+      return this.openExternalUrl(OBSIDIAN_PUBLISHER_EXTENSION_GUIDE_URL);
+    }
+    return this.openExternalUrl(OBSIDIAN_PUBLISHER_GUIDE_URL);
+  }
   showAccountSetupEmptyState() {
     var _a;
     const { Modal } = require("obsidian");
@@ -14460,7 +18811,7 @@ var AppleStyleView = class extends ItemView {
     const emptyState = modal.contentEl.createDiv({ cls: "wechat-sync-empty-state" });
     emptyState.createEl("div", { cls: "wechat-sync-empty-icon", text: "\u2699\uFE0F" });
     emptyState.createEl("h3", { text: "\u5148\u914D\u7F6E\u516C\u4F17\u53F7\u8D26\u53F7" });
-    emptyState.createEl("p", { text: "\u8BF7\u5148\u5728\u63D2\u4EF6\u8BBE\u7F6E\u4E2D\u586B\u5199 AppID / AppSecret\uFF0C\u518D\u4F7F\u7528\u4E00\u952E\u540C\u6B65\u5230\u8349\u7A3F\u7BB1\u3002" });
+    emptyState.createEl("p", { text: "\u8BF7\u5148\u5728\u63D2\u4EF6\u8BBE\u7F6E\u4E2D\u586B\u5199 AppID / AppSecret\uFF0C\u518D\u53D1\u9001\u5230\u5FAE\u4FE1\u8349\u7A3F\u7BB1\u3002" });
     const btnRow = modal.contentEl.createDiv({ cls: "wechat-modal-buttons" });
     const cancelBtn = btnRow.createEl("button", { text: "\u53D6\u6D88" });
     cancelBtn.onclick = () => modal.close();
@@ -14468,13 +18819,13 @@ var AppleStyleView = class extends ItemView {
     configBtn.onclick = () => {
       modal.close();
       if (!this.openPluginSettings()) {
-        new Notice("\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u6253\u5F00 Wechat Converter \u5E76\u914D\u7F6E\u8D26\u53F7");
+        new Notice("\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u6253\u5F00 Obsidian \u53D1\u5E03\u52A9\u624B\u5E76\u914D\u7F6E\u516C\u4F17\u53F7\u8D26\u53F7");
       }
     };
     modal.open();
   }
-  showSyncFailureActions(message) {
-    var _a;
+  showSyncFailureActions(message, options = {}) {
+    var _a, _b, _c;
     const { Modal } = require("obsidian");
     if (typeof Modal !== "function") {
       new Notice(`\u274C \u540C\u6B65\u5931\u8D25: ${message}`);
@@ -14489,7 +18840,11 @@ var AppleStyleView = class extends ItemView {
     }
     const body = modal.contentEl.createDiv({ cls: "wechat-sync-failure-state" });
     body.createEl("p", { cls: "wechat-sync-failure-message", text: message });
-    body.createEl("p", { cls: "wechat-sync-failure-hint", text: "\u53EF\u4EE5\u91CD\u8BD5\u540C\u6B65\uFF0C\u6216\u5148\u68C0\u67E5\u8D26\u53F7\u914D\u7F6E\u3002" });
+    const hasDraftAssociation = !!((_b = options.draftAssociation) == null ? void 0 : _b.mediaId) && !!((_c = options.draftAssociation) == null ? void 0 : _c.sourcePath);
+    body.createEl("p", {
+      cls: "wechat-sync-failure-hint",
+      text: hasDraftAssociation ? "\u53EF\u4EE5\u91CD\u8BD5\u540C\u6B65\uFF1B\u5982\u679C\u5FAE\u4FE1\u540E\u53F0\u8349\u7A3F\u5DF2\u88AB\u5220\u9664\u6216\u65E0\u6CD5\u66F4\u65B0\uFF0C\u4E5F\u53EF\u4EE5\u53D6\u6D88\u5173\u8054\u540E\u65B0\u5EFA\u8349\u7A3F\u3002" : "\u53EF\u4EE5\u91CD\u8BD5\u540C\u6B65\uFF0C\u6216\u5148\u68C0\u67E5\u8D26\u53F7\u914D\u7F6E\u3002"
+    });
     const btnRow = modal.contentEl.createDiv({ cls: "wechat-modal-buttons" });
     const closeBtn = btnRow.createEl("button", { text: "\u5173\u95ED" });
     closeBtn.onclick = () => modal.close();
@@ -14497,9 +18852,20 @@ var AppleStyleView = class extends ItemView {
     settingsBtn.onclick = () => {
       modal.close();
       if (!this.openPluginSettings()) {
-        new Notice("\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u6253\u5F00 Wechat Converter \u5E76\u914D\u7F6E\u8D26\u53F7");
+        new Notice("\u8BF7\u5728\u8BBE\u7F6E\u4E2D\u6253\u5F00 Obsidian \u53D1\u5E03\u52A9\u624B\u5E76\u914D\u7F6E\u516C\u4F17\u53F7\u8D26\u53F7");
       }
     };
+    if (hasDraftAssociation) {
+      const resetDraftBtn = btnRow.createEl("button", { text: "\u53D6\u6D88\u5173\u8054\u5E76\u65B0\u5EFA\u8349\u7A3F" });
+      resetDraftBtn.onclick = async () => {
+        modal.close();
+        clearDraftAssociation(this.plugin.settings, options.draftAssociation.sourcePath);
+        this.sessionDraftMediaId = "";
+        this.sessionDraftIndex = 0;
+        await this.plugin.saveSettings();
+        await this.onSyncToWechat();
+      };
+    }
     const retryBtn = btnRow.createEl("button", { text: "\u91CD\u8BD5\u540C\u6B65", cls: "mod-cta" });
     retryBtn.onclick = async () => {
       modal.close();
@@ -14516,7 +18882,43 @@ var AppleStyleView = class extends ItemView {
   /**
    * 显示同步选项 Modal
    */
-  showSyncModal() {
+  preparePublishModalShell(modal, { mode = "wechat", mobileSync = false } = {}) {
+    var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o;
+    modal.titleEl.setText("\u53D1\u5E03\u4E0E\u5206\u53D1");
+    (_b = (_a = modal.titleEl).removeClass) == null ? void 0 : _b.call(_a, "wechat-multiplatform-title");
+    if (typeof modal.contentEl.empty === "function") {
+      modal.contentEl.empty();
+    } else {
+      (_d = (_c = modal.contentEl).replaceChildren) == null ? void 0 : _d.call(_c);
+    }
+    modal.contentEl.addClass("wechat-sync-modal");
+    (_f = (_e = modal.contentEl).removeClass) == null ? void 0 : _f.call(_e, "wechat-multiplatform-modal");
+    (_h = (_g = modal.contentEl).removeClass) == null ? void 0 : _h.call(_g, "wechat-multiplatform-result-modal");
+    (_i = modal.modalEl) == null ? void 0 : _i.addClass("wechat-publish-shell");
+    (_k = (_j = modal.modalEl) == null ? void 0 : _j.removeClass) == null ? void 0 : _k.call(_j, "wechat-multiplatform-shell");
+    if (mobileSync) {
+      modal.contentEl.addClass("wechat-sync-modal-mobile");
+      (_l = modal.modalEl) == null ? void 0 : _l.addClass("wechat-sync-shell-mobile");
+    }
+    if (mode === "multi") {
+      (_n = (_m = modal.titleEl).addClass) == null ? void 0 : _n.call(_m, "wechat-multiplatform-title");
+      modal.contentEl.addClass("wechat-multiplatform-modal");
+      (_o = modal.modalEl) == null ? void 0 : _o.addClass("wechat-multiplatform-shell");
+    }
+  }
+  createPublishModeTabs(modal, activeMode = "wechat") {
+    const publishModeTabs = modal.contentEl.createDiv({ cls: "wechat-publish-mode-tabs" });
+    const wechatTab = publishModeTabs.createEl("button", {
+      text: "\u5FAE\u4FE1\u8349\u7A3F\u7BB1",
+      cls: `wechat-publish-mode-tab${activeMode === "wechat" ? " is-active" : ""}`
+    });
+    const multiPlatformTab = publishModeTabs.createEl("button", {
+      cls: `wechat-publish-mode-tab${activeMode === "multi" ? " is-active" : ""}`
+    });
+    multiPlatformTab.createEl("span", { text: MULTI_PLATFORM_TAB_LABEL });
+    return { wechatTab, multiPlatformTab };
+  }
+  showSyncModal(options = {}) {
     var _a, _b;
     if (!this.currentHtml) {
       new Notice(this.getMissingRenderNotice());
@@ -14524,18 +18926,38 @@ var AppleStyleView = class extends ItemView {
     }
     const accounts = this.plugin.settings.wechatAccounts || [];
     if (accounts.length === 0) {
+      if (options.modal) {
+        const modal2 = options.modal;
+        const mobileSync2 = isMobileClient(this.app);
+        this.preparePublishModalShell(modal2, { mode: "wechat", mobileSync: mobileSync2 });
+        const { multiPlatformTab: multiPlatformTab2 } = this.createPublishModeTabs(modal2, "wechat");
+        multiPlatformTab2.onclick = () => this.showMultiPlatformSyncModal({ modal: modal2 });
+        const empty = modal2.contentEl.createDiv({ cls: "wechat-sync-empty-state" });
+        empty.createEl("h3", { text: "\u5C1A\u672A\u914D\u7F6E\u5FAE\u4FE1\u516C\u4F17\u53F7\u8D26\u53F7" });
+        empty.createEl("p", { text: "\u5FAE\u4FE1\u8349\u7A3F\u7BB1\u9700\u8981\u5148\u914D\u7F6E\u516C\u4F17\u53F7 API\u3002\u5176\u4ED6\u5E73\u53F0\u4ECD\u53EF\u901A\u8FC7\u6D4F\u89C8\u5668\u63D2\u4EF6\u53D1\u9001\u3002" });
+        const settingsBtn = empty.createEl("button", { text: "\u53BB\u8BBE\u7F6E", cls: "mod-cta" });
+        settingsBtn.onclick = () => {
+          modal2.close();
+          this.openPluginSettings();
+        };
+        return;
+      }
+      if ((_a = this.plugin.settings.multiPlatformSync) == null ? void 0 : _a.enabled) {
+        this.showMultiPlatformSyncModal();
+        return;
+      }
       this.promptConfigureWechatAccount();
       return;
     }
     const { Modal } = require("obsidian");
-    const modal = new Modal(this.app);
+    const modal = options.modal || new Modal(this.app);
+    const shouldOpenModal = !options.modal;
     const mobileSync = isMobileClient(this.app);
-    modal.titleEl.setText("\u540C\u6B65\u5230\u5FAE\u4FE1\u8349\u7A3F\u7BB1");
-    modal.contentEl.addClass("wechat-sync-modal");
-    if (mobileSync) {
-      modal.contentEl.addClass("wechat-sync-modal-mobile");
-      (_a = modal.modalEl) == null ? void 0 : _a.addClass("wechat-sync-shell-mobile");
-    }
+    this.preparePublishModalShell(modal, { mode: "wechat", mobileSync });
+    const { multiPlatformTab } = this.createPublishModeTabs(modal, "wechat");
+    multiPlatformTab.onclick = () => {
+      this.showMultiPlatformSyncModal({ modal });
+    };
     const activeFile = this.getPublishContextFile();
     const currentPath = activeFile ? activeFile.path : null;
     const frontmatterMeta = this.getFrontmatterPublishMeta(activeFile);
@@ -14547,7 +18969,21 @@ var AppleStyleView = class extends ItemView {
     const hasDefault = accounts.some((account) => account.id === defaultId);
     let selectedAccountId = hasDefault ? defaultId : ((_b = accounts[0]) == null ? void 0 : _b.id) || "";
     let coverBase64 = (cachedState == null ? void 0 : cachedState.coverBase64) || frontmatterMeta.coverSrc || this.getFirstImageFromArticle();
+    let thumbMediaId = (cachedState == null ? void 0 : cachedState.thumbMediaId) || "";
+    let materialCover = (cachedState == null ? void 0 : cachedState.materialCover) || null;
     this.sessionCoverBase64 = coverBase64;
+    this.sessionThumbMediaId = thumbMediaId;
+    const getSelectedAccount = () => resolveSyncAccount({
+      accounts: this.plugin.settings.wechatAccounts || [],
+      selectedAccountId,
+      defaultAccountId: this.plugin.settings.defaultAccountId
+    });
+    const getSelectedDraftAssociation = () => {
+      var _a2;
+      return currentPath ? getDraftAssociation(this.plugin.settings, currentPath, ((_a2 = getSelectedAccount()) == null ? void 0 : _a2.id) || selectedAccountId) : null;
+    };
+    let draftAssociation = getSelectedDraftAssociation();
+    let forceNewDraft = false;
     const accountSection = modal.contentEl.createDiv({ cls: "wechat-modal-section" });
     accountSection.createEl("label", { text: "\u8D26\u53F7", cls: "wechat-modal-label" });
     if (accounts.length === 1) {
@@ -14569,16 +19005,23 @@ var AppleStyleView = class extends ItemView {
       }
       accountSelect.addEventListener("change", (e) => {
         selectedAccountId = e.target.value;
+        draftAssociation = getSelectedDraftAssociation();
+        forceNewDraft = false;
+        if (typeof updatePreview === "function")
+          updatePreview();
+        if (typeof updateDraftStatusUI === "function")
+          updateDraftStatusUI();
       });
     }
     if (mobileSync) {
+      const hasCoverForModal = !!coverBase64 || !!thumbMediaId;
       modal.contentEl.createEl("p", {
         cls: "wechat-sync-mobile-quick-hint",
-        text: coverBase64 ? "\u53EF\u76F4\u63A5\u540C\u6B65\uFF1B\u5C01\u9762\u4E0E\u6458\u8981\u53EF\u5728\u9AD8\u7EA7\u9009\u9879\u4E2D\u8C03\u6574\u3002" : "\u5F53\u524D\u672A\u68C0\u6D4B\u5230\u5C01\u9762\uFF0C\u8BF7\u5728\u9AD8\u7EA7\u9009\u9879\u4E2D\u4E0A\u4F20\u5C01\u9762\u540E\u518D\u540C\u6B65\u3002"
+        text: hasCoverForModal ? "\u53EF\u76F4\u63A5\u540C\u6B65\uFF1B\u5C01\u9762\u4E0E\u6458\u8981\u53EF\u5728\u9AD8\u7EA7\u9009\u9879\u4E2D\u8C03\u6574\u3002" : "\u5F53\u524D\u672A\u68C0\u6D4B\u5230\u5C01\u9762\uFF0C\u8BF7\u5728\u9AD8\u7EA7\u9009\u9879\u4E2D\u4E0A\u4F20\u5C01\u9762\u540E\u518D\u540C\u6B65\u3002"
       });
     }
     const advancedOptions = modal.contentEl.createEl("details", { cls: "wechat-sync-advanced" });
-    const shouldExpandAdvanced = !mobileSync || !coverBase64;
+    const shouldExpandAdvanced = !mobileSync || !coverBase64 && !thumbMediaId;
     if (shouldExpandAdvanced)
       advancedOptions.setAttribute("open", "");
     advancedOptions.createEl("summary", {
@@ -14592,10 +19035,33 @@ var AppleStyleView = class extends ItemView {
     const coverPreview = coverContent.createDiv({ cls: "wechat-modal-cover-preview" });
     const updatePreview = () => {
       coverPreview.empty();
-      if (coverBase64) {
+      coverPreview.removeClass("has-material-cover");
+      if (thumbMediaId) {
+        coverPreview.addClass("has-material-cover");
+        const materialPreview = coverPreview.createDiv({ cls: "wechat-modal-cover-material-preview" });
+        const materialTitle = (materialCover == null ? void 0 : materialCover.name) || "\u7D20\u6750\u5E93\u5C01\u9762";
+        const imageFrame = materialPreview.createDiv({ cls: "wechat-modal-cover-material-frame" });
+        if (coverBase64) {
+          const img = imageFrame.createEl("img", {
+            attr: { src: coverBase64, alt: materialTitle }
+          });
+          img.onerror = () => {
+            img.remove();
+            imageFrame.addClass("has-image-error");
+          };
+        } else {
+          imageFrame.addClass("has-image-error");
+        }
+        const meta = materialPreview.createDiv({ cls: "wechat-modal-cover-material-meta" });
+        meta.createEl("span", { text: "\u7D20\u6750\u5E93" });
+        meta.createEl("strong", { text: materialTitle });
+        syncBtn.disabled = false;
+        syncBtn.setText(getSyncButtonText());
+        syncBtn.removeClass("apple-btn-disabled");
+      } else if (coverBase64) {
         coverPreview.createEl("img", { attr: { src: coverBase64 } });
         syncBtn.disabled = false;
-        syncBtn.setText("\u5F00\u59CB\u540C\u6B65");
+        syncBtn.setText(getSyncButtonText());
         syncBtn.removeClass("apple-btn-disabled");
       } else {
         coverPreview.createEl("div", {
@@ -14609,6 +19075,10 @@ var AppleStyleView = class extends ItemView {
     };
     const coverBtns = coverContent.createDiv({ cls: "wechat-modal-cover-btns" });
     const uploadBtn = coverBtns.createEl("button", { text: "\u4E0A\u4F20" });
+    const selectMaterialBtn = coverBtns.createEl("button", {
+      text: "\u4ECE\u7D20\u6750\u5E93\u9009\u62E9",
+      cls: "wechat-cover-select-material-btn"
+    });
     const digestSection = advancedBody.createDiv({ cls: "wechat-modal-section" });
     digestSection.createEl("label", { text: "\u6587\u7AE0\u6458\u8981\uFF08\u53EF\u9009\uFF09", cls: "wechat-modal-label" });
     const tempDiv = document.createElement("div");
@@ -14637,19 +19107,57 @@ var AppleStyleView = class extends ItemView {
         this.articleStates.set(currentPath, { ...state, digest: digestInput.value });
       }
     });
+    const draftStatusEl = modal.contentEl.createDiv({ cls: "wechat-draft-status" });
+    const getSyncButtonText = () => draftAssociation && !forceNewDraft ? "\u66F4\u65B0\u8349\u7A3F" : "\u5F00\u59CB\u540C\u6B65";
+    const updateDraftStatusUI = () => {
+      if (!draftStatusEl)
+        return;
+      draftStatusEl.empty();
+      if (!draftAssociation || forceNewDraft)
+        return;
+      let confirmUnlink = false;
+      const statusText = draftStatusEl.createEl("span", {
+        text: "\u5DF2\u5173\u8054\u5FAE\u4FE1\u8349\u7A3F\uFF0C\u540C\u6B65\u5C06\u66F4\u65B0\u8BE5\u8349\u7A3F"
+      });
+      const unlinkBtn = draftStatusEl.createEl("button", {
+        text: "\u53D6\u6D88\u5173\u8054",
+        cls: "wechat-draft-unlink"
+      });
+      unlinkBtn.onclick = async () => {
+        if (!confirmUnlink) {
+          confirmUnlink = true;
+          draftStatusEl.addClass("is-confirming");
+          statusText.setText("\u518D\u6B21\u70B9\u51FB\u786E\u8BA4\u53D6\u6D88\u5173\u8054");
+          unlinkBtn.setText("\u786E\u8BA4\u53D6\u6D88");
+          return;
+        }
+        forceNewDraft = true;
+        if (currentPath) {
+          clearDraftAssociation(this.plugin.settings, currentPath);
+          await this.plugin.saveSettings();
+        }
+        draftAssociation = null;
+        syncBtn.setText(getSyncButtonText());
+        updateDraftStatusUI();
+      };
+    };
     const btnRow = modal.contentEl.createDiv({ cls: "wechat-modal-buttons" });
     const cancelBtn = btnRow.createEl("button", { text: "\u53D6\u6D88" });
     cancelBtn.onclick = () => modal.close();
-    const syncBtn = btnRow.createEl("button", { text: "\u5F00\u59CB\u540C\u6B65", cls: "mod-cta" });
+    const syncBtn = btnRow.createEl("button", { text: getSyncButtonText(), cls: "mod-cta" });
     updatePreview();
+    updateDraftStatusUI();
     syncBtn.onclick = async () => {
-      if (!coverBase64) {
+      if (!coverBase64 && !thumbMediaId) {
         new Notice("\u274C \u8BF7\u5148\u8BBE\u7F6E\u5C01\u9762\u56FE");
         return;
       }
       modal.close();
       this.selectedAccountId = selectedAccountId;
       this.sessionCoverBase64 = coverBase64;
+      this.sessionThumbMediaId = thumbMediaId;
+      this.sessionDraftMediaId = !forceNewDraft && (draftAssociation == null ? void 0 : draftAssociation.mediaId) ? draftAssociation.mediaId : "";
+      this.sessionDraftIndex = !forceNewDraft && Number.isInteger(draftAssociation == null ? void 0 : draftAssociation.index) ? draftAssociation.index : 0;
       this.sessionDigest = digestInput.value.trim() || autoDigest || "\u4E00\u952E\u540C\u6B65\u81EA Obsidian";
       await this.onSyncToWechat();
     };
@@ -14664,18 +19172,617 @@ var AppleStyleView = class extends ItemView {
         const reader = new FileReader();
         reader.onload = (event) => {
           coverBase64 = event.target.result;
+          thumbMediaId = "";
+          materialCover = null;
           this.sessionCoverBase64 = coverBase64;
+          this.sessionThumbMediaId = "";
           updatePreview();
           if (currentPath) {
             const state = this.articleStates.get(currentPath) || {};
-            this.articleStates.set(currentPath, { ...state, coverBase64 });
+            this.articleStates.set(currentPath, {
+              ...state,
+              coverBase64,
+              thumbMediaId: "",
+              materialCover: null
+            });
           }
         };
         reader.readAsDataURL(file);
       };
       input.click();
     };
+    selectMaterialBtn.onclick = async () => {
+      const account = getSelectedAccount();
+      if (!account) {
+        new Notice("\u8BF7\u5148\u914D\u7F6E\u516C\u4F17\u53F7\u8D26\u53F7");
+        return;
+      }
+      const api = new WechatAPI(account.appId, account.appSecret, this.plugin.settings.proxyUrl);
+      await this.showMaterialPickerModal(api, (material) => {
+        thumbMediaId = material.mediaId;
+        coverBase64 = material.url || "";
+        materialCover = {
+          mediaId: material.mediaId,
+          url: material.url || "",
+          name: material.name || ""
+        };
+        this.sessionCoverBase64 = coverBase64;
+        this.sessionThumbMediaId = thumbMediaId;
+        updatePreview();
+        if (currentPath) {
+          const state = this.articleStates.get(currentPath) || {};
+          this.articleStates.set(currentPath, { ...state, coverBase64, thumbMediaId, materialCover });
+        }
+      });
+    };
+    if (shouldOpenModal)
+      modal.open();
+  }
+  getWechatMaterialCacheKey(api, type, offset, count) {
+    return [
+      (api == null ? void 0 : api.appId) || "",
+      (api == null ? void 0 : api.proxyUrl) || "",
+      type || "image",
+      Number(offset) || 0,
+      Number(count) || 20
+    ].join("::");
+  }
+  async loadWechatMaterialPage(api, type, offset, count, options = {}) {
+    const forceRefresh = options.forceRefresh === true;
+    const ttlMs = Number.isFinite(options.ttlMs) ? options.ttlMs : 5 * 60 * 1e3;
+    if (!this.wechatMaterialCache)
+      this.wechatMaterialCache = /* @__PURE__ */ new Map();
+    const key = this.getWechatMaterialCacheKey(api, type, offset, count);
+    const cached = this.wechatMaterialCache.get(key);
+    const now = Date.now();
+    for (const [cacheKey, entry] of this.wechatMaterialCache.entries()) {
+      if (!entry || now - entry.cachedAt >= ttlMs) {
+        this.wechatMaterialCache.delete(cacheKey);
+      }
+    }
+    if (!forceRefresh && cached && now - cached.cachedAt < ttlMs) {
+      return {
+        ...cached.data,
+        fromCache: true
+      };
+    }
+    const data = await api.batchGetMaterials(type, offset, count);
+    this.wechatMaterialCache.set(key, {
+      cachedAt: now,
+      data
+    });
+    return {
+      ...data,
+      fromCache: false
+    };
+  }
+  async showMaterialPickerModal(api, onSelect) {
+    var _a, _b;
+    const { Modal } = require("obsidian");
+    const modal = new Modal(this.app);
+    modal.titleEl.setText("\u4ECE\u7D20\u6750\u5E93\u9009\u62E9\u5C01\u9762");
+    (_a = modal.modalEl) == null ? void 0 : _a.addClass("wechat-material-picker-modal");
+    modal.contentEl.addClass("wechat-material-picker");
+    const pageSize = 18;
+    let currentPage = 1;
+    let totalCount = 0;
+    let selectedItem = null;
+    let isLoading = false;
+    const toolbar = modal.contentEl.createDiv({ cls: "wechat-material-toolbar" });
+    const refreshBtn = toolbar.createEl("button", { text: "\u5237\u65B0" });
+    const toolbarMeta = toolbar.createDiv({ cls: "wechat-material-toolbar-meta" });
+    const countLabel = toolbarMeta.createDiv({ cls: "wechat-material-count", text: "\u6B63\u5728\u52A0\u8F7D\u7D20\u6750\u5E93..." });
+    const cacheLabel = toolbarMeta.createDiv({ cls: "wechat-material-cache-note" });
+    const grid = modal.contentEl.createDiv({ cls: "wechat-material-grid" });
+    const footer = modal.contentEl.createDiv({ cls: "wechat-material-footer" });
+    const pagination = footer.createDiv({ cls: "wechat-material-pagination" });
+    const confirmBtn = footer.createEl("button", { text: "\u4F7F\u7528\u8FD9\u5F20\u5C01\u9762", cls: "mod-cta wechat-material-confirm" });
+    confirmBtn.disabled = true;
+    const renderLoadingSkeleton = () => {
+      grid.empty();
+      grid.addClass("is-loading");
+      for (let i = 0; i < pageSize; i += 1) {
+        const skeleton = grid.createDiv({ cls: "wechat-material-skeleton" });
+        skeleton.createDiv({ cls: "wechat-material-skeleton-thumb" });
+        skeleton.createDiv({ cls: "wechat-material-skeleton-name" });
+      }
+    };
+    const renderPagination = (loadPage2) => {
+      pagination.empty();
+      const totalPages = Math.max(1, Math.ceil(totalCount / pageSize));
+      if (totalPages <= 1)
+        return;
+      const prevBtn = pagination.createEl("button", { text: "\u4E0A\u4E00\u9875", cls: "wechat-material-page-btn" });
+      prevBtn.disabled = currentPage <= 1;
+      prevBtn.onclick = () => loadPage2(currentPage - 1);
+      pagination.createEl("span", {
+        text: `\u7B2C ${currentPage} / ${totalPages} \u9875`,
+        cls: "wechat-material-page-label"
+      });
+      const nextBtn = pagination.createEl("button", { text: "\u4E0B\u4E00\u9875", cls: "wechat-material-page-btn" });
+      nextBtn.disabled = currentPage >= totalPages;
+      nextBtn.onclick = () => loadPage2(currentPage + 1);
+    };
+    const renderItems = (items) => {
+      grid.empty();
+      grid.removeClass("is-loading");
+      if (!items.length) {
+        grid.createDiv({ cls: "wechat-material-empty", text: "\u7D20\u6750\u5E93\u4E2D\u6682\u65E0\u56FE\u7247\u7D20\u6750" });
+        return;
+      }
+      for (const item of items) {
+        const mediaId = item.media_id || item.mediaId || "";
+        if (!mediaId)
+          continue;
+        const cell = grid.createDiv({ cls: "wechat-material-cell" });
+        cell.setAttribute("role", "button");
+        cell.setAttribute("tabindex", "0");
+        cell.setAttribute("title", item.name || "\u672A\u547D\u540D\u56FE\u7247");
+        const url = item.url || "";
+        if (url) {
+          const img = cell.createEl("img", {
+            attr: { src: url, loading: "lazy", alt: item.name || "\u7D20\u6750\u56FE\u7247" }
+          });
+          img.onerror = () => {
+            img.remove();
+            cell.createDiv({ cls: "wechat-material-thumb-fallback", text: item.name || "\u56FE\u7247" });
+          };
+        } else {
+          cell.createDiv({ cls: "wechat-material-thumb-fallback", text: item.name || "\u56FE\u7247" });
+        }
+        cell.createDiv({ cls: "wechat-material-name", text: item.name || "\u672A\u547D\u540D\u56FE\u7247" });
+        const selectCell = () => {
+          grid.querySelectorAll(".wechat-material-cell.is-selected").forEach((el) => {
+            el.removeClass("is-selected");
+          });
+          cell.addClass("is-selected");
+          selectedItem = { ...item, mediaId, url };
+          confirmBtn.disabled = false;
+        };
+        cell.onclick = selectCell;
+        cell.onkeydown = (event) => {
+          if (event.key === "Enter" || event.key === " ") {
+            event.preventDefault();
+            selectCell();
+          }
+        };
+      }
+    };
+    const loadPage = async (page, options = {}) => {
+      if (isLoading)
+        return;
+      isLoading = true;
+      currentPage = Math.max(1, page);
+      selectedItem = null;
+      confirmBtn.disabled = true;
+      pagination.empty();
+      countLabel.setText("\u6B63\u5728\u52A0\u8F7D\u7D20\u6750\u5E93...");
+      cacheLabel.setText("");
+      renderLoadingSkeleton();
+      try {
+        const offset = (currentPage - 1) * pageSize;
+        const data = await this.loadWechatMaterialPage(api, "image", offset, pageSize, {
+          forceRefresh: options.forceRefresh === true
+        });
+        totalCount = Number.isFinite(data.total_count) ? data.total_count : 0;
+        const items = Array.isArray(data.item) ? data.item : [];
+        countLabel.setText(totalCount > 0 ? `\u5171 ${totalCount} \u5F20\u56FE\u7247\u7D20\u6750` : "\u6682\u65E0\u56FE\u7247\u7D20\u6750");
+        cacheLabel.setText(data.fromCache ? "\u5F53\u524D\u9875\u5217\u8868\u6765\u81EA\u7F13\u5B58" : "");
+        renderItems(items);
+        renderPagination(loadPage);
+      } catch (error) {
+        grid.empty();
+        grid.removeClass("is-loading");
+        countLabel.setText("\u52A0\u8F7D\u5931\u8D25");
+        grid.createDiv({ cls: "wechat-material-empty", text: `\u52A0\u8F7D\u5931\u8D25\uFF1A${error.message}` });
+      } finally {
+        isLoading = false;
+      }
+    };
+    refreshBtn.onclick = () => loadPage(1, { forceRefresh: true });
+    confirmBtn.onclick = () => {
+      if (!selectedItem)
+        return;
+      modal.close();
+      onSelect({
+        mediaId: selectedItem.mediaId,
+        url: selectedItem.url || "",
+        name: selectedItem.name || ""
+      });
+    };
     modal.open();
+    (_b = modal.modalEl) == null ? void 0 : _b.addClass("wechat-material-picker-modal");
+    await loadPage(1);
+  }
+  async openWechatsyncTask(syncId) {
+    const taskId = String(syncId || "").trim();
+    if (!taskId) {
+      new Notice("\u5F53\u524D\u4EFB\u52A1\u6CA1\u6709 syncId\uFF0C\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u5386\u53F2\u8BB0\u5F55\u4E2D\u67E5\u770B\u6700\u8FD1\u4EFB\u52A1");
+      return false;
+    }
+    const settings = normalizeMultiPlatformSyncSettings(this.plugin.settings.multiPlatformSync);
+    const bridge = this.plugin.getWechatSyncBridgeService();
+    try {
+      await bridge.start();
+      await bridge.waitForConnection(8e3);
+      const capabilities = settings.connection.capabilities || {};
+      if (capabilities.openSyncTask !== false) {
+        try {
+          const result = await bridge.openSyncTask(taskId, { timeoutMs: 8e3 });
+          if ((result == null ? void 0 : result.opened) !== false) {
+            new Notice("\u5DF2\u6253\u5F00\u6D4F\u89C8\u5668\u63D2\u4EF6\u4EFB\u52A1\u7A97\u53E3");
+            return true;
+          }
+        } catch (error) {
+          if (!isWechatSyncUnsupportedMethodError(error))
+            throw error;
+          console.warn("[Wechatsync] openSyncTask failed, falling back to task link", {
+            code: error == null ? void 0 : error.code,
+            message: (error == null ? void 0 : error.message) || String(error)
+          });
+        }
+      }
+      if (capabilities.getSyncTaskLink !== false) {
+        try {
+          const linkResult = await bridge.getSyncTaskLink(taskId, { timeoutMs: 5e3 });
+          const url = String((linkResult == null ? void 0 : linkResult.url) || "").trim();
+          if ((linkResult == null ? void 0 : linkResult.canOpen) !== false && url) {
+            return this.openExternalUrl(url, { allowExtensionUrls: true });
+          }
+          if (linkResult == null ? void 0 : linkResult.message) {
+            new Notice(linkResult.message, 8e3);
+            return false;
+          }
+        } catch (error) {
+          if (!isWechatSyncUnsupportedMethodError(error))
+            throw error;
+          console.warn("[Wechatsync] getSyncTaskLink failed", {
+            code: error == null ? void 0 : error.code,
+            message: (error == null ? void 0 : error.message) || String(error)
+          });
+        }
+      }
+      new Notice(`\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u5386\u53F2\u8BB0\u5F55\u4E2D\u67E5\u770B\u4EFB\u52A1\uFF1A${taskId}`, 1e4);
+      return false;
+    } catch (error) {
+      console.error("[Wechatsync] open task failed", {
+        syncId: taskId,
+        code: error == null ? void 0 : error.code,
+        message: (error == null ? void 0 : error.message) || String(error)
+      });
+      new Notice(`\u65E0\u6CD5\u6253\u5F00\u6D4F\u89C8\u5668\u63D2\u4EF6\u4EFB\u52A1\uFF1A${error.message || String(error)}`, 1e4);
+      return false;
+    }
+  }
+  async getWechatsyncTaskSnapshot(bridge, syncId) {
+    const taskId = String(syncId || "").trim();
+    if (!taskId)
+      return null;
+    const settings = normalizeMultiPlatformSyncSettings(this.plugin.settings.multiPlatformSync);
+    if (!hasWechatSyncCapability(settings, "getSyncTask"))
+      return null;
+    try {
+      const task = await bridge.getSyncTask(taskId, { timeoutMs: 5e3 });
+      if ((task == null ? void 0 : task.found) === false)
+        return task;
+      return task && typeof task === "object" ? task : null;
+    } catch (error) {
+      if (isWechatSyncUnsupportedMethodError(error))
+        return null;
+      console.warn("[Wechatsync] getSyncTask failed after enqueue", {
+        syncId: taskId,
+        code: error == null ? void 0 : error.code,
+        message: (error == null ? void 0 : error.message) || String(error)
+      });
+      return null;
+    }
+  }
+  showWechatsyncEnqueueAcceptedModal({
+    syncId = "",
+    title = "",
+    platforms = [],
+    task = null,
+    usedFallbackSend = false,
+    quotaResult = null
+  } = {}) {
+    var _a, _b, _c, _d, _e, _f, _g;
+    const { Modal } = require("obsidian");
+    const taskId = String(syncId || "").trim();
+    const skippedPlatformIds = parseWechatsyncPlatformIds((quotaResult == null ? void 0 : quotaResult.skippedPlatforms) || []);
+    const publishedPlatformIds = parseWechatsyncPlatformIds(
+      ((_a = quotaResult == null ? void 0 : quotaResult.publishedPlatforms) == null ? void 0 : _a.length) ? quotaResult.publishedPlatforms : (quotaResult == null ? void 0 : quotaResult.platforms) || platforms
+    );
+    const skippedPlatformSet = new Set(skippedPlatformIds);
+    const publishedPlatformSet = new Set(publishedPlatformIds);
+    if (typeof Modal !== "function") {
+      const syncIdText = taskId ? `\uFF08\u4EFB\u52A1 ${taskId}\uFF09` : "";
+      const fallbackText = usedFallbackSend ? "\u5F53\u524D\u63D2\u4EF6\u672A\u63D0\u4F9B\u4EFB\u52A1 ID\uFF0C" : "";
+      const quotaText = skippedPlatformIds.length ? `\u5DF2\u8DF3\u8FC7 ${skippedPlatformIds.length} \u4E2A\u8D85\u51FA\u4ECA\u65E5\u989D\u5EA6\u7684\u5E73\u53F0\u3002` : "";
+      new Notice(`\u2705 \u5DF2\u53D1\u9001\u5230\u6D4F\u89C8\u5668\u63D2\u4EF6${syncIdText}\u3002${fallbackText}${quotaText}\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u7684\u5386\u53F2\u6216\u76EE\u6807\u5E73\u53F0\u8349\u7A3F\u7BB1\u67E5\u770B\u7ED3\u679C\u3002`, 1e4);
+      return;
+    }
+    const modal = new Modal(this.app);
+    modal.titleEl.setText("\u5DF2\u53D1\u9001\u5230\u6D4F\u89C8\u5668\u63D2\u4EF6");
+    (_c = (_b = modal.titleEl).addClass) == null ? void 0 : _c.call(_b, "wechat-multiplatform-title");
+    modal.contentEl.addClass("wechat-sync-modal");
+    modal.contentEl.addClass("wechat-multiplatform-modal");
+    modal.contentEl.addClass("wechat-multiplatform-result-modal");
+    (_d = modal.modalEl) == null ? void 0 : _d.addClass("wechat-publish-shell");
+    (_e = modal.modalEl) == null ? void 0 : _e.addClass("wechat-multiplatform-shell");
+    const summary = modal.contentEl.createDiv({
+      cls: `wechat-multiplatform-result-summary ${skippedPlatformIds.length ? "is-warning" : "is-success"}`
+    });
+    const multiPlatformSettings = normalizeMultiPlatformSyncSettings(this.plugin.settings.multiPlatformSync);
+    const platformCatalog = getAvailableWechatsyncPlatforms(multiPlatformSettings);
+    const platformById = new Map(platformCatalog.map((platform) => [platform.id, platform]));
+    const sortPlatformItems = (items = [], getId = (item) => item) => {
+      var _a2;
+      return sortWechatsyncPlatformItemsForDisplay(items, {
+        bridgeConnected: ((_a2 = multiPlatformSettings.connection) == null ? void 0 : _a2.status) === "connected",
+        getPlatformId: getId,
+        getPlatform: (item) => {
+          const id = getId(item);
+          return platformById.get(id) || normalizeWechatsyncPlatform(
+            item && typeof item === "object" ? { ...item, id } : { id }
+          ) || { id };
+        }
+      });
+    };
+    const formatPlatformNames = (ids = []) => {
+      const names = sortPlatformItems(parseWechatsyncPlatformIds(ids)).map((id) => {
+        var _a2;
+        return ((_a2 = platformById.get(id)) == null ? void 0 : _a2.name) || id;
+      }).filter(Boolean);
+      return names.length ? names.join("\u3001") : "\u65E0";
+    };
+    summary.createEl("div", {
+      cls: "wechat-multiplatform-result-summary-title",
+      text: skippedPlatformIds.length ? "\u5DF2\u6309\u514D\u8D39\u7248\u989D\u5EA6\u6295\u9012" : "\u4EFB\u52A1\u5DF2\u4EA4\u7ED9\u6D4F\u89C8\u5668\u63D2\u4EF6"
+    });
+    summary.createEl("p", {
+      text: skippedPlatformIds.length ? `\u5DF2\u53D1\u5E03\u5230\uFF1A${formatPlatformNames(publishedPlatformIds)}\u3002\u8DF3\u8FC7 ${skippedPlatformIds.length} \u4E2A\u8D85\u51FA\u4ECA\u65E5\u989D\u5EA6\u7684\u5E73\u53F0\uFF1A${formatPlatformNames(skippedPlatformIds)}\u3002\u5347\u7EA7 Pro \u53EF\u53D1\u5E03\u5230\u5168\u90E8\u5E73\u53F0\u3002` : taskId ? "Obsidian \u5DF2\u5B8C\u6210\u6295\u9012\uFF0C\u4E0D\u4F1A\u957F\u65F6\u95F4\u7B49\u5F85\u6240\u6709\u5E73\u53F0\u5B8C\u6210\u3002\u540E\u7EED\u8349\u7A3F\u94FE\u63A5\u3001\u5931\u8D25\u539F\u56E0\u548C\u91CD\u8BD5\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u4EFB\u52A1\u7A97\u53E3\u91CC\u67E5\u770B\u3002" : "\u5F53\u524D\u63D2\u4EF6\u7248\u672C\u6CA1\u6709\u8FD4\u56DE\u4EFB\u52A1 ID\u3002\u6587\u7AE0\u5DF2\u53D1\u9001\uFF0C\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u5386\u53F2\u8BB0\u5F55\u4E2D\u67E5\u770B\u6700\u8FD1\u4EFB\u52A1\u3002"
+    });
+    const list = modal.contentEl.createDiv({ cls: "wechat-multiplatform-result-list" });
+    const rawTaskPlatforms = Array.isArray(task == null ? void 0 : task.platforms) && task.platforms.length ? task.platforms : (publishedPlatformIds.length ? publishedPlatformIds : platforms).map((id) => ({ id, status: "queued" }));
+    const taskPlatforms = sortPlatformItems(rawTaskPlatforms.filter((item) => {
+      const platformId = parseWechatsyncPlatformIds([(item == null ? void 0 : item.id) || (item == null ? void 0 : item.platform) || item])[0] || "";
+      if (!platformId)
+        return false;
+      if (skippedPlatformSet.has(platformId))
+        return false;
+      if (skippedPlatformSet.size > 0 && publishedPlatformSet.size > 0) {
+        return publishedPlatformSet.has(platformId);
+      }
+      return true;
+    }), (item) => parseWechatsyncPlatformIds([(item == null ? void 0 : item.id) || (item == null ? void 0 : item.platform) || item])[0] || "");
+    if (taskId) {
+      const taskRow = list.createDiv({ cls: "wechat-multiplatform-result-row" });
+      taskRow.createEl("div", { text: "\u4EFB\u52A1", cls: "wechat-multiplatform-result-pill is-success" });
+      const taskBody = taskRow.createDiv({ cls: "wechat-multiplatform-result-body" });
+      taskBody.createEl("div", {
+        text: (task == null ? void 0 : task.found) === false ? "\u63D2\u4EF6\u6682\u672A\u8FD4\u56DE\u4EFB\u52A1\u8BE6\u60C5" : title || (task == null ? void 0 : task.title) || "\u591A\u5E73\u53F0\u53D1\u5E03\u4EFB\u52A1",
+        cls: "wechat-multiplatform-result-name"
+      });
+      if ((task == null ? void 0 : task.found) === false) {
+        taskBody.createEl("div", {
+          text: "\u8BF7\u6253\u5F00\u63D2\u4EF6\u5386\u53F2\u67E5\u770B\u3002",
+          cls: "wechat-multiplatform-result-detail"
+        });
+      }
+    }
+    for (const item of taskPlatforms) {
+      const platformId = String((item == null ? void 0 : item.id) || (item == null ? void 0 : item.platform) || item || "").trim();
+      if (!platformId)
+        continue;
+      const platformName = (item == null ? void 0 : item.name) || ((_f = platformById.get(platformId)) == null ? void 0 : _f.name) || platformId;
+      const row = list.createDiv({ cls: "wechat-multiplatform-result-row" });
+      row.createEl("div", { text: "\u5DF2\u6295\u9012", cls: "wechat-multiplatform-result-pill" });
+      const body = row.createDiv({ cls: "wechat-multiplatform-result-body" });
+      body.createEl("div", { text: platformName, cls: "wechat-multiplatform-result-name" });
+    }
+    for (const platformId of sortPlatformItems(skippedPlatformIds)) {
+      const platformName = ((_g = platformById.get(platformId)) == null ? void 0 : _g.name) || platformId;
+      const row = list.createDiv({ cls: "wechat-multiplatform-result-row is-warning" });
+      row.createEl("div", {
+        text: "\u5DF2\u8DF3\u8FC7",
+        cls: "wechat-multiplatform-result-pill is-warning"
+      });
+      const body = row.createDiv({ cls: "wechat-multiplatform-result-body" });
+      body.createEl("div", { text: platformName, cls: "wechat-multiplatform-result-name" });
+      body.createEl("div", {
+        text: "\u514D\u8D39\u7248\u6BCF\u5929 3 \u4E2A\u5E73\u53F0\u989D\u5EA6\uFF0C\u5F53\u524D\u5E73\u53F0\u672A\u5165\u961F\u3002",
+        cls: "wechat-multiplatform-result-detail"
+      });
+    }
+    const btnRow = modal.contentEl.createDiv({ cls: "wechat-modal-buttons" });
+    if (quotaResult == null ? void 0 : quotaResult.quotaBlocked) {
+      const upgradeBtn = btnRow.createEl("button", { text: "\u5347\u7EA7 Pro" });
+      upgradeBtn.onclick = () => this.openPublisherProPage();
+    }
+    const closeBtn = btnRow.createEl("button", { text: "\u5173\u95ED" });
+    closeBtn.onclick = () => modal.close();
+    if (taskId) {
+      const openBtn = btnRow.createEl("button", { text: "\u67E5\u770B\u4EFB\u52A1", cls: "mod-cta" });
+      openBtn.onclick = () => {
+        this.openWechatsyncTask(taskId);
+      };
+    }
+    modal.open();
+  }
+  showMultiPlatformQuotaBlockedModal({ quotaResult = {}, requestedPlatformIds = [] } = {}) {
+    var _a, _b, _c, _d, _e;
+    const { Modal } = require("obsidian");
+    const multiPlatformSettings = normalizeMultiPlatformSyncSettings(this.plugin.settings.multiPlatformSync);
+    const platformCatalog = getAvailableWechatsyncPlatforms(multiPlatformSettings);
+    const platformById = new Map(platformCatalog.map((platform) => [platform.id, platform]));
+    const sortPlatformIds = (ids = []) => {
+      var _a2;
+      return sortWechatsyncPlatformItemsForDisplay(parseWechatsyncPlatformIds(ids), {
+        bridgeConnected: ((_a2 = multiPlatformSettings.connection) == null ? void 0 : _a2.status) === "connected",
+        getPlatformId: (id) => id,
+        getPlatform: (id) => platformById.get(id) || { id }
+      });
+    };
+    const skippedPlatformIds = parseWechatsyncPlatformIds(
+      ((_a = quotaResult == null ? void 0 : quotaResult.skippedPlatforms) == null ? void 0 : _a.length) ? quotaResult.skippedPlatforms : requestedPlatformIds
+    );
+    const formatPlatformNames = (ids = []) => {
+      const names = sortPlatformIds(ids).map((id) => {
+        var _a2;
+        return ((_a2 = platformById.get(id)) == null ? void 0 : _a2.name) || id;
+      }).filter(Boolean);
+      return names.length ? names.join("\u3001") : "\u65E0";
+    };
+    const reason = (quotaResult == null ? void 0 : quotaResult.reason) || "";
+    const rawMessage = typeof (quotaResult == null ? void 0 : quotaResult.message) === "string" ? quotaResult.message.trim() : "";
+    const legacyQuotaMessage = /单次最多|每次最多|每天最多发布\s*1\s*次|每天最多\s*1\s*次/.test(rawMessage);
+    const summaryText = rawMessage && !legacyQuotaMessage ? rawMessage : "\u514D\u8D39\u7248\u4ECA\u65E5\u5E73\u53F0\u989D\u5EA6\u4E0D\u8DB3\uFF0C\u660E\u5929 0:00 \u91CD\u7F6E\uFF0C\u6216\u5347\u7EA7 Pro\u3002";
+    if (typeof Modal !== "function") {
+      new Notice(summaryText, 1e4);
+      return;
+    }
+    const modal = new Modal(this.app);
+    modal.titleEl.setText("\u53D1\u5E03\u53D7\u9650");
+    (_c = (_b = modal.titleEl).addClass) == null ? void 0 : _c.call(_b, "wechat-multiplatform-title");
+    modal.contentEl.addClass("wechat-sync-modal");
+    modal.contentEl.addClass("wechat-multiplatform-modal");
+    modal.contentEl.addClass("wechat-multiplatform-result-modal");
+    (_d = modal.modalEl) == null ? void 0 : _d.addClass("wechat-publish-shell");
+    (_e = modal.modalEl) == null ? void 0 : _e.addClass("wechat-multiplatform-shell");
+    const summary = modal.contentEl.createDiv({ cls: "wechat-multiplatform-result-summary is-warning is-quota-blocked" });
+    summary.createEl("div", {
+      cls: "wechat-multiplatform-result-summary-title",
+      text: reason === "daily_limit" ? "\u4ECA\u65E5\u5E73\u53F0\u989D\u5EA6\u4E0D\u8DB3" : "\u514D\u8D39\u7248\u5E73\u53F0\u989D\u5EA6\u4E0D\u8DB3"
+    });
+    summary.createEl("p", { text: summaryText });
+    summary.createEl("div", {
+      text: skippedPlatformIds.length ? `\u672C\u6B21\u672A\u5165\u961F\uFF1A${formatPlatformNames(skippedPlatformIds)}` : "\u672C\u6B21\u672A\u5165\u961F\uFF1A\u6D4F\u89C8\u5668\u63D2\u4EF6\u6CA1\u6709\u8FD4\u56DE\u5E73\u53F0\u660E\u7EC6\u3002",
+      cls: "wechat-multiplatform-result-detail wechat-multiplatform-quota-platforms"
+    });
+    const btnRow = modal.contentEl.createDiv({ cls: "wechat-modal-buttons" });
+    const upgradeBtn = btnRow.createEl("button", { text: "\u5347\u7EA7 Pro", cls: "mod-cta" });
+    upgradeBtn.onclick = () => this.openPublisherProPage();
+    const closeBtn = btnRow.createEl("button", { text: "\u5173\u95ED" });
+    closeBtn.onclick = () => modal.close();
+    modal.open();
+  }
+  showMultiPlatformSyncResultModal({ results = [], requestedPlatformIds = [], fatalError = null } = {}) {
+    var _a, _b, _c, _d, _e, _f;
+    const { Modal } = require("obsidian");
+    if (typeof Modal !== "function") {
+      const message = fatalError ? `\u6D4F\u89C8\u5668\u63D2\u4EF6\u540C\u6B65\u5931\u8D25\uFF1A${fatalError.message || fatalError}` : "\u540C\u6B65\u5B8C\u6210\uFF0C\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u4E2D\u67E5\u770B\u7ED3\u679C";
+      new Notice(message, 1e4);
+      return;
+    }
+    const modal = new Modal(this.app);
+    const mobileSync = isMobileClient(this.app);
+    const bridgeSettings = normalizeMultiPlatformSyncSettings(this.plugin.settings.multiPlatformSync);
+    const platformCatalog = getAvailableWechatsyncPlatforms(bridgeSettings);
+    const platformById = new Map(platformCatalog.map((platform) => [platform.id, platform]));
+    const {
+      normalizedResults,
+      successCount,
+      failedResults,
+      isAllSuccess
+    } = getMultiPlatformResultSummary(results, requestedPlatformIds, fatalError);
+    modal.titleEl.setText("\u540C\u6B65\u7ED3\u679C");
+    (_b = (_a = modal.titleEl).addClass) == null ? void 0 : _b.call(_a, "wechat-multiplatform-title");
+    modal.contentEl.addClass("wechat-sync-modal");
+    modal.contentEl.addClass("wechat-multiplatform-modal");
+    modal.contentEl.addClass("wechat-multiplatform-result-modal");
+    (_c = modal.modalEl) == null ? void 0 : _c.addClass("wechat-publish-shell");
+    (_d = modal.modalEl) == null ? void 0 : _d.addClass("wechat-multiplatform-shell");
+    if (mobileSync) {
+      modal.contentEl.addClass("wechat-sync-modal-mobile");
+      (_e = modal.modalEl) == null ? void 0 : _e.addClass("wechat-sync-shell-mobile");
+    }
+    const getPlatformName = (result = {}) => {
+      var _a2;
+      const id = getWechatSyncResultPlatformId(result);
+      return result.platformName || result.name || ((_a2 = platformById.get(id)) == null ? void 0 : _a2.name) || id || "\u672A\u77E5\u5E73\u53F0";
+    };
+    const summary = modal.contentEl.createDiv({
+      cls: `wechat-multiplatform-result-summary ${fatalError ? "is-error" : isAllSuccess ? "is-success" : "is-warning"}`
+    });
+    summary.createEl("div", {
+      cls: "wechat-multiplatform-result-summary-title",
+      text: fatalError ? "\u540C\u6B65\u6CA1\u6709\u5B8C\u6210" : isAllSuccess ? "\u8349\u7A3F\u5DF2\u4FDD\u5B58" : "\u90E8\u5206\u5E73\u53F0\u9700\u8981\u5904\u7406"
+    });
+    summary.createEl("p", {
+      text: fatalError ? fatalError.code === "SYNC_TIMEOUT" ? "Obsidian \u6CA1\u6709\u7B49\u5230\u6D4F\u89C8\u5668\u63D2\u4EF6\u7684\u6700\u7EC8\u56DE\u8C03\u3002\u63D2\u4EF6\u53EF\u80FD\u4ECD\u5728\u540E\u53F0\u540C\u6B65\uFF0C\u8BF7\u5148\u67E5\u770B\u63D2\u4EF6\u5386\u53F2\u6216\u76EE\u6807\u5E73\u53F0\u8349\u7A3F\u7BB1\uFF1B\u4E4B\u540E\u53EF\u4EE5\u51CF\u5C11\u5E73\u53F0\u540E\u91CD\u8BD5\u3002" : fatalError.message || "\u6D4F\u89C8\u5668\u63D2\u4EF6\u8FDE\u63A5\u4E2D\u65AD\uFF0C\u8BF7\u68C0\u67E5\u63D2\u4EF6\u3001\u8FDE\u63A5\u4EE4\u724C\u6216\u6D4F\u89C8\u5668\u767B\u5F55\u6001\u540E\u91CD\u8BD5\u3002" : normalizedResults.length > 0 ? `${successCount}/${normalizedResults.length} \u4E2A\u5E73\u53F0\u5DF2\u4FDD\u5B58\u4E3A\u8349\u7A3F\u3002\u6210\u529F\u7684\u5E73\u53F0\u53EF\u4EE5\u76F4\u63A5\u6253\u5F00\u8349\u7A3F\u68C0\u67E5\uFF0C\u5931\u8D25\u7684\u5E73\u53F0\u4FEE\u590D\u540E\u91CD\u65B0\u540C\u6B65\u3002` : "\u8BF7\u6C42\u5DF2\u53D1\u9001\u5230\u6D4F\u89C8\u5668\u63D2\u4EF6\u3002\u82E5\u8FD9\u91CC\u6CA1\u6709\u8FD4\u56DE\u5E73\u53F0\u660E\u7EC6\uFF0C\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u4E2D\u67E5\u770B\u7ED3\u679C\u3002"
+    });
+    const list = modal.contentEl.createDiv({ cls: "wechat-multiplatform-result-list" });
+    if (fatalError) {
+      const row = list.createDiv({ cls: "wechat-multiplatform-result-row is-error" });
+      const body = row.createDiv({ cls: "wechat-multiplatform-result-body" });
+      body.createEl("div", { text: "\u6D4F\u89C8\u5668\u63D2\u4EF6\u53D1\u5E03", cls: "wechat-multiplatform-result-name" });
+      body.createEl("div", {
+        text: fatalError.code === "SYNC_TIMEOUT" ? "\u540C\u6B65\u8BF7\u6C42\u5DF2\u8D85\u65F6\uFF0C\u6682\u65F6\u65E0\u6CD5\u62FF\u5230\u9010\u5E73\u53F0\u8FDB\u5EA6\u3002\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u4FA7\u786E\u8BA4\u662F\u5426\u5DF2\u7ECF\u751F\u6210\u8349\u7A3F\u3002" : fatalError.message || "\u8FDE\u63A5\u4E0D\u53EF\u7528",
+        cls: "wechat-multiplatform-result-detail"
+      });
+    } else if (normalizedResults.length === 0) {
+      const row = list.createDiv({ cls: "wechat-multiplatform-result-row" });
+      const body = row.createDiv({ cls: "wechat-multiplatform-result-body" });
+      body.createEl("div", { text: "\u7B49\u5F85\u63D2\u4EF6\u7ED3\u679C", cls: "wechat-multiplatform-result-name" });
+      body.createEl("div", {
+        text: "\u5F53\u524D\u8FDE\u63A5\u6CA1\u6709\u8FD4\u56DE\u5E73\u53F0\u660E\u7EC6\u3002\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u4FA7\u786E\u8BA4\u8349\u7A3F\u662F\u5426\u5DF2\u751F\u6210\u3002",
+        cls: "wechat-multiplatform-result-detail"
+      });
+    } else {
+      const sortedResults = sortWechatsyncPlatformItemsForDisplay(normalizedResults, {
+        bridgeConnected: ((_f = bridgeSettings.connection) == null ? void 0 : _f.status) === "connected",
+        getPlatformId: (result) => getWechatSyncResultPlatformId(result),
+        getPlatform: (result) => {
+          const id = getWechatSyncResultPlatformId(result);
+          return platformById.get(id) || normalizeWechatsyncPlatform({ ...result, id }) || { id };
+        }
+      });
+      for (const result of sortedResults) {
+        const draftUrl = getWechatSyncResultUrl(result);
+        const errorMessage = getWechatSyncResultError(result);
+        const isSuccess = (result == null ? void 0 : result.success) === true;
+        const row = list.createDiv({
+          cls: `wechat-multiplatform-result-row ${isSuccess ? "is-success" : "is-error"}`
+        });
+        row.createEl("div", {
+          text: isSuccess ? "\u6210\u529F" : "\u5931\u8D25",
+          cls: `wechat-multiplatform-result-pill ${isSuccess ? "is-success" : "is-error"}`
+        });
+        const body = row.createDiv({ cls: "wechat-multiplatform-result-body" });
+        body.createEl("div", {
+          text: getPlatformName(result),
+          cls: "wechat-multiplatform-result-name"
+        });
+        body.createEl("div", {
+          text: isSuccess ? draftUrl ? "\u5DF2\u4FDD\u5B58\u4E3A\u8349\u7A3F\uFF0C\u8BF7\u6253\u5F00\u540E\u68C0\u67E5\u6392\u7248\u5E76\u624B\u52A8\u53D1\u5E03\u3002" : "\u5DF2\u540C\u6B65\u6210\u529F\uFF0C\u8BF7\u5728\u6D4F\u89C8\u5668\u63D2\u4EF6\u4E2D\u67E5\u770B\u8349\u7A3F\u3002" : errorMessage || "\u540C\u6B65\u5931\u8D25\uFF0C\u8BF7\u4FEE\u590D\u540E\u91CD\u8BD5\u3002",
+          cls: "wechat-multiplatform-result-detail"
+        });
+        if (isSuccess && draftUrl) {
+          const openBtn = row.createEl("button", {
+            text: "\u6253\u5F00\u8349\u7A3F",
+            cls: "wechat-multiplatform-inline-btn"
+          });
+          openBtn.onclick = () => this.openExternalUrl(draftUrl);
+        }
+      }
+    }
+    const btnRow = modal.contentEl.createDiv({ cls: "wechat-modal-buttons" });
+    if (fatalError || failedResults.length > 0) {
+      const retryBtn = btnRow.createEl("button", { text: "\u91CD\u65B0\u9009\u62E9\u5E73\u53F0" });
+      retryBtn.onclick = () => {
+        modal.close();
+        this.showMultiPlatformSyncModal();
+      };
+    }
+    const closeBtn = btnRow.createEl("button", {
+      text: isAllSuccess ? "\u5B8C\u6210" : "\u5173\u95ED",
+      cls: "mod-cta"
+    });
+    closeBtn.onclick = () => modal.close();
+    modal.open();
+  }
+  async showMultiPlatformSyncModal(options = {}) {
+    return showMultiPlatformPublishModal(this, options);
   }
   /**
    * 处理同步到微信逻辑
@@ -14701,6 +19808,7 @@ var AppleStyleView = class extends ItemView {
       const syncService = createWechatSyncService({
         createApi: (appId, appSecret, proxyUrl) => new WechatAPI(appId, appSecret, proxyUrl),
         srcToBlob: this.srcToBlob.bind(this),
+        coverUploadCache: this.coverUploadCache,
         processAllImages: this.processAllImages.bind(this),
         processMathFormulas: this.processMathFormulas.bind(this),
         prepareHtmlForDraft: this.prepareHtmlForWechatDraft.bind(this),
@@ -14708,14 +19816,17 @@ var AppleStyleView = class extends ItemView {
         cleanupConfiguredDirectory: this.cleanupConfiguredDirectory.bind(this),
         getFirstImageFromArticle: this.getFirstImageFromArticle.bind(this)
       });
-      const { cleanupResult, imageUploadFailures, placeholderImageSources } = await syncService.syncToDraft({
+      const result = await syncService.syncToDraft({
         account,
         proxyUrl: this.plugin.settings.proxyUrl,
         currentHtml: this.getCurrentExportHtml(),
         activeFile,
         publishMeta,
         sessionCoverBase64: this.sessionCoverBase64,
+        sessionThumbMediaId: this.sessionThumbMediaId || "",
         sessionDigest: this.sessionDigest,
+        draftMediaId: this.sessionDraftMediaId || "",
+        draftIndex: this.sessionDraftIndex || 0,
         onStatus: (stage) => {
           if (stage === "cover")
             notice.setMessage("\u6B63\u5728\u5904\u7406\u5C01\u9762\u56FE...");
@@ -14724,7 +19835,7 @@ var AppleStyleView = class extends ItemView {
           if (stage === "math")
             notice.setMessage("\u6B63\u5728\u8F6C\u6362\u77E2\u91CF\u56FE/\u6570\u5B66\u516C\u5F0F...");
           if (stage === "draft")
-            notice.setMessage("\u6B63\u5728\u53D1\u9001\u5230\u5FAE\u4FE1\u8349\u7A3F\u7BB1...");
+            notice.setMessage(this.sessionDraftMediaId ? "\u6B63\u5728\u66F4\u65B0\u5FAE\u4FE1\u8349\u7A3F..." : "\u6B63\u5728\u53D1\u9001\u5230\u5FAE\u4FE1\u8349\u7A3F\u7BB1...");
         },
         onImageProgress: (current, total) => {
           notice.setMessage(`\u6B63\u5728\u540C\u6B65\u6B63\u6587\u56FE\u7247 (${current}/${total})...`);
@@ -14733,8 +19844,20 @@ var AppleStyleView = class extends ItemView {
           notice.setMessage(`\u6B63\u5728\u8F6C\u6362\u77E2\u91CF\u56FE/\u6570\u5B66\u516C\u5F0F (${current}/${total})...`);
         }
       });
+      const { cleanupResult, imageUploadFailures, placeholderImageSources, mediaId, isUpdate, draftIndex } = result;
+      if (activeFile && mediaId) {
+        setDraftAssociation(this.plugin.settings, {
+          sourcePath: activeFile.path,
+          mediaId,
+          accountId: account.id || "",
+          title: activeFile.basename,
+          index: draftIndex || 0,
+          updatedAt: Date.now()
+        });
+        await this.plugin.saveSettings();
+      }
       notice.hide();
-      new Notice("\u2705 \u540C\u6B65\u6210\u529F\uFF01\u8BF7\u524D\u5F80\u5FAE\u4FE1\u516C\u4F17\u53F7\u540E\u53F0\u8349\u7A3F\u7BB1\u67E5\u770B");
+      new Notice(isUpdate ? "\u2705 \u66F4\u65B0\u6210\u529F\uFF01\u5FAE\u4FE1\u8349\u7A3F\u5DF2\u66F4\u65B0" : "\u2705 \u540C\u6B65\u6210\u529F\uFF01\u8BF7\u524D\u5F80\u5FAE\u4FE1\u516C\u4F17\u53F7\u540E\u53F0\u8349\u7A3F\u7BB1\u67E5\u770B");
       const failedImageSources = Array.from(/* @__PURE__ */ new Set([
         ...Array.isArray(imageUploadFailures) ? imageUploadFailures.map((item) => item == null ? void 0 : item.src).filter(Boolean) : [],
         ...Array.isArray(placeholderImageSources) ? placeholderImageSources.filter(Boolean) : []
@@ -14751,7 +19874,13 @@ var AppleStyleView = class extends ItemView {
       notice.hide();
       console.error("Wechat Sync Error:", error);
       const friendlyMsg = toSyncFriendlyMessage(error.message);
-      this.showSyncFailureActions(friendlyMsg);
+      this.showSyncFailureActions(friendlyMsg, this.sessionDraftMediaId && activeFile ? {
+        draftAssociation: {
+          sourcePath: activeFile.path,
+          mediaId: this.sessionDraftMediaId,
+          accountId: account.id || ""
+        }
+      } : {});
     }
   }
   /**
@@ -14921,17 +20050,41 @@ var AppleStyleView = class extends ItemView {
     this.previewContainer.empty();
     this.previewContainer.removeClass("apple-has-content");
     const placeholder = this.previewContainer.createEl("div", { cls: "apple-placeholder" });
-    placeholder.createEl("div", { cls: "apple-placeholder-icon", text: "\u{1F4DD}" });
-    placeholder.createEl("h2", { text: "\u5FAE\u4FE1\u516C\u4F17\u53F7\u6392\u7248\u8F6C\u6362\u5668" });
-    placeholder.createEl("p", { text: "\u5C06 Markdown \u8F6C\u6362\u4E3A\u7CBE\u7F8E\u7684 HTML\uFF0C\u4E00\u952E\u540C\u6B65\u5230\u8349\u7A3F\u7BB1" });
+    const iconDiv = placeholder.createEl("div", { cls: "apple-placeholder-icon" });
+    iconDiv.textContent = "\u{1F4DD}";
+    this.loadPlaceholderIcon(iconDiv);
+    placeholder.createEl("h2", { text: "Obsidian \u53D1\u5E03\u52A9\u624B" });
+    placeholder.createEl("p", { text: "\u5728 Obsidian \u5199\u4F5C\uFF0C\u9884\u89C8\u786E\u8BA4\u516C\u4F17\u53F7\u6392\u7248\uFF0C\u6216\u76F4\u63A5\u4EE5 Markdown \u539F\u6587\u53D1\u5E03\u5230\u5176\u4ED6\u5E73\u53F0\u3002" });
     const steps = placeholder.createEl("div", { cls: "apple-steps" });
-    steps.createEl("div", { text: "1\uFE0F\u20E3 \u6253\u5F00\u9700\u8981\u8F6C\u6362\u7684 Markdown \u6587\u4EF6" });
-    steps.createEl("div", { text: "2\uFE0F\u20E3 \u9884\u89C8\u533A\u4F1A\u81EA\u52A8\u663E\u793A\u8F6C\u6362\u6548\u679C" });
-    steps.createEl("div", { text: "3\uFE0F\u20E3 \u70B9\u51FB\u300C\u4E00\u952E\u540C\u6B65\u5230\u8349\u7A3F\u7BB1\u300D\u5373\u53EF\u53D1\u9001" });
-    const note = placeholder.createEl("p", {
-      text: "\u6CE8\u610F\uFF1A\u5982\u5F53\u524D\u5DF2\u6253\u5F00\u6587\u6863\u4F46\u672A\u663E\u793A\uFF0C\u8BF7\u91CD\u65B0\u70B9\u51FB\u4E00\u4E0B\u6587\u6863\u5373\u53EF\u89E6\u53D1",
+    steps.createEl("div", { text: "1\uFE0F\u20E3 \u6253\u5F00\u8981\u53D1\u5E03\u7684 Markdown \u6587\u4EF6" });
+    steps.createEl("div", { text: "2\uFE0F\u20E3 \u5728\u9884\u89C8\u4E2D\u786E\u8BA4\u5FAE\u4FE1\u516C\u4F17\u53F7\u6392\u7248" });
+    steps.createEl("div", { text: "3\uFE0F\u20E3 \u70B9\u51FB\u300C\u53D1\u5E03\u4E0E\u5206\u53D1\u300D\u9009\u62E9\u5FAE\u4FE1\u6216\u5176\u4ED6\u5E73\u53F0" });
+    placeholder.createEl("p", {
+      text: "\u63D0\u793A\uFF1A\u70B9\u51FB\u8981\u53D1\u5E03\u7684\u6587\u6863\u5373\u53EF\u5728\u9884\u89C8\u4E2D\u67E5\u770B\u6392\u7248\u6548\u679C\u3002",
       cls: "apple-placeholder-note"
     });
+  }
+  async loadPlaceholderIcon(iconDiv) {
+    var _a, _b;
+    try {
+      const adapter = (_b = (_a = this.app) == null ? void 0 : _a.vault) == null ? void 0 : _b.adapter;
+      if (!adapter || typeof adapter.readBinary !== "function")
+        return;
+      const iconPath = `${this.plugin.manifest.dir}/images/icon.png`;
+      const imgBuffer = await adapter.readBinary(iconPath);
+      if (!iconDiv.isConnected)
+        return;
+      const base64 = Buffer.from(imgBuffer).toString("base64");
+      iconDiv.empty();
+      const img = iconDiv.createEl("img", { attr: { alt: "Obsidian \u53D1\u5E03\u52A9\u624B" } });
+      img.src = "data:image/png;base64," + base64;
+      img.style.width = "64px";
+      img.style.height = "64px";
+      img.style.display = "block";
+    } catch (e) {
+      iconDiv.textContent = "\u{1F4DD}";
+      console.error("Failed to load brand icon:", e);
+    }
   }
   showRenderFailurePlaceholder(message = "") {
     if (!this.previewContainer || typeof this.previewContainer.createEl !== "function")
@@ -15217,6 +20370,152 @@ var AppleStyleView = class extends ItemView {
     await this.enhanceHtmlForWechatPublishing(tempDiv);
     return tempDiv.innerHTML;
   }
+  async prepareHtmlForWechatsyncArticle(html) {
+    const tempDiv = document.createElement("div");
+    tempDiv.innerHTML = html || "";
+    await this.processImagesToDataURL(tempDiv);
+    this.transformCodeBlocksForWechatsync(tempDiv);
+    return tempDiv.innerHTML;
+  }
+  // Bridge publish flow only. Unlike prepareHtmlForWechatsyncArticle (which
+  // inlines local images as data: URLs for the legacy WeChat clipboard
+  // flow), the bridge protocol carries image bytes via assets[] separately.
+  // Inlining base64 here would double-encode every local image: once into
+  // assets[] (correct), once into content[] (~33% inflated). The latter
+  // also breaks retry, because the extension has to redact base64 before
+  // persisting history (storage quota), and a redacted data: URL cannot be
+  // re-published. So: rewrite app:// img srcs back to asset://<id> using
+  // the assets[] metadata resolveArticleImages already produced. Do NOT
+  // call processImagesToDataURL.
+  async prepareHtmlForWechatsyncArticleViaBridge(html, assets = []) {
+    const mapped = mapAppUrlImagesToAssetUrls(html || "", assets);
+    const tempDiv = document.createElement("div");
+    tempDiv.innerHTML = mapped;
+    this.transformCodeBlocksForWechatsync(tempDiv);
+    return tempDiv.innerHTML;
+  }
+  // Bridge publish flow: produce a small inline JPEG data URL for the
+  // cover asset, suitable for direct <img src> use in the extension's
+  // popup History list (which cannot resolve asset:// URLs in plain DOM).
+  // Budget: longest edge ≤ COVER_THUMBNAIL_MAX_DIM (256px), JPEG quality
+  // tries 0.7 → 0.55 → 0.4 until size ≤ COVER_THUMBNAIL_MAX_BYTES (~8KB).
+  // Returns '' on any failure — the extension will fall back to its own
+  // local-thumbnail path. Never throws into the publish pipeline.
+  async generateCoverThumbnailFromAsset(asset) {
+    try {
+      if (!asset || typeof asset !== "object")
+        return "";
+      const base64 = typeof asset.base64 === "string" ? asset.base64 : "";
+      const mimeType = typeof asset.mimeType === "string" ? asset.mimeType : "";
+      if (!base64 || !mimeType)
+        return "";
+      if (mimeType === "image/gif")
+        return "";
+      const sourceDataUrl = `data:${mimeType};base64,${base64}`;
+      const image = await new Promise((resolve, reject) => {
+        const img = new Image();
+        img.onload = () => resolve(img);
+        img.onerror = () => reject(new Error("image_decode_failed"));
+        img.src = sourceDataUrl;
+      });
+      const naturalW = image.naturalWidth || image.width || 0;
+      const naturalH = image.naturalHeight || image.height || 0;
+      if (!naturalW || !naturalH)
+        return "";
+      const MAX_DIM = 256;
+      const scale = Math.min(1, MAX_DIM / Math.max(naturalW, naturalH));
+      const targetW = Math.max(1, Math.round(naturalW * scale));
+      const targetH = Math.max(1, Math.round(naturalH * scale));
+      const canvas = document.createElement("canvas");
+      canvas.width = targetW;
+      canvas.height = targetH;
+      const ctx = canvas.getContext("2d");
+      if (!ctx)
+        return "";
+      ctx.drawImage(image, 0, 0, targetW, targetH);
+      const MAX_BYTES = 8 * 1024;
+      for (const quality of [0.7, 0.55, 0.4]) {
+        const dataUrl = canvas.toDataURL("image/jpeg", quality);
+        if (typeof dataUrl === "string" && dataUrl.length <= MAX_BYTES) {
+          return dataUrl;
+        }
+      }
+      return "";
+    } catch (err) {
+      console.warn("[Wechatsync] generateCoverThumbnailFromAsset failed", err);
+      return "";
+    }
+  }
+  extractCodeTextForWechatsync(block) {
+    var _a;
+    const codePre = (_a = block == null ? void 0 : block.querySelector) == null ? void 0 : _a.call(block, "pre");
+    if (!codePre)
+      return "";
+    const sectionNodes = Array.from(codePre.querySelectorAll("section"));
+    const codeLinesNode = sectionNodes.filter((node) => {
+      const style = (node.getAttribute("style") || "").toLowerCase();
+      return style.includes("white-space:nowrap") || style.includes("white-space: nowrap");
+    }).sort((a, b) => {
+      const score = (node) => {
+        const html = node.innerHTML || "";
+        return (html.includes("<br") ? 1e4 : 0) + (node.textContent || "").length;
+      };
+      return score(b) - score(a);
+    })[0];
+    if (codeLinesNode) {
+      const scratch = document.createElement("div");
+      return (codeLinesNode.innerHTML || "").split(/<br\s*\/?>/i).map((lineHtml) => {
+        scratch.innerHTML = lineHtml || "";
+        return (scratch.textContent || "").replace(/\u00a0/g, " ");
+      }).join("\n");
+    }
+    const codeEl = codePre.querySelector("code");
+    return ((codeEl ? codeEl.textContent : codePre.textContent) || "").replace(/\u00a0/g, " ");
+  }
+  transformCodeBlocksForWechatsync(root) {
+    if (!root)
+      return;
+    const codeBlocks = Array.from(root.querySelectorAll(".code-snippet__fix"));
+    codeBlocks.forEach((block) => {
+      const codeText = this.extractCodeTextForWechatsync(block);
+      const pre = document.createElement("pre");
+      pre.setAttribute("style", [
+        "display:block !important",
+        "width:100% !important",
+        "max-width:100% !important",
+        "margin:14px 0 !important",
+        "padding:12px 14px !important",
+        "box-sizing:border-box !important",
+        "background:#f6f8fa !important",
+        "border:1px solid #e5e7eb !important",
+        "border-radius:8px !important",
+        "overflow-x:auto !important",
+        "overflow-y:hidden !important",
+        "-webkit-overflow-scrolling:touch !important",
+        "font-family:'SF Mono',Consolas,Monaco,monospace !important",
+        "font-size:13px !important",
+        "line-height:1.65 !important",
+        "color:#24292f !important",
+        "text-indent:0 !important",
+        "white-space:pre !important"
+      ].join(";"));
+      const code = document.createElement("code");
+      code.setAttribute("style", [
+        "display:block !important",
+        "margin:0 !important",
+        "padding:0 !important",
+        "background:transparent !important",
+        "color:#24292f !important",
+        "font:inherit !important",
+        "line-height:inherit !important",
+        "white-space:pre !important",
+        "text-indent:0 !important"
+      ].join(";"));
+      code.textContent = codeText;
+      pre.appendChild(code);
+      block.replaceWith(pre);
+    });
+  }
   transformCodeBlocksForClipboard(root) {
     if (!root)
       return;
@@ -15364,7 +20663,7 @@ var AppleStyleView = class extends ItemView {
       return;
     } catch (error) {
       console.error("\u590D\u5236\u5931\u8D25:", error);
-      new Notice("\u274C \u590D\u5236\u5931\u8D25\uFF0C\u8BF7\u4F7F\u7528\u300C\u4E00\u952E\u540C\u6B65\u5230\u8349\u7A3F\u7BB1\u300D\u53D1\u9001\u6587\u7AE0");
+      new Notice("\u274C \u590D\u5236\u5931\u8D25\uFF0C\u8BF7\u4F7F\u7528\u300C\u53D1\u5E03\u4E0E\u5206\u53D1\u300D\u53D1\u9001\u6587\u7AE0");
       if (this.copyBtn) {
         this.copyBtn.classList.remove("is-copying");
         this.setCopyButtonIcon("copy");
@@ -15487,10 +20786,13 @@ var AppleStyleView = class extends ItemView {
     if (this.imageUploadCache) {
       this.imageUploadCache.clear();
     }
+    if (this.coverUploadCache) {
+      this.coverUploadCache.clear();
+    }
     if (this.mermaidImageCache) {
       this.mermaidImageCache.clear();
     }
-    console.log("\u{1F34E} \u8F6C\u6362\u5668\u9762\u677F\u5DF2\u5173\u95ED");
+    console.log("\u{1F34E} \u53D1\u5E03\u52A9\u624B\u9762\u677F\u5DF2\u5173\u95ED");
   }
   /**
    * 简单的字符串哈希函数 (DJB2算法)
@@ -15527,189 +20829,213 @@ var AppleStyleSettingTab = class extends PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    new Setting(containerEl).setDesc("\u66F4\u591A\u6392\u7248\u6837\u5F0F\u9009\u9879\uFF08\u4E3B\u9898\u3001\u5B57\u53F7\u3001\u4EE3\u7801\u5757\u7B49\uFF09\u8BF7\u5728\u63D2\u4EF6\u4FA7\u8FB9\u680F\u9762\u677F\u4E2D\u8FDB\u884C\u8BBE\u7F6E\u3002");
-    new Setting(containerEl).setName("\u9884\u89C8\u6A21\u5F0F").setHeading();
-    new Setting(containerEl).setName("\u4F7F\u7528\u624B\u673A\u4EFF\u771F\u6846").setDesc("\u5F00\u542F\u540E\uFF0C\u9884\u89C8\u533A\u57DF\u5C06\u663E\u793A\u4E3A iPhone X \u624B\u673A\u6846\u6837\u5F0F\uFF1B\u5173\u95ED\u5219\u6062\u590D\u4E3A\u7ECF\u5178\u5168\u5BBD\u9884\u89C8\u6A21\u5F0F\uFF08\u9700\u91CD\u542F\u63D2\u4EF6\u9762\u677F\u751F\u6548\uFF09").addToggle((toggle) => toggle.setValue(this.plugin.settings.usePhoneFrame).onChange(async (value) => {
-      this.plugin.settings.usePhoneFrame = value;
-      await this.plugin.saveSettings();
-      new Notice("\u8BBE\u7F6E\u5DF2\u4FDD\u5B58\uFF0C\u8BF7\u5173\u95ED\u5E76\u91CD\u65B0\u6253\u5F00\u8F6C\u6362\u5668\u9762\u677F\u4EE5\u751F\u6548");
-    }));
-    new Setting(containerEl).setName("\u56FE\u7247\u6C34\u5370").setHeading();
-    new Setting(containerEl).setName("\u542F\u7528\u56FE\u7247\u6C34\u5370").setDesc("\u5728\u6BCF\u5F20\u56FE\u7247\u4E0A\u65B9\u663E\u793A\u5934\u50CF\uFF08\u9700\u91CD\u542F\u63D2\u4EF6\u9762\u677F\u751F\u6548\uFF09").addToggle((toggle) => toggle.setValue(this.plugin.settings.enableWatermark).onChange(async (value) => {
-      this.plugin.settings.enableWatermark = value;
-      await this.plugin.saveSettings();
-      new Notice("\u8BBE\u7F6E\u5DF2\u4FDD\u5B58\uFF0C\u8BF7\u5173\u95ED\u5E76\u91CD\u65B0\u6253\u5F00\u8F6C\u6362\u5668\u9762\u677F\u4EE5\u751F\u6548");
-    }));
-    const uploadSetting = new Setting(containerEl).setName("\u4E0A\u4F20\u672C\u5730\u5934\u50CF").setDesc(this.plugin.settings.avatarBase64 ? "\u2705 \u5DF2\u4E0A\u4F20\u672C\u5730\u5934\u50CF\uFF08\u4F18\u5148\u4F7F\u7528\uFF09" : "\u9009\u62E9\u672C\u5730\u56FE\u7247\uFF0C\u8F6C\u6362\u4E3A Base64 \u5B58\u50A8\uFF0C\u65E0\u9700\u7F51\u7EDC\u8BF7\u6C42");
-    uploadSetting.addButton((button) => button.setButtonText(this.plugin.settings.avatarBase64 ? "\u91CD\u65B0\u4E0A\u4F20" : "\u9009\u62E9\u56FE\u7247").onClick(() => {
-      const input = document.createElement("input");
-      input.type = "file";
-      input.accept = "image/*";
-      input.onchange = async (e) => {
-        const file = e.target.files[0];
-        if (!file)
-          return;
-        if (file.size > 100 * 1024) {
-          new Notice("\u274C \u56FE\u7247\u592A\u5927\uFF0C\u8BF7\u9009\u62E9\u5C0F\u4E8E 100KB \u7684\u56FE\u7247");
-          return;
-        }
-        const reader = new FileReader();
-        reader.onload = async (event) => {
-          this.plugin.settings.avatarBase64 = event.target.result;
-          await this.plugin.saveSettings();
-          new Notice("\u2705 \u5934\u50CF\u5DF2\u4E0A\u4F20");
-          this.display();
-        };
-        reader.readAsDataURL(file);
-      };
-      input.click();
-    }));
-    if (this.plugin.settings.avatarBase64) {
-      uploadSetting.addButton((button) => button.setButtonText("\u6E05\u9664").setWarning().onClick(async () => {
-        this.plugin.settings.avatarBase64 = "";
-        await this.plugin.saveSettings();
-        new Notice("\u5DF2\u6E05\u9664\u672C\u5730\u5934\u50CF");
-        this.display();
-      }));
+    new Setting(containerEl).setDesc("\u5728 Obsidian \u4E2D\u5B8C\u6210\u5199\u4F5C\u4E0E\u9884\u89C8\uFF1B\u5FAE\u4FE1\u8D26\u53F7\u3001\u6D4F\u89C8\u5668\u63D2\u4EF6\u53D1\u5E03\u548C\u9ED8\u8BA4\u53D1\u5E03\u9009\u9879\u5728\u8FD9\u91CC\u914D\u7F6E\u3002\u66F4\u591A\u6392\u7248\u6837\u5F0F\u8BF7\u5728\u4FA7\u8FB9\u680F\u9762\u677F\u4E2D\u8C03\u6574\u3002");
+    const tabBar = containerEl.createDiv({ cls: "apple-settings-tabs" });
+    const wechatTab = tabBar.createDiv({ cls: "apple-settings-tab active", text: "\u5FAE\u4FE1" });
+    const multiTab = tabBar.createDiv({ cls: "apple-settings-tab apple-settings-tab-multi" });
+    multiTab.createSpan({ text: MULTI_PLATFORM_TAB_LABEL, cls: "apple-settings-tab-label" });
+    const wechatContent = containerEl.createDiv({ cls: "apple-settings-tab-content" });
+    const multiContent = containerEl.createDiv({ cls: "apple-settings-tab-content" });
+    multiContent.style.display = "none";
+    wechatTab.onclick = () => {
+      this._activeSettingsTab = "wechat";
+      wechatTab.addClass("active");
+      multiTab.removeClass("active");
+      wechatContent.style.display = "";
+      multiContent.style.display = "none";
+    };
+    multiTab.onclick = () => {
+      this._activeSettingsTab = "multi";
+      multiTab.addClass("active");
+      wechatTab.removeClass("active");
+      wechatContent.style.display = "none";
+      multiContent.style.display = "";
+    };
+    if (this._activeSettingsTab === "multi") {
+      multiTab.onclick();
     }
-    new Setting(containerEl).setName("\u5934\u50CF URL\uFF08\u5907\u7528\uFF09").setDesc("\u5982\u672A\u4E0A\u4F20\u672C\u5730\u5934\u50CF\uFF0C\u5C06\u4F7F\u7528\u6B64 URL").addText((text) => text.setPlaceholder("https://example.com/avatar.jpg").setValue(this.plugin.settings.avatarUrl).onChange(async (value) => {
-      this.plugin.settings.avatarUrl = value;
-      await this.plugin.saveSettings();
-    }));
-    new Setting(containerEl).setName("\u5FAE\u4FE1\u516C\u4F17\u53F7\u8D26\u53F7").setDesc("\u8BF7\u5728\u5FAE\u4FE1\u516C\u4F17\u53F7\u540E\u53F0 [\u8BBE\u7F6E\u4E0E\u5F00\u53D1] -> [\u57FA\u672C\u914D\u7F6E] \u4E2D\u83B7\u53D6 AppID \u548C AppSecret\uFF0C\u5E76\u786E\u4FDD\u5DF2\u5C06\u5F53\u524D IP \u52A0\u5165\u767D\u540D\u5355\u3002").setHeading();
-    const accounts = this.plugin.settings.wechatAccounts || [];
-    const defaultId = this.plugin.settings.defaultAccountId;
-    if (accounts.length === 0) {
-      containerEl.createEl("p", {
-        text: "\u6682\u65E0\u8D26\u53F7\uFF0C\u8BF7\u70B9\u51FB\u4E0B\u65B9\u6309\u94AE\u6DFB\u52A0",
-        cls: "setting-item-description",
-        attr: { style: "color: var(--text-muted); font-style: italic;" }
-      });
-    } else {
-      const listContainer = containerEl.createDiv({ cls: "wechat-account-list" });
-      for (const account of accounts) {
-        const isDefault = account.id === defaultId;
-        const card = listContainer.createDiv({ cls: "wechat-account-card" });
-        const info = card.createDiv({ cls: "wechat-account-info" });
-        const nameRow = info.createDiv({ cls: "wechat-account-name-row" });
-        nameRow.createSpan({ text: account.name, cls: "wechat-account-name" });
-        if (isDefault) {
-          nameRow.createSpan({ text: "\u9ED8\u8BA4", cls: "wechat-account-badge" });
-        }
-        info.createDiv({
-          text: `AppID: ${account.appId.substring(0, 8)}...`,
-          cls: "wechat-account-appid"
-        });
-        const actions = card.createDiv({ cls: "wechat-account-actions" });
-        if (!isDefault) {
-          const defaultBtn = actions.createEl("button", { text: "\u8BBE\u4E3A\u9ED8\u8BA4", cls: "wechat-btn-small" });
-          defaultBtn.onclick = async () => {
-            this.plugin.settings.defaultAccountId = account.id;
+    {
+      const containerEl2 = wechatContent;
+      new Setting(containerEl2).setName("\u9884\u89C8\u6A21\u5F0F").setHeading();
+      new Setting(containerEl2).setName("\u4F7F\u7528\u624B\u673A\u4EFF\u771F\u6846").setDesc("\u5F00\u542F\u540E\uFF0C\u9884\u89C8\u533A\u57DF\u5C06\u663E\u793A\u4E3A iPhone X \u624B\u673A\u6846\u6837\u5F0F\uFF1B\u5173\u95ED\u5219\u6062\u590D\u4E3A\u7ECF\u5178\u5168\u5BBD\u9884\u89C8\u6A21\u5F0F\uFF08\u9700\u91CD\u542F\u63D2\u4EF6\u9762\u677F\u751F\u6548\uFF09").addToggle((toggle) => toggle.setValue(this.plugin.settings.usePhoneFrame).onChange(async (value) => {
+        this.plugin.settings.usePhoneFrame = value;
+        await this.plugin.saveSettings();
+        new Notice("\u8BBE\u7F6E\u5DF2\u4FDD\u5B58\uFF0C\u8BF7\u5173\u95ED\u5E76\u91CD\u65B0\u6253\u5F00\u53D1\u5E03\u52A9\u624B\u9762\u677F\u4EE5\u751F\u6548");
+      }));
+      new Setting(containerEl2).setName("\u56FE\u7247\u6C34\u5370").setHeading();
+      new Setting(containerEl2).setName("\u542F\u7528\u56FE\u7247\u6C34\u5370").setDesc("\u5728\u6BCF\u5F20\u56FE\u7247\u4E0A\u65B9\u663E\u793A\u5934\u50CF\uFF08\u9700\u91CD\u542F\u63D2\u4EF6\u9762\u677F\u751F\u6548\uFF09").addToggle((toggle) => toggle.setValue(this.plugin.settings.enableWatermark).onChange(async (value) => {
+        this.plugin.settings.enableWatermark = value;
+        await this.plugin.saveSettings();
+        new Notice("\u8BBE\u7F6E\u5DF2\u4FDD\u5B58\uFF0C\u8BF7\u5173\u95ED\u5E76\u91CD\u65B0\u6253\u5F00\u53D1\u5E03\u52A9\u624B\u9762\u677F\u4EE5\u751F\u6548");
+      }));
+      const uploadSetting = new Setting(containerEl2).setName("\u4E0A\u4F20\u672C\u5730\u5934\u50CF").setDesc(this.plugin.settings.avatarBase64 ? "\u2705 \u5DF2\u4E0A\u4F20\u672C\u5730\u5934\u50CF\uFF08\u4F18\u5148\u4F7F\u7528\uFF09" : "\u9009\u62E9\u672C\u5730\u56FE\u7247\uFF0C\u8F6C\u6362\u4E3A Base64 \u5B58\u50A8\uFF0C\u65E0\u9700\u7F51\u7EDC\u8BF7\u6C42");
+      uploadSetting.addButton((button) => button.setButtonText(this.plugin.settings.avatarBase64 ? "\u91CD\u65B0\u4E0A\u4F20" : "\u9009\u62E9\u56FE\u7247").onClick(() => {
+        const input = document.createElement("input");
+        input.type = "file";
+        input.accept = "image/*";
+        input.onchange = async (e) => {
+          const file = e.target.files[0];
+          if (!file)
+            return;
+          if (file.size > 100 * 1024) {
+            new Notice("\u274C \u56FE\u7247\u592A\u5927\uFF0C\u8BF7\u9009\u62E9\u5C0F\u4E8E 100KB \u7684\u56FE\u7247");
+            return;
+          }
+          const reader = new FileReader();
+          reader.onload = async (event) => {
+            this.plugin.settings.avatarBase64 = event.target.result;
             await this.plugin.saveSettings();
+            new Notice("\u2705 \u5934\u50CF\u5DF2\u4E0A\u4F20");
             this.display();
           };
-        }
-        const editBtn = actions.createEl("button", { text: "\u7F16\u8F91", cls: "wechat-btn-small" });
-        editBtn.onclick = () => this.showEditAccountModal(account);
-        const testBtn = actions.createEl("button", { text: "\u6D4B\u8BD5", cls: "wechat-btn-small wechat-btn-test" });
-        testBtn.onclick = async () => {
-          testBtn.disabled = true;
-          testBtn.textContent = "\u6D4B\u8BD5\u4E2D...";
-          try {
-            const api = new WechatAPI(account.appId, account.appSecret, this.plugin.settings.proxyUrl);
-            await api.getAccessToken();
-            new Notice(`\u2705 ${account.name} \u8FDE\u63A5\u6210\u529F\uFF01`);
-          } catch (err) {
-            new Notice(`\u274C ${account.name} \u8FDE\u63A5\u5931\u8D25: ${err.message}`);
-          }
-          testBtn.disabled = false;
-          testBtn.textContent = "\u6D4B\u8BD5";
+          reader.readAsDataURL(file);
         };
-        const deleteBtn = actions.createEl("button", { text: "\u5220\u9664", cls: "wechat-btn-small wechat-btn-danger" });
-        deleteBtn.onclick = async () => {
-          if (confirm(`\u786E\u5B9A\u8981\u5220\u9664\u8D26\u53F7 "${account.name}" \u5417\uFF1F`)) {
-            this.plugin.settings.wechatAccounts = accounts.filter((a) => a.id !== account.id);
-            if (account.id === defaultId && this.plugin.settings.wechatAccounts.length > 0) {
-              this.plugin.settings.defaultAccountId = this.plugin.settings.wechatAccounts[0].id;
-            } else if (this.plugin.settings.wechatAccounts.length === 0) {
-              this.plugin.settings.defaultAccountId = "";
+        input.click();
+      }));
+      if (this.plugin.settings.avatarBase64) {
+        uploadSetting.addButton((button) => button.setButtonText("\u6E05\u9664").setWarning().onClick(async () => {
+          this.plugin.settings.avatarBase64 = "";
+          await this.plugin.saveSettings();
+          new Notice("\u5DF2\u6E05\u9664\u672C\u5730\u5934\u50CF");
+          this.display();
+        }));
+      }
+      new Setting(containerEl2).setName("\u5934\u50CF URL\uFF08\u5907\u7528\uFF09").setDesc("\u5982\u672A\u4E0A\u4F20\u672C\u5730\u5934\u50CF\uFF0C\u5C06\u4F7F\u7528\u6B64 URL").addText((text) => text.setPlaceholder("https://example.com/avatar.jpg").setValue(this.plugin.settings.avatarUrl).onChange(async (value) => {
+        this.plugin.settings.avatarUrl = value;
+        await this.plugin.saveSettings();
+      }));
+      new Setting(containerEl2).setName("\u5FAE\u4FE1\u516C\u4F17\u53F7\u8D26\u53F7").setDesc("\u8BF7\u5728\u5FAE\u4FE1\u516C\u4F17\u53F7\u540E\u53F0 [\u8BBE\u7F6E\u4E0E\u5F00\u53D1] -> [\u57FA\u672C\u914D\u7F6E] \u4E2D\u83B7\u53D6 AppID \u548C AppSecret\uFF0C\u5E76\u786E\u4FDD\u5DF2\u5C06\u5F53\u524D IP \u52A0\u5165\u767D\u540D\u5355\u3002").setHeading();
+      const accounts = this.plugin.settings.wechatAccounts || [];
+      const defaultId = this.plugin.settings.defaultAccountId;
+      if (accounts.length === 0) {
+        containerEl2.createEl("p", {
+          text: "\u6682\u65E0\u8D26\u53F7\uFF0C\u8BF7\u70B9\u51FB\u4E0B\u65B9\u6309\u94AE\u6DFB\u52A0",
+          cls: "setting-item-description",
+          attr: { style: "color: var(--text-muted); font-style: italic;" }
+        });
+      } else {
+        const listContainer = containerEl2.createDiv({ cls: "wechat-account-list" });
+        for (const account of accounts) {
+          const isDefault = account.id === defaultId;
+          const card = listContainer.createDiv({ cls: "wechat-account-card" });
+          const info = card.createDiv({ cls: "wechat-account-info" });
+          const nameRow = info.createDiv({ cls: "wechat-account-name-row" });
+          nameRow.createSpan({ text: account.name, cls: "wechat-account-name" });
+          if (isDefault) {
+            nameRow.createSpan({ text: "\u9ED8\u8BA4", cls: "wechat-account-badge" });
+          }
+          info.createDiv({
+            text: `AppID: ${account.appId.substring(0, 8)}...`,
+            cls: "wechat-account-appid"
+          });
+          const actions = card.createDiv({ cls: "wechat-account-actions" });
+          if (!isDefault) {
+            const defaultBtn = actions.createEl("button", { text: "\u8BBE\u4E3A\u9ED8\u8BA4", cls: "wechat-btn-small" });
+            defaultBtn.onclick = async () => {
+              this.plugin.settings.defaultAccountId = account.id;
+              await this.plugin.saveSettings();
+              this.display();
+            };
+          }
+          const editBtn = actions.createEl("button", { text: "\u7F16\u8F91", cls: "wechat-btn-small" });
+          editBtn.onclick = () => this.showEditAccountModal(account);
+          const testBtn = actions.createEl("button", { text: "\u6D4B\u8BD5", cls: "wechat-btn-small wechat-btn-test" });
+          testBtn.onclick = async () => {
+            testBtn.disabled = true;
+            testBtn.textContent = "\u6D4B\u8BD5\u4E2D...";
+            try {
+              const api = new WechatAPI(account.appId, account.appSecret, this.plugin.settings.proxyUrl);
+              await api.getAccessToken();
+              new Notice(`\u2705 ${account.name} \u8FDE\u63A5\u6210\u529F\uFF01`);
+            } catch (err) {
+              new Notice(`\u274C ${account.name} \u8FDE\u63A5\u5931\u8D25: ${err.message}`);
             }
-            await this.plugin.saveSettings();
-            this.display();
+            testBtn.disabled = false;
+            testBtn.textContent = "\u6D4B\u8BD5";
+          };
+          const deleteBtn = actions.createEl("button", { text: "\u5220\u9664", cls: "wechat-btn-small wechat-btn-danger" });
+          deleteBtn.onclick = async () => {
+            if (confirm(`\u786E\u5B9A\u8981\u5220\u9664\u8D26\u53F7 "${account.name}" \u5417\uFF1F`)) {
+              this.plugin.settings.wechatAccounts = accounts.filter((a) => a.id !== account.id);
+              if (account.id === defaultId && this.plugin.settings.wechatAccounts.length > 0) {
+                this.plugin.settings.defaultAccountId = this.plugin.settings.wechatAccounts[0].id;
+              } else if (this.plugin.settings.wechatAccounts.length === 0) {
+                this.plugin.settings.defaultAccountId = "";
+              }
+              await this.plugin.saveSettings();
+              this.display();
+            }
+          };
+        }
+      }
+      const addBtnContainer = containerEl2.createDiv({ cls: "wechat-add-account-container" });
+      if (accounts.length < MAX_ACCOUNTS) {
+        const addBtn = addBtnContainer.createEl("button", {
+          text: "+ \u6DFB\u52A0\u8D26\u53F7",
+          cls: "wechat-btn-add"
+        });
+        addBtn.onclick = () => this.showEditAccountModal(null);
+      } else {
+        addBtnContainer.createEl("p", {
+          text: `\u5DF2\u8FBE\u5230\u6700\u5927\u8D26\u53F7\u6570\u91CF (${MAX_ACCOUNTS})`,
+          cls: "setting-item-description",
+          attr: { style: "color: var(--text-muted);" }
+        });
+      }
+      this.renderAiSettingsSection(containerEl2);
+      new Setting(containerEl2).setName("\u9AD8\u7EA7\u8BBE\u7F6E").setHeading();
+      new Setting(containerEl2).setName("\u53D1\u9001\u6210\u529F\u540E\u81EA\u52A8\u6E05\u7406\u8D44\u6E90").setDesc("\u9ED8\u8BA4\u5173\u95ED\u3002\u5F00\u542F\u540E\u4F1A\u5728\u521B\u5EFA\u8349\u7A3F\u6210\u529F\u540E\uFF0C\u5220\u9664\u4F60\u5728\u4E0B\u65B9\u914D\u7F6E\u7684\u76EE\u5F55\u3002").addToggle((toggle) => toggle.setValue(this.plugin.settings.cleanupAfterSync).onChange(async (value) => {
+        this.plugin.settings.cleanupAfterSync = value;
+        await this.plugin.saveSettings();
+      }));
+      let hasWarnedAbsoluteCleanupPath = false;
+      new Setting(containerEl2).setName("\u6E05\u7406\u76EE\u5F55").setDesc("\u586B\u5199 vault \u5185\u76F8\u5BF9\u8DEF\u5F84\uFF08\u4E0D\u8981\u586B /Users/... \u8FD9\u7C7B\u7EDD\u5BF9\u8DEF\u5F84\uFF09\uFF0C\u652F\u6301 {{note}} \u5360\u4F4D\u7B26\uFF0C\u4F8B\u5982 published/{{note}}_img\u3002").addText((text) => text.setPlaceholder("published/{{note}}_img").setValue(this.plugin.settings.cleanupDirTemplate || "").onChange(async (value) => {
+        if (this.isAbsolutePathLike(value)) {
+          if (!hasWarnedAbsoluteCleanupPath) {
+            new Notice("\u26A0\uFE0F \u6E05\u7406\u76EE\u5F55\u8BF7\u586B\u5199 vault \u5185\u76F8\u5BF9\u8DEF\u5F84\uFF0C\u4E0D\u8981\u4F7F\u7528\u7EDD\u5BF9\u8DEF\u5F84\uFF08\u5982 /Users/... \u6216 C:...\uFF09");
+            hasWarnedAbsoluteCleanupPath = true;
           }
-        };
-      }
-    }
-    const addBtnContainer = containerEl.createDiv({ cls: "wechat-add-account-container" });
-    if (accounts.length < MAX_ACCOUNTS) {
-      const addBtn = addBtnContainer.createEl("button", {
-        text: "+ \u6DFB\u52A0\u8D26\u53F7",
-        cls: "wechat-btn-add"
-      });
-      addBtn.onclick = () => this.showEditAccountModal(null);
-    } else {
-      addBtnContainer.createEl("p", {
-        text: `\u5DF2\u8FBE\u5230\u6700\u5927\u8D26\u53F7\u6570\u91CF (${MAX_ACCOUNTS})`,
-        cls: "setting-item-description",
-        attr: { style: "color: var(--text-muted);" }
-      });
-    }
-    this.renderAiSettingsSection(containerEl);
-    new Setting(containerEl).setName("\u9AD8\u7EA7\u8BBE\u7F6E").setHeading();
-    new Setting(containerEl).setName("\u53D1\u9001\u6210\u529F\u540E\u81EA\u52A8\u6E05\u7406\u8D44\u6E90").setDesc("\u9ED8\u8BA4\u5173\u95ED\u3002\u5F00\u542F\u540E\u4F1A\u5728\u521B\u5EFA\u8349\u7A3F\u6210\u529F\u540E\uFF0C\u5220\u9664\u4F60\u5728\u4E0B\u65B9\u914D\u7F6E\u7684\u76EE\u5F55\u3002").addToggle((toggle) => toggle.setValue(this.plugin.settings.cleanupAfterSync).onChange(async (value) => {
-      this.plugin.settings.cleanupAfterSync = value;
-      await this.plugin.saveSettings();
-    }));
-    let hasWarnedAbsoluteCleanupPath = false;
-    new Setting(containerEl).setName("\u6E05\u7406\u76EE\u5F55").setDesc("\u586B\u5199 vault \u5185\u76F8\u5BF9\u8DEF\u5F84\uFF08\u4E0D\u8981\u586B /Users/... \u8FD9\u7C7B\u7EDD\u5BF9\u8DEF\u5F84\uFF09\uFF0C\u652F\u6301 {{note}} \u5360\u4F4D\u7B26\uFF0C\u4F8B\u5982 published/{{note}}_img\u3002").addText((text) => text.setPlaceholder("published/{{note}}_img").setValue(this.plugin.settings.cleanupDirTemplate || "").onChange(async (value) => {
-      if (this.isAbsolutePathLike(value)) {
-        if (!hasWarnedAbsoluteCleanupPath) {
-          new Notice("\u26A0\uFE0F \u6E05\u7406\u76EE\u5F55\u8BF7\u586B\u5199 vault \u5185\u76F8\u5BF9\u8DEF\u5F84\uFF0C\u4E0D\u8981\u4F7F\u7528\u7EDD\u5BF9\u8DEF\u5F84\uFF08\u5982 /Users/... \u6216 C:\\...\uFF09");
-          hasWarnedAbsoluteCleanupPath = true;
+        } else {
+          hasWarnedAbsoluteCleanupPath = false;
         }
-      } else {
-        hasWarnedAbsoluteCleanupPath = false;
-      }
-      const normalized = this.normalizeVaultPath(value);
-      if (normalized.includes("..")) {
-        new Notice("\u274C \u6E05\u7406\u76EE\u5F55\u4E0D\u80FD\u5305\u542B ..");
-        return;
-      }
-      this.plugin.settings.cleanupDirTemplate = normalized;
-      await this.plugin.saveSettings();
-    }));
-    new Setting(containerEl).setName("\u4F7F\u7528\u7CFB\u7EDF\u56DE\u6536\u7AD9").setDesc("\u5F00\u542F\u65F6\u4F18\u5148\u79FB\u52A8\u5230\u7CFB\u7EDF\u56DE\u6536\u7AD9\uFF1B\u5173\u95ED\u65F6\u76F4\u63A5\u4ECE vault \u5220\u9664\u3002").addToggle((toggle) => toggle.setValue(this.plugin.settings.cleanupUseSystemTrash !== false).onChange(async (value) => {
-      this.plugin.settings.cleanupUseSystemTrash = value;
-      await this.plugin.saveSettings();
-    }));
-    let hasWarnedInsecureProxy = false;
-    new Setting(containerEl).setName("API \u4EE3\u7406\u5730\u5740").setDesc(createFragment((frag) => {
-      const descDiv = frag.createDiv();
-      descDiv.appendText("\u5982\u679C\u4F60\u7684\u7F51\u7EDC IP \u7ECF\u5E38\u53D8\u5316\uFF0C\u53EF\u914D\u7F6E\u4EE3\u7406\u670D\u52A1\u3002");
-      descDiv.createEl("a", {
-        text: "\u67E5\u770B\u90E8\u7F72\u6307\u5357",
-        href: "https://xiaoweibox.top/chats/wechat-proxy",
-        style: "margin-left: 5px;"
-      });
-      frag.createDiv({
-        cls: "wechat-proxy-note",
-        style: "margin-top: 6px; font-size: 12px; color: var(--text-muted); background: var(--background-secondary); padding: 8px; border-radius: 4px;"
-      }, (el) => {
-        el.createSpan({ text: "\u{1F512} \u5B89\u5168\u63D0\u793A\uFF1A\u4EE3\u7406\u670D\u52A1\u5C06\u4E2D\u8F6C\u60A8\u7684\u8BF7\u6C42\u3002\u8BF7\u786E\u4FDD\u4F7F\u7528\u53D7\u4FE1\u4EFB\u7684\u4EE3\u7406\uFF08\u81EA\u5EFA\u6216\u53EF\u9760\u7B2C\u4E09\u65B9\uFF09\uFF0C\u4EE5\u4FDD\u62A4 AppSecret \u5B89\u5168\u3002" });
-      });
-    })).addText((text) => text.setPlaceholder("https://your-proxy.workers.dev").setValue(this.plugin.settings.proxyUrl).onChange(async (value) => {
-      const trimmedValue = value.trim();
-      if (trimmedValue && !trimmedValue.startsWith("https://")) {
-        if (!hasWarnedInsecureProxy) {
-          new Notice("\u26A0\uFE0F \u5B89\u5168\u98CE\u9669\uFF1A\u4EE3\u7406\u5730\u5740\u5FC5\u987B\u4F7F\u7528 HTTPS \u4EE5\u4FDD\u62A4\u60A8\u7684 AppSecret\u3002");
-          hasWarnedInsecureProxy = true;
+        const normalized = this.normalizeVaultPath(value);
+        this.plugin.settings.cleanupDirTemplate = normalized;
+        await this.plugin.saveSettings();
+      }));
+      new Setting(containerEl2).setName("\u4F7F\u7528\u7CFB\u7EDF\u56DE\u6536\u7AD9").setDesc("\u5F00\u542F\u65F6\u4F18\u5148\u79FB\u52A8\u5230\u7CFB\u7EDF\u56DE\u6536\u7AD9\uFF1B\u5173\u95ED\u65F6\u76F4\u63A5\u4ECE vault \u5220\u9664\u3002").addToggle((toggle) => toggle.setValue(this.plugin.settings.cleanupUseSystemTrash !== false).onChange(async (value) => {
+        this.plugin.settings.cleanupUseSystemTrash = value;
+        await this.plugin.saveSettings();
+      }));
+      let hasWarnedInsecureProxy = false;
+      new Setting(containerEl2).setName("API \u4EE3\u7406\u5730\u5740").setDesc(createFragment((frag) => {
+        const descDiv = frag.createDiv();
+        descDiv.appendText("\u5982\u679C\u4F60\u7684\u7F51\u7EDC IP \u7ECF\u5E38\u53D8\u5316\uFF0C\u53EF\u914D\u7F6E\u4EE3\u7406\u670D\u52A1\u3002");
+        descDiv.createEl("a", {
+          text: "\u67E5\u770B\u90E8\u7F72\u6307\u5357",
+          href: "https://xiaoweibox.top/chats/wechat-proxy",
+          attr: { style: "margin-left: 5px;" }
+        });
+        frag.createDiv({
+          cls: "wechat-proxy-note",
+          attr: { style: "margin-top: 6px; font-size: 12px; color: var(--text-muted); background: var(--background-secondary); padding: 8px; border-radius: 4px;" }
+        }, (el) => {
+          el.createSpan({ text: "\u{1F512} \u5B89\u5168\u63D0\u793A\uFF1A\u4EE3\u7406\u670D\u52A1\u5C06\u4E2D\u8F6C\u60A8\u7684\u8BF7\u6C42\u3002\u8BF7\u786E\u4FDD\u4F7F\u7528\u53D7\u4FE1\u4EFB\u7684\u4EE3\u7406\uFF08\u81EA\u5EFA\u6216\u53EF\u9760\u7B2C\u4E09\u65B9\uFF09\uFF0C\u4EE5\u4FDD\u62A4 AppSecret \u5B89\u5168\u3002" });
+        });
+      })).addText((text) => text.setPlaceholder("https://your-proxy.workers.dev").setValue(this.plugin.settings.proxyUrl || "").onChange(async (value) => {
+        const trimmedValue = value.trim();
+        if (trimmedValue && !trimmedValue.toLowerCase().startsWith("https://")) {
+          if (!hasWarnedInsecureProxy) {
+            new Notice("\u26A0\uFE0F \u5B89\u5168\u98CE\u9669\uFF1A\u4EE3\u7406\u5730\u5740\u5FC5\u987B\u4F7F\u7528 HTTPS \u4EE5\u4FDD\u62A4\u60A8\u7684 AppSecret\u3002");
+            hasWarnedInsecureProxy = true;
+          }
+        } else {
+          hasWarnedInsecureProxy = false;
         }
-      } else {
-        hasWarnedInsecureProxy = false;
-      }
-      this.plugin.settings.proxyUrl = trimmedValue;
-      await this.plugin.saveSettings();
-    }));
+        this.plugin.settings.proxyUrl = trimmedValue;
+        await this.plugin.saveSettings();
+      }));
+    }
+    renderMultiPlatformSettingsTab(this, multiContent);
   }
   renderAiSettingsSection(containerEl) {
     new Setting(containerEl).setName("AI \u7F16\u6392").setDesc("\u7BA1\u7406\u6A21\u578B\u3001\u9ED8\u8BA4\u5E03\u5C40\u3001\u9ED8\u8BA4\u989C\u8272\u548C\u7F13\u5B58\u7B56\u7565\u3002\u5B9E\u9645\u751F\u6210\u4E0E\u5E94\u7528\u5165\u53E3\u5728\u8F6C\u6362\u5668\u9876\u90E8\u5DE5\u5177\u680F\u7684\u300CAI \u7F16\u6392\u300D\u6309\u94AE\u4E2D\u3002").setHeading();
@@ -15851,8 +21177,8 @@ var AppleStyleSettingTab = class extends PluginSettingTab {
       await this.plugin.saveSettings();
       this.refreshOpenConverterAiState();
     }));
-    new Setting(advancedArea).setName("AI \u8BF7\u6C42\u8D85\u65F6\uFF08\u79D2\uFF09").setDesc("\u8F83\u5FEB\u6A21\u578B\u53EF\u8BBE 15 \u5230 45 \u79D2\uFF1B\u8F83\u6162\u6A21\u578B\u5EFA\u8BAE\u8BBE 60 \u5230 120 \u79D2\u3002").addText((text) => text.setPlaceholder("45").setValue(String(Math.round((this.plugin.settings.ai.requestTimeoutMs || 45e3) / 1e3))).onChange(async (value) => {
-      const seconds = Math.min(180, Math.max(5, parseInt(value || "45", 10) || 45));
+    new Setting(advancedArea).setName("AI \u8BF7\u6C42\u8D85\u65F6\uFF08\u79D2\uFF09").setDesc("\u9ED8\u8BA4 120 \u79D2\uFF1B\u8F83\u5FEB\u6A21\u578B\u53EF\u8BBE 15 \u5230 45 \u79D2\uFF0C\u8F83\u6162\u6216\u672C\u5730\u6A21\u578B\u5EFA\u8BAE\u4FDD\u6301 60 \u5230 120 \u79D2\u3002").addText((text) => text.setPlaceholder("120").setValue(String(Math.round((this.plugin.settings.ai.requestTimeoutMs || 12e4) / 1e3))).onChange(async (value) => {
+      const seconds = Math.min(180, Math.max(5, parseInt(value || "120", 10) || 120));
       this.plugin.settings.ai.requestTimeoutMs = seconds * 1e3;
       await this.plugin.saveSettings();
       this.refreshOpenConverterAiState();
@@ -15895,7 +21221,8 @@ var AppleStyleSettingTab = class extends PluginSettingTab {
     });
     const kindGroup = form.createDiv({ cls: "wechat-form-group" });
     kindGroup.createEl("label", { text: "\u7C7B\u578B" });
-    const kindSelect = kindGroup.createEl("select", { cls: "wechat-form-select" });
+    const kindSelectWrap = kindGroup.createDiv({ cls: "wechat-form-select-wrap" });
+    const kindSelect = kindSelectWrap.createEl("select", { cls: "wechat-form-select" });
     const providerKinds = [
       { value: AI_PROVIDER_KINDS.OPENAI_COMPATIBLE, label: "OpenAI \u517C\u5BB9\u63A5\u53E3" },
       { value: AI_PROVIDER_KINDS.GEMINI, label: "Gemini \u517C\u5BB9\u683C\u5F0F" },
@@ -15911,7 +21238,7 @@ var AppleStyleSettingTab = class extends PluginSettingTab {
     baseUrlGroup.createEl("label", { text: "Base URL" });
     const baseUrlInput = baseUrlGroup.createEl("input", {
       type: "text",
-      placeholder: "https://api.openai.com/v1",
+      placeholder: "https://api.openai.com/v1 \u6216 http://localhost:11434/v1",
       value: (provider == null ? void 0 : provider.baseUrl) || "https://api.openai.com/v1"
     });
     const apiKeyGroup = form.createDiv({ cls: "wechat-form-group" });
@@ -15952,7 +21279,7 @@ var AppleStyleSettingTab = class extends PluginSettingTab {
         }
         return;
       }
-      baseUrlInput.placeholder = "https://api.openai.com/v1";
+      baseUrlInput.placeholder = "https://api.openai.com/v1 \u6216 http://localhost:11434/v1";
       modelInput.placeholder = "gpt-4.1-mini";
       if (!provider || provider.kind !== kind) {
         if (!baseUrlInput.value.trim())
@@ -16185,7 +21512,7 @@ var AppleStyleSettingTab = class extends PluginSettingTab {
 };
 var AppleStylePlugin = class extends Plugin {
   async onload() {
-    console.log("\u{1F4DD} \u6B63\u5728\u52A0\u8F7D\u5FAE\u4FE1\u516C\u4F17\u53F7\u8F6C\u6362\u5668...");
+    console.log("\u{1F4DD} \u6B63\u5728\u52A0\u8F7D Obsidian \u53D1\u5E03\u52A9\u624B...");
     await this.loadSettings();
     this.registerView(
       APPLE_STYLE_VIEW,
@@ -16221,7 +21548,8 @@ var AppleStylePlugin = class extends Plugin {
         console.warn("\u540C\u6B65\u8F6C\u6362\u5668\u6807\u9898\u5931\u8D25:", error);
       });
     });
-    console.log("\u2705 \u5FAE\u4FE1\u516C\u4F17\u53F7\u8F6C\u6362\u5668\u52A0\u8F7D\u5B8C\u6210");
+    this.startWechatSyncBridgeInBackground("plugin-load");
+    console.log("\u2705 Obsidian \u53D1\u5E03\u52A9\u624B\u52A0\u8F7D\u5B8C\u6210");
   }
   insertImageSwipeCallout(editor, type = "image-swipe") {
     if (!editor || typeof editor.replaceSelection !== "function") {
@@ -16282,10 +21610,70 @@ var AppleStylePlugin = class extends Plugin {
     }
     return null;
   }
+  getWechatSyncBridgeService() {
+    var _a, _b;
+    const settings = normalizeMultiPlatformSyncSettings(this.settings.multiPlatformSync);
+    const cacheKey = `${settings.port}:${settings.token}:${settings.allowRemote ? 1 : 0}`;
+    if (this._wechatSyncBridgeService && this._wechatSyncBridgeCacheKey === cacheKey) {
+      return this._wechatSyncBridgeService;
+    }
+    if ((_a = this._wechatSyncBridgeService) == null ? void 0 : _a.stop) {
+      this._wechatSyncBridgeService.stop().catch((error) => {
+        console.warn("\u505C\u6B62\u65E7\u6D4F\u89C8\u5668\u63D2\u4EF6\u8FDE\u63A5\u5931\u8D25:", error);
+      });
+    }
+    const http = require("http");
+    this._wechatSyncBridgeCacheKey = cacheKey;
+    const self = this;
+    this._wechatSyncBridgeService = createWechatSyncBridgeService({
+      http,
+      port: settings.port,
+      token: settings.token,
+      allowRemote: settings.allowRemote,
+      serverVersion: ((_b = this.manifest) == null ? void 0 : _b.version) || "",
+      initialConnectedClients: settings.connectedClients || [],
+      async onClientRegistryChange(clients) {
+        var _a2, _b2, _c, _d;
+        self.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings({
+          ...self.settings.multiPlatformSync,
+          connectedClients: clients
+        });
+        await self.saveSettings();
+        (_d = (_c = (_b2 = (_a2 = self.app) == null ? void 0 : _a2.setting) == null ? void 0 : _b2.activeTab) == null ? void 0 : _c.display) == null ? void 0 : _d.call(_c);
+      }
+    });
+    return this._wechatSyncBridgeService;
+  }
+  startWechatSyncBridgeInBackground(reason = "manual") {
+    const settings = normalizeMultiPlatformSyncSettings(this.settings.multiPlatformSync);
+    if (!settings.enabled)
+      return;
+    const bridge = this.getWechatSyncBridgeService();
+    bridge.start().then((status) => {
+      console.info("[Wechatsync] bridge warm start", {
+        reason,
+        port: settings.port,
+        status
+      });
+    }).catch((error) => {
+      console.warn("[Wechatsync] bridge warm start failed", {
+        reason,
+        port: settings.port,
+        code: error == null ? void 0 : error.code,
+        message: (error == null ? void 0 : error.message) || String(error)
+      });
+    });
+  }
   async loadSettings() {
     const loadedData = await this.loadData() || {};
     this.settings = Object.assign({}, DEFAULT_SETTINGS, loadedData);
     let didMigrate = false;
+    this.settings.multiPlatformSync = normalizeMultiPlatformSyncSettings(this.settings.multiPlatformSync);
+    const normalizedDraftCache = normalizeDraftCache(this.settings.draftCache);
+    this.settings.draftCache = normalizedDraftCache.cache;
+    if (normalizedDraftCache.changed) {
+      didMigrate = true;
+    }
     const rawAiSettings = loadedData.ai;
     this.settings.ai = normalizeAiSettings(rawAiSettings || this.settings.ai || {});
     if (rawAiSettings !== void 0) {
@@ -16472,8 +21860,14 @@ var AppleStylePlugin = class extends Plugin {
       return false;
     }
   }
-  onunload() {
-    console.log("\u{1F4DD} \u5FAE\u4FE1\u516C\u4F17\u53F7\u8F6C\u6362\u5668\u5DF2\u5378\u8F7D");
+  async onunload() {
+    var _a;
+    if ((_a = this._wechatSyncBridgeService) == null ? void 0 : _a.stop) {
+      await this._wechatSyncBridgeService.stop().catch((error) => {
+        console.warn("\u505C\u6B62\u6D4F\u89C8\u5668\u63D2\u4EF6\u8FDE\u63A5\u5931\u8D25:", error);
+      });
+    }
+    console.log("\u{1F4DD} Obsidian \u53D1\u5E03\u52A9\u624B\u5DF2\u5378\u8F7D");
   }
 };
 module.exports = AppleStylePlugin;
@@ -16482,3 +21876,7 @@ module.exports.WechatAPI = WechatAPI;
 module.exports.AppleStyleSettingTab = AppleStyleSettingTab;
 module.exports.createImageSwipeCalloutMarkdown = createImageSwipeCalloutMarkdown;
 module.exports.getImageSwipeCommandCopy = getImageSwipeCommandCopy;
+module.exports.stripMarkdownFrontmatter = stripMarkdownFrontmatter;
+module.exports.describeWechatsyncConnectionState = describeWechatsyncConnectionState;
+module.exports.renderWechatsyncConnectionStatusBar = renderWechatsyncConnectionStatusBar;
+module.exports.formatWechatsyncCheckedAt = formatWechatsyncCheckedAt;

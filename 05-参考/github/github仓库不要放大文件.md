@@ -1,3 +1,9 @@
+﻿---
+title: github仓库不要放大文件
+time: 2026-06-07
+tags:
+  - github
+---
 
 
 ## 问题

@@ -1,0 +1,26 @@
+{
+  "id": "conv-1780536065862-fea292tzw",
+  "providerId": "codex",
+  "title": "Ingest 知识库中 Markdown 文章我注意到您提到了\"这篇文章\"，但您没有具体说明是...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780536065862,
+  "updatedAt": 1780536128542,
+  "lastResponseAt": 1780536128542,
+  "sessionId": "019e9038-4655-7920-b981-256435847f67",
+  "providerState": {
+    "threadId": "019e9038-4655-7920-b981-256435847f67",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\06\\04\\rollout-2026-06-04T09-21-07-019e9038-4655-7920-b981-256435847f67.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "currentNote": "05-参考/Codex/安装mcp.md",
+  "usage": {
+    "inputTokens": 673,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 56576,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 673,
+    "percentage": 0,
+    "model": "mimo-v2.5"
+  }
+}

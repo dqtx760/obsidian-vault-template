@@ -1,0 +1,15 @@
+{
+  "id": "conv-1780536019179-l1c5cs0lf",
+  "providerId": "codex",
+  "title": "你好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780536019182,
+  "updatedAt": 1780536068326,
+  "lastResponseAt": 1780536036267,
+  "sessionId": "019e9037-9696-7a73-98ef-9e0b398f52e1",
+  "providerState": {
+    "threadId": "019e9037-9696-7a73-98ef-9e0b398f52e1",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\06\\04\\rollout-2026-06-04T09-20-22-019e9037-9696-7a73-98ef-9e0b398f52e1.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  }
+}

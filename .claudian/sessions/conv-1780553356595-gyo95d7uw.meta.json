@@ -1,0 +1,26 @@
+{
+  "id": "conv-1780553356595-gyo95d7uw",
+  "providerId": "codex",
+  "title": "Provide concise writing tips in one paragraph",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780553356595,
+  "updatedAt": 1780553711896,
+  "lastResponseAt": 1780553711896,
+  "sessionId": "019e9140-416c-7d91-aa90-e5c732b44f7b",
+  "providerState": {
+    "threadId": "019e9140-416c-7d91-aa90-e5c732b44f7b",
+    "sessionFilePath": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\06\\04\\rollout-2026-06-04T14-09-27-019e9140-416c-7d91-aa90-e5c732b44f7b.jsonl",
+    "transcriptRootPath": "C:\\Users\\Administrator\\.codex\\sessions"
+  },
+  "currentNote": "05-参考/Codex/Codex 有效额度“翻倍”的小技巧.md",
+  "usage": {
+    "inputTokens": 1912,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 58560,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 1912,
+    "percentage": 1,
+    "model": "mimo-v2.5"
+  }
+}

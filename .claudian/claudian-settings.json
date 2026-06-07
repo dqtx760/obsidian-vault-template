@@ -19,7 +19,6 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "requireCommandOrControlEnterToSend": false,
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
@@ -37,16 +36,17 @@
       "environmentHash": ""
     },
     "codex": {
-      "enabled": false,
+      "enabled": true,
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {},
-      "customModels": "",
+      "customModels": "mimo-v2.5\nmimo-v2-pro",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
-        "device:103019e4-945c-4039-87ea-9d57e7638169": "native-windows"
+        "device:103019e4-945c-4039-87ea-9d57e7638169": "native-windows",
+        "dqtx33": "native-windows"
       },
       "wslDistroOverridesByHost": {}
     },
@@ -65,23 +65,31 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "haiku"
+    "claude": "haiku",
+    "codex": "mimo-v2.5"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "high",
+    "codex": "medium"
   },
-  "savedProviderServiceTier": {},
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
   "savedProviderThinkingBudget": {
-    "claude": "off"
+    "claude": "off",
+    "codex": "off"
   },
   "savedProviderPermissionMode": {
-    "claude": "yolo"
+    "claude": "yolo",
+    "codex": "yolo"
   },
   "lastCustomModel": "",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
+  "openInMainTab": false,
+  "hiddenProviderCommands": {},
+  "requireCommandOrControlEnterToSend": false,
   "deferMathRenderingDuringStreaming": true,
-  "chatViewPlacement": "right-sidebar",
-  "hiddenProviderCommands": {}
+  "chatViewPlacement": "right-sidebar"
 }
